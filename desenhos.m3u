@@ -1,4 +1,7 @@
-﻿#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://megafilmes.org/wp-content/uploads/2017/12/a-estrela-de-belem-1.jpg" group-title="LANÇAMENTOS" ,A ESTRELA DE BELÉM (2017)
+https://ia601504.us.archive.org/7/items/AEstrelaDeBelmDub/A%20Estrela%20de%20Bel%C3%A9m%20Dub.mp4
+
 #EXTINF:-1 tvg-logo="http://www.shoppinglaplage.com.br/images/cine/o-touro-ferdianndo.jpg" group-title="LANÇAMENTOS",TOURO FERDINANDO (2018)
 http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/OTFCAM.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/MKhgfn" group-title="LANÇAMENTOS",PICA-PAU: O FILME (2018)
