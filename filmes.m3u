@@ -1,4 +1,6 @@
-﻿#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/11/28/18/40/3044833.jpg" group-title="LANÇAMENTOS",A FORMA DA ÃGUA LEG (2018)
+http://cloud.popfilmeshd.net/popfilmes/FILMES/LEGENDADO/AFDALEG.mp4
 #EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/12/Star-Wars-185x278.jpg"  group-title="LANÇAMENTOS",STAR WARS: OS ÚLTIMOS JEDI (2017)
 http://cloud.popfilmeshd.net/popfilmes//FILMES/DUBLADO/STARWARSCAM-DUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/10/Liga-da-Justica-185x278.jpg"  group-title="LANÇAMENTOS",LIGA DA JUSTIÇA (2017)
@@ -2592,6 +2594,8 @@ http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
 http://lh3.googleusercontent.com/BULq6mGhViIWJ0EcY-D8w2mL45K2rGjkNghECGo5ohIKrektVBjDfYVvR6G_Ug8Sy9A=m37
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BcSSFNa.jpg" group-title="LETRA O",O SÉTIMO FILHO (2015)
 http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSTMFLH.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/53/94/20101506.jpg" group-title="LETRA O", O SEXTO SENTIDO
+https://lh3.googleusercontent.com/STkt_ehgFfhjPJ6kv04S5Ly4Pk1v-eVfPOrmKiUhiRs4zf9oSJuYzukT4ZWsVUk47zil8VFe=m22
 #EXTINF:-1 tvg-logo="" group-title="LETRA O",O SINAL
 http://lh3.googleusercontent.com/roPPLf5td3SA2S8Zh8qIg0x255HVoMJyRsp6OJ1JJTrM2zgF0YlLS00MBEtyuFGVuAk=m18
 #EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2017/05/O-Sinal-2014-3.jpg" group-title="LETRA O",O SINAL: FREQUÊNCIA DO MEDO 1080P (2014)
