@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/10/Liga-da-Justica-185x278.jpg"  group-title="LANÇAMENTOS",LIGA DA JUSTIÇA (2017)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UvNnqWLruXA/maxresdefault.jpg" group-title="LANÇAMENTOS",THOR RAGNAROK (2017)
@@ -38,13 +36,13 @@ http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/ACDDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/w2yBwS" group-title="LANÇAMENTOS",O RASTRO (2018)
 http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/ORASTRODUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Tx1iS3" group-title="LANÇAMENTOS",VOLDEMORT: A ORIGEM DO HERDEIRO LEG (2018)
-http://cloud.popfilmeshd.net/popfilmes/FILMES/LEGENDADO/Voldemort.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VOLDEMORT2018-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/VFv3TC" group-title="LANÇAMENTOS",EXTRAORDINÁRIO LEG (2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/WONDERR2018-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://ninertimes.com/wp-content/uploads/2017/12/TDA-PayoffPoster_MPAA-1.jpg"  group-title="LANÇAMENTOS",O ARTISTA DO DESASTRE (2017)
 http://cloud.popfilmeshd.net/popfilmes/FILMES/LEGENDADO/TDALEG.mp4
 #EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/Jumanji-185x278.jpg" group-title="LANÇAMENTOS",JUMANJI: BEM VINDO A SELVA (2018)
-http://cloud.popfilmeshd.net/popfilmes///FILMES/DUBLADO/JUMANJI2017-BAIXO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUMANJI2018DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://revistaspiralonline.com.br/wp-content/uploads/2017/06/h1_ZYIY-990x640.jpg" group-title="LANÇAMENTOS",DUPLA EXPLOSIVA (2017)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/DUPLA2DUB-ALTO.mp4
 
@@ -4768,6 +4766,5 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
 http://americanfilmes.com/jw/BKe37CWUQ.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZJvZo48.jpg" group-title="LETRA Z",ZUMBILÂNDIA (2009)
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ZMBLND.mp4
-
 
 
