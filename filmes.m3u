@@ -1,10 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://maxiverso.com.br/wp-content/uploads/2017/12/UltimosJedi0.jpg"  group-title="LANÇAMENTOS",STAR WARS VIII: OS ÚLTIMOS JEDI (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/STARWARS8LEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/10/Liga-da-Justica-185x278.jpg"  group-title="LANÇAMENTOS",LIGA DA JUSTIÇA (2017)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UvNnqWLruXA/maxresdefault.jpg" group-title="LANÇAMENTOS",THOR RAGNAROK (2017)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THOR2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UvNnqWLruXA/maxresdefault.jpg" group-title="LANÇAMENTOS",LADY BIRD LEG (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/04/17/15/0839624.jpg" group-title="LANÇAMENTOS",LADY BIRD LEG (2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LADYBIRDLEG-ALTO.mp4
+
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/cartaz_os_parcas.jpg" group-title="LANÇAMENTOS",OS PARÇAS (2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OSPARCAS2018-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352-5.jpg-r_1920_1080-f_jpg-q_x-xxyxx-5.jpg" group-title="LANÇAMENTOS",TOURO FERDINANDO LEG (2018)
