@@ -244,11 +244,11 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OLGBOURN.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qk13Wd8.jpg" group-title="JASON BOURNE",JASON BOURNE (2016)
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand/JSONBRNE.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FENGuCb.png" group-title="DE VOLTA PARA O FUTURO",DE VOLTA PARA O FUTURO (1985)
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DVLTPROFUT1.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DEVOLTAPARAOFUTURODUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JlOGV76.jpg" group-title="DE VOLTA PARA O FUTURO",DE VOLTA PARA O FUTURO 2 (1989)
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DVLTPROFUT2.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DEVOLTAPARAOFUTURO2DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wLB2QgG.jpg" group-title="DE VOLTA PARA O FUTURO",DE VOLTA PARA O FUTURO 3 (1990)
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DVLTPROFUT3.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DEVOLTAPARAOFUTURO3DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qMxCu6b.jpg" group-title="HANNIBAL",O SILÊNCIO DOS INOCENTES (1991)
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSLNCDSINCTS.mp4
 #EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/capas/filme_10689.jpg" group-title="HANNIBAL",HANNIBAL (2001)
@@ -1356,8 +1356,8 @@ https://lh3.googleusercontent.com/GdM77AByJ7rqmNNeibcSv_K_TrgT6jMjg-5O_p2CkZNWPA
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand/BARBIRAVNESTLS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA B",Barrabás
 https://www.youtube.com/watch?v=aT1b8DWWXg0
-#EXTINF:-1 tvg-logo="" group-title="LETRA B",BASTARDOS INGLÓRIOS
-https://lh3.googleusercontent.com/5lSYCKPkZGKtnFoRvGM14WIBsyKLNEsi31pDlDTZ2BA4yywGiRN4QVzCGkIcyeBHF9Xh75F8=m18
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster-9.jpg" group-title="LETRA B",BASTARDOS INGLÓRIOS
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BASTADOSINGLORIOSDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/b/km/l7eyb_tnl_210x118.jpg?ts=20140414192334" group-title="LETRA B" pltv-subgroup="Comédia",Bastidores de um Casamento Comédia Dublado
 http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4
 #EXTINF:-1 tvg-logo="" group-title="LETRA B",BATALHA DE HONRA (1993)
@@ -3185,6 +3185,8 @@ http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4
 https://lh3.googleusercontent.com/13KHPhjpo_BfFBynx37TgjwIdW80brlxEWij2-NrfL_8exVzU99QixlDUlkbdr7vtus=m18
 #EXTINF:-1 tvg-logo="" group-title="LETRA O",O LOBO ATRÁS DA PORTA
 https://lh3.googleusercontent.com/13KHPhjpo_BfFBynx37TgjwIdW80brlxEWij2-NrfL_8exVzU99QixlDUlkbdr7vtus=m18
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster-8.jpg" group-title="LETRA O",O LOBO DE WALL STREET (2014)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LOBOWALLSTREETDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA O",O Lugar Onde Tudo Termina
 https://lh3.googleusercontent.com/7m8ZSPDR-C15PoyAJYtfa2I1QfjM3nzerjeVuF-u0SOhZZ94EPcGBDesG2eNHUaTpn4=m18
 #EXTINF:-1 tvg-logo="" group-title="LETRA O",O LUGAR ONDE TUDO TERMINA
@@ -3535,6 +3537,8 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPRTS.mp4
 https://ia801502.us.archive.org/4/items/Os.Esquecidos.2016.1080p.DUBLADO/Os.Esquecidos.%282016.%201080p.DUBLADO.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qbtwWD0MGcM/maxresdefault.jpg" group-title="LETRA O",OS GUARDIÕES (2017)
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OSGRDS.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster-7.jpg" group-title="LETRA O",OS INCRÍVEIS (2004)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OSINCRIVEISDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a2XrlZb.jpg" group-title="LETRA O",OS INFILTRADOS (2006)
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSINFTRDS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA O",Os Mais Jovens
@@ -4769,5 +4773,4 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
 http://americanfilmes.com/jw/BKe37CWUQ.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZJvZo48.jpg" group-title="LETRA Z",ZUMBILÂNDIA (2009)
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ZMBLND.mp4
-
 
