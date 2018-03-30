@@ -1,21 +1,70 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://maxiverso.com.br/wp-content/uploads/2017/12/UltimosJedi0.jpg"  group-title="LANÇAMENTOS",STAR WARS VIII: OS ÚLTIMOS JEDI (2017)
-http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/STARWARS8LEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/10/Liga-da-Justica-185x278.jpg"  group-title="LANÇAMENTOS",LIGA DA JUSTIÇA (2017)
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SY1000_CR006751000_AL_.jpg"  group-title="LANÇAMENTOS",STAR WARS VIII: OS ÚLTIMOS JEDI (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/STARWARS8DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/lj.jpg"  group-title="LANÇAMENTOS",LIGA DA JUSTIÇA (2017)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UvNnqWLruXA/maxresdefault.jpg" group-title="LANÇAMENTOS",THOR RAGNAROK (2017)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/175443.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="LANÇAMENTOS",THOR RAGNAROK (2017)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/THOR2017DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/images-3.jpg" group-title="LANÇAMENTOS",MAZE RUNNER: A CURA MORTAL (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MAZERUNNERLEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/images-1.jpg" group-title="LANÇAMENTOS",FALA SÉRIO, MÃE! (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FALASERIEMAE-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/Unlocked-new-poster-1.jpg" group-title="LANÇAMENTOS",CONSPIRAÇÃO TERRORISTA (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CONSPIRACAOTERRORISTADUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/POSTER-13.jpg" group-title="LANÇAMENTOS",BENJI (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BENJI2018DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR006771000_AL_.jpg" group-title="LANÇAMENTOS",CORAÇÃO VALENTE (1995)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CORACAOVALENTEDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_SY1000_CR006771000_AL_.jpg" group-title="LANÇAMENTOS",TROIA (2004)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/TROIADUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR006751000_AL_.jpg" group-title="LANÇAMENTOS",GLADIADOR (2000)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/GLADIADORDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster-10.jpg" group-title="LANÇAMENTOS",As Aventuras de Paddington (2014)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PADDINGTON-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster-11.jpg" group-title="LANÇAMENTOS",Paddington 2 (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PADDINGTON2-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster-7.jpg" group-title="LANÇAMENTOS",OS INCRÍVEIS (2004)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OSINCRIVEISDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BYzIwZDUzNDQtOTI3Ni00MjE4LWFjNWMtZTVkNGUyNTI0MWIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_SX686_AL_-1.png" group-title="LANÇAMENTOS",QUESTÃO DE TEMPO (2013)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/QUESTAODETEMPODUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BYzIwZDUzNDQtOTI3Ni00MjE4LWFjNWMtZTVkNGUyNTI0MWIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_SX686_AL_.png" group-title="LANÇAMENTOS",(500) DIAS COM ELA (2009)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/500DIASCOMELADUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMGZmNzdmNmUtZTk4MC00ODliLWI4YjQtNTFkOTI1YTVjZGYxXkEyXkFqcGdeQXVyNzg4MDY0MTc@._V1_SY1000_CR006741000_AL_-2.jpg" group-title="LANÇAMENTOS",LIGA DOS DEUSES (2016)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LIGADEUSESDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BYzIwZDUzNDQtOTI3Ni00MjE4LWFjNWMtZTVkNGUyNTI0MWIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_SX686_AL_-3.jpg" group-title="LANÇAMENTOS",BRAVEN (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BRAVEN18LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SY1000_CR006741000_AL_.jpg" group-title="LANÇAMENTOS",WALL E (2008)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/WALLEDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/download.jpg" group-title="LANÇAMENTOS",DETONA RALPH (2012)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DETONARALPHDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/p10569216_v_v8_ag.jpg" group-title="LANÇAMENTOS",OPERAÇÃO BIG HERO (2014)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BIGHERODUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/rei-do-show.jpg" group-title="LANÇAMENTOS",O Rei do Show (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/REIDANOITELEG2017-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster-2.jpg" group-title="LANÇAMENTOS",A Estrela de Belém (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BELEM18-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/viva.jpg" group-title="LANÇAMENTOS",Viva: A Vida é uma Festa (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/COCO2017DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/04/17/15/0839624.jpg" group-title="LANÇAMENTOS",LADY BIRD LEG (2018)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LADYBIRDLEG-ALTO.mp4
-
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/cartaz_os_parcas.jpg" group-title="LANÇAMENTOS",OS PARÇAS (2018)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/OSPARCAS2018-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352-5.jpg-r_1920_1080-f_jpg-q_x-xxyxx-5.jpg" group-title="LANÇAMENTOS",TOURO FERDINANDO LEG (2018)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FERDINANDOLEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/Screenshot_15.jpg" group-title="LANÇAMENTOS",A FORMA DA ÁGUA LEG (2018)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FORMADAAGUALEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tEEbtqgNNHs/maxresdefault.jpg" group-title="LANÇAMENTOS",PELÉ: O NASCIMENTO DE UMA LENDA (2017)
-http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/PELONSCMENTDUMLND.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/poster-1.jpg" group-title="LANÇAMENTOS",TRUQUE DE MESTRE 2 (2016)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/TRUQUEDEMESTRE2DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/poster.jpg" group-title="LANÇAMENTOS",TRUQUE DE MESTRE (2013)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/TRUQUEDEMESTREDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/67720_f1.jpg" group-title="LANÇAMENTOS",MATILDA (1996)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MATILDADUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/images-1.jpeg" group-title="LANÇAMENTOS",ELA (2013)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ELADUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/shrink-2.jpg" group-title="LANÇAMENTOS",HANGMAN (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HANGMANLEG2018-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/8SZ9bv" group-title="LANÇAMENTOS",AMERICAN SATAN LEG (2018)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/post.jpg" group-title="LANÇAMENTOS",THE POST: A GUERRA SECRETA (2018)
@@ -48,7 +97,8 @@ http://cloud.popfilmeshd.net/popfilmes/FILMES/LEGENDADO/TDALEG.mp4
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/JUMANJI2018DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://revistaspiralonline.com.br/wp-content/uploads/2017/06/h1_ZYIY-990x640.jpg" group-title="LANÇAMENTOS",DUPLA EXPLOSIVA (2017)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/DUPLA2DUB-ALTO.mp4
-
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/05/ASA.png" group-title="LANÇAMENTOS",JOHN WICK: UM NOVO DIA PARA MATAR (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JOHNWICKDUBB-ALTO.mp4
 
 
 
@@ -100,9 +150,9 @@ http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/HOMEMARANHA
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/HOMEMARANHADUB02-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YKwh6c2.jpg" group-title="Homem-Aranha",HOMEM-ARANHA 3 (2007)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/HOMEMARANHADUB03-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/I4WDY.jpg" group-title="HOMEM-ARANHA",O ESPETACULAR HOMEM-ARANHA (2012)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/12/O-Espetacular-Homem-Aranha-poster-nacional.png" group-title="HOMEM-ARANHA",O ESPETACULAR HOMEM-ARANHA (2012)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/AMAZINGSPIDERMANDUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cBl6mXW.jpg" group-title="HOMEM-ARANHA",O ESPETACULAR HOMEM-ARANHA 2: A AMEAÇA DE ELECTRO (2014)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/12/427960.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="HOMEM-ARANHA",O ESPETACULAR HOMEM-ARANHA 2: A AMEAÇA DE ELECTRO (2014)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/AMAZINGSPIDERMAN02DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/14/08/27/23/09/130788.jpg" group-title="FilmesMarvel"  ,HOMEM DE FERRO (2008)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/HOMEMFERRODUB001-ALTO.mp4
@@ -145,7 +195,7 @@ http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/QRTFNTSC.mp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4tlLoer.jpg" group-title="QUARTETO FANTÁSTICO",QUARTETO FANTÁSTICO E O SURFISTA PRATEADO (2007) 
 http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/QRTFNTSCEOSFSTPRT.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhTrQXh.jpg" group-title="QUARTETO FANTÁSTICO",QUARTETO FANTÁSTICO (2015)
-http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/QRTFNTSC2015.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/QUARTETOFANTASTICODUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/14/08/04/16/42/019087.jpg" group-title="Sin City",SIN CITY: A DAMA FATAL (2014)
 https://lh3.googleusercontent.com/19nSJ-PeVnWUyMQ1pvPlyjTTubONX_6q0dlwuKYPqo2kPXMML2ArW3ofI9HXIl3yy30=m18
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eB0wNCb.jpg" group-title="Superman",SUPERMAN O FILME (1978)
@@ -158,18 +208,18 @@ http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMN3.mp4
 http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMN4.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gSQApSn.jpg" group-title="Superman",SUPERMAN: O RETORNO (2006)
 http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMNORTN.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XeI6LAT.jpg" group-title="X-Men",X-MEN O FILME (2000)
-http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer3/ondemand/XMEN01.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aOqYng3.jpg" group-title="X-Men",X-MEN 2 (2003)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/12/MV5BZmIyMDk5NGYtYjQ5NS00ZWQxLTg2YzQtZDk1ZmM4ZDBlN2E3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR006751000_AL_.jpg" group-title="X-Men",X-MEN O FILME (2000)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/XMEN-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="X-Men",X-MEN 2 (2003)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/X2DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KR57iSm.jpg" group-title="X-Men",X-MEN: O CONFRONTO FINAL (2006)
-http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer3/ondemand/XMEN03.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/modnmSt.jpg" group-title="X-Men",X-MEN ORIGENS: WOLVERINE (2009)
-http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer3/ondemand/XMEN04.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xWnB0UJ.jpg" group-title="X-Men",X-MEN: PRIMEIRA CLASSE (2011)
-http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer3/ondemand/XMEN05.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jwrCgQd.jpg" group-title="X-Men",WOLVERINE: IMORTAL (2013)
-http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer3/ondemand/XMEN06.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352-2.jpg-r_1920_1080-f_jpg-q_x-xxyxx-2.jpg" group-title="X-Men",X-MEN: O CONFRONTO FINAL (2006)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/X3DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352-1.jpg-r_1920_1080-f_jpg-q_x-xxyxx-1.jpg" group-title="X-Men",X-MEN ORIGENS: WOLVERINE (2009)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/WOLVERINEDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352-4.jpg-r_1920_1080-f_jpg-q_x-xxyxx-4.jpg" group-title="X-Men",X-MEN: PRIMEIRA CLASSE (2011)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/XFIRSTCLASS-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352-3.jpg-r_1920_1080-f_jpg-q_x-xxyxx-3.jpg" group-title="X-Men",WOLVERINE: IMORTAL (2013)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/WOLVIMORTALDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8F1rRlB.jpg" group-title="X-Men",X-MEN: DIAS DE UM FUTURO ESQUECIDO (2014)
 http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer3/ondemand/XMEN07.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Dybzbd2.jpg" group-title="X-Men",DEADPOOL (2016)
@@ -2517,16 +2567,16 @@ http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand/KCKASSQBRTD
 https://lh3.googleusercontent.com/X07bD2uV6qhxpCGTLt4IyurrMrTNLT8cU6CTV4h5Ikb1y-v84LFwPKxjwmHo_YxZ0JMbYrhhrQ=m18
 #EXTINF:-1 tvg-logo="https://goo.gl/Wa4qJE" group-title="LETRA K",KICKS (2017) DUB
 http://94.242.55.155/Brpt/Kicks.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
-#EXTINF:-1 tvg-logo="" group-title="LETRA K",KILL BILL – VOLUME 2
+#EXTINF:-1 tvg-logo="" group-title="LETRA K",KILL BILL VOLUME 2
 https://lh3.googleusercontent.com/2eoDyLGtFkX4FoE2Db0IIuTqml4YXsJZ0ASgUbhg_vwdSijz8AbvtX94MaTZpj9kAcg=m18
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA K",Kill Bill Volume 2
 https://lh3.googleusercontent.com/2eoDyLGtFkX4FoE2Db0IIuTqml4YXsJZ0ASgUbhg_vwdSijz8AbvtX94MaTZpj9kAcg=m18
-#EXTINF:-1 tvg-logo="http://bit.ly/1UhEIJT" group-title="LETRA K" pltv-subgroup="Suspense",Kill Bill Volume 2 2004 720p Dublado Suspense
+#EXTINF:-1 tvg-logo="http://bit.ly/1UhEIJT" group-title="LETRA K" pltv-subgroup="Suspense",Kill Bill Volume 2 (2004)
 https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/KLBILV2.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/WBvqd9" group-title="LETRA K",KINGSMAN 2: O CÍRCULO DOURADO LEG (2017)
-http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/KINGS2017LEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/SDd7yUE.jpg" group-title="LETRA K",KINGSMAN: SERVIÇO SECRATE (2015)
-http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KNGSMSVSCRT.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/WBvqd9" group-title="LETRA K",KINGSMAN 2: O CÍRCULO DOURADO (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/KINGSMAN2017DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SDd7yUE.jpg" group-title="LETRA K",KINGSMAN: SERVIÇO SECRETO (2015)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/KSSDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ksUvtsN8KRI/maxresdefault.jpg" group-title="LETRA K",KONG: A ILHA DA CAVEIRA (2017)
 http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/KONGAILHCVR.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/qCBz94" group-title="LETRA K",KONG: A ILHA DA CAVEIRA (2017) DUB
@@ -3652,6 +3702,8 @@ https://lh3.googleusercontent.com/qWVbfhiqKNu_qkahzTAtHJYToASgsDbKOByuqJT87QMkof
 http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PGNDFGODUB.mp4
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/9/16/7p1lf_tnl_210x118.jpg?ts=20140827233900" group-title="LETRA P" pltv-subgroup="Romance",Pegar e Largar Romance Dublado
 http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tEEbtqgNNHs/maxresdefault.jpg" group-title="LETRA P",PELÉ: O NASCIMENTO DE UMA LENDA (2017)
+http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/PELONSCMENTDUMLND.mp4
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/x/n6/ry2lf_tnl_210x118.jpg?ts=20150325000719" group-title="LETRA P" pltv-subgroup="Comédia",Penelope Comédia Dublado
 http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA P",Pense Como Eles
@@ -4769,5 +4821,3 @@ http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
 http://americanfilmes.com/jw/BKe37CWUQ.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZJvZo48.jpg" group-title="LETRA Z",ZUMBILÂNDIA (2009)
 http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ZMBLND.mp4
-
-
