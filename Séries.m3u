@@ -3029,6 +3029,12 @@ http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/08-ALTO.mp4
 #EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roAG6r6LCyKC4hlBbtdoxCfpsVw.jpg"  group-title="Knightfall (2017)", KNIGHTFALL S01E09 (LEG)
 http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/09-ALTO.mp4
 
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/POSTER-12.jpg"group-title="KRYPTON",KRYPTON S01E01 PILOT
+http://cdn1.ntcdn.us/content/httpdelivery/krypton/01leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/POSTER-12.jpg"group-title="KRYPTON",KRYPTON S01E02 CASA DE EL
+http://cdn1.ntcdn.us/content/httpdelivery/krypton/01leg/02-ALTO.mp4
+
+
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/08/17/13/59/000161.jpg"group-title="MÁQUINA MORTÍFERA",MÁQUINA MORTÍFERA S01E01
 http://cdn1.ntcdn.us/content/httpdelivery/lw/01leg/01-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/08/17/13/59/000161.jpg"group-title="MÁQUINA MORTÍFERA",MÁQUINA MORTÍFERA S01E02
@@ -3476,17 +3482,17 @@ http://cdn1.ntcdn.us/content/httpdelivery/mrrobot/03leg/03-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2017/10/robot-3.jpg"group-title="MR. ROBOT",MR. ROBOT S03E04
 http://cdn1.ntcdn.us/content/httpdelivery/mrrobot/03leg/04-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2017/10/robot-3.jpg"group-title="MR. ROBOT",MR. ROBOT S03E05
-http://cdn1.ntcdn.us/content/httpdelivery/mrrobot/03leg/05-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/mrrobot/03leg/05-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2017/10/robot-3.jpg"group-title="MR. ROBOT",MR. ROBOT S03E06
-http://cdn1.ntcdn.us/content/httpdelivery/mrrobot/03leg/06-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/mrrobot/03leg/06-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2017/10/robot-3.jpg"group-title="MR. ROBOT",MR. ROBOT S03E07
-http://cdn1.ntcdn.us/content/httpdelivery/mrrobot/03leg/07-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/mrrobot/03leg/07-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2017/10/robot-3.jpg"group-title="MR. ROBOT",MR. ROBOT S03E08
 http://cdn1.ntcdn.us/content/httpdelivery/mrrobot/03leg/08-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2017/10/robot-3.jpg"group-title="MR. ROBOT",MR. ROBOT S03E09
-http://cdn1.ntcdn.us/content/httpdelivery/mrrobot/03leg/09-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/mrrobot/03leg/09-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2017/10/robot-3.jpg"group-title="MR. ROBOT",MR. ROBOT S03E10
-http://cdn1.ntcdn.us/content/httpdelivery/mrrobot/03leg/10-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/mrrobot/03leg/10-BAIXO.mp4
 
 
 
@@ -5878,22 +5884,25 @@ http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VQCLT04EP27.mp4
 #EXTINF:0 tvg-logo="http://i.imgur.com/gZRi1SA.png"group-title="VAI QUE COLA",Vai que Cola S04E28
 http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VQCLT04EP28.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS S05E01-2
-http://cloud.popfilmeshd.net/popfilmes/SERIES/DUBLADO/VIKINGS/VIKINGS01e02DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS S05E03
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/VKGST05EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS S05E04
-http://s.vstreaming.net/tvshows/vikings/s05e04-dub-720p.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS S05E05
-http://s.vstreaming.net/tvshows/vikings/s05e05-dub-720p.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS S05E06
-http://cloud.popfilmeshd.net/popfilmes/SERIES/DUBLADO/VIKINGS/VIKINGS06DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS S05E07
-http://cloud.popfilmeshd.net/popfilmes/SERIES/DUBLADO/VIKINGS/VIKINGS07DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS S05E08
-http://cloud.popfilmeshd.net/popfilmes/SERIES/DUBLADO/VIKINGS/VIKINGS08DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS S05E09
-http://cloud.popfilmeshd.net/popfilmes/SERIES/DUBLADO/VIKINGS/VIKINGS09DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E01E2 THE DEPARTED
+http://cdn1.ntcdn.us/content/httpdelivery/vkgs/05dub/01e02-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E03 HOMELAND 
+http://cdn1.ntcdn.us/content/httpdelivery/vkgs/05dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E04 THE PLAN
+http://cdn1.ntcdn.us/content/httpdelivery/vkgs/05dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E05 THE PRISIONER
+http://cdn1.ntcdn.us/content/httpdelivery/vkgs/05dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E06 THE MESSAGE
+http://cdn1.ntcdn.us/content/httpdelivery/vkgs/05dub/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E07 FULL MOON
+http://cdn1.ntcdn.us/content/httpdelivery/vkgs/05dub/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E08 THE JOKE
+http://cdn1.ntcdn.us/content/httpdelivery/vkgs/05dub/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E09 A SIMPLE STORY
+http://cdn1.ntcdn.us/content/httpdelivery/vkgs/05dub/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E10 MOMENTS OF VISION
+http://cdn1.ntcdn.us/content/httpdelivery/vkgs/05leg/10-ALTO.mp4
+
 
 
 #EXTINF:-1 tvg-logo="http://www.cinemundo.net.br/wp-content/uploads/2016/11/westworld-season-1-wallpaper-wide-photos-dxwm1a02.jpg"group-title="WESTWORLD",1x1-DUB Westworld
