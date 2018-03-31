@@ -93,7 +93,7 @@ http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VOLDEMORT20
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/WONDERR2018-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://ninertimes.com/wp-content/uploads/2017/12/TDA-PayoffPoster_MPAA-1.jpg"  group-title="LANÇAMENTOS",O ARTISTA DO DESASTRE (2017)
 http://cloud.popfilmeshd.net/popfilmes/FILMES/LEGENDADO/TDALEG.mp4
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/Jumanji-185x278.jpg" group-title="LANÇAMENTOS",JUMANJI: BEM VINDO A SELVA (2018)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/JUMANJI.jpg" group-title="LANÇAMENTOS",JUMANJI: BEM VINDO A SELVA (2018)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/JUMANJI2018DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://revistaspiralonline.com.br/wp-content/uploads/2017/06/h1_ZYIY-990x640.jpg" group-title="LANÇAMENTOS",DUPLA EXPLOSIVA (2017)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/DUPLA2DUB-ALTO.mp4
@@ -120,26 +120,26 @@ http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/THOR02DUB-A
 #EXTINF:-1 tvg-logo="http://www.popground.com.br/wp-content/uploads/2014/03/capamerica2.png" group-title="FilmesMarvel",CAPITÃO AMÉRICA 2: O SOLDADO INVERNAL (2014)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/CAPIT4ODUB02-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://phsantos.info/blog/wp-content/uploads/2014/08/wpid-gotg_wpw_teaser.jpg" group-title="FilmesMarvel",OS GUARDIÕES DA GALÁXIA (2014)
-http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/GUARDIOES01LEG-ALTO.mp4
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/GUARDIOES01DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://img1.olhardigital.uol.com.br/uploads/acervo_imagens/2015/01/20150113121337_660_420.jpg" group-title="FilmesMarvel",OS VINGADORES 2: A ERA DE ULTRON (2015)
-http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/VINGADORESLEG002-ALTO.mp4
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VINGADORESDUB02-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://nerdeekqueens.files.wordpress.com/2015/08/check-out-the-new-ant-man-poster_qp5u-1920.jpg" group-title="FilmesMarvel",HOMEM-FORMIGA (2015)
-http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ANTMANLEG-ALTO.mp4
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ANTMANDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://semantike.com/leviosa/wp-content/uploads/2016/05/maxresdefault.jpg" group-title="FilmesMarvel",CAPITÃO AMÉRICA 3: GUERRA CIVIL (2016)
 http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/filmes2016/civilwar/dubbluray/CW2016-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://minasnerds.com.br/wp-content/uploads/2016/10/Filme-Doutor-Estranho.jpg" group-title="FilmesMarvel",DOUTOR ESTRANHO (2016)
 http://cdn2.ntcdn.us/sobdemanda/netcine-bucket/filmes2016/dstrange/DS2016DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://poltronanerd.com.br/wp-content/uploads/2017/04/poltrona-guardioes-da-galaxia-vol2-soundtrack.jpg" group-title="FilmesMarvel",GUARDIÕES DA GALÁXIA VOL. 2 (2017)
-http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/GUARDIOESLEG2017-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/itzw5X" group-title="FilmesMarvel",HOMEM-ARANHA: DE VOLTA AO LAR (2017)
-http://ds5b1da2hd79u.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/HOMARNHDVLTALR.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/08/078128.jpg" group-title="FilmesMarvel",GUARDIÕES DA GALÁXIA VOL. 2 (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/GUARDIOES2017DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/images.jpg" group-title="FilmesMarvel",HOMEM-ARANHA: DE VOLTA AO LAR (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ARANHAHOMEMDUB-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xCVWJ9p.jpg" group-title="FilmesDC",O HOMEM DE AÇO (2013)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/HOMEMACDUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nC807Ot.jpg" group-title="FilmesDC",BATMAN VS SUPERMAN: A ORIGEM DA JUSTIÇA (2016)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover-5.jpg" group-title="FilmesDC",BATMAN VS SUPERMAN: A ORIGEM DA JUSTIÇA (2016)
 http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/bvs/dub/DUBLADO-BAIXO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ORvC2nL.jpg" group-title="FilmesDC",ESQUADRÃO SUICIDA (2016)
-http://d24nzk5e3n7cvo.cloudfront.net/content/sobdemanda/netcine-bucket/filmes2016/suicidesquad/leg/ESS-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SY1000_CR006741000_AL_.jpg" group-title="FilmesDC",ESQUADRÃO SUICIDA (2016)
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/suicidesquad/leg/ESS-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/S31Gyo" group-title="FilmesDC",MULHER-MARAVILHA (2017)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/W0M4N2017DUB-ALTO.mp4
 
