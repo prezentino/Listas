@@ -6,13 +6,23 @@ https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/PNTRNGR.mp4
 
 
 
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/p14365734_p_v8_aa.jpg" group-title="LANÇAMENTOS",THE TITAN (2018)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/THETITN.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/images-4.jpg" group-title="LANÇAMENTOS",O PASSAGEIRO (2018)
 http://cdn.micetop.us/content/delivery/filmes2018/THECOMMUTERLEGV2-ALTO.mp4?ttl=1525767394&t=a7fe988eac80a77f8161c75cafe4c664
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/images-3.jpg" group-title="LANÇAMENTOS",MAZE RUNNER: A CURA MORTAL (2018)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/MAZRNERACRMRTL.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/images-1.jpg" group-title="LANÇAMENTOS",FALA SÉRIO, MÃE! (2018)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/images-1.jpg" group-title="LANÇAMENTOS",FALA SÉRIO,MÃE! (2018)
 http://cdn.micetop.us/content/httpdelivery/filmes2018/FALASERIEMAE-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/Unlocked-new-poster-1.jpg" group-title="LANÇAMENTOS",CONSPIRAÇÃO TERRORISTA (2017)
 http://cdn.micetop.us/content/httpdelivery/filmes2018/CONSPIRACAOTERRORISTADUB-ALTO.mp4
@@ -100,6 +110,8 @@ http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VOLDEMORT20
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/WONDERR2018-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://ninertimes.com/wp-content/uploads/2017/12/TDA-PayoffPoster_MPAA-1.jpg"  group-title="LANÇAMENTOS",O ARTISTA DO DESASTRE (2017)
 http://cloud.popfilmeshd.net/popfilmes/FILMES/LEGENDADO/TDALEG.mp4
+
+
 
 #EXTINF:-1 tvg-logo="http://revistaspiralonline.com.br/wp-content/uploads/2017/06/h1_ZYIY-990x640.jpg" group-title="LANÇAMENTOS",DUPLA EXPLOSIVA (2017)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/DUPLA2DUB-ALTO.mp4
@@ -349,7 +361,7 @@ http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/HRYPTR07.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yfjNdrY.jpg" group-title="HARRY POTTER",HARRY POTTER E AS RELÍQUIAS DA MORTE: PARTE 2 (2011)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/HRYPTR08.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HRdIQ5oLHG4/maxresdefault.jpg" group-title="HARRY POTTER",ANIMAIS FANTÁSTICOS E ONDE HABITAM (2016)
-http://s.netcine.tv/netcine-bucket/filmes2016/ANIMAISLEG-ALTO.mp4
+http://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wB12eFM.jpg" group-title="JOGOS MORTAIS",JOGOS MORTAIS (2004)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/JGSMRTS01.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tG7H4x8.jpg" group-title="JOGOS MORTAIS",JOGOS MORTAIS 2 (2005)
@@ -457,11 +469,11 @@ http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ohobbit/dub
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZMzVOHo.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A BATALHA DOS CINCO EXÉRCITOS (2014)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ohobbit/dub/03-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/OCEkqiJ.jpg" group-title="O Hobbit & O Senhor dos Anéis",O SENHOR DOS ANÉIS: A SOCIEDADE DO ANEL (2001)
-http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/S4NH0R4NEYS01DUB-ALTO.mp4
+http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/OSNHRDSANSASCEDDANL.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/C7YYCUL.jpg" group-title="O Hobbit & O Senhor dos Anéis",O SENHOR DOS ANÉIS: AS DUAS TORRES (2002)
-http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/S4NH0R4NEYS02DUB-ALTO.mp4
+http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/OSNHRDSANSASDSTRS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/uaL7gRt.jpg" group-title="O Hobbit & O Senhor dos Anéis",O SENHOR DOS ANÉIS: O RETORNO DO REI (2003)
-http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/S4NH0R4NEYS03DUB-ALTO.mp4
+http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/OSNHRDSANSORTNDREI.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/vZmaBE" group-title="O Poderoso Chefão",O PODEROSO CHEFÃO (1972)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/OPDRSOCFAO1.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/iinHXx" group-title="O Poderoso Chefão",O PODEROSO CHEFÃO 2 (1974)
@@ -705,6 +717,8 @@ https://lh3.googleusercontent.com/Hn5WH9GJWyZGJXFzwMJceY8H-37G0cSXspugVJWjvl-9TV
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/30NTSMATVDPRNL.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA #",5 Contos de Loucura 2016 720p Bluray Dublado 
 https://lh3.googleusercontent.com/VuRt32X9vrUEzoG_e9SAkWyiYWGOofPLBDId8XhihJaNdJmf02tDSysc-b9olbpw3kST6xMi=m22
+EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-2eZf1WxA-HU/WI-Gjn6yEnI/AAAAAAAABWg/nLRJymt6Sm86ZVW2-srNTe0klaDaz5tvQCLcB/s1600/Sete%2BHomens%2BE%2BUm%2BDestino%2B%25282%2529.jpg" group-title=“LETRA #”,7 HOMENS E UM DESTINO (2016)
+http://rc-v2.filmesonline.top/RCFServer3/ondemand/SETHMNSEUDSTNO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0tzUGKq.jpg" group-title="LETRA #",72 HORAS (2010)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/72HRS.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/1tu6cUe" group-title="LETRA #" pltv-subgroup="Suspense",72 Horas 2010 1080p Dublado Suspense
@@ -918,6 +932,8 @@ http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/ALGOAZL.mp4
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer4/ondemand/ALEIDNOT.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/E6sQJwa.jpg" group-title="LETRA A",A LENDA DE TARZAN (2016)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/ALNDETRZN.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/zPjCJT" group-title="LETRA A",ALIBI.COM (2017)
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/ALBCM.mp4
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wfTR-jB3QdE/U0i2QT8XVaI/AAAAAAAAQxo/lpXNUGsl8ec/s1600/2.png" group-title="LETRA A",A LISTA (2011)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/ALISTA2011.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/1UR1XaY" group-title="LETRA A" pltv-subgroup="Suspense",A Lista 720p 2011 Dublado Suspense
@@ -1667,6 +1683,8 @@ http://rc-v1.filmesonline.top/RedeCanais/RCFServer4/ondemand/CHRSTINE.mp4
 http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/N68KCjj.jpg" group-title="LETRA C",CHRISTINE: O CARRO ASSASSINO (1983)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/CRSTNOCRASSANO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Y6c3hP" group-title=“LETRA C”,CHRISTINE (2017)
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/CHRSTINE.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_300_300/pictures/17/04/20/10/03/005926.jpg" group-title="LETRA C",Churchill (2017)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer4/ondemand/CHRCHL.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/OuvPFCz.jpg" group-title="LETRA C",CIDADE DE DEUS (2002)
@@ -1904,6 +1922,8 @@ http://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/OPRZRDSUACMPNH.mp4
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/DSLDSDAMR.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA D",DOIS MAIS DOIS
 https://www.youtube.com/watch?v=_z0brDxLpEA
+#EXTINF:-1 tvg-logo="https://goo.gl/HQshds" group-title="LETRA D",DOMINAÇÃO (2017)
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/DMNCAO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA D",Dominguinhos Canta e Conta Gonzaga
 https://www.youtube.com/watch?v=gKVavm_QiZ4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1rptUx9.jpg" group-title="LETRA D",DOOM: A PORTA DO INFERNO (2006)
@@ -1988,6 +2008,8 @@ https://www.youtube.com/watch?v=1jlCUzfFxmQ
 https://lh3.googleusercontent.com/aCgORx1qNVCU44u8hMN4U-CPEfDJURh6odJ5O_UWqrpKKo7AQopanzGzmlwWgTPXtIhvpCnA=m22
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA E",Encalhados
 https://lh3.googleusercontent.com/u58QoZKMq6gTyKQY7h59hl-lrBtlVFEIL4sN4fWZByG4QZ9lywuykdZklI9nEYtxHkU=m18
+#EXTINF:-1 tvg-logo="https://goo.gl/cpFUwP" group-title="LETRA E",EM BUSCA DE VIGANÇA (2017)
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/EMBSCDVNG.mp4
 #EXTINF:-1 tvg-logo="" group-title="LETRA E",ENCALHADOS
 https://lh3.googleusercontent.com/u58QoZKMq6gTyKQY7h59hl-lrBtlVFEIL4sN4fWZByG4QZ9lywuykdZklI9nEYtxHkU=m18
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/y/f6/73ylf_tnl_210x118.jpg?ts=20140407184313" group-title="LETRA E" pltv-subgroup="Drama",Encontros ao Acaso Dublado Drama
@@ -2668,6 +2690,8 @@ http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4
 http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/8/l6/ujwlf_tnl_210x118.jpg?ts=20140407115042" group-title="LETRA L" pltv-subgroup="Drama",Lendas da Paixao Dublado Drama
 http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/4GwXJk" group-title="LETRA L",LEATHERFACE (LEG 2017)
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/LETHRFCLEG.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA L",Lendas do Crime 2016 Bluray 720p Dublado 
 https://lh3.googleusercontent.com/B9buKTN5pwO4Z7wzUwBRsMgeDB0BEFVUSJjWU_2NozxUwJElUSVrJ486aar2lp4K2g05HyWn=m22
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7nuktm5.jpg" group-title="LETRA L",LIÇÕES EM FAMÍLIA (2015)
@@ -2962,7 +2986,9 @@ https://lh3.googleusercontent.com/ATG_1HdBB7DHuGcPWo5qlKbpQ0ZJ8FdpV9xIxke738pzGE
 https://lh3.googleusercontent.com/ATG_1HdBB7DHuGcPWo5qlKbpQ0ZJ8FdpV9xIxke738pzGEYOHzO6QlQxHVAF1gn3JTo=m18
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/5/8l/w7cyb_tnl_210x118.jpg?ts=20130817042719" group-title="LETRA N" pltv-subgroup="Comédia",Nem Por Cima do Meu Cadaver Comédia Dublado
 http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/1UCV8Ow" group-title="LETRA N" pltv-subgroup="Drama",Neverlake Legendado
+#EXTINF:-1 tvg-logo="https://goo.gl/ZQsuzw" group-title="LETRA N",Nerve: Um Jogo Sem Regras(2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/NRVUJSR.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/1UCV8Ow" group-title="LETRA N",Neverlake Legendado
 https://archive.org/download/NeverlakerLegendado/Neverlaker(Legendado).mp4
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/5/8l/y7cyb_tnl_210x118.jpg?ts=20130817044800" group-title="LETRA N" pltv-subgroup="Romance",Nicholas Nickleby Romance Dublado
 http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
@@ -3024,6 +3050,16 @@ https://lh3.googleusercontent.com/iXBOz4w9-a2p96QBCn-C6tyDOdAlwfTGWYFJArZd1nzFyr
 https://lh3.googleusercontent.com/iXBOz4w9-a2p96QBCn-C6tyDOdAlwfTGWYFJArZd1nzFyrKFQWKtvze2QwPIpyJoBfA=m18
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Wdosvvg.jpg" group-title="LETRA O",O AMOR É CEGO (2002)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/OAMRECG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/b4ctBf" group-title="LETRA O",O BAR (2017)
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OBAR.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yz1bqM" group-title="LETRA O",O ESTRANGEIRO (LEG 2017)
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OESTNGROLEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Xix9e7" group-title="LETRA O",O REINO GELADO 3: FOGO E GELO (2017)
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/ORNOGLDO3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/R6t9ZA" group-title="LETRA O",O CASTELO DE VIDRO (2017)
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OCSTLDVDR.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/BPU3xS" group-title="LETRA O",OPERAÇÃO MEKONG (2017)
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OPRCMKNG.mp4
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/x/n6/o9ulf_tnl_210x118.jpg?ts=20140405171055" group-title="LETRA O" pltv-subgroup="Drama",O Aprendiz Dublado Drama
 http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/pwU1Xf" group-title="LETRA O",O ARQUITETO (2017) DUB
@@ -3036,10 +3072,11 @@ http://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/OATDCPDCDA.mp4
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/OAVADR.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-wnbcEM6YDn4/UaU1HFQfk9I/AAAAAAAADEo/gzCyOvddTZc/s320/1920.jpg" group-title="LETRA O" pltv-subgroup="Comédia",O Balconista Comédia Dublado
 http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA O",O Bom Dinossauro
-https://lh3.googleusercontent.com/PFB3APW8PkPN2HJ9odTyJppBWy5XSj9o_3p7bh1wTzisEdXuvSlMeuSkrFqybdcT2cx2eoNY3q7h=m22
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2AvCHjC.jpg" group-title="LETRA O",O BOM DINOSSAURO (2016)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/OBMDINO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/j0w1HK",O Bom Gigante Amigo(2016)
+http://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/OBMGIGNTAMG.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/28Bx2K6" group-title="LETRA O" pltv-subgroup="Suspense",O Buraco 2001 1080p Dublado Suspense
 https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OBURC.mp4
 #EXTINF:-1 tvg-logo="" group-title="LETRA O",O CAÇADOR E A RAINHA DO GELO
@@ -3258,6 +3295,8 @@ http://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/OJRDIMDOSESQUCDS.mp
 https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OJRDIMDOSESQUCDS.mp4
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/m/im/ordyb_tnl_210x118.jpg?ts=20131119184935" group-title="LETRA O" pltv-subgroup="Comédia",O Julgamento de Paris Comédia Dublado
 http://media-br-am.crackle.com/1/m/im/ordyb_480p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/un83CY" group-title="LETRA O",O LAR DAS CRIANÇAS PECULIARES (2016)
+http://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/OLRDSCRNPCLRS.mp4
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/w/4l/kzcyb_tnl_210x118.jpg?ts=20130723012026" group-title="LETRA O" pltv-subgroup="Ação",O Legionario Ação Dublado
 http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA O",O Lobo Atrás da Porta
@@ -3677,6 +3716,8 @@ http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/OUIJAOJGDSESPRTS.mp
 http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA O",Outpost 2. Inferno Negro
 https://lh3.googleusercontent.com/DL2cuWConhKBIH2pyIaSw7BihUZcflu27Bf2MRN-n8Ct9VpCcgsx-4-8OtNxJPdEVckx=m18
+#EXTINF:-1 tvg-logo="https://goo.gl/29e1jy" group-title="LETRA O",O ZOOLÓGICO DE VARSÓVIA
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OZOLGCDVRSVIA.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA P",Pacto de Justiça
 https://lh3.googleusercontent.com/gt9EwcJihyD2Zag4HgQ8JW6ANNdQU3_OkK73OAAKv6hfippsw0LKaQYYC1I6acZJGdY=m18
 #EXTINF:-1 tvg-logo="" group-title="LETRA P",PACTO DE JUSTIÇA
@@ -4047,6 +4088,8 @@ http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/REVILDGNRC.mp4
 https://lh3.googleusercontent.com/GiYO8LxAHIe8Pin-zv1B2qsD8xIhDCOzsXdL1K3s5tgf-GNgcJsQ2jbUARPMMAslFf2rPtHecQ=m37
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Lwu2Poq.jpg" group-title="LETRA R",RESIDENT EVIL: O HÓSPEDE MALDITO (2002)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/REVIL01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wDKkTS" group-title="LETRA R",RESPOSTA ARMADA (2017)
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/RESPSTARMDA.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/z5QeiW" group-title="LETRA R",RESULTADOS (2015)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/RESLTS.mp4
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/p/4l/ql9wb_tnl_250x141.jpg?ts=20140405112550" group-title="LETRA R" pltv-subgroup="Comédia",Ricky Bobby A Toda Velocidade Comédia Dublado
@@ -4195,6 +4238,10 @@ https://lh3.googleusercontent.com/Aug9aDxgyz6-pKaL0keqfSlI2w2p3FrgWs96zS8ETBXa9m
 http://94.242.55.155/Brpt/Sereia.predadora.2016.1080p.bluray.Dublado.WWW.TPF.GRATIS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LUk8qIe.jpg" group-title="LETRA S",SETE VIDAS (2008)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/STVDS.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jSukva" group-title="LETRA S",SANGUE PELA GLÓRIA (2017)
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/SNGPLGLR.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZCMyso" group-title="LETRA S",SONO MORTAL (2017)
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/SONMRTL.mp4
 #EXTINF:-1 tvg-logo="http://images1.folha.com.br/livraria/images/3/c/1153148-250x250.png" group-title="LETRA S" pltv-subgroup="Drama",Sete Vidas Dublado Drama
 http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/y/r6/3gvlf_tnl_210x118.jpg?ts=20140406014615" group-title="LETRA S" pltv-subgroup="Drama",Sexo,Mentiras e Videotape Dublado Drama
@@ -4292,8 +4339,8 @@ http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
 https://lh3.googleusercontent.com/kxFv8YbaZhJVTSK_3v18NuhVtrZ69TT20ARUV7RCP_jRfV_6Sd05NHR6pWa-357iJzkK3g0y=m18
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aJ5Imuh.jpg" group-title="LETRA S",SNIPER AMERICANO (2015)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/SNPRAMRCN.mp4
-#EXTINF:-1 tvg-logo="" group-title="LETRA S",SNOOPY & CHARLIE BROWN – PEANUTS
-https://lh3.googleusercontent.com/BHyKDZ5COtQXu4fwQ4vQ4yF-I1Z1XxmF6oKuAv5Im3MYH_nKEzmTIpd4SyXKg-j95Vd3uZ445A=m37
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/10/14/15/46/312186.jpg" group-title="LETRA S", SNOWDEN: HERÓI OU TRAIDOR (LEGENDADO 1080p)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/SNODNHROTRIDRLEG.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/n0VZiRb.jpg" group-title="LETRA S",SNOOPY E CHARLIE BROWN: PEANUTS: O FILME (2016)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/SNPYECRLIBRPANRSOFLM.mp4
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/im/9odyb_tnl_210x118.jpg?ts=20131029012940" group-title="LETRA S" pltv-subgroup="Comédia",Sob Suspeita Comédia Dublado
@@ -4844,6 +4891,7 @@ http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ZLOSTCITYLE
 https://lh3.googleusercontent.com/iUnLHXCfTtyfkeJ-GFSFpUAWBOJZg5P5zW7Nzu3ob7AAUhYLD0i069Vu4O39yVfzcIoOx3k3vy0=m37
 #EXTINF:-1 tvg-logo="" group-title="LETRA Z",ZOOLANDER 2
 https://lh3.googleusercontent.com/aHrDfzYjtPduREm5vNX1QhHDD5ykXK3mr6Tr_dKa1ns0SuuWOQE33Ke294Ztxvw0aF6EPDJU_zsS=m37
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/60aFbhD.jpg" group-title="LETRA Z",ZOOTOPIA: ESSA CIDADE É O BICHO (2016)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/w5I9Wmk.jpg" group-title="LETRA Z",ZUMBILÂNDIA
