@@ -1,68 +1,68 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S01E01
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/01dub/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S01E02
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/01dub/02-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S01E03
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/01dub/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S01E04
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/01dub/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S01E05
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/01dub/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S01E06
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/01dub/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S01E07
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/01dub/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S01E08
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/01dub/08-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S01E09
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/01dub/09-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S01E10
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/01dub/10-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S01E11
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/01dub/11-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S01E01
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/01dub/01-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S01E02
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/01dub/02-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S01E03
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/01dub/03-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S01E04
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/01dub/04-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S01E05
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/01dub/05-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S01E06
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/01dub/06-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S01E07
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/01dub/07-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S01E08
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/01dub/08-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S01E09
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/01dub/09-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S01E10
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/01dub/10-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S01E11
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/01dub/11-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
 
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S02E01
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/02dub/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S02E02
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/02dub/02-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S02E03
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/02dub/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S02E04
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/02dub/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S02E05
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/02dub/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S02E06
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/02dub/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S02E07
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/02dub/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S02E08
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/02dub/08-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S02E09
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/02dub/09-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S02E10
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/02dub/10-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S02E01
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/02dub/01-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S02E02
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/02dub/02-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S02E03
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/02dub/03-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S02E04
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/02dub/04-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S02E05
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/02dub/05-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S02E06
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/02dub/06-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S02E07
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/02dub/07-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S02E08
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/02dub/08-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S02E09
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/02dub/09-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S02E10
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/02dub/10-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
 
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S03E01
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/03leg/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S03E02
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/03leg/02-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S03E03
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/03leg/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S03E04
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/03leg/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S03E05
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/03leg/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S03E06
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/03leg/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S03E07
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/03leg/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S03E08
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/03leg/08-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S03E09
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/03leg/09-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/rick-and-morty.png" group-title=" Rick and Morty",  Rick and Morty S03E10
-http://cdn1.ntcdn.us/content/httpdelivery/rickandmorty/03leg/10-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S03E01
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/03leg/01-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S03E02
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/03leg/02-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S03E03
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/03leg/03-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S03E04
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/03leg/04-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S03E05
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/03leg/05-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S03E06
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/03leg/06-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S03E07
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/03leg/07-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S03E08
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/03leg/08-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S03E09
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/03leg/09-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/poster-rick-y-morty.jpg" group-title=" Rick and Morty",  Rick and Morty S03E10
+http://cdn.micetop.us/content/httpdelivery/rickandmorty/03leg/10-ALTO.mp4?t=st=1529281645~exp=1529296045~acl=/content/*~hmac=99a049fd9833b1ca99ffc9f6ddd7dfe7
 
 
 
