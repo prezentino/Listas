@@ -1,8 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://megafilmes.org/wp-content/uploads/2017/12/a-estrela-de-belem-1.jpg" group-title="LANÇAMENTOS" ,A ESTRELA DE BELÉM (2017)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/11/06/20/22/0021404.jpg" group-title="LANÇAMENTOS",DUDA E OS GNOMOS (2018)	
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/DUDEOSGNMS.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/12/07/11/33/0502209.jpg" group-title="LANÇAMENTOS",VIVA: A VIDA É UMA FESTA (2018)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/VIVAAVDEUMFST.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/12/11/15/27/039582.jpg" group-title="LANÇAMENTOS",MINÚSCULOS: O FILME (2015)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/MINSCLSOFLM.mp4
+#EXTINF:-1 tvg-logo="http://megafilmes.org/wp-content/uploads/2017/12/a-estrela-de-belem-1.jpg" group-title="LANÇAMENTOS",A ESTRELA DE BELÉM (2017)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/AESTRLDBLM.mp4
 
-#EXTINF:-1 tvg-logo="http://www.shoppinglaplage.com.br/images/cine/o-touro-ferdianndo.jpg" group-title="LANÇAMENTOS",TOURO FERDINANDO (2018)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352-5.jpg-r_1920_1080-f_jpg-q_x-xxyxx-5.jpg" group-title="LANÇAMENTOS",TOURO FERDINANDO (2018)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OTROFRDNDO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/MKhgfn" group-title="LANÇAMENTOS",PICA-PAU: O FILME (2018)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/PICPAU.mp4
@@ -33,12 +40,14 @@ https://rc-v1.filmesonline.top/RedeCanais/RCServer09/ondemand/SCBDFLM29.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/videothumbnails/16/10/17/16/26/158484.jpg" group-title="LANÇAMENTOS" , O Poderoso Chefinho (2017)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OPDRSOCFNHDUB.mp4
 
-
-
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/75/69/19963902.jpg" group-title="Disney",BAMBI (1942)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/BMBI.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/InBU8Ng.jpg" group-title="Disney",Alice no País das Maravilhas (1951)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/ALCNPSDSMRVLHS1951.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/SiaRtm2.jpg" group-title="Disney",101 Dálmatas: A Guerra dos Dálmatas (1961)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/101DMLTS1.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/07/03/17/15/146710.jpg" group-title="Disney",MOGLI: O MENINO LOBO (1968)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/MGLIOMENIOLBO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/94/05/35/20299477.jpg" group-title="Disney",A DAMA E O VAGABUNDO (1975)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/ADMAEOVAGNDO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lU1wsDY.jpg" group-title="Disney",A PEQUENA SEREIA (1989)
@@ -96,7 +105,7 @@ https://rc-v1.filmesonline.top/RedeCanais/RCFServer4/ondemand/UNIMNSTRS.mp4
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer4/ondemand/DTNARLPH.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/j090Z3k.png" group-title="Pixar",FROZEN: UMA AVENTURA CONGELANTE (2013)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/FRZNUACGLNT.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pixar",OPERAÇÃO BIG HERO (2014)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/09/01/13/43/553593.jpg" group-title="Pixar",OPERAÇÃO BIG HERO (2014)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OPRCBGHRO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dtDWm49.jpg" group-title="Pixar",DIVERTIDA MENTE (2015)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/DVRTDMNT.mp4
@@ -121,9 +130,9 @@ https://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/MINIONS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tnKjB08.jpg" group-title="Ilumination",Pets: A Vida Secreta dos Bichos (2016)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/PETSAVSCDBS.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Sony",TÁ CHOVENDO HAMBURGER (2009)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/89/63/19962658.jpg" group-title="Sony",TÁ CHOVENDO HAMBURGER (2009)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer4/ondemand/TACHVNDHMBRGR.mp4
-#EXTINF:-1 tvg-logo="" group-title="Sony",TÁ CHOVENDO HAMBURGER 2 (2013)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/210/432/21043244_2013092323163504.jpg" group-title="Sony",TÁ CHOVENDO HAMBURGER 2 (2013)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer4/ondemand/TACHVNDHMBRGR2.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Mq3VTr" group-title="Sony",HOTEL TRANSILVÂNIA (2014)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/HOTLTRNSVLNA1.mp4
@@ -181,9 +190,9 @@ https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/SHREK03.mp4
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/MDGSCR01.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eGWJqSI.png" group-title="Dreamworks",MADAGASCAR 2: A GRANDE ESCAPADA (2008)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/MDGSCR02.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dreamworks",Monstros Vs Alienígenas (2009)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/88/85/19962577.jpg" group-title="Dreamworks",Monstros Vs Alienígenas (2009)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer4/ondemand/MNSTRSVSALIEN.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dreamworks",MEGAMENTE (2010)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/90/97/19962796.jpg" group-title="Dreamworks",MEGAMENTE (2010)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer4/ondemand/MGMNTE.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/m5opILz.jpg" group-title="Dreamworks",MADAGASCAR 3: OS PROCURADOS (2012)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/MDGSCR03.mp4
@@ -208,7 +217,7 @@ https://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/TRLS.mp4
 
 
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/03/01.jpg" group-title="Universal", Kubo e As Cordas Mágicas (2016)
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2016/KUBODUB-BAIXO.mp4
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/KUBEASCRDSMGCS.mp4
 
 #EXTINF:-1 tvg-logo="http://eovideolevou.com.br/imgProduto/72872_f3.jpg" group-title="Lego", Batman Lego: Super Heróis Se Unem (2013)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/BATMLGOFLMSPRHRSUN.mp4
@@ -227,16 +236,18 @@ http://ia601503.us.archive.org/16/items/DESENHOSBIBLICOSGENESISOINICIODACRIACAO/
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_ecZQeLVp5c0/TC_TUNt5GgI/AAAAAAAAByU/_ixJdTzMTEE/s1600/c13.png" group-title="DESENHOS BIBLICOS",COLETANEA DESENHOS biblicos
 http://ia601500.us.archive.org/6/items/COLETANEADESENHOSDABIBLIA/COLETANEA%20DESENHOS%20DA%20BIBLIA.mp4?AndreOid
 
-
-#EXTINF:-1 tvg-logo="" group-title="Masha e o Urso",P.1 Masha e o Urso (2016)
-http://www.blogger.com/video-play.mp4?contentId=fca5352c0f488e89
-#EXTINF:-1 tvg-logo="" group-title="Masha e o Urso",P.2 Masha e o Urso (2016)
-http://www.blogger.com/video-play.mp4?contentId=b3e18b8dc1323784
-
-#EXTINF:-1 tvg-logo="" group-title="Asterix",P-1 Asterix Conquista America
-http://www.blogger.com/video-play.mp4?contentId=1f7890f066760e81
-#EXTINF:-1 tvg-logo="" group-title="Asterix",P-2 Asterix Conquista America
-http://www.blogger.com/video-play.mp4?contentId=326ff6640c6a958d
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/76/26/19961287.jpg" group-title="Asterix",Asterix, O Gaulês (1968)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/ASTRXOGLS.mp4
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/AS/00115301.JPG" group-title="Asterix",Asterix e Cleopatra (1969)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/ASTRXECLEOPTRA.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/75/58/19961218.jpg" group-title="Asterix",Os Doze Trabalhos de Asterix (1976)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OS12TRBLHSDASTRX.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/16/04/06/20/01/248123.jpg" group-title="Asterix",Asterix Entre Os Bretões (1987)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/ASTRXENTOSBRTS.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/86/95/21/19870454.jpg" group-title="Asterix",Asterix Conquista America (1995)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/ASTRXCQSTAMRCA.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/16/03/08/18/50/299084.jpg" group-title="Asterix",Asterix e o Domínio dos Deuses (2016)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/ASTRXEODMNDSDEUS.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="Johnny Bravo",P-1 Johnny Bravo Vai para Bollywood (2011)
 http://www.blogger.com/video-play.mp4?contentId=3783e837d328511e
@@ -257,8 +268,10 @@ https://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/OPQNPRNCP.mp4
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/BARBIRAVNESTLS.mp4
 #EXTINF:-1 tvg-logo="http://www.tudodesenhos.com/uploads/tags/649/thumb_caillou.png" group-title="DIVERSOS",CALILLOU
 http://archive.org/download/videoplayback_20161120_1932/videoplayback.mp4
-#EXTINF:-1 tvg-logo="" group-title="DIVERSOS",O GALINHO CHICKEN LITTLE (2005)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/80/04/19961677.jpg" group-title="DIVERSOS",O GALINHO CHICKEN LITTLE (2005)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer4/ondemand/OGLNHCHKNLT.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/16/11/10/18/59/152563.jpg" group-title="Masha e o Urso",Masha e o Urso (2016)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/MSHEOURSOFLM.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/C51QB5U.jpg" group-title="A Família Addams 1972", A Família Addams E01
 http://www.blogger.com/video-play.mp4?contentId=dcd4b6a0da66fa89
