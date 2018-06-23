@@ -2215,37 +2215,44 @@ http://cdn2.micetop.us/content/delivery/constantinecd/01leg/04-ALTO.mp4?t=st=152
 #EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/constantine-city-of-demons-2926-poster.jpg" group-title="Constantine",Constantine S01E01
 http://cdn2.micetop.us/content/delivery/constantinecd/01leg/05-ALTO.mp4?t=st=1529359344~exp=1529373744~acl=/content/*~hmac=20ce159a39c956a964cb0b904325245d?t=st=1529359344~exp=1529373744~acl=/content/*~hmac=20ce159a39c956a964cb0b904325245d
 
-#EXTINF:-1 tvg-logo="http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/2-3.jpg"  group-title="Marvel Animações", Hulk: Onde Os Monstros Habitam (2017)
-http://cdn622.micetop.us/content/httpdelivery/filmes2017/HULK2017DUB.mp4
+#EXTINF:-1 tvg-logo="" group-title="Marvel Animações",OS SUPREMOS: O FILME (2005)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OSSPRMS.mp4
+#EXTINF:-1 tvg-logo="" group-title="Marvel Animações",OS SUPREMOS 2: DESCUBRA O PODER DA PANTERA (2006)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OSSPRMS2.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/Rh3C6I"  group-title="Marvel Animações",Iron Man A Batalha Contra Ezekiel Stane P1
-http://www.blogger.com/video-play.mp4?contentId=7a99e4e7cda42802
-#EXTINF:-1 tvg-logo="https://goo.gl/Rh3C6I"  group-title="Marvel Animações",Iron Man A Batalha Contra Ezekiel Stane P2 
-http://www.blogger.com/video-play.mp4?contentId=ef7eb4a68c2ab056
-#EXTINF:-1 tvg-logo="https://goo.gl/Rh3C6I"  group-title="Marvel Animações",Iron Man A Batalha Contra Ezekiel Stane P3
-http://www.blogger.com/video-play.mp4?contentId=bcbcbd08fce4fbf0
-
-#EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/04/Doutor-Estranho-Filme-Anima%C3%A7%C3%A3o-Dublado.jpg" group-title="Marvel Animações",P-1 Doutor Estranho
+#EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/04/Doutor-Estranho-Filme-Anima%C3%A7%C3%A3o-Dublado.jpg" group-title="Marvel Animações",Doutor Estranho P1 (2007)
 http://www.blogger.com/video-play.mp4?contentId=87bc7b6f6747dad9
-#EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/04/Doutor-Estranho-Filme-Anima%C3%A7%C3%A3o-Dublado.jpg" group-title="Marvel Animações",P-2 Doutor Estranho
+#EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/04/Doutor-Estranho-Filme-Anima%C3%A7%C3%A3o-Dublado.jpg" group-title="Marvel Animações",Doutor Estranho P2 (2007)
 http://www.blogger.com/video-play.mp4?contentId=a5897eb481db9b11
-#EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/04/Doutor-Estranho-Filme-Anima%C3%A7%C3%A3o-Dublado.jpg" group-title="Marvel Animações",P-3 Doutor Estranho
+#EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/04/Doutor-Estranho-Filme-Anima%C3%A7%C3%A3o-Dublado.jpg" group-title="Marvel Animações",Doutor Estranho P3 (2007)
 http://www.blogger.com/video-play.mp4?contentId=106f9ce32172457c
 
-#EXTINF:-1 group-title="Marvel Animações",P-1 Hulk Vs. Thor
+#EXTINF:-1 group-title="Marvel Animações",Hulk Vs. Thor (2009)
 http://www.blogger.com/video-play.mp4?contentId=20e170b2f5a585bb
-#EXTINF:-1 group-title="Marvel Animações",P-1 Hulk Vs. Wolverine
+#EXTINF:-1 group-title="Marvel Animações",Hulk Vs. Wolverine (2009)
 http://www.blogger.com/video-play.mp4?contentId=b421d79317fa39cb
 
-#EXTINF:-1 group-title="Marvel Animações",P-1 Homem de Ferro e Hulk Super-Herois Unidos
+#EXTINF:-1 tvg-logo="https://goo.gl/Rh3C6I"  group-title="Marvel Animações",Iron Man A Batalha Contra Ezekiel Stane P1 (2013)
+http://www.blogger.com/video-play.mp4?contentId=7a99e4e7cda42802
+#EXTINF:-1 tvg-logo="https://goo.gl/Rh3C6I"  group-title="Marvel Animações",Iron Man A Batalha Contra Ezekiel Stane P2 (2013)
+http://www.blogger.com/video-play.mp4?contentId=ef7eb4a68c2ab056
+#EXTINF:-1 tvg-logo="https://goo.gl/Rh3C6I"  group-title="Marvel Animações",Iron Man A Batalha Contra Ezekiel Stane P3 (2013)
+http://www.blogger.com/video-play.mp4?contentId=bcbcbd08fce4fbf0
+
+
+
+#EXTINF:-1 group-title="Marvel Animações",Homem de Ferro e Hulk Super-Herois Unidos P1 (2013)
 http://www.blogger.com/video-play.mp4?contentId=91dfc27c056aa2c6
-#EXTINF:-1 group-title="Marvel Animações",P-2 Homem de Ferro e Hulk Super-Herois Unidos
+#EXTINF:-1 group-title="Marvel Animações",Homem de Ferro e Hulk Super-Herois Unidos P2 (2013)
 http://www.blogger.com/video-play.mp4?contentId=9b5817d9aaa6473b
 
-#EXTINF:-1 group-title="Marvel Animações",P-1 Homem de Ferro e Capitao America: Super-Herois Unidos
+#EXTINF:-1 group-title="Marvel Animações",Homem de Ferro e Capitao America: Super-Herois Unidos P1 (2014)
 http://www.blogger.com/video-play.mp4?contentId=ea3d2f3b1ebf9029
-#EXTINF:-1 group-title="Marvel Animações",P-2 Homem de Ferro e Capitao America: Super-Herois Unidos
+#EXTINF:-1 group-title="Marvel Animações",Homem de Ferro e Capitao America: Super-Herois Unidos P2 (2014)
 http://www.blogger.com/video-play.mp4?contentId=c9d88534159ca3b
+
+#EXTINF:-1 tvg-logo="http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/2-3.jpg"  group-title="Marvel Animações", Hulk: Onde Os Monstros Habitam (2017)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/HLKONDOSMNSTRHTBM.mp4
 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-0Vg64pSJTgI/U55L9im-S6I/AAAAAAAAPyM/xtyXHk4pdE0/s1600/O+Incr%C3%ADvel+Hulk+1966+(The+Incredible+Hulk)+capa+cover.jpg" group-title="O Incrível Hulk 1966",01 O Incrível Hulk 1966
