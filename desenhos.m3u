@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/04/25/15/04/460419.jpg" group-title="LANÇAMENTOS",AS AVENTURAS DE OZZY (2017)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/ASAVNTRSDOZY.mp4
+#EXTINF:-1 tvg-logo="https://stmed.net/sites/default/files/cats-%26-dogs%3A-the-revenge-of-kitty-galore-wallpapers-29449-5244789.jpg" group-title="LANÇAMENTOS",COMO CÃES E GATOS 2 (2010)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/CMCSEGTS2.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/54/50/20205559.jpg" group-title="LANÇAMENTOS",COMO CÃES E GATOS (2001)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/CMCSEGTS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/11/06/20/22/0021404.jpg" group-title="LANÇAMENTOS",DUDA E OS GNOMOS (2018)	
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/DUDEOSGNMS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/12/07/11/33/0502209.jpg" group-title="LANÇAMENTOS",VIVA: A VIDA É UMA FESTA (2018)
