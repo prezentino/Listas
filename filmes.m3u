@@ -1,8 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2018/05/04/909185-f4f182e638bf9c73ce8e99bcd296ca83-1200x600.jpg"  group-title="TORRENTS",VINGADORES: GUERRA INFINITA TORRENT (2018)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZxEZGA-QREE/maxresdefault.jpg"  group-title="TORRENTS",VINGADORES: GUERRA INFINITA TORRENT (2018)
 magnet:?xt=urn:btih:FF8EE2C4844B56CF20190FE3D7FACA9624B52332&dn=Vingadores%20%e2%80%93%20Guerra%20Infinita%202018%20%28720p%29%20%5bNEW%20PROPER%20HDCAM%5d%20WWW.LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce
-
-
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZxEZGA-QREE/maxresdefault.jpg"  group-title="ÚLTIMOS REDECANAIS",VINGADORES: GUERRA INFINITA CINEMA (2018)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNTCINEMA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",MINHA VIDA DAVA UM FILME (2013)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/MNHVDVAUMFLM.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",NASCIDO PARA MATAR (1987)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/NSCDPRMTR.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",O CULTO (2018)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OCLTO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",CREED: NASCIDO PARA LUTAR (2016)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/CRDNSCDPRLTR.mp4
 #EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",DOIS DOIDÕES EM HAVARD (2001)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/DOSDODESEMHRVD.mp4
 #EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",DOG SOLDIERS (2002)
