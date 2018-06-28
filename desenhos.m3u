@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS",O HOMEM DAS CAVERNAS (2018)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OHMNDSCVNS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/04/25/15/04/460419.jpg" group-title="LANÇAMENTOS",AS AVENTURAS DE OZZY (2017)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/ASAVNTRSDOZY.mp4
 #EXTINF:-1 tvg-logo="https://stmed.net/sites/default/files/cats-%26-dogs%3A-the-revenge-of-kitty-galore-wallpapers-29449-5244789.jpg" group-title="LANÇAMENTOS",COMO CÃES E GATOS 2 (2010)
@@ -46,12 +48,24 @@ https://rc-v1.filmesonline.top/RedeCanais/RCServer09/ondemand/SCBDFLM29.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/videothumbnails/16/10/17/16/26/158484.jpg" group-title="LANÇAMENTOS" , O Poderoso Chefinho (2017)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OPDRSOCFNHDUB.mp4
 
+#EXTINF:-1 tvg-logo="" group-title="Disney",BRANCA DE NEVE E OS SETE ANÕES (1938)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/BRANCDNCEOSTSANOES.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/75/69/19963902.jpg" group-title="Disney",BAMBI (1942)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/BMBI.mp4
+#EXTINF:-1 tvg-logo="" group-title="Disney",A CANÇÃO DO SUL (1946)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/ACANCDSL.mp4
+#EXTINF:-1 tvg-logo="" group-title="Disney",COMO É BOM SE DIVERTIR (1947)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/CMEBMSDVRT.mp4
+#EXTINF:-1 tvg-logo="" group-title="Disney",CINDERELA (1950)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/CNDRLA1950.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/InBU8Ng.jpg" group-title="Disney",Alice no País das Maravilhas (1951)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/ALCNPSDSMRVLHS1951.mp4
+#EXTINF:-1 tvg-logo="" group-title="Disney",PETER PAN (1953)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/PTRPN.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/SiaRtm2.jpg" group-title="Disney",101 Dálmatas: A Guerra dos Dálmatas (1961)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/101DMLTS1.mp4
+#EXTINF:-1 tvg-logo="" group-title="Disney",A ESPADA ERA A LEI (1964)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/AESPDERALEI.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/07/03/17/15/146710.jpg" group-title="Disney",MOGLI: O MENINO LOBO (1968)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/MGLIOMENIOLBO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/94/05/35/20299477.jpg" group-title="Disney",A DAMA E O VAGABUNDO (1975)
@@ -70,12 +84,16 @@ https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/REILAO02.mp4
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/REILAO03.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QZO7ivo.jpg" group-title="Disney",O CORCUNDA DE NOTRE DAME (1996)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/OCRCNDDNTRDM.mp4
+#EXTINF:-1 tvg-logo="" group-title="Disney",HÉRCULES (1997)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/HRCLS1997.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZDzeG38.jpg" group-title="Disney",MULAN (1998)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/MULAN01.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sGqzWYW.jpg" group-title="Disney",A PEQUENA SEREIA II O RETORNO PARA O MAR (2000)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/APQNSRAFILME02.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0X2z5z4.jpg" group-title="Disney",O CORCUNDA DE NOTRE DAME 2 (2002)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/OCRCNDDNTRDM2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Disney",MOGLI: O MENINO LOBO 2 (2002)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/MGLIOMENIOLBO2.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/APVADDF.jpg" group-title="Disney",101 Dálmatas 2: A Aventura de Patch em Londres (2003)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/101DMLTS2.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/y3QRyCT.jpg" group-title="Disney",MULAN 2: A LENDA CONTINUA (2004)
@@ -3318,6 +3336,56 @@ https://www.youtube.com/watch?v=kVH2MFFxKhE&t=3s
 https://www.youtube.com/watch?v=CBCRF7Zqvqk&t=4s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/He-Man_2002_logo.jpg" group-title="HE-MAN REMAKE",HE-MAN REMAKE E39
 https://www.youtube.com/watch?v=bESfPGJcPYk&t=114s
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA CURTAS 01
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNCT01.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA CURTAS 02
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNCT02.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA CURTAS 03
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNCT03.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA CURTAS 04
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNCT04.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA CURTAS 05
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNCT05.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA CURTAS 06
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNCT06.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP01
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP02
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP03
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP04
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP05
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP06
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP07
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP08
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP09
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP10
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP11
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP11.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP12
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP12.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP13
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP13.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP14
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP14.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP15
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP15.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP16
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP16.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP17
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP17.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP18
+https://rc-v2.filmesonline.top/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP18.mp4
+
 
 #EXTINF:-1 tvg-logo="http://goo.gl/ovHpyu" group-title="As Incriveis Aventuras de Jonny Quest ",1Jonny Quest
 http://www.blogger.com/video-play.mp4?contentId=358a01cd982a7236
