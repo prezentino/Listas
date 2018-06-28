@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS",O HOMEM DAS CAVERNAS (2018)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OHMNDSCVNS.mp4
+#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS",GNOMEU E JULIETA (2018)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/SHRLCKGNMSEOMSTRODJRDM.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/04/25/15/04/460419.jpg" group-title="LANÇAMENTOS",AS AVENTURAS DE OZZY (2017)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/ASAVNTRSDOZY.mp4
 #EXTINF:-1 tvg-logo="https://stmed.net/sites/default/files/cats-%26-dogs%3A-the-revenge-of-kitty-galore-wallpapers-29449-5244789.jpg" group-title="LANÇAMENTOS",COMO CÃES E GATOS 2 (2010)
@@ -103,6 +105,8 @@ http://lh3.googleusercontent.com/G-V3_UtLvJegVGnVqSUaObrzcyK0QHg9AsQnxEqsoJgRzUo
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PxS7aqwqXsI/WG7tbkl6AaI/AAAAAAAABPQ/-FZ9n8fFx3sCtBotXQGKhdrjNoJWpyKLACLcB/s1600/Capa-do-DVD-Carros-em-que-aparecem-varios-desenhos-de-carros-coloridos-e-com-expressoes-faciais1.jpg" group-title="Pixar", CARROS (2006)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/CARROS1.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SY1000_CR006741000_AL_.jpg" group-title="Pixar",WALL E (2008)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/WLLE.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IIj0y9gAlHc/WG7tbCK9utI/AAAAAAAABPM/aSv7ZTcacmwApRttTWEsytJxbimm6fkWQCLcB/s1600/Capa-Carros-2.jpg" group-title="Pixar", CARROS 2 (2011)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/CARROS2.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tsGuXZ" group-title="Pixar", CARS TOON: AS GRANDES HISTÓRIAS DO MATE (2010)
