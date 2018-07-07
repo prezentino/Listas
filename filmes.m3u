@@ -1,8 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZxEZGA-QREE/maxresdefault.jpg"  group-title="TORRENTS",VINGADORES: GUERRA INFINITA TORRENT (2018)
 magnet:?xt=urn:btih:FF8EE2C4844B56CF20190FE3D7FACA9624B52332&dn=Vingadores%20%e2%80%93%20Guerra%20Infinita%202018%20%28720p%29%20%5bNEW%20PROPER%20HDCAM%5d%20WWW.LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZxEZGA-QREE/maxresdefault.jpg"  group-title="ÚLTIMOS REDECANAIS",VINGADORES: GUERRA INFINITA CINEMA (2018)
-https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNTCINEMA.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",IMAGENS MOTAIS (2015)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/IMGNSMRTS.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",CÍRCULO DE FOGO: A REVOLTA (2018)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/CRLODEFGOARVLTA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",BATMAN: O HOMEM-MORCEGO (1966)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/BTMNOHMNMORCG.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",BELLE E SEBASTIAN: A AVENTURA CONTINUA (2017)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/BELESBSTANAVNTRCNT.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",A VIZINHANÇA ASSOMBRADA (2016)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/AVZNHAASBRDA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",A VIDA EM ESPERA (2018)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/AVDAEMESPRA.mp4
 #EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",MINHA VIDA DAVA UM FILME (2013)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/MNHVDVAUMFLM.mp4
 #EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",NASCIDO PARA MATAR (1987)
@@ -309,6 +320,18 @@ https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OSOLHSDJLIA.mp4
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OSNTDOFM.mp4
 #EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",O SHOW DE TRUMAN (1998)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OSHWDTRMN.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",OS DOZE CONDENADOS (1967)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OSDZCNDNDS.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",OS REIS DA PAQUERA (1987)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OREIDPQRA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",O PESTE (1997)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OPSTE.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",O PREÇO DE UM RESGATE (1997)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OPRCDUMRSGT.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",
+
 #EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",GUERREIROS DE FOGO (1985)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/GURSDFOG.mp4
 #EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",CARAVANA DA CORAGEM: UMA AVENTURA EWOK (1984)
@@ -393,7 +416,7 @@ https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/TRSLTRSEUMBB.mp4
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/RCRTSDPSDA.mp4
 #EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",MESTRES DO UNIVERSO (1988)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/MSTRDUNVRSO.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",A BÚSSULADE OURO (2007)
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",A BÚSSULA DE OURO (2007)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/ABSOLADORO.mp4
 #EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",A HISTÓRIA SEM FIM 3 (1994)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/AHSTSMFM3.mp4
@@ -512,54 +535,55 @@ http://cdn.micetop.us/content/httpdelivery/filmes2017/ITCOISADUB-ALTO.mp4?t=st=1
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3B2mEfQ.jpg" group-title="FilmesMarvel",HULK (2003)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3B2mEfQ.jpg" group-title="MarvelFilmes",HULK (2003)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/HULK.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/14/08/27/23/09/130788.jpg" group-title="FilmesMarvel"  ,HOMEM DE FERRO (2008)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/14/08/27/23/09/130788.jpg" group-title="MarvelFilmes"  ,HOMEM DE FERRO (2008)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/HMNDEFRO01.mp4
-#EXTINF:-1 tvg-logo="http://cinescopiotv.com/blog/wp-content/uploads/2015/04/Hulk.jpg" group-title="FilmesMarvel"  ,O INCRÍVEL HULK (2008)
+#EXTINF:-1 tvg-logo="http://cinescopiotv.com/blog/wp-content/uploads/2015/04/Hulk.jpg" group-title="MarvelFilmes"  ,O INCRÍVEL HULK (2008)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/OINCVLHLK.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_300_300/medias/nmedia/18/87/31/07/19874181.jpg" group-title="FilmesMarvel"  ,HOMEM DE FERRO 2 (2010)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_300_300/medias/nmedia/18/87/31/07/19874181.jpg" group-title="MarvelFilmes"  ,HOMEM DE FERRO 2 (2010)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/HMNDEFRO02.mp4
-#EXTINF:-1 tvg-logo="http://cdn.playbuzz.com/cdn/6ef253ba-124d-450f-838a-a166b1ef36a3/633e8e70-01f1-4f86-869f-3067cc33b8c0.jpg" group-title="FilmesMarvel"  ,THOR (2011)
+#EXTINF:-1 tvg-logo="http://cdn.playbuzz.com/cdn/6ef253ba-124d-450f-838a-a166b1ef36a3/633e8e70-01f1-4f86-869f-3067cc33b8c0.jpg" group-title="MarvelFilmes"  ,THOR (2011)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/THOR.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d8/Capit%C3%A3o_Am%C3%A9rica_O_Primeiro_Vingador_-_Poster.jpg" group-title="FilmesMarvel",CAPITÃO AMÉRICA: O PRIMEIRO VINGADOR (2011)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d8/Capit%C3%A3o_Am%C3%A9rica_O_Primeiro_Vingador_-_Poster.jpg" group-title="MarvelFilmes",CAPITÃO AMÉRICA: O PRIMEIRO VINGADOR (2011)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/CAPTAMRC1.mp4
-#EXTINF:-1 tvg-logo="https://eagoradezoito.files.wordpress.com/2012/05/os-vingadores.jpg" group-title="FilmesMarvel",OS VINGADORES (2012)
+#EXTINF:-1 tvg-logo="https://eagoradezoito.files.wordpress.com/2012/05/os-vingadores.jpg" group-title="MarvelFilmes",OS VINGADORES (2012)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/OSVGDRS.mp4
-#EXTINF:-1 tvg-logo="https://awesomeplayers.files.wordpress.com/2013/04/homem-de-ferro-3-iron-man-3-crc3adtica.jpg" group-title="FilmesMarvel"  ,HOMEM DE FERRO 3 (2013)
+#EXTINF:-1 tvg-logo="https://awesomeplayers.files.wordpress.com/2013/04/homem-de-ferro-3-iron-man-3-crc3adtica.jpg" group-title="MarvelFilmes"  ,HOMEM DE FERRO 3 (2013)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/HMNDEFRO03.mp4
-#EXTINF:-1 tvg-logo="http://filmesserieshd.com/wp-content/uploads/2015/05/thor-o-mundo-sombrio-1080p.jpg" group-title="FilmesMarvel",THOR: O MUNDO SOMBRIO (2013)
+#EXTINF:-1 tvg-logo="http://filmesserieshd.com/wp-content/uploads/2015/05/thor-o-mundo-sombrio-1080p.jpg" group-title="MarvelFilmes",THOR: O MUNDO SOMBRIO (2013)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/THOROMNDSBR.mp4
-#EXTINF:-1 tvg-logo="http://www.popground.com.br/wp-content/uploads/2014/03/capamerica2.png" group-title="FilmesMarvel",CAPITÃO AMÉRICA 2: O SOLDADO INVERNAL (2014)
+#EXTINF:-1 tvg-logo="http://www.popground.com.br/wp-content/uploads/2014/03/capamerica2.png" group-title="MarvelFilmes",CAPITÃO AMÉRICA 2: O SOLDADO INVERNAL (2014)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/CAPTAMRC2.mp4
-#EXTINF:-1 tvg-logo="http://phsantos.info/blog/wp-content/uploads/2014/08/wpid-gotg_wpw_teaser.jpg" group-title="FilmesMarvel",OS GUARDIÕES DA GALÁXIA (2014)
+#EXTINF:-1 tvg-logo="http://phsantos.info/blog/wp-content/uploads/2014/08/wpid-gotg_wpw_teaser.jpg" group-title="MarvelFilmes",OS GUARDIÕES DA GALÁXIA (2014)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/GRDOESDGLXIA.mp4
-#EXTINF:-1 tvg-logo="http://img1.olhardigital.uol.com.br/uploads/acervo_imagens/2015/01/20150113121337_660_420.jpg" group-title="FilmesMarvel",OS VINGADORES 2: A ERA DE ULTRON (2015)
+#EXTINF:-1 tvg-logo="http://img1.olhardigital.uol.com.br/uploads/acervo_imagens/2015/01/20150113121337_660_420.jpg" group-title="MarvelFilmes",OS VINGADORES 2: A ERA DE ULTRON (2015)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/VNGDRSEDURON.mp4
-#EXTINF:-1 tvg-logo="https://nerdeekqueens.files.wordpress.com/2015/08/check-out-the-new-ant-man-poster_qp5u-1920.jpg" group-title="FilmesMarvel",HOMEM-FORMIGA (2015)
+#EXTINF:-1 tvg-logo="https://nerdeekqueens.files.wordpress.com/2015/08/check-out-the-new-ant-man-poster_qp5u-1920.jpg" group-title="MarvelFilmes",HOMEM-FORMIGA (2015)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/HMNFRMGA.mp4
-#EXTINF:-1 tvg-logo="http://semantike.com/leviosa/wp-content/uploads/2016/05/maxresdefault.jpg" group-title="FilmesMarvel",CAPITÃO AMÉRICA 3: GUERRA CIVIL (2016)
+#EXTINF:-1 tvg-logo="http://semantike.com/leviosa/wp-content/uploads/2016/05/maxresdefault.jpg" group-title="MarvelFilmes",CAPITÃO AMÉRICA 3: GUERRA CIVIL (2016)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/CAPTAMRC3.mp4
-#EXTINF:-1 tvg-logo="http://minasnerds.com.br/wp-content/uploads/2016/10/Filme-Doutor-Estranho.jpg" group-title="FilmesMarvel",DOUTOR ESTRANHO (2016)
+#EXTINF:-1 tvg-logo="http://minasnerds.com.br/wp-content/uploads/2016/10/Filme-Doutor-Estranho.jpg" group-title="MarvelFilmes",DOUTOR ESTRANHO (2016)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/DRESTNHO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/08/078128.jpg" group-title="FilmesMarvel",GUARDIÕES DA GALÁXIA VOL. 2 (2017)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/08/078128.jpg" group-title="MarvelFilmes",GUARDIÕES DA GALÁXIA VOL. 2 (2017)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/GRDOESDGLXIAVL2.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/images.jpg" group-title="FilmesMarvel",HOMEM-ARANHA: DE VOLTA AO LAR (2017)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/images.jpg" group-title="MarvelFilmes",HOMEM-ARANHA: DE VOLTA AO LAR (2017)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/HOMARNHDVLTALR.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/175443.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="FilmesMarvel",THOR RAGNAROK (2017)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/175443.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="MarvelFilmes",THOR RAGNAROK (2017)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/THORAGORK.mp4
-#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2018/02/blogib_pantera-negra_feat.jpg" group-title="FilmesMarvel",PANTERA NEGRA (2018)
+#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2018/02/blogib_pantera-negra_feat.jpg" group-title="MarvelFilmes",PANTERA NEGRA (2018)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/PNTRNGR.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xCVWJ9p.jpg" group-title="FilmesDC",O HOMEM DE AÇO (2013)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZxEZGA-QREE/maxresdefault.jpg"  group-title="MarvelFilmes",VINGADORES: GUERRA INFINITA CINEMA (2018)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNTCINEMA.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xCVWJ9p.jpg" group-title="DCFilmes",O HOMEM DE AÇO (2013)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/OHMNDACO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover-5.jpg" group-title="FilmesDC",BATMAN VS SUPERMAN: A ORIGEM DA JUSTIÇA (2016)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/medium-cover-5.jpg" group-title="DCFilmes",BATMAN VS SUPERMAN: A ORIGEM DA JUSTIÇA (2016)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SY1000_CR006741000_AL_.jpg" group-title="FilmesDC",ESQUADRÃO SUICIDA (2016)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/10/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SY1000_CR006741000_AL_.jpg" group-title="DCFilmes",ESQUADRÃO SUICIDA (2016)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/ESQDSUCDA.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/S31Gyo" group-title="FilmesDC",MULHER-MARAVILHA (2017)
+#EXTINF:-1 tvg-logo="https://goo.gl/S31Gyo" group-title="DCFilmes",MULHER-MARAVILHA (2017)
 https://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/MLHRMRVLHA.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/lj.jpg"  group-title="FilmesDC",LIGA DA JUSTIÇA (2017)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/lj.jpg"  group-title="DCFilmes",LIGA DA JUSTIÇA (2017)
 https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/LGDJSTC.mp4
 
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/12/MV5BZmIyMDk5NGYtYjQ5NS00ZWQxLTg2YzQtZDk1ZmM4ZDBlN2E3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR006751000_AL_.jpg" group-title="X-Men",X-MEN O FILME (2000)
@@ -638,12 +662,14 @@ http://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/QRTFNTSCEOSFSTPRT.m
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhTrQXh.jpg" group-title="QUARTETO FANTÁSTICO",QUARTETO FANTÁSTICO (2015)
 http://cdn.micetop.us/content/httpdelivery/filmes2018/QUARTETOFANTASTICODUB-ALTO.mp4?t=st=1529359344~exp=1529373744~acl=/content/*~hmac=20ce159a39c956a964cb0b904325245d
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jl7aJuY.jpg" group-title="FRANK MILLER",SIN CITY: A CIDADE DO PECADO (2005)
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/SNCTYACDADPCDO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jl7aJuY.jpg" group-title="FRANK MILLER",300 (2007)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/300.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JeK5qQF.jpg" group-title="FRANK MILLER",300: A ASCENSÃO DO IMPÉRIO (2014)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/300AASCSDIMPRO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/14/08/04/16/42/019087.jpg" group-title="FRANK MILLER",SIN CITY: A DAMA FATAL (2014)
-https://lh3.googleusercontent.com/19nSJ-PeVnWUyMQ1pvPlyjTTubONX_6q0dlwuKYPqo2kPXMML2ArW3ofI9HXIl3yy30=m18
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/SNCTYADMFTL.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eB0wNCb.jpg" group-title="Superman",SUPERMAN O FILME (1978)
 http://rc-v1.filmesonline.top/RedeCanais/RCFServer1/ondemand/SPRMN1.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iodGtKgl.jpg" group-title="Superman",SUPERMAN 2 A AVENTURA CONTINUA (1980)
