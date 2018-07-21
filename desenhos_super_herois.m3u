@@ -2217,9 +2217,9 @@ http://cdn2.micetop.us/content/delivery/constantinecd/01leg/04-ALTO.mp4?t=st=153
 #EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/constantine-city-of-demons-2926-poster.jpg" group-title="Constantine",Constantine S01E05
 http://cdn2.micetop.us/content/delivery/constantinecd/01leg/05-ALTO.mp4?t=st=1531940512~exp=1531954912~acl=/content/*~hmac=c61d57bf36c7188d3d0de6f561a6b9e8
 
-#EXTINF:-1 tvg-logo="" group-title="Marvel Animações",OS SUPREMOS: O FILME (2005)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/89/98/19962693.jpg" group-title="Marvel Animações",OS SUPREMOS: O FILME (2005)
 https://t2.thooop.top/RedeCanais/RCFServer4/ondemand/OSSPRMS.mp4
-#EXTINF:-1 tvg-logo="" group-title="Marvel Animações",OS SUPREMOS 2: DESCUBRA O PODER DA PANTERA (2006)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/96/73/19994381.jpg" group-title="Marvel Animações",OS SUPREMOS 2: DESCUBRA O PODER DA PANTERA (2006)
 https://t2.thooop.top/RedeCanais/RCFServer4/ondemand/OSSPRMS2.mp4
 
 #EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/04/Doutor-Estranho-Filme-Anima%C3%A7%C3%A3o-Dublado.jpg" group-title="Marvel Animações",Doutor Estranho P1 (2007)
@@ -2229,9 +2229,12 @@ http://www.blogger.com/video-play.mp4?contentId=a5897eb481db9b11
 #EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/04/Doutor-Estranho-Filme-Anima%C3%A7%C3%A3o-Dublado.jpg" group-title="Marvel Animações",Doutor Estranho P3 (2007)
 http://www.blogger.com/video-play.mp4?contentId=106f9ce32172457c
 
-#EXTINF:-1 group-title="Marvel Animações",Hulk Vs. Thor (2009)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/81/18/19969112.jpg" group-title="Marvel Animações",O INVENCÍVEL HOMEM DE FERRO (2007)
+https://t2.thooop.top/RedeCanais/RCFServer4/ondemand/OINCRVLHMNDFRO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B6c7zVL.jpg" group-title="Marvel Animações",Hulk Vs. Thor (2009)
 http://www.blogger.com/video-play.mp4?contentId=20e170b2f5a585bb
-#EXTINF:-1 group-title="Marvel Animações",Hulk Vs. Wolverine (2009)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91BZhQpxORL._SY445_.jpg" group-title="Marvel Animações",Hulk Vs. Wolverine (2009)
 http://www.blogger.com/video-play.mp4?contentId=b421d79317fa39cb
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Rh3C6I"  group-title="Marvel Animações",Iron Man A Batalha Contra Ezekiel Stane P1 (2013)
@@ -2243,14 +2246,14 @@ http://www.blogger.com/video-play.mp4?contentId=bcbcbd08fce4fbf0
 
 
 
-#EXTINF:-1 group-title="Marvel Animações",Homem de Ferro e Hulk Super-Herois Unidos P1 (2013)
+#EXTINF:-1 tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/cartazhomemdeferro_cartaz_220x283.jpg" group-title="Marvel Animações",Homem de Ferro e Hulk Super-Herois Unidos P1 (2013)
 http://www.blogger.com/video-play.mp4?contentId=91dfc27c056aa2c6
-#EXTINF:-1 group-title="Marvel Animações",Homem de Ferro e Hulk Super-Herois Unidos P2 (2013)
+#EXTINF:-1 tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/cartazhomemdeferro_cartaz_220x283.jpg" group-title="Marvel Animações",Homem de Ferro e Hulk Super-Herois Unidos P2 (2013)
 http://www.blogger.com/video-play.mp4?contentId=9b5817d9aaa6473b
 
-#EXTINF:-1 group-title="Marvel Animações",Homem de Ferro e Capitao America: Super-Herois Unidos P1 (2014)
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/4bZixH8oWwRVai0Ireox9j856kw=/fit-in/210x312/smart/media/movies/covers/2014/08/iron-man-captain-america-heroes-united_tNone.jpg" group-title="Marvel Animações",Homem de Ferro e Capitao America: Super-Herois Unidos P1 (2014)
 http://www.blogger.com/video-play.mp4?contentId=ea3d2f3b1ebf9029
-#EXTINF:-1 group-title="Marvel Animações",Homem de Ferro e Capitao America: Super-Herois Unidos P2 (2014)
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/4bZixH8oWwRVai0Ireox9j856kw=/fit-in/210x312/smart/media/movies/covers/2014/08/iron-man-captain-america-heroes-united_tNone.jpg" group-title="Marvel Animações",Homem de Ferro e Capitao America: Super-Herois Unidos P2 (2014)
 http://www.blogger.com/video-play.mp4?contentId=c9d88534159ca3b
 
 #EXTINF:-1 tvg-logo="http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/2-3.jpg"  group-title="Marvel Animações", Hulk: Onde Os Monstros Habitam (2017)
