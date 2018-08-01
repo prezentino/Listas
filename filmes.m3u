@@ -1,10 +1,10 @@
 #EXTM3U
-
-
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg" group-title="DESTAQUES",VINGADORES: GUERRA INFINITA (2018)
+http://cdnvod02.akamaized.net/content/delivery/filmes2018/VINGADOR4SDUB-ALTO.mp4?token=st=1533163780~exp=1533178180~acl=/content/*~hmac=6a59aa75368f6aa5c94115c11ca5eff6
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/18/17/25/4723738.jpg" group-title="DESTAQUES",JURASSIC WORLD:REINO AMEAÇADO (2018)
-http://cdn2.micetop.us/content/delivery/filmes2018/JURASSICWFK-ALTO.mp4?t=st=1532962890~exp=1532977290~acl=/content/*~hmac=bc4ddf9c5301083d2000e9cd1554e0f6
+http://cdnvod02.akamaized.net/content/delivery/filmes2018/JURASSICWFK-ALTO.mp4?token=st=1533164019~exp=1533178419~acl=/content/*~hmac=f07fe7382987ea8cc7cd41c6d0ac19a0
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/19/15/31/2232385.jpg" group-title="DESTAQUES",DEADPOOL 2 (2018)
-http://cdn2.micetop.us/content/delivery/filmes2018/POOLEG-ALTO.mp4?t=st=1532962594~exp=1532976994~acl=/content/*~hmac=e60c223617308814451c9bce733c08f2
+http://cdnvod02.akamaized.net/content/delivery/filmes2018/POOLEG-ALTO.mp4?token=st=1533163947~exp=1533178347~acl=/content/*~hmac=626a1d1bb3dc3e568c349ac062da9391
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/96/93/18/20497001.jpg" group-title="ÚLTIMOS REDECANAIS",TRAINSPOTTING (1996)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/TRNSPTSMLMTS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/05/09/21/03/326587.jpg" group-title="ÚLTIMOS REDECANAIS",SOB A PELE (2014)
@@ -590,7 +590,7 @@ https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/AHSTSMFM2.mp4
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/AHSTSMFM.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/13/12/10/14/20/287941.jpg" group-title="ÚLTIMOS REDECANAIS",WILLOW: NA TERRA DA MAGIA (1988)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/WLWNTRADMAGA.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",SPAWN: O SOLDADO DO INFERNO (1997)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/22/48/19873287.jpg" group-title="ÚLTIMOS REDECANAIS",SPAWN: O SOLDADO DO INFERNO (1997)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/SPWMPSLDINFN.mp4
 
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/post.jpg" group-title="ÚLTIMOS REDECANAIS",THE POST: A GUERRA SECRETA (2018)
@@ -739,8 +739,8 @@ https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/HOMARNHDVLTALR.mp4
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/THORAGORK.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/07/16/09/2291532.jpg" group-title="MarvelFilmes",PANTERA NEGRA (2018)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/PNTRNGR.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg"  group-title="MarvelFilmes",VINGADORES: GUERRA INFINITA CINEMA (2018)
-https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNTCINEMA.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg"  group-title="MarvelFilmes",VINGADORES: GUERRA INFINITA (2018)
+http://cdnvod02.akamaized.net/content/delivery/filmes2018/VINGADOR4SDUB-ALTO.mp4?token=st=1533163780~exp=1533178180~acl=/content/*~hmac=6a59aa75368f6aa5c94115c11ca5eff6
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/057/21005782_20130514172205617.jpg" group-title="DCFilmes",O HOMEM DE AÇO (2013)
 https://sv1.cometa.top/RedeCanais/RCFServer1/ondemand/OHMNDACO.mp4
@@ -829,7 +829,7 @@ http://sv1.cometa.top/RedeCanais/RCFServer2/ondemand/QRTFNTSCEOSFSTPRT.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhTrQXh.jpg" group-title="QUARTETO FANTÁSTICO",QUARTETO FANTÁSTICO (2015)
 http://cdn.micetop.us/content/httpdelivery/filmes2018/QUARTETOFANTASTICODUB-ALTO.mp4?t=st=1531940512~exp=1531954912~acl=/content/*~hmac=c61d57bf36c7188d3d0de6f561a6b9e8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jl7aJuY.jpg" group-title="FRANK MILLER",SIN CITY: A CIDADE DO PECADO (2005)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/20/58/19873090.jpg" group-title="FRANK MILLER",SIN CITY: A CIDADE DO PECADO (2005)
 https://sv1.cometa.top/RedeCanais/RCFServer4/ondemand/SNCTYACDADPCDO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jl7aJuY.jpg" group-title="FRANK MILLER",300 (2007)
 http://sv1.cometa.top/RedeCanais/RCFServer1/ondemand/300.mp4
@@ -4973,7 +4973,7 @@ https://www.youtube.com/watch?v=RX3VTQzDysc
 http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA S",Spartacus-DUB
 https://www.youtube.com/watch?v=I3eQijXXuMM
-#EXTINF:-1 tvg-logo="http://www.joblo.com/images_arrownews/spawn6.jpg" group-title="LETRA S",SPAWN 1080P (1997)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/22/48/19873287.jpg" group-title="LETRA S",SPAWN (1997)
 http://ic-bb7af300-11442e-5bjdobr.s.loris.llnwd.net/RedeCanais/RCFServer4/ondemand/SPWMPSLDINF.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6IA0icU.jpg" group-title="LETRA S",SPEED RACER (2008)
 http://sv1.cometa.top/RedeCanais/RCFServer1/ondemand/SPDRCR.mp4
