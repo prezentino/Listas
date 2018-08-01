@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZxEZGA-QREE/maxresdefault.jpg"  group-title="TORRENTS",VINGADORES: GUERRA INFINITA TORRENT (2018)
-magnet:?xt=urn:btih:FF8EE2C4844B56CF20190FE3D7FACA9624B52332&dn=Vingadores%20%e2%80%93%20Guerra%20Infinita%202018%20%28720p%29%20%5bNEW%20PROPER%20HDCAM%5d%20WWW.LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce
+
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/18/17/25/4723738.jpg" group-title="DESTAQUES",JURASSIC WORLD:REINO AMEAÇADO (2018)
 http://cdn2.micetop.us/content/delivery/filmes2018/JURASSICWFK-ALTO.mp4?t=st=1532962890~exp=1532977290~acl=/content/*~hmac=bc4ddf9c5301083d2000e9cd1554e0f6
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/19/15/31/2232385.jpg" group-title="DESTAQUES",DEADPOOL 2 (2018)
@@ -12,7 +11,7 @@ https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/TRNSPTSMLMTS.mp4
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/SOBAPLE.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/30/74/19874146.jpg" group-title="ÚLTIMOS REDECANAIS",LULA: O FILHO DO BRASIL (2010)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/LULOFLHDBR.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",A NOITE DO JOGO (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/02/01/19/21/1970542.jpg" group-title="ÚLTIMOS REDECANAIS",A NOITE DO JOGO (2018)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/ANTDJGO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/06/20/10/05/5494076.jpg" group-title="ÚLTIMOS REDECANAIS",TAU (2018)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/TAU.mp4
@@ -20,33 +19,33 @@ https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/TAU.mp4
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/MARMDLNA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/05/19/50/5994305.jpg" group-title="ÚLTIMOS REDECANAIS",RAMPAGE: DESTRUIÇÃO TOTAL (2018)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/RMPGEDSTRCAOTL.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",PLANO QUASE PERFEITO (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/05/12/14/49/107633.jpg" group-title="ÚLTIMOS REDECANAIS",PLANO QUASE PERFEITO (2018)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/PLNOQSEPRFTO.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",PERIGO PRÓXIMO (2017)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/09/14/09/09/5617441.jpg" group-title="ÚLTIMOS REDECANAIS",PERIGO PRÓXIMO (2017)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/PRGOPRXMO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/10/19/11/1325949.jpg" group-title="ÚLTIMOS REDECANAIS",PAULO, O APÓSTOLOS DE CRISTO (2018)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/PALOAPSTLODCRST.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/01/25/16/50/4714941.jpg" group-title="ÚLTIMOS REDECANAIS",NADA A PERDER (2018)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/NDAPRDR.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",MINHA PRIMEIRA CAÇADA (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/06/28/11/30/0138382.jpg" group-title="ÚLTIMOS REDECANAIS",MINHA PRIMEIRA CAÇADA (2018)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/MNHAPRMRACACDA.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",JOGADOR Nº 1 (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/02/27/19/16/0695165.jpg" group-title="ÚLTIMOS REDECANAIS",JOGADOR Nº 1 (2018)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/JGDRN1.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",ELLA E JOHN (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/03/16/20/32/2365102.jpg" group-title="ÚLTIMOS REDECANAIS",ELLA E JOHN (2018)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/ELEJHN.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",CONDORITO: O FILME (2017)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/06/23/19/41/320742.jpg" group-title="ÚLTIMOS REDECANAIS",CONDORITO: O FILME (2017)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/CONDRTOFLM.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",BOM COMPORTAMENTO (2017)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/10/07/14/25/5281369.jpg" group-title="ÚLTIMOS REDECANAIS",BOM COMPORTAMENTO (2017)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/BOMCOMPRTMNTO.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",AMIGOS DA CLÍNICA (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/05/28/20/30/3867254.jpg" group-title="ÚLTIMOS REDECANAIS",AMIGOS DA CLÍNICA (2018)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/AMGSDCLNC.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",ALÉM DAS ÁGUAS (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/05/30/21/09/1979927.jpg" group-title="ÚLTIMOS REDECANAIS",ALÉM DAS ÁGUAS (2018)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/ALMDSAGUA.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",VAMPIROS DE JOHN CARPENTER (1997)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/87/49/19962432.jpg" group-title="ÚLTIMOS REDECANAIS",VAMPIROS DE JOHN CARPENTER (1997)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/VMPRSDJHNCRPTER.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",UM SONHO DISTANTE (1992)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/22/66/19873305.jpg" group-title="ÚLTIMOS REDECANAIS",UM SONHO DISTANTE (1992)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/UMSNHODSTNTE.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",UMA LUZ NA ESCURIDÃO (1992)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/59/57/20103838.jpg" group-title="ÚLTIMOS REDECANAIS",UMA LUZ NA ESCURIDÃO (1992)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/UMLZNAESCRDAO.mp4
 #EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",UM EVENTO FELIZ (2012)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/UMEVNTFELZ.mp4
@@ -738,9 +737,9 @@ https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/GRDOESDGLXIAVL2.mp4
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/HOMARNHDVLTALR.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/175443.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="MarvelFilmes",THOR RAGNAROK (2017)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/THORAGORK.mp4
-#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2018/02/blogib_pantera-negra_feat.jpg" group-title="MarvelFilmes",PANTERA NEGRA (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/07/16/09/2291532.jpg" group-title="MarvelFilmes",PANTERA NEGRA (2018)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/PNTRNGR.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZxEZGA-QREE/maxresdefault.jpg"  group-title="MarvelFilmes",VINGADORES: GUERRA INFINITA CINEMA (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg"  group-title="MarvelFilmes",VINGADORES: GUERRA INFINITA CINEMA (2018)
 https://sv2.cometa.top/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNTCINEMA.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/057/21005782_20130514172205617.jpg" group-title="DCFilmes",O HOMEM DE AÇO (2013)
