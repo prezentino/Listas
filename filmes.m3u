@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg" group-title="DESTAQUES",VINGADORES: GUERRA INFINITA (2018)
-http://cdnvod02.akamaized.net/content/delivery/filmes2018/VINGADOR4SDUB-ALTO.mp4?token=st=1533163780~exp=1533178180~acl=/content/*~hmac=6a59aa75368f6aa5c94115c11ca5eff6
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg" group-title="DESTAQUES",VINGADORES: GUERRA INFINITA LEG (2018)
+https://cdn-r2.akamaized.net/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNTLEG.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/18/17/25/4723738.jpg" group-title="DESTAQUES",JURASSIC WORLD:REINO AMEAÇADO (2018)
 http://cdnvod02.akamaized.net/content/delivery/filmes2018/JURASSICWFK-ALTO.mp4?token=st=1533164019~exp=1533178419~acl=/content/*~hmac=f07fe7382987ea8cc7cd41c6d0ac19a0
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/19/15/31/2232385.jpg" group-title="DESTAQUES",DEADPOOL 2 (2018)
@@ -496,17 +496,17 @@ https://cdn-r2.akamaized.net/RedeCanais/RCFServer4/ondemand/OCRTCO.mp4
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",
 
 
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",GUERREIROS DE FOGO (1985)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/36/75/20435019.jpg" group-title="FANTASIA",GUERREIROS DE FOGO (1985)
 https://cdn-r2.akamaized.net/RedeCanais/RCFServer4/ondemand/GURSDFOG.mp4
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",CARAVANA DA CORAGEM: UMA AVENTURA EWOK (1984)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/09/05/16/56/481717.jpg" group-title="AVENTURA",CARAVANA DA CORAGEM: UMA AVENTURA EWOK (1984)
 https://cdn-r2.akamaized.net/RedeCanais/RCFServer4/ondemand/CRVNDCRGMUMAVTEWK.mp4
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",CARAVANA DA CORAGEM: A BATALHA DE ENDOR (1986)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/83/27/94/19680430.jpg" group-title="AVENTURA",CARAVANA DA CORAGEM: A BATALHA DE ENDOR (1986)
 https://cdn-r2.akamaized.net/RedeCanais/RCFServer4/ondemand/CRVNDCRGMABTLHENDR.mp4
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",COLHEITA MALDITA (1984)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/14/12/01/19/19/491221.jpg" group-title="ÚLTIMOS REDECANAIS",COLHEITA MALDITA (1984)
 https://cdn-r2.akamaized.net/RedeCanais/RCFServer4/ondemand/CLHTMLDTA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/86/97/27/19870678.jpg" group-title="ÚLTIMOS REDECANAIS",BEN HUR (2016)
 https://cdn-r2.akamaized.net/RedeCanais/RCFServer4/ondemand/BENHUR2016.mp4
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",A ROCHA (1996)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/07/08/16/06/019415.jpg" group-title="ÚLTIMOS REDECANAIS",A ROCHA (1996)
 https://cdn-r2.akamaized.net/RedeCanais/RCFServer4/ondemand/ARCHA.mp4
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",AMISTAD (1998)
 https://cdn-r2.akamaized.net/RedeCanais/RCFServer4/ondemand/AMSTAD.mp4
@@ -701,36 +701,36 @@ http://cdn.micetop.us/content/httpdelivery/filmes2017/ITCOISADUB-ALTO.mp4?t=st=1
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3B2mEfQ.jpg" group-title="MarvelFilmes",HULK (2003)
-https://cdn-r2.akamaized.net/RedeCanais/RCFServer1/ondemand/HULK.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/14/08/27/23/09/130788.jpg" group-title="MarvelFilmes"  ,HOMEM DE FERRO (2008)
-https://cdn-r2.akamaized.net/RedeCanais/RCFServer1/ondemand/HMNDEFRO01.mp4
-#EXTINF:-1 tvg-logo="http://cinescopiotv.com/blog/wp-content/uploads/2015/04/Hulk.jpg" group-title="MarvelFilmes"  ,O INCRÍVEL HULK (2008)
-https://cdn-r2.akamaized.net//RedeCanais/RCFServer1/ondemand/OINCVLHLK.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/bzp/01/34509.jpg" group-title="MarvelFilmes",HULK (2003)
+https://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/HULK.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/14/08/27/23/09/130788.jpg" group-title="MarvelFilmes",HOMEM DE FERRO (2008)
+https://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/HMNDEFRO01.mp4
+#EXTINF:-1 tvg-logo="http://cinescopiotv.com/blog/wp-content/uploads/2015/04/Hulk.jpg" group-title="MarvelFilmes",O INCRÍVEL HULK (2008)
+https://cdn-r1.akamaized.net//RedeCanais/RCFServer1/ondemand/OINCVLHLK.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_300_300/medias/nmedia/18/87/31/07/19874181.jpg" group-title="MarvelFilmes",HOMEM DE FERRO 2 (2010)
-https://cdn-r2.akamaized.net/RedeCanais/RCFServer1/ondemand/HMNDEFRO02.mp4
+https://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/HMNDEFRO02.mp4
 #EXTINF:-1 tvg-logo="http://cdn.playbuzz.com/cdn/6ef253ba-124d-450f-838a-a166b1ef36a3/633e8e70-01f1-4f86-869f-3067cc33b8c0.jpg" group-title="MarvelFilmes"  ,THOR (2011)
-https://cdn-r2.akamaized.net/RedeCanais/RCFServer1/ondemand/THOR.mp4
+https://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/THOR.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d8/Capit%C3%A3o_Am%C3%A9rica_O_Primeiro_Vingador_-_Poster.jpg" group-title="MarvelFilmes",CAPITÃO AMÉRICA: O PRIMEIRO VINGADOR (2011)
-https://cdn-r2.akamaized.net/RedeCanais/RCFServer2/ondemand/CAPTAMRC1.mp4
+https://cdn-r1.akamaized.net/RedeCanais/RCFServer2/ondemand/CAPTAMRC1.mp4
 #EXTINF:-1 tvg-logo="https://eagoradezoito.files.wordpress.com/2012/05/os-vingadores.jpg" group-title="MarvelFilmes",OS VINGADORES (2012)
-https://cdn-r2.akamaized.net/RedeCanais/RCFServer1/ondemand/OSVGDRS.mp4
+https://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/OSVGDRS.mp4
 #EXTINF:-1 tvg-logo="https://awesomeplayers.files.wordpress.com/2013/04/homem-de-ferro-3-iron-man-3-crc3adtica.jpg" group-title="MarvelFilmes",HOMEM DE FERRO 3 (2013)
-https://cdn-r2.akamaized.net/RedeCanais/RCFServer1/ondemand/HMNDEFRO03.mp4
+https://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/HMNDEFRO03.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/240/21024039_20130801212713895.jpg" group-title="MarvelFilmes",THOR: O MUNDO SOMBRIO (2013)
-https://cdn-r2.akamaized.net/RedeCanais/RCFServer1/ondemand/THOROMNDSBR.mp4
+https://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/THOROMNDSBR.mp4
 #EXTINF:-1 tvg-logo="http://www.popground.com.br/wp-content/uploads/2014/03/capamerica2.png" group-title="MarvelFilmes",CAPITÃO AMÉRICA 2: O SOLDADO INVERNAL (2014)
-https://cdn-r2.akamaized.net/RedeCanais/RCFServer2/ondemand/CAPTAMRC2.mp4
+https://cdn-r1.akamaized.net/RedeCanais/RCFServer2/ondemand/CAPTAMRC2.mp4
 #EXTINF:-1 tvg-logo="http://phsantos.info/blog/wp-content/uploads/2014/08/wpid-gotg_wpw_teaser.jpg" group-title="MarvelFilmes",OS GUARDIÕES DA GALÁXIA (2014)
-https://cdn-r2.akamaized.net/RedeCanais/RCFServer2/ondemand/GRDOESDGLXIA.mp4
+https://cdn-r1.akamaized.net/RedeCanais/RCFServer2/ondemand/GRDOESDGLXIA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/02/24/18/27/528824.jpg" group-title="MarvelFilmes",OS VINGADORES 2: A ERA DE ULTRON (2015)
-https://cdn-r2.akamaized.net/RedeCanais/RCFServer3/ondemand/VNGDRSEDURON.mp4
+https://cdn-r1.akamaized.net/RedeCanais/RCFServer3/ondemand/VNGDRSEDURON.mp4
 #EXTINF:-1 tvg-logo="https://nerdeekqueens.files.wordpress.com/2015/08/check-out-the-new-ant-man-poster_qp5u-1920.jpg" group-title="MarvelFilmes",HOMEM-FORMIGA (2015)
-https://cdn-r2.akamaized.net/RedeCanais/RCFServer2/ondemand/HMNFRMGA.mp4
+https://cdn-r1.akamaized.net/RedeCanais/RCFServer2/ondemand/HMNFRMGA.mp4
 #EXTINF:-1 tvg-logo="http://semantike.com/leviosa/wp-content/uploads/2016/05/maxresdefault.jpg" group-title="MarvelFilmes",CAPITÃO AMÉRICA 3: GUERRA CIVIL (2016)
-https://cdn-r2.akamaized.net/RedeCanais/RCFServer3/ondemand/CAPTAMRC3.mp4
+https://cdn-r1.akamaized.net/RedeCanais/RCFServer3/ondemand/CAPTAMRC3.mp4
 #EXTINF:-1 tvg-logo="http://minasnerds.com.br/wp-content/uploads/2016/10/Filme-Doutor-Estranho.jpg" group-title="MarvelFilmes",DOUTOR ESTRANHO (2016)
-https://cdn-r2.akamaized.net/RedeCanais/RCFServer3/ondemand/DRESTNHO.mp4
+https://cdn-r1.akamaized.net/RedeCanais/RCFServer3/ondemand/DRESTNHO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/08/078128.jpg" group-title="MarvelFilmes",GUARDIÕES DA GALÁXIA VOL. 2 (2017)
 https://cdn-r2.akamaized.net/RedeCanais/RCFServer4/ondemand/GRDOESDGLXIAVL2.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/images.jpg" group-title="MarvelFilmes",HOMEM-ARANHA: DE VOLTA AO LAR (2017)
@@ -739,8 +739,8 @@ https://cdn-r2.akamaized.net/RedeCanais/RCFServer4/ondemand/HOMARNHDVLTALR.mp4
 https://cdn-r2.akamaized.net/RedeCanais/RCFServer4/ondemand/THORAGORK.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/07/16/09/2291532.jpg" group-title="MarvelFilmes",PANTERA NEGRA (2018)
 https://cdn-r2.akamaized.net/RedeCanais/RCFServer4/ondemand/PNTRNGR.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg"  group-title="MarvelFilmes",VINGADORES: GUERRA INFINITA (2018)
-http://cdnvod02.akamaized.net/content/delivery/filmes2018/VINGADOR4SDUB-ALTO.mp4?token=st=1533163780~exp=1533178180~acl=/content/*~hmac=6a59aa75368f6aa5c94115c11ca5eff6
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg"  group-title="MarvelFilmes",VINGADORES: GUERRA INFINITA LEG (2018)
+https://cdn-r2.akamaized.net/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNTLEG.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/057/21005782_20130514172205617.jpg" group-title="DCFilmes",O HOMEM DE AÇO (2013)
 https://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/OHMNDACO.mp4
@@ -820,7 +820,7 @@ https://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/OESPTCLHMNARNH02.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HQFzxVt.jpg" group-title="MOTOQUEIRO FANTASMA",MOTOQUEIRO FANTASMA (2007)
 http://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/MTQRFNTSM01.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/P10YOOx.jpg" group-title="MOTOQUEIRO FANTASMA",MOTOQUEIRO FANTASMA ESPÍRITO DE VINGANÇA (2012)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/P10YOOx.jpg" group-title="MOTOQUEIRO FANTASMA",MOTOQUEIRO FANTASMA: ESPÍRITO DE VINGANÇA (2012)
 http://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/MTQRFNTSM02.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BfJk7sQ.jpg" group-title="QUARTETO FANTÁSTICO",QUARTETO FANTÁSTICO (2005)
 http://cdn-r1.akamaized.net/RedeCanais/RCFServer2/ondemand/QRTFNTSC.mp4
@@ -837,7 +837,7 @@ http://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/300.mp4
 http://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/300AASCSDIMPRO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/14/08/04/16/42/019087.jpg" group-title="FRANK MILLER",SIN CITY: A DAMA FATAL (2014)
 https://cdn-r1.akamaized.net/RedeCanais/RCFServer4/ondemand/SNCTYADMFTL.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eB0wNCb.jpg" group-title="Superman",SUPERMAN O FILME (1978)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/90/86/39/20116780.jpg" group-title="Superman",SUPERMAN O FILME (1978)
 http://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/SPRMN1.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iodGtKgl.jpg" group-title="Superman",SUPERMAN 2 A AVENTURA CONTINUA (1980)
 http://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/SPRMN2.mp4
@@ -2705,7 +2705,7 @@ http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
 https://www.youtube.com/watch?v=E1OvA9QM2FE
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/h/om/kffyb_tnl_210x118.jpg?ts=20140623175915" group-title="LETRA F" pltv-subgroup="Comédia",Feitico da Lua Comédia Dublado
 http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/d/f6/t4ylf_tnl_210x118.jpg?ts=20140405033900" group-title="LETRA F" pltv-subgroup="Ficção Científica",Feitico do Tempo Dublado Ficção
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/13/12/16/16/25/338246.jpg" group-title="COMÉDIA" pltv-subgroup="Ficção Científica",FEITIÇO DO TEMPO (1993)
 http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/RxRW7c" group-title="LETRA F",FEITO NA AMÉRICA LEG (2017)
 http://cdn.micetop.us/content/httpdelivery/filmes2017/AM2017LEG-ALTO.mp4?t=st=1531940512~exp=1531954912~acl=/content/*~hmac=c61d57bf36c7188d3d0de6f561a6b9e8
