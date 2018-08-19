@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg" group-title="DESTAQUES",VINGADORES: GUERRA INFINITA LEG (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg" group-title="DESTAQUES",VINGADORES: GUERRA INFINITA (2018)
 https://server2.cometa.top/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/18/17/25/4723738.jpg" group-title="DESTAQUES",JURASSIC WORLD:REINO AMEAÇADO (2018)
 http://cdnvod02.akamaized.net/content/delivery/filmes2018/JURASSICWFK-ALTO.mp4?token=st=1533164019~exp=1533178419~acl=/content/*~hmac=f07fe7382987ea8cc7cd41c6d0ac19a0
@@ -759,8 +759,8 @@ https://server2.cometa.top/RedeCanais/RCFServer4/ondemand/HOMARNHDVLTALR.mp4
 https://server2.cometa.top/RedeCanais/RCFServer4/ondemand/THORAGORK.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/07/16/09/2291532.jpg" group-title="MarvelFilmes",PANTERA NEGRA (2018)
 https://server2.cometa.top/RedeCanais/RCFServer4/ondemand/PNTRNGR.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg"  group-title="MarvelFilmes",VINGADORES: GUERRA INFINITA LEG (2018)
-https://server2.cometa.top/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNTLEG.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg"  group-title="MarvelFilmes",VINGADORES: GUERRA INFINITA (2018)
+https://server2.cometa.top/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/057/21005782_20130514172205617.jpg" group-title="DCFilmes",O HOMEM DE AÇO (2013)
 https://server1.cometa.top/RedeCanais/RCFServer1/ondemand/OHMNDACO.mp4
