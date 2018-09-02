@@ -1973,15 +1973,15 @@ http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer01/videos/GMOFTRT02EP
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Game_of_Thrones_Season_2.jpg" group-title="GAME OF THRONES",GoT S02E10 Valar Morghulis – Season Finale
 http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer01/videos/GMOFTRT02EP10.mp4
 #EXTINF:-1 tvg-logo="http://www.blu-rayshop.gr/images/blurayshopphotofab1ed0532dfa255f886fbec9b597dd9_7597.jpg" group-title="GAME OF THRONES",GoT S03E01 Valar Dohaeris
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer04/ondemand/GMOFTRT03EP01.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer04/ondemand/GMOFTRT03EP01.mp4
 #EXTINF:-1 tvg-logo="http://www.blu-rayshop.gr/images/blurayshopphotofab1ed0532dfa255f886fbec9b597dd9_7597.jpg" group-title="GAME OF THRONES",GoT S03E02 Dark Wings Dark Words
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer04/ondemand/GMOFTRT03EP02.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer04/ondemand/GMOFTRT03EP02.mp4
 #EXTINF:-1 tvg-logo="http://www.blu-rayshop.gr/images/blurayshopphotofab1ed0532dfa255f886fbec9b597dd9_7597.jpg" group-title="GAME OF THRONES",GoT S03E03 Walk of Punishment
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer04/ondemand/GMOFTRT03EP03.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer04/ondemand/GMOFTRT03EP03.mp4
 #EXTINF:-1 tvg-logo="http://www.blu-rayshop.gr/images/blurayshopphotofab1ed0532dfa255f886fbec9b597dd9_7597.jpg" group-title="GAME OF THRONES",GoT S03E04 And Now His Watch Is Ended
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer04/ondemand/GMOFTRT03EP04.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer04/ondemand/GMOFTRT03EP04.mp4
 #EXTINF:-1 tvg-logo="http://www.blu-rayshop.gr/images/blurayshopphotofab1ed0532dfa255f886fbec9b597dd9_7597.jpg" group-title="GAME OF THRONES",GoT S03E05 Kissed by Fire
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer04/ondemand/GMOFTRT03EP05.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer04/ondemand/GMOFTRT03EP05.mp4
 #EXTINF:-1 tvg-logo="http://www.blu-rayshop.gr/images/blurayshopphotofab1ed0532dfa255f886fbec9b597dd9_7597.jpg" group-title="GAME OF THRONES",GoT S03E06 The Climb
 http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer05/ondemand/GMOFTRT03EP06.mp4
 #EXTINF:-1 tvg-logo="http://www.blu-rayshop.gr/images/blurayshopphotofab1ed0532dfa255f886fbec9b597dd9_7597.jpg" group-title="GAME OF THRONES",GoT S03E07 The Bear and the Maiden Fair
@@ -1992,84 +1992,86 @@ http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer05/ondemand/GMOFTRT03
 http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer05/ondemand/GMOFTRT03EP09.mp4
 #EXTINF:-1 tvg-logo="http://www.blu-rayshop.gr/images/blurayshopphotofab1ed0532dfa255f886fbec9b597dd9_7597.jpg" group-title="GAME OF THRONES",GoT S03E10 Mhysa – Season Finale
 http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer05/ondemand/GMOFTRT03EP10.mp4
+
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Music69/v4/5c/4d/a5/5c4da54a-eeb9-267c-93fa-d3ddda696a22/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S04E00 Gelo e Fogo um Prenúncio
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer06/ondemand/GMOFTRS04EP00.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer06/ondemand/GMOFTRS04EP00.mp4
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Music69/v4/5c/4d/a5/5c4da54a-eeb9-267c-93fa-d3ddda696a22/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S04E01 Two Swords
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer07/ondemand/GMOFTRT04EP01.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer07/ondemand/GMOFTRT04EP01.mp4
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Music69/v4/5c/4d/a5/5c4da54a-eeb9-267c-93fa-d3ddda696a22/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S04E02 The Lion and the Rose
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer07/ondemand/GMOFTRS04EP02.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer07/ondemand/GMOFTRS04EP02.mp4
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Music69/v4/5c/4d/a5/5c4da54a-eeb9-267c-93fa-d3ddda696a22/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S04E03 Breaker of Chains
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer07/ondemand/GMOFTRS04EP03.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer07/ondemand/GMOFTRS04EP03.mp4
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Music69/v4/5c/4d/a5/5c4da54a-eeb9-267c-93fa-d3ddda696a22/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S04E04 Oathkeeper
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer07/ondemand/GMOFTRS04EP04.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer07/ondemand/GMOFTRS04EP04.mp4
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Music69/v4/5c/4d/a5/5c4da54a-eeb9-267c-93fa-d3ddda696a22/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S04E05 First of His Name
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer07/ondemand/GMOFTRS04EP05.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer07/ondemand/GMOFTRS04EP05.mp4
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Music69/v4/5c/4d/a5/5c4da54a-eeb9-267c-93fa-d3ddda696a22/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S04E06 The Laws of Gods and Men
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer08/ondemand/GMOFTRT04EP06.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer08/ondemand/GMOFTRT04EP06.mp4
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Music69/v4/5c/4d/a5/5c4da54a-eeb9-267c-93fa-d3ddda696a22/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S04E07 Mockingbird
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer08/ondemand/GMOFTRT04EP07.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer08/ondemand/GMOFTRT04EP07.mp4
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Music69/v4/5c/4d/a5/5c4da54a-eeb9-267c-93fa-d3ddda696a22/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S04E08 The Mountain and the Viper
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer08/ondemand/GMOFTRT04EP08.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer08/ondemand/GMOFTRT04EP08.mp4
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Music69/v4/5c/4d/a5/5c4da54a-eeb9-267c-93fa-d3ddda696a22/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S04E09 The Watchers on the Wall
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer08/ondemand/GMOFTRT04EP09.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer08/ondemand/GMOFTRT04EP09.mp4
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Music69/v4/5c/4d/a5/5c4da54a-eeb9-267c-93fa-d3ddda696a22/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S04E10 The Children – Season Finale
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer08/ondemand/GMOFTRT04EP10.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer08/ondemand/GMOFTRT04EP10.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music69/v4/f4/c6/e5/f4c6e5bd-c3b4-3c34-ca71-b88a5616027e/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S05E00 Um Dia na Vida
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRS05EP00.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRS05EP00.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music69/v4/f4/c6/e5/f4c6e5bd-c3b4-3c34-ca71-b88a5616027e/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S05E01 The Wars to Come
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP01.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP01.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music69/v4/f4/c6/e5/f4c6e5bd-c3b4-3c34-ca71-b88a5616027e/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S05E02 The House of Black and White
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP02.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP02.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music69/v4/f4/c6/e5/f4c6e5bd-c3b4-3c34-ca71-b88a5616027e/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S05E03 High Sparrow
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP03.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP03.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music69/v4/f4/c6/e5/f4c6e5bd-c3b4-3c34-ca71-b88a5616027e/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S05E04 The Sons of the Harpy
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP04.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP04.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music69/v4/f4/c6/e5/f4c6e5bd-c3b4-3c34-ca71-b88a5616027e/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S05E05 Kill the Boy
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP05.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP05.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music69/v4/f4/c6/e5/f4c6e5bd-c3b4-3c34-ca71-b88a5616027e/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S05E06 Unbowed Unbent Unbroken
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP06.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP06.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music69/v4/f4/c6/e5/f4c6e5bd-c3b4-3c34-ca71-b88a5616027e/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S05E07 The Gift
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP07.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP07.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music69/v4/f4/c6/e5/f4c6e5bd-c3b4-3c34-ca71-b88a5616027e/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S05E08 Hardhome
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP08.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP08.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music69/v4/f4/c6/e5/f4c6e5bd-c3b4-3c34-ca71-b88a5616027e/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S05E09 The Dance of Dragons
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP09.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP09.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music69/v4/f4/c6/e5/f4c6e5bd-c3b4-3c34-ca71-b88a5616027e/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S05E10 Mother's Mercy – Season Finale
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP10.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT05EP10.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music18/v4/b5/94/b5/b594b5f0-1d4b-574c-5845-3b65c0618704/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S06E01 The Red Woman
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP01.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP01.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music18/v4/b5/94/b5/b594b5f0-1d4b-574c-5845-3b65c0618704/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S06E02 Home
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP02.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP02.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music18/v4/b5/94/b5/b594b5f0-1d4b-574c-5845-3b65c0618704/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S06E03 Oathbreaker
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP03.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP03.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music18/v4/b5/94/b5/b594b5f0-1d4b-574c-5845-3b65c0618704/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S06E04 Book of the Stranger
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP04.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP04.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music18/v4/b5/94/b5/b594b5f0-1d4b-574c-5845-3b65c0618704/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S06E05 A Porta
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP05.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP05.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music18/v4/b5/94/b5/b594b5f0-1d4b-574c-5845-3b65c0618704/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S06E06  Sangue do Meu Sangue
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP06.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP06.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music18/v4/b5/94/b5/b594b5f0-1d4b-574c-5845-3b65c0618704/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S06E07 O Homem Quebrado
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP07.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP07.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music18/v4/b5/94/b5/b594b5f0-1d4b-574c-5845-3b65c0618704/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S06E08  Ninguém
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP08.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP08.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music18/v4/b5/94/b5/b594b5f0-1d4b-574c-5845-3b65c0618704/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S06E09 A Batalha dos Bastardos
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP09.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP09.mp4
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Music18/v4/b5/94/b5/b594b5f0-1d4b-574c-5845-3b65c0618704/source/1200x630bb.jpg" group-title="GAME OF THRONES",GoT S06E10 Os Ventos do Inverno
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP10.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer10/ondemand/GMOFTRT06EP10.mp4
 #EXTINF:-1 tvg-logo="http://www.naftemporiki.gr/fu/p/1267479/638/399/0x0000000001291726/2/game-of-thrones.jpg" group-title="GAME OF THRONES",GoT S07E01 Pedra do Dragão
 http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer05/ondemand/GMOFTRT07EP01.mp4
 #EXTINF:-1 tvg-logo="http://www.naftemporiki.gr/fu/p/1267479/638/399/0x0000000001291726/2/game-of-thrones.jpg" group-title="GAME OF THRONES",GoT S07E02 Nascida na Tormenta
 http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer05/ondemand/GMOFTRT07EP02.mp4
 #EXTINF:-1 tvg-logo="http://www.naftemporiki.gr/fu/p/1267479/638/399/0x0000000001291726/2/game-of-thrones.jpg" group-title="GAME OF THRONES",GoT S07E03 A Justiça da Rainha
 http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer05/ondemand/GMOFTRT07EP03.mp4
+
 #EXTINF:-1 tvg-logo="http://www.naftemporiki.gr/fu/p/1267479/638/399/0x0000000001291726/2/game-of-thrones.jpg" group-title="GAME OF THRONES",GoT S07E04 Os Espólios da Guerra
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT07EP04.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT07EP04.mp4
 #EXTINF:-1 tvg-logo="http://www.naftemporiki.gr/fu/p/1267479/638/399/0x0000000001291726/2/game-of-thrones.jpg" group-title="GAME OF THRONES",GoT S07E05 Atalaialeste
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT07EP05.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT07EP05.mp4
 #EXTINF:-1 tvg-logo="http://www.naftemporiki.gr/fu/p/1267479/638/399/0x0000000001291726/2/game-of-thrones.jpg" group-title="GAME OF THRONES",GoT S07E06 O Inimigo é a Morte
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT07EP06.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT07EP06.mp4
 #EXTINF:-1 tvg-logo="http://www.naftemporiki.gr/fu/p/1267479/638/399/0x0000000001291726/2/game-of-thrones.jpg" group-title="GAME OF THRONES",GoT S07E07 O Dragão e O Lobo
-http://ifood.lod.requests.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT07EP07.mp4
+http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GMOFTRT07EP07.mp4
 
 #EXTINF:-1 tvg-logo="http://static.quizur.com/i/b/56f7599dbfb736.6786838856f7599da73ad0.42267932.jpg" group-title="GUERRAS MUNDIAIS",GUERRAS MUNDIAIS E01
 http://ifood.ddelivery.top/RedeCanais/RCServer09/ondemand/GRSMDLT01EP01.mp4
