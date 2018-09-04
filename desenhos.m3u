@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/06/21/13/51/3779846.jpg" group-title="LANÇAMENTOS",ILHA DOS CACHORROS (2018)
+http://5incominutos.redemice.me/RedeCanais/RCFServer4/ondemand/ILHSDSCHRRS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/05/18/14/03/158881.jpg" group-title="LANÇAMENTOS",PATO PATO GANSO (2018)
 http://ifood.lod.requests.ddelivery.top/RedeCanais/RCFServer4/ondemand/PATPATGNSO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/18/01/15/17/16/4428764.png" group-title="LANÇAMENTOS",O HOMEM DAS CAVERNAS (2018)
@@ -56,6 +58,8 @@ http://ifood.lod.requests.ddelivery.top/RedeCanais/RCFServer4/ondemand/OPDRSOCFN
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/03/05/19/05/058446.jpg" group-title="Disney",BRANCA DE NEVE E OS SETE ANÕES (1938)
 http://ifood.lod.requests.ddelivery.top/RedeCanais/RCFServer4/ondemand/BRANCDNCEOSTSANOES.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/78/92/34/20101136.jpg" group-title="Disney",FANTASIA (1940)
+http://5incominutos.redemice.me/RedeCanais/RCFServer4/ondemand/FNTSIA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/75/69/19963902.jpg" group-title="Disney",BAMBI (1942)
 http://ifood.lod.requests.ddelivery.top/RedeCanais/RCFServer4/ondemand/BMBI.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/03/09/19/31/165962.jpg" group-title="Disney",A CANÇÃO DO SUL (1946)
