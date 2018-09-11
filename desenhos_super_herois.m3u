@@ -16,7 +16,7 @@ http://cdn2.wsnoticias.com/RedeCanais/RCFServer4/ondemand/SCBYDOEBTMNOSBVSEDSTMD
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cabanadoleitor.com.br/wp-content/uploads/2017/06/Batman-Harley-Quinn-2D-760x963.jpeg" group-title="DC Animações",BATMAN & ARLEQUINA: PANCADAS E RISADAS (2017)
 http://cdn.portalhqs.net/content/httpdelivery/filmes2017/BATMANALERQUINADUB.mp4
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CbK_ETrzzyU/VZU9jGAI2wI/AAAAAAAAego/57fOLPHyBas/s640/Vixen%2Bs%25C3%25A9rie%2Banimada%2Bda%2BCW.jpg" group-title="DC Animações",Vixen O Filme
-http://cdn.portalhqs.net/content/httpdelivery/filmes2017/VIXEN2017LEG-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn.portalhqs.net/content/httpdelivery/filmes2017/VIXEN2017LEG-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/04/1-1.jpg" group-title="DC Animações",Os Jovens Titãs: O Contrato de Judas (2017)
 http://cdn1.wsnoticias.com/RedeCanais/RCFServer3/ondemand/JVNSTSOCTRTDJDS.mp4
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/marvel_dc/images/a/aa/Justice_League_Dark_box_art.jpg" group-title="DC Animações",Liga da Justiça Sombria (2017)
@@ -34,7 +34,7 @@ http://cdn1.wsnoticias.com/RedeCanais/RCFServer1/ondemand/BTMNVSRBN.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EyywbQo.jpg" group-title="DC Animações",Liga da Justiça Trono de Atlantida (2015)
 http://cloud.popfilmeshd.net/popfilmes//FILMES/DUBLADO/LGDJTDATDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/marvel_dc/images/c/c1/Batman_Unlimited_Mechs_vs._Mutants.jpg" group-title="DC Animações", Batman Sem Limites: Mechas vs Mutantes
-http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/filmes2016/animacoes/MECHADUB--ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/filmes2016/animacoes/MECHADUB--ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zSUf270.jpg" group-title="DC Animações",P-1 Batman Sem Limites Caos Monstruoso
 http://www.blogger.com/video-play.mp4?contentId=88af5c8af1ac7c3c
@@ -64,7 +64,7 @@ http://www.blogger.com/video-play.mp4?contentId=6f219b8380d0fcac
 #EXTINF:-1 tvg-logo="http://nerdgeekfeelings.com/wp-content/uploads/2014/04/son_of_batman.jpg" group-title="DC Animações",P-3 O Filho do Batman
 http://www.blogger.com/video-play.mp4?contentId=f548eac2935bc82f
 #EXTINF:-1 tvg-logo="https://ssdvds.loja2.com.br/img/17b3e411440dc9eb77e01495b3f2c340.jpg" group-title="DC Animações",Liga da Justiça Guerra (2014)
-http://cdn.portalhqs.net/content/httpdelivery/filmes2017/LJGUERRA-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn.portalhqs.net/content/httpdelivery/filmes2017/LJGUERRA-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1560/HrhOdNDyt0tDh0XU7Ztk7YO9vs.jpg" group-title="DC Animações" ,Liga da Justiça: Ponto de Ignição (2013)
 http://cdn1.wsnoticias.com/RedeCanais/RCFServer3/ondemand/LGDJSTCAPNTDIGN.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0Doajuy.jpg"  group-title="DC Animações" ,SUPERMAN: SEM LIMITES (2013)
@@ -644,6 +644,55 @@ http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNASRANMDEP84.mp4
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png" group-title="Batman A Serie Animada",Batman: A Serie Animada T03E29
 http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNASRANMDEP85.mp4
 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E01
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP01.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E02
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP02.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E03
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP03.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E04
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP04.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E05
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP05.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E06
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP06.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E07
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP07.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E08
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP08.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E09
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP09.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E10
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP10.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E11
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP11.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E12
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP12.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E13
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP13.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E14
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP14.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E15
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP15.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E16
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP16.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E17
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP17.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E18
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP18.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E19
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP19.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E20
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP20.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E21
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP21.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E22
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP22.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E23
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP23.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E24
+http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP24.mp4
+
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/toonami/images/4/49/Supermantasfront.jpg/revision/latest" group-title="Superman A Série Animada",Superman: A Serie Animada T01E01
 http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/SPRMNASRANMDEP01.mp4
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/toonami/images/4/49/Supermantasfront.jpg/revision/latest" group-title="Superman A Série Animada",Superman: A Serie Animada T01E02
@@ -806,330 +855,283 @@ http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/LNTNVRDASAEP26.mp4
 
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E01
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP01.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP01.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E02
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP02.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP02.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E03
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP03.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP03.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E04
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP04.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP04.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E05
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP05.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP05.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E06
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP06.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP06.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E07
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP07.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP07.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E08
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP08.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP08.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E09
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP09.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP09.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E10
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP10.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP10.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E11
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP11.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP11.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E12
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP12.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP12.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E13
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP13.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP13.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E14
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP14.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP14.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E15
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP15.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP15.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E16
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP16.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP16.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E17
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP17.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP17.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E18
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP18.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP18.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E19
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP19.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP19.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E20
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP20.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP20.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E21
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP21.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP21.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E22
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP22.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP22.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E23
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP23.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP23.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E24
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP24.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP24.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E25
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP25.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP25.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T01E26
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP26.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP26.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E01
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP27.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP27.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E02
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP28.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP28.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E03
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP29.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP29.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E04
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP30.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP30.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E05
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP31.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP31.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E06
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP32.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP32.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E07
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP33.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP33.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E08
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP34.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP34.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E09
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP35.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP35.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E10
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP36.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP36.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E11
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP37.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP37.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E12
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP38.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP38.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E13
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP39.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP39.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E14
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP40.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP40.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E15
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP41.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP41.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E16
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP42.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP42.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E17
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP43.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP43.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E18
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP44.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP44.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E19
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP45.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP45.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E20
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP46.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP46.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E21
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP47.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP47.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E22
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP48.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP48.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E23
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP49.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP49.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E24
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP50.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP50.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E25
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP51.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP51.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dUvwfEBBTd0/U7SR8H2IRFI/AAAAAAAAAyU/2IBg2qJLyg4/s1600/huge-justice-league-.jpg" group-title="Liga da Justiça",Liga da Justica T02E26
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP52.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTEP52.mp4
 
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E01 
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP01.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP01.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E02
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP02.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP02.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E03
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP03.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP03.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E04
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP04.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP04.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E05
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP05.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP05.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E06
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP06.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP06.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E07
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP07.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP07.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E08
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP08.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP08.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E09
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP09.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP09.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E10
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP10.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP10.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E11
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP11.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP11.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E12
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP12.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP12.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E13
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP13.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP13.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E14
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP14.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP14.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E15
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP15.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP15.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E16
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP16.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP16.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E17
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP17.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP17.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E18
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP18.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP18.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E19
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP19.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP19.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E20
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP20.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP20.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E21
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP21.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP21.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E22
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP22.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP22.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E23
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP23.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP23.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E24
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP24.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP24.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E25
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP25.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP25.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T01E26
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP26.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP26.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T02E01
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP27.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP27.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T02E02
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP28.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP28.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T02E03
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP29.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP29.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T02E04
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP30.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP30.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T02E05
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP31.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP31.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T02E06
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP32.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP32.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T02E07
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP33.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP33.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T02E08
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP34.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP34.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T02E09
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP35.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP35.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T02E10
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP36.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP36.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T02E11
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP37.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP37.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T02E12
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP38.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP38.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/06/lgsl.png" group-title="Liga da Justiça Sem Limites",Liga da Justica SL T02E13
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP39.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/LIGDJSTSLMTEP39.mp4
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E01
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP01.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E02
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP02.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E03
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP03.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E04
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP04.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E05
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP05.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E06
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP06.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E07
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP07.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E08
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP08.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E09
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP09.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E10
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP10.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E11
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP11.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E12
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP12.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E13
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP13.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E14
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP14.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E15
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP15.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E16
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP16.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E17
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP17.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E18
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP18.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E19
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP19.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E20
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP20.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E21
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP21.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E22
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP22.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E23
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP23.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_C9xaXQynXg/U_06VpECxkI/AAAAAAAAA6s/PMkGnVJMdsw/s1600/Batman%2B1998%2B-%2B00.jpg" group-title="As Novas Aventuras do Batman", As Novas Aventuras do Batman S01E24
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/BTMNNVSREP24.mp4
+
 
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E01
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP01.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP01.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E02
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP02.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP02.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E03
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP03.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP03.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E04
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP04.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP04.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E05
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP05.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP05.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E06
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP06.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP06.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E07
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP07.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP07.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E08
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP08.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP08.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E09
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP09.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP09.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E10
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP10.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP10.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E11
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP11.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP11.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E12
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP12.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP12.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E13
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP13.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP13.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E14
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP14.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP14.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E15
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP15.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP15.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E16
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP16.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP16.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E17
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP17.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP17.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E18
-http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP18.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer01/videos/JUSJVMEP18.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E19
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP19.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP19.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E20
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP20.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP20.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E21
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP21.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP21.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E22
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP22.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP22.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E23
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP23.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP23.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E24
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP24.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP24.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E25
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP25.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP25.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T01E26
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP26.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP26.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E01
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP27.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP27.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E02
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP28.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP28.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E03
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP29.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP29.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E04
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP30.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP30.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E05
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP31.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP31.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E06
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP32.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP32.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E07
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP33.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP33.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E08
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP34.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP34.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E09
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP35.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP35.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E10
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP36.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP36.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E11
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP37.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP37.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E12
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP38.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP38.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E13
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP39.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP39.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E14
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP40.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP40.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E15
-http://cdn1.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP41.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer05/ondemand/JUSJVMEP41.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E16
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/JUSJVMEP42.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer09/ondemand/JUSJVMEP42.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E17
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/JUSJVMEP43.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer09/ondemand/JUSJVMEP43.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E18
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/JUSJVMEP44.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer09/ondemand/JUSJVMEP44.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E19
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/JUSJVMEP45.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer09/ondemand/JUSJVMEP45.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2016/01/assistir-Justi%C3%A7a-Jovem-Dublado-Todos-os-Epis%C3%B3dios-online.jpg" group-title="Justiça Jovem",Justiça Jovem T02E20
-http://cdn1.wsnoticias.com/RedeCanais/RCServer09/ondemand/JUSJVMEP46.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCServer09/ondemand/JUSJVMEP46.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vZZ3fy2.jpg" group-title="Os Jovens Titans",Os Jovens Titans E01
 http://cdn1.wsnoticias.com/RedeCanais/RCServer10/ondemand/OSJVNSTASEP01.mp4
@@ -1791,31 +1793,31 @@ http://cdn1.wsnoticias.com/RedeCanais/RCServer10/ondemand/SPRCHQEP51.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8Wmj8qq.jpg" group-title="Super Choque",Super Choque E52
 http://cdn1.wsnoticias.com/RedeCanais/RCServer10/ondemand/SPRCHQEP52.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super-Herois",Legiao dos Super-Herois T01E01
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super Herois",Legiao dos Super Herois T01E01
 http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/574df2a7.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super-Herois",Legiao dos Super-Herois T01E02
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super Herois",Legiao dos Super Herois T01E02
 http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/4c31ea31.flv
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super-Herois",Legiao dos Super-Herois T01E03
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super Herois",Legiao dos Super Herois T01E03
 http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/a15ced1b.flv
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super-Herois",Legiao dos Super-Herois T01E04
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super Herois",Legiao dos Super Herois T01E04
 http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/2caee90f.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super-Herois",Legiao dos Super-Herois T01E05
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super Herois",Legiao dos Super Herois T01E05
 http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/7b6f06a4.flv
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super-Herois",Legiao dos Super-Herois T01E06
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super Herois",Legiao dos Super Herois T01E06
 http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/69023492.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super-Herois",Legiao dos Super-Herois T01E07
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super Herois",Legiao dos Super Herois T01E07
 http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/66a2beb7.flv
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super-Herois",Legiao dos Super-Herois T01E08
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super Herois",Legiao dos Super Herois T01E08
 http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/3e02a0e1.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super-Herois",Legiao dos Super-Herois T01E09
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super Herois",Legiao dos Super Herois T01E09
 http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/53d609ae.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super-Herois",Legiao dos Super-Herois T01E10
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super Herois",Legiao dos Super Herois T01E10
 http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/25d023ca.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super-Herois",Legiao dos Super-Herois T01E11
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super Herois",Legiao dos Super Herois T01E11
 http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/2ea328b5.flv
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super-Herois",Legiao dos Super-Herois T01E12
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super Herois",Legiao dos Super Herois T01E12
 http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/ca03fb98.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super-Herois",Legiao dos Super-Herois T01E13
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g2QkIh_EP30/maxresdefault.jpg" group-title="Legiao dos Super Herois",Legiao dos Super Herois T01E13
 http://cdn1.wsnoticias.com/RedeCanais/RCServer01/videos/d3656dd0.mp4
 
 #EXTINF:-1 tvg-logo="https://kanto.legiaodosherois.com.br/w750-h1200/wp-content/uploads/2015/03/batman-beyond-return-of-the-joker-batman-terry2.jpg" group-title="Batman do Futuro", Batman do Futuro T01E01
@@ -2163,27 +2165,27 @@ http://cdn1.wsnoticias.com/RedeCanais/RCServer11/ondemand/ASMBRDBTMNEP25.mp4
 http://cdn1.wsnoticias.com/RedeCanais/RCServer11/ondemand/ASMBRDBTMNEP26.mp4
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CbK_ETrzzyU/VZU9jGAI2wI/AAAAAAAAego/57fOLPHyBas/s640/Vixen%2Bs%25C3%25A9rie%2Banimada%2Bda%2BCW.jpg" group-title="Vixen", Vixen S01E01
-http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/01leg/01-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/01leg/01-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CbK_ETrzzyU/VZU9jGAI2wI/AAAAAAAAego/57fOLPHyBas/s640/Vixen%2Bs%25C3%25A9rie%2Banimada%2Bda%2BCW.jpg" group-title="Vixen", Vixen S01E02
-http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/01leg/02-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/01leg/02-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CbK_ETrzzyU/VZU9jGAI2wI/AAAAAAAAego/57fOLPHyBas/s640/Vixen%2Bs%25C3%25A9rie%2Banimada%2Bda%2BCW.jpg" group-title="Vixen", Vixen S01E03
-http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/01leg/03-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/01leg/03-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CbK_ETrzzyU/VZU9jGAI2wI/AAAAAAAAego/57fOLPHyBas/s640/Vixen%2Bs%25C3%25A9rie%2Banimada%2Bda%2BCW.jpg" group-title="Vixen", Vixen S01E04
-http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/01leg/04-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/01leg/04-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CbK_ETrzzyU/VZU9jGAI2wI/AAAAAAAAego/57fOLPHyBas/s640/Vixen%2Bs%25C3%25A9rie%2Banimada%2Bda%2BCW.jpg" group-title="Vixen", Vixen S01E05
-http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/01leg/05-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/01leg/05-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CbK_ETrzzyU/VZU9jGAI2wI/AAAAAAAAego/57fOLPHyBas/s640/Vixen%2Bs%25C3%25A9rie%2Banimada%2Bda%2BCW.jpg" group-title="Vixen", Vixen S01E06
-http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/01leg/06-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/01leg/06-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CbK_ETrzzyU/VZU9jGAI2wI/AAAAAAAAego/57fOLPHyBas/s640/Vixen%2Bs%25C3%25A9rie%2Banimada%2Bda%2BCW.jpg" group-title="Vixen", Vixen S02E01
-http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/02leg/001-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/02leg/001-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CbK_ETrzzyU/VZU9jGAI2wI/AAAAAAAAego/57fOLPHyBas/s640/Vixen%2Bs%25C3%25A9rie%2Banimada%2Bda%2BCW.jpg" group-title="Vixen", Vixen S02E02
-http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/02leg/02-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/02leg/02-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CbK_ETrzzyU/VZU9jGAI2wI/AAAAAAAAego/57fOLPHyBas/s640/Vixen%2Bs%25C3%25A9rie%2Banimada%2Bda%2BCW.jpg" group-title="Vixen", Vixen S02E03
-http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/02leg/03-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/02leg/03-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CbK_ETrzzyU/VZU9jGAI2wI/AAAAAAAAego/57fOLPHyBas/s640/Vixen%2Bs%25C3%25A9rie%2Banimada%2Bda%2BCW.jpg" group-title="Vixen", Vixen S02E04
-http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/02leg/04-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/02leg/04-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CbK_ETrzzyU/VZU9jGAI2wI/AAAAAAAAego/57fOLPHyBas/s640/Vixen%2Bs%25C3%25A9rie%2Banimada%2Bda%2BCW.jpg" group-title="Vixen", Vixen S02E05
-http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/02leg/05-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn.portalhqs.net/content/sobdemanda/netcine-bucket/vixen/02leg/05-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 
 #EXTINF:0 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/06/Justice-League-Action-3e160.jpg" group-title="Liga da Justiça Action" , Liga da Justiça Action S01E01
 http://cdn1.wsnoticias.com/RedeCanais/RCServer11/ondemand/LGDJSTCACT01EP01.mp4
@@ -2207,20 +2209,20 @@ http://cdn1.wsnoticias.com/RedeCanais/RCServer11/ondemand/LGDJSTCACT01EP09.mp4
 http://cdn1.wsnoticias.com/RedeCanais/RCServer11/ondemand/LGDJSTCACT01EP10.mp4
 
 #EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/constantine-city-of-demons-2926-poster.jpg" group-title="Constantine",Constantine S01E01
-http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/01-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/01-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/constantine-city-of-demons-2926-poster.jpg" group-title="Constantine",Constantine S01E02
-http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/02-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/02-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/constantine-city-of-demons-2926-poster.jpg" group-title="Constantine",Constantine S01E03
-http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/03-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/03-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/constantine-city-of-demons-2926-poster.jpg" group-title="Constantine",Constantine S01E04
-http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/04-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/04-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/constantine-city-of-demons-2926-poster.jpg" group-title="Constantine",Constantine S01E05
-http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/05-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/05-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/89/98/19962693.jpg" group-title="Marvel Animações",OS SUPREMOS: O FILME (2005)
-http://cdn1.wsnoticias.com/RedeCanais/RCFServer4/ondemand/OSSPRMS.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCFServer4/ondemand/OSSPRMS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/96/73/19994381.jpg" group-title="Marvel Animações",OS SUPREMOS 2: DESCUBRA O PODER DA PANTERA (2006)
-http://cdn1.wsnoticias.com/RedeCanais/RCFServer4/ondemand/OSSPRMS2.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCFServer4/ondemand/OSSPRMS2.mp4
 
 #EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/04/Doutor-Estranho-Filme-Anima%C3%A7%C3%A3o-Dublado.jpg" group-title="Marvel Animações",Doutor Estranho P1 (2007)
 http://www.blogger.com/video-play.mp4?contentId=87bc7b6f6747dad9
@@ -2230,7 +2232,7 @@ http://www.blogger.com/video-play.mp4?contentId=a5897eb481db9b11
 http://www.blogger.com/video-play.mp4?contentId=106f9ce32172457c
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/81/18/19969112.jpg" group-title="Marvel Animações",O INVENCÍVEL HOMEM DE FERRO (2007)
-http://cdn1.wsnoticias.com/RedeCanais/RCFServer4/ondemand/OINCRVLHMNDFRO.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCFServer4/ondemand/OINCRVLHMNDFRO.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B6c7zVL.jpg" group-title="Marvel Animações",Hulk Vs. Thor (2009)
 http://www.blogger.com/video-play.mp4?contentId=20e170b2f5a585bb
@@ -2257,7 +2259,7 @@ http://www.blogger.com/video-play.mp4?contentId=ea3d2f3b1ebf9029
 http://www.blogger.com/video-play.mp4?contentId=c9d88534159ca3b
 
 #EXTINF:-1 tvg-logo="http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/2-3.jpg"  group-title="Marvel Animações", Hulk: Onde Os Monstros Habitam (2017)
-http://cdn1.wsnoticias.com/RedeCanais/RCFServer4/ondemand/HLKONDOSMNSTRHTBM.mp4
+http://cdn2.wsnoticias.com/RedeCanais/RCFServer4/ondemand/HLKONDOSMNSTRHTBM.mp4
 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-0Vg64pSJTgI/U55L9im-S6I/AAAAAAAAPyM/xtyXHk4pdE0/s1600/O+Incr%C3%ADvel+Hulk+1966+(The+Incredible+Hulk)+capa+cover.jpg" group-title="O Incrível Hulk 1966",01 O Incrível Hulk 1966
@@ -3415,17 +3417,17 @@ http://cdn1.wsnoticias.com/RedeCanais/RCServer11/ondemand/OVGDRSUNDST03EP18.mp4
 http://cdn1.wsnoticias.com/RedeCanais/RCServer11/ondemand/OVGDRSUNDST03EP19.mp4
 
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/08/FEB180862.jpg" group-title="Marvel Rising Initiation",Marvel Rising Initiation S01E01
-http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/01-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/01-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/08/FEB180862.jpg" group-title="Marvel Rising Initiation",Marvel Rising Initiation S01E02
-http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/02ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/02ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/08/FEB180862.jpg" group-title="Marvel Rising Initiation",Marvel Rising Initiation S01E03
-http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/03-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/03-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/08/FEB180862.jpg" group-title="Marvel Rising Initiation",Marvel Rising Initiation S01E04
-http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/04-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/04-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/08/FEB180862.jpg" group-title="Marvel Rising Initiation",Marvel Rising Initiation S01E05
-http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/05-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/05-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/08/FEB180862.jpg" group-title="Marvel Rising Initiation",Marvel Rising Initiation S01E06
-http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/06-ALTO.mp4?token=st=1536205097~exp=1536226697~acl=/content/*~hmac=7aef7dc4abcc5a4e811e430f563c18da
+http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/06-ALTO.mp4?token=st=1536671788~exp=1536693388~acl=/content/*~hmac=f2cb7718a5e5de17218df4a9a2867776
 
 
 #EXTINF:-1 tvg-logo="http://www.tvsinopse.kinghost.net/q/quarteto%20fantastico10_arquivos/tvsinopse000006001.jpg" group-title="Quarteto Fantástico 2006", Quarteto Fantástico 2006 S01E01
