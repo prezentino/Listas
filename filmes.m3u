@@ -1,4 +1,29 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/REDCUP_CHARACTER_BANNERS__1_BRAZIL.jpg" group-title="DESTAQUES",HAN SOLO: UMA HISTÓRIA STAR WARS (2018)
+http://dfw-2.portalhqs.net/html/conteudo/delivery/filmes2018/HANSOLO2018-ALTO.mp4?token=st=1537360446~exp=1537382046~acl=/content/*~hmac=6040b905ad57b786c617cb267c7e977f
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/5117345.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="DESTAQUES",MISSÃO IMPOSSÍVEL: EFEITO FALLOUT (2018)
+http://dfw-2.portalhqs.net/html/conteudo/delivery/filmes2018/MISSAOIMPOSSIVELFALLOUT-ALTO.mp4?token=st=1537360446~exp=1537382046~acl=/content/*~hmac=6040b905ad57b786c617cb2
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg" group-title="DESTAQUES",VINGADORES: GUERRA INFINITA (2018)
+http://ox2.habbin.fo/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/18/17/25/4723738.jpg" group-title="DESTAQUES",JURASSIC WORLD:REINO AMEAÇADO (2018)
+http://ams-1.portalhqs.net/html/content/delivery/filmes2018/JURASSICWFK-ALTO.mp4?token=st=1537590842~exp=1537612442~acl=/html/*~hmac=752eb412a24fc14bd2dc91826b8a182b
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/19/15/31/2232385.jpg" group-title="DESTAQUES",DEADPOOL 2 (2018)
+http://ox2.habbin.fo/RedeCanais/RCFServer4/ondemand/DEADP2.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/16/52/20091675.jpg" group-title="ÚLTIMOS REDECANAIS",O CORVO (2012)
+http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/OCRVO2012.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/01/48/19871116.jpg" group-title="ÚLTIMOS REDECANAIS",O CORVO (1994)
+http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/OCRVO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",UM SONHO DE LIBERDADE (1995)
+http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/UMSNHDKBRDA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",UM DIA DE FÚRIA (1993)
+http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/UMDIDFRIA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",O CORVO (1963)
+http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/OCRVO1963.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",SOCIEDADE DOS POETAS MORTOS (1990)
+http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/SOCDEDSPOETSMRTS.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",HOWARD: O PATO (1986)
+http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/HWRD.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",CORINÁ: UMA BABÁ PERFEITA (1995)
 http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/CORNUMBABPRFTA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/97/24/14/20517767.jpg" group-title="ÚLTIMOS REDECANAIS",AMERICAN GRAFFITI: LOUCURAS DE VERÃO (1973)
 http://ox2.habbin.fo/RedeCanais/RCFServer4/ondemand/LOCRSDVRAO.mp4
