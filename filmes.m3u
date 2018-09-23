@@ -13,17 +13,17 @@ http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/DEADP2.mp4
 http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/OCRVO2012.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/01/48/19871116.jpg" group-title="ÚLTIMOS REDECANAIS",O CORVO (1994)
 http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/OCRVO.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",UM SONHO DE LIBERDADE (1995)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/16/48/20083748.jpg" group-title="ÚLTIMOS REDECANAIS",UM SONHO DE LIBERDADE (1995)
 http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/UMSNHDKBRDA.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",UM DIA DE FÚRIA (1993)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/04/28/19871404.jpg" group-title="ÚLTIMOS REDECANAIS",UM DIA DE FÚRIA (1993)
 http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/UMDIDFRIA.mp4
 #EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",O CORVO (1963)
 http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/OCRVO1963.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",SOCIEDADE DOS POETAS MORTOS (1990)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/132/21013221_20130617200543616.jpg" group-title="ÚLTIMOS REDECANAIS",SOCIEDADE DOS POETAS MORTOS (1990)
 http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/SOCDEDSPOETSMRTS.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",HOWARD: O PATO (1986)
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",HOWARD: O SUPER HERÓI (1986)
 http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/HWRD.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",CORINÁ: UMA BABÁ PERFEITA (1995)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/88/59/20223140.jpg" group-title="ÚLTIMOS REDECANAIS",CORINA: UMA BABÁ PERFEITA (1995)
 http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/CORNUMBABPRFTA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/97/24/14/20517767.jpg" group-title="ÚLTIMOS REDECANAIS",AMERICAN GRAFFITI: LOUCURAS DE VERÃO (1973)
 http://cds2.habblet.info/RedeCanais/RCFServer4/ondemand/LOCRSDVRAO.mp4
@@ -5492,4 +5492,3 @@ http://cds1.habblet.info/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZJvZo48.jpg" group-title="LETRA Z",ZUMBILÂNDIA (2009)
 http://cds1.habblet.info/RedeCanais/RCFServer1/ondemand/ZMBLND.mp4
-
