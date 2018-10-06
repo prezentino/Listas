@@ -1,4 +1,10 @@
-18/THEMEGLEG-ALTO.mp4?token=st=1538449533~exp=1538471133~acl=/html/*~hmac=1dcbb62fd07bdba3106e9199b07cd681
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/10/2102620.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="DESTAQUES",HOMEM FORMIGA E A VESPA (2018)
+http://dfw-2.portalhqs.net/html/conteudo/delivery/filmes2018/HOMIFURMIGA2LEG-ALTO.mp4?token=st=1538449415~exp=1538471015~acl=/html/*~hmac=53c1b016958dbe9192b2c265cf9a9884
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/images-3.jpg" group-title="DESTAQUES",HOTEL TRANSILVÂNIA 3 (2018)
+http://dfw-2.portalhqs.net/html/conteudo/delivery/filmes2018/HOTELTRANSYLVANIALEG-ALTO.mp4?token=st=1538449282~exp=1538470882~acl=/html/*~hmac=3e4dcc2991ad2b952e14b9fd2584613d
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/5013486.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="DESTAQUES",MEGATUBARÃO (2018)
+http://dfw-2.portalhqs.net/html/conteudo/delivery/filmes2018/THEMEGLEG-ALTO.mp4?token=st=1538449533~exp=1538471133~acl=/html/*~hmac=1dcbb62fd07bdba3106e9199b07cd681
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/p15643490_v_v8_ab.jpg" group-title="DESTAQUES",O ÚLTIMO SHARKNADO: JÁ ESTAVA NA HORA (2018)
 http://dfw-2.portalhqs.net/html/conteudo/delivery/filmes2018/THELASTSHARKNADOLEG-ALTO.mp4?token=st=1538449703~exp=1538471303~acl=/html/*~hmac=4c0fa107dc545dcf21ede4f3dd3efa7e
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/p15267808_p_v8_ab.jpg" group-title="DESTAQUES",O CAPITÃO (2018)
@@ -5505,3 +5511,4 @@ http://cdnv1.poseidomads.com/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZJvZo48.jpg" group-title="LETRA Z",ZUMBILÂNDIA (2009)
 http://cdnv1.poseidomads.com/RedeCanais/RCFServer1/ondemand/ZMBLND.mp4
+
