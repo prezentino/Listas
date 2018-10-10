@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/10/MV5BMTgwMDdmZGEtMmUwNS00YTE2LWE4N2QtMWNmODQ1YzQ5MTlkXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SY1000_CR006861000_AL_.jpg" group-title="DESTAQUES",OPERAÇÃO FINAL (2018)
+http://dfw-2.portalhqs.net/html/conteudo/delivery/filmes2018/OPERACAOFINALDUB-ALTO.mp4?token=st=1539137939~exp=1539159539~acl=/html/*~hmac=52cd7ebd6f34c8953e4e4759016d8a82
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/10/2102620.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="DESTAQUES",HOMEM FORMIGA E A VESPA (2018)
 http://dfw-2.portalhqs.net/html/conteudo/delivery/filmes2018/HOMIFURMIGA2LEG-ALTO.mp4?token=st=1538449415~exp=1538471015~acl=/html/*~hmac=53c1b016958dbe9192b2c265cf9a9884
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/images-3.jpg" group-title="DESTAQUES",HOTEL TRANSILVÂNIA 3 (2018)
@@ -20,7 +21,6 @@ http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/JRSCWRLDRNOAMCDOLEG.
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/19/15/31/2232385.jpg" group-title="DESTAQUES",DEADPOOL 2 (2018)
 http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/DEADP2.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/19/45/19872974.jpg" group-title="ÚLTIMOS REDECANAIS",SIM SENHOR! (2009)
-http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/SMSNHR.mp4
 http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/SMSNHR.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Real%20-%20O%20Plano%20por%20Tr%C3%A1s%20da%20Hist%C3%B3ria.jpg" group-title="ÚLTIMOS REDECANAIS",REAL: O PLANO POR TRÁS DA HISTÓRIA (2017)
 http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/RELOPLNPRTRSDHSTRIA.mp4
@@ -5511,4 +5511,3 @@ http://cdnv1.poseidomads.com/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZJvZo48.jpg" group-title="LETRA Z",ZUMBILÂNDIA (2009)
 http://cdnv1.poseidomads.com/RedeCanais/RCFServer1/ondemand/ZMBLND.mp4
-
