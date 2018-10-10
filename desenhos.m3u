@@ -29,7 +29,7 @@ http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/AESTRLDBLM.mp4
 
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352-5.jpg-r_1920_1080-f_jpg-q_x-xxyxx-5.jpg" group-title="LANÇAMENTOS",TOURO FERDINANDO (2018)
 http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/OTROFRDNDO.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/MKhgfn" group-title="LANÇAMENTOS",PICA-PAU: O FILME (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_75_106/pictures/17/08/25/19/04/419991.jpg" group-title="LANÇAMENTOS",PICA-PAU: O FILME (2018)
 http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/PICPAU.mp4
 #EXTINF:-1 tvg-logo="http://images-na.ssl-images-amazon.com/images/I/91IHPHUB58L._SL1500_.jpg" group-title="LANÇAMENTOS",OLAF EM UMA NOVA AVENTURA CONGELANTE DE FROZEN (2017)
 http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/OLFEMUNVAVNTRCGLNT.mp4
@@ -47,7 +47,7 @@ http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/EMJOFLM.mp4
 http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/MEMLVDFAV1.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/PLNwvT" group-title="LANÇAMENTOS",MEU MALVADO FAVORITO 3 (2017)
 http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/MEMLVDFAV3.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/IRpkca" group-title="LANÇAMENTOS",SING: QUEM CANTA SEUS MALES ESPANTA DUB (2017)
+#EXTINF:-1 tvg-logo="http://goo.gl/IRpkca" group-title="LANÇAMENTOS",SING: QUEM CANTA SEUS MALES ESPANTA (2017)
 http://cdnv2.poseidomads.com/RedeCanais/RCFServer3/ondemand/SNGQCSME.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/6LHzkK" group-title="LANÇAMENTOS", OS SMURFS 3: E A VILA PERDIDA (2017)
 http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/OSMRFSEAVLPRDA.mp4
@@ -66,6 +66,8 @@ http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/BRANCDNCEOSTSANOES.m
 http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/FNTSIA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Pin%C3%B3quio.jpg" group-title="Disney",PINÓQUIO (1940)
 http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/PNQIO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Dumbo.jpg" group-title="Disney",DUMBO (1941)
+http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/DMBO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/75/69/19963902.jpg" group-title="Disney",BAMBI (1942)
 http://cdnv2.poseidomads.com/RedeCanais/RCFServer4/ondemand/BMBI.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/03/09/19/31/165962.jpg" group-title="Disney",A CANÇÃO DO SUL (1946)
