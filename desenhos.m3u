@@ -287,17 +287,32 @@ http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/ASTRXCQSTAMRCA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/16/03/08/18/50/299084.jpg" group-title="Asterix",Asterix e o Domínio dos Deuses (2016)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/ASTRXEODMNDSDEUS.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Johnny Bravo",P-1 Johnny Bravo Vai para Bollywood (2011)
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ar6fN7_bruQ/T_Ou4ohH8FI/AAAAAAAAAJo/9264gO-zbTg/s400/jonnywonkacartoons.jpg" group-title="Johnny Bravo",Johnny Bravo Vai para Bollywood P1 (2011)
 http://www.blogger.com/video-play.mp4?contentId=3783e837d328511e
-#EXTINF:-1 tvg-logo="" group-title="Johnny Bravo",P-2 Johnny Bravo Vai para Bollywood (2011)
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ar6fN7_bruQ/T_Ou4ohH8FI/AAAAAAAAAJo/9264gO-zbTg/s400/jonnywonkacartoons.jpg" group-title="Johnny Bravo",Johnny Bravo Vai para Bollywood P2 (2011)
 http://www.blogger.com/video-play.mp4?contentId=9d0defc618cb4e0e
-#EXTINF:-1 tvg-logo="" group-title="Johnny Bravo",P-3 Johnny Bravo Vai para Bollywood (2011)
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ar6fN7_bruQ/T_Ou4ohH8FI/AAAAAAAAAJo/9264gO-zbTg/s400/jonnywonkacartoons.jpg" group-title="Johnny Bravo",Johnny Bravo Vai para Bollywood P3 (2011)
 http://www.blogger.com/video-play.mp4?contentId=9a3c0005c639656b
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Barbie%20-%20Escola%20de%20Princesas.jpg" group-title="BARBIE",BARBIE:ESCOLA DE PRINCESAS (2011)
+http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/BARBESCLDPRNCS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Barbie%20-%20Um%20Natal%20Perfeito.jpg" group-title="BARBIE",BARBIE: UM NATAL PERFEITO (2011)
+http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/BARBUMNTLPRFT.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Barbie%20Rainhas%20do%20Rock.jpg" group-title="BARBIE",BARBIE: RAINHA DO ROCK (2015)
+http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/BARBRANHDRCK.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Barbie%20Aventura%20nas%20Estrelas.jpg" group-title="BARBIE",Barbie: Aventura nas Estrelas (2016)
+http://cdn1.wsnoticias.com/RedeCanais/RCFServer3/ondemand/BARBIRAVNESTLS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Barbie%20e%20as%20Agentes%20Secretas.jpg" group-title="BARBIE",BARBIE E AS AGENTES SECRETAS (2016)
+http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/BRBEASAGNTSSCRTS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Barbie%20E%20Os%20Golfinhos%20M%C3%A1gicos.jpg" group-title="BARBIE",BARBIE E  OS GOLFINHOS MÁGICOS (2017)
+http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/BARBEOSGLNHSMGCS.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ecrYWzV.jpg" group-title="ANIMAÇÕES",O QUE SERÁ DE NOZES? (2014)
 http://sv1.habblet.info/RedeCanais/RCFServer1/ondemand/OQUSRDNZS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/upxOtgk.jpg" group-title="ANIMAÇÕES",Cegonhas: A História que Não te Contaram (2016)
 http://sv1.habblet.info/RedeCanais/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/06/23/19/41/320742.jpg" group-title="ANIMAÇÕES",CONDORITO: O FILME (2017)
+http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/CONDRTOFLM.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/71gKAmw.png" group-title="ANIMAÇÕES",MINIONS (2015)
 http://sv1.habblet.info/RedeCanais/RCFServer2/ondemand/MINIONS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tnKjB08.jpg" group-title="ANIMAÇÕES",Pets: A Vida Secreta dos Bichos (2016)
@@ -310,8 +325,6 @@ http://sv1.habblet.info/RedeCanais/RCFServer3/ondemand/ABLRN.mp4
 http://sv1.habblet.info/RedeCanais/RCFServer1/ondemand/ASLVCAO.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/cfTMr9" group-title="ANIMAÇÕES", O PEQUENO PRÍNCIPE (2015)
 http://sv1.habblet.info/RedeCanais/RCFServer2/ondemand/OPQNPRNCP.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JjESLHq.jpg" group-title="ANIMAÇÕES",Barbie: Aventura nas Estrelas (2016)
-http://sv1.habblet.info/RedeCanais/RCFServer3/ondemand/BARBIRAVNESTLS.mp4
 #EXTINF:-1 tvg-logo="http://www.tudodesenhos.com/uploads/tags/649/thumb_caillou.png" group-title="ANIMAÇÕES",CALILLOU
 http://archive.org/download/videoplayback_20161120_1932/videoplayback.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/80/04/19961677.jpg" group-title="ANIMAÇÕES",O GALINHO CHICKEN LITTLE (2005)
