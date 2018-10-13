@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/10/MV5BMTgwMDdmZGEtMmUwNS00YTE2LWE4N2QtMWNmODQ1YzQ5MTlkXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SY1000_CR006861000_AL_.jpg" group-title="DESTAQUES",OPERAÇÃO FINAL (2018)
 http://dfw-2.portalhqs.net/html/conteudo/delivery/filmes2018/OPERACAOFINALDUB-ALTO.mp4?token=st=1539137939~exp=1539159539~acl=/html/*~hmac=52cd7ebd6f34c8953e4e4759016d8a82
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/10/2102620.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="DESTAQUES",HOMEM FORMIGA E A VESPA (2018)
-http://dfw-2.portalhqs.net/html/conteudo/delivery/filmes2018/HOMIFURMIGA2LEG-ALTO.mp4?token=st=1538449415~exp=1538471015~acl=/html/*~hmac=53c1b016958dbe9192b2c265cf9a9884
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Homem-formiga%20e%20a%20Vespa.jpg" group-title="DESTAQUES",HOMEM FORMIGA E A VESPA (2018)
+http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/HMNFRMGEVSPA.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/images-3.jpg" group-title="DESTAQUES",HOTEL TRANSILVÂNIA 3 (2018)
-http://dfw-2.portalhqs.net/html/conteudo/delivery/filmes2018/HOTELTRANSYLVANIALEG-ALTO.mp4?token=st=1538449282~exp=1538470882~acl=/html/*~hmac=3e4dcc2991ad2b952e14b9fd2584613d
+http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/HTLTRNSVN3LEG.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/5013486.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="DESTAQUES",MEGATUBARÃO (2018)
 http://dfw-2.portalhqs.net/html/conteudo/delivery/filmes2018/THEMEGLEG-ALTO.mp4?token=st=1538449533~exp=1538471133~acl=/html/*~hmac=1dcbb62fd07bdba3106e9199b07cd681
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/p15643490_v_v8_ab.jpg" group-title="DESTAQUES",O ÚLTIMO SHARKNADO: JÁ ESTAVA NA HORA (2018)
@@ -17,41 +17,48 @@ http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/HANSLOUHSTSTRWRS.mp4
 http://dfw-2.portalhqs.net/html/conteudo/delivery/filmes2018/MISSAOIMPOSSIVELFALLOUT-ALTO.mp4?token=st=1537360446~exp=1537382046~acl=/content/*~hmac=6040b905ad57b786c617cb2
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg" group-title="DESTAQUES",VINGADORES: GUERRA INFINITA (2018)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/18/17/25/4723738.jpg" group-title="DESTAQUES",JURASSIC WORLD:REINO AMEAÇADO LEG (2018)
-http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/JRSCWRLDRNOAMCDOLEG.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/18/17/25/4723738.jpg" group-title="DESTAQUES",JURASSIC WORLD:REINO AMEAÇADO (2018)
+http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/JRSCWRLDRNOAMCDO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/19/15/31/2232385.jpg" group-title="DESTAQUES",DEADPOOL 2 (2018)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/DEADP2.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Bleach.jpg" group-title="ÚLTIMOS REDECANAIS",BLEACH (2018)
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/F%C3%A9rias%20Frustradas%201983.jpg" group-title="COMÉDIA",FÉRIAS FRUSTADAS (1983)
+http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/FERSFRTSDS1983.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Arranha-C%C3%A9u%20-%20Coragem%20Sem%20Limite.jpg" group-title="AÇÃO",ARRANHA CÉU: CORAGEM SEM LIMITE (2018)
+http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/ARNHCEUCRGMSMLMTLEG.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Bleach.jpg" group-title="AÇÃO",BLEACH (2018)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/BLCH.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/19/45/19872974.jpg" group-title="ÚLTIMOS REDECANAIS",SIM SENHOR! (2009)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/19/45/19872974.jpg" group-title="COMÉDIA",SIM SENHOR! (2009)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/SMSNHR.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Real%20-%20O%20Plano%20por%20Tr%C3%A1s%20da%20Hist%C3%B3ria.jpg" group-title="ÚLTIMOS REDECANAIS",REAL: O PLANO POR TRÁS DA HISTÓRIA (2017)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Real%20-%20O%20Plano%20por%20Tr%C3%A1s%20da%20Hist%C3%B3ria.jpg" group-title="DRAMA",REAL: O PLANO POR TRÁS DA HISTÓRIA (2017)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/RELOPLNPRTRSDHSTRIA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Quatro%20Casamentos%20E%20Um%20Funeral.jpg" group-title="ÚLTIMOS REDECANAIS",QUATRO CASAMENTOS E UM FUNERAL (1994)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Quatro%20Casamentos%20E%20Um%20Funeral.jpg" group-title="COMÉDIA",QUATRO CASAMENTOS E UM FUNERAL (1994)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/QUTRCSMNTSEUMFNRAL.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Processo.jpg" group-title="ÚLTIMOS REDECANAIS",O PROCESSO (2018)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Processo.jpg" group-title="DOCUMETÁRIO",O PROCESSO (2018)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/OPRCESO.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/16/52/20091675.jpg" group-title="ÚLTIMOS REDECANAIS",O CORVO (2012)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/16/52/20091675.jpg" group-title="AÇÃO",O CORVO (2012)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/OCRVO2012.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/01/48/19871116.jpg" group-title="ÚLTIMOS REDECANAIS",O CORVO (1994)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/01/48/19871116.jpg" group-title="SUSPENSE",O CORVO (1994)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/OCRVO.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/16/48/20083748.jpg" group-title="ÚLTIMOS REDECANAIS",UM SONHO DE LIBERDADE (1995)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/16/48/20083748.jpg" group-title="DRAMA",UM SONHO DE LIBERDADE (1995)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/UMSNHDKBRDA.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/04/28/19871404.jpg" group-title="ÚLTIMOS REDECANAIS",UM DIA DE FÚRIA (1993)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/04/28/19871404.jpg" group-title="DRAMA",UM DIA DE FÚRIA (1993)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/UMDIDFRIA.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS REDECANAIS",O CORVO (1963)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/O%20Corvo%201963.jpg" group-title="DRAMA",O CORVO (1963)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/OCRVO1963.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/132/21013221_20130617200543616.jpg" group-title="ÚLTIMOS REDECANAIS",SOCIEDADE DOS POETAS MORTOS (1990)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/132/21013221_20130617200543616.jpg" group-title="DRAMA",SOCIEDADE DOS POETAS MORTOS (1990)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/SOCDEDSPOETSMRTS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/78/32/20217471.jpg" group-title="ÚLTIMOS REDECANAIS",HOWARD: O SUPER HERÓI (1986)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/78/32/20217471.jpg" group-title="COMÉDIA",HOWARD: O SUPER HERÓI (1986)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/HWRD.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/88/59/20223140.jpg" group-title="ÚLTIMOS REDECANAIS",CORINA: UMA BABÁ PERFEITA (1995)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/88/59/20223140.jpg" group-title="COMÉDIA",CORINA: UMA BABÁ PERFEITA (1995)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/CORNUMBABPRFTA.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/97/24/14/20517767.jpg" group-title="ÚLTIMOS REDECANAIS",AMERICAN GRAFFITI: LOUCURAS DE VERÃO (1973)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Uma%20Bab%C3%A1%20Quase%20Perfeita.jpg" group-title="COMÉDIA",UMA BABÁ QUASE PERFEITA (1996)
+http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/UMBABQSEPRFTA.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/97/24/14/20517767.jpg" group-title="CULT",AMERICAN GRAFFITI: LOUCURAS DE VERÃO (1973)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/LOCRSDVRAO.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/96/93/18/20497001.jpg" group-title="ÚLTIMOS REDECANAIS",TRAINSPOTTING (1996)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/96/93/18/20497001.jpg" group-title="CULT",TRAINSPOTTING (1996)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/TRNSPTSMLMTS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/05/09/21/03/326587.jpg" group-title="ÚLTIMOS REDECANAIS",SOB A PELE (2014)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/05/09/21/03/326587.jpg" group-title="FICÇÃO CIENTÍFICA",SOB A PELE (2014)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/SOBAPLE.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/30/74/19874146.jpg" group-title="ÚLTIMOS REDECANAIS",LULA: O FILHO DO BRASIL (2010)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/LULOFLHDBR.mp4
@@ -385,7 +392,7 @@ http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/DOSDODESEMHRVD.mp4
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/DOGSLDRSCADCACDA.mp4
 #EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",DOCE NOVEMBRO (2001)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/DCENVMBRO.mp4
-#EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",A ÚLTIMA TENTAÇÃO DE CRISTO (1988)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20%C3%9Altima%20Tenta%C3%A7%C3%A3o%20de%20Cristo.jpg" group-title="SCORSESE",A ÚLTIMA TENTAÇÃO DE CRISTO (1988)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/AULTMTNTCDCRST.mp4
 #EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",COLD MOUNTAIN (2003)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/CLDMNTAN.mp4
@@ -580,9 +587,9 @@ http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/DIARDUMADLCNTE.mp4
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/WSTWLDONDNGMTMALMA.mp4
 #EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",UM GRANDE GAROTO (2002)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/UMGRNDGRTO.mp4
-#EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",TAXI DRIVER (1976)
+#EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="SCORSESE",TAXI DRIVER (1976)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/TXDRVRMTRSTDTX.mp4
-#EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",TOURO INDOMÁVEL (1980)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Touro%20Indomavel.jpg" group-title="SCORSESE",TOURO INDOMÁVEL (1980)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/TROINDOMAVL.mp4
 #EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",TORA! TORA! TORA! (1970)
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/TORTORTOR.mp4
@@ -806,15 +813,15 @@ http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/PNTRNGR.mp4
 http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/057/21005782_20130514172205617.jpg" group-title="DCFilmes",O HOMEM DE AÇO (2013)
-http://sv1.habblet.info/RedeCanais/RCFServer1/ondemand/OHMNDACO.mp4
+http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/OHMNDACO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/01/04/18/43/2155615.jpg" group-title="DCFilmes",BATMAN VS SUPERMAN: A ORIGEM DA JUSTIÇA (2016)
 http://sv1.habblet.info/RedeCanais/RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/06/22/00/19/008711.jpg" group-title="DCFilmes",ESQUADRÃO SUICIDA (2016)
 http://sv1.habblet.info/RedeCanais/RCFServer3/ondemand/ESQDSUCDA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/03/10/19/41/580546.jpg" group-title="DCFilmes",MULHER-MARAVILHA (2017)
-http://sv1.habblet.info/RedeCanais/RCFServer1/ondemand/MLHRMRVLHA.mp4
+http://box5112.temp.domains/~habbinfo/videos/RCFServer1/ondemand/MLHRMRVLHA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/10/23/19/55/0260439.jpg"  group-title="DCFilmes",LIGA DA JUSTIÇA (2017)
-http://sv1.habblet.info/RedeCanais/RCFServer4/ondemand/LGDJSTC.mp4
+http://sv2.habblet.info/RedeCanais/RCFServer4/ondemand/LGDJSTC.mp4
 
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/12/MV5BZmIyMDk5NGYtYjQ5NS00ZWQxLTg2YzQtZDk1ZmM4ZDBlN2E3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR006751000_AL_.jpg" group-title="X-Men",X-MEN O FILME (2000)
 http://sv1.habblet.info/RedeCanais/RCFServer3/ondemand/XMEN01.mp4
@@ -4122,8 +4129,6 @@ http://lh3.googleusercontent.com/vlcCGgpvvFxn-z3cNxIUMlyxoE2JP-YIwjFlsFyz0-SJlno
 http://lh3.googleusercontent.com/vlcCGgpvvFxn-z3cNxIUMlyxoE2JP-YIwjFlsFyz0-SJlnooMeTpm2Mbo-zjRE4mslE=m22
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yu8Af0l.jpg" group-title="LETRA O",O TIGRE E O DRAGÃO: A ESPADA DO DESTINO (2016)
 http://sv1.habblet.info/RedeCanais/RCFServer2/ondemand/OTRIGEDRG.mp4
-#EXTINF:-1 tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/touro-indomavel_cartaz_220x283.jpg" group-title="LETRA O",O TOURO INDOMÁVEL (1980)
-http://sv1.habblet.info/RedeCanais/RCFServer4/ondemand/TROINDOMAVL.mp4
 #EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="LETRA O",O ÚLTIMO BATALHÃO
 http://lh3.googleusercontent.com/CmP2eILW_nGvkqjKZ637MtxQjfXw7Px_5i5_ga9xCnXOO_Ve2S7nQjVJgjbOMLMPvTXYbqH-=m18
 #EXTINF:-1 tvg-logo="http://i.imgur.com/OfTfmSW.jpg" group-title="LETRA O",O ÚLTIMO CAÇADOR DE BRUXAS (2015)
