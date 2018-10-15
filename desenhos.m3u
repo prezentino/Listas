@@ -76,7 +76,7 @@ http://serv2-2.eletricmice.com/RedeCanais/RCFServer4/ondemand/ACANCDSL.mp4
 http://serv2-2.eletricmice.com/RedeCanais/RCFServer4/ondemand/CMEBMSDVRT.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/89/62/19962657.jpg" group-title="Disney",CINDERELA (1950)
 http://serv2-2.eletricmice.com/RedeCanais/RCFServer4/ondemand/CNDRLA1950.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/02/27/19/01/345052.jpgg" group-title="Disney",ALICE NO PAÍS DAS MARAVILHAS (1951)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Alice%20no%20Pa%C3%ADs%20das%20Maravilhas%20Desenho.jpg" group-title="Disney",ALICE NO PAÍS DAS MARAVILHAS (1951)
 http://serv5-5.eletricmice.com/RedeCanais/RCFServer2/ondemand/ALCNPSDSMRVLHS1951.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/35/51/51/19123297.jpg" group-title="Disney",PETER PAN (1953)
 http://serv5-5.eletricmice.com/RedeCanais/RCFServer4/ondemand/PTRPN.mp4
@@ -132,6 +132,8 @@ http://serv5-5.eletricmice.com/RedeCanais/RCFServer1/ondemand/TYSTRY2.mp4
 http://serv5-5.eletricmice.com/RedeCanais/RCFServer4/ondemand/MNSTRSA.mp4
 #EXTINF:-1 tvg-logo="http://acaradiscus.com.br/wp-content/uploads/2017/02/Filme-Procurando-Nemo.jpeg" group-title="Pixar",PROCURANDO NEMO (2003)
 http://serv5-5.eletricmice.com/RedeCanais/RCFServer4/ondemand/PRCRNDONEM.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster-7.jpg" group-title="Pixar",OS INCRÍVEIS (2004)
+http://dfw01.portalhqs.net/html/content/httpdelivery/filmes2018/OSINCRIVEISDUB-ALTO.mp4?token=st=1537590444~exp=1537612044~acl=/html/*~hmac=b66d6a9886b3c22ebc2a12cc38441ea3
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-PxS7aqwqXsI/WG7tbkl6AaI/AAAAAAAABPQ/-FZ9n8fFx3sCtBotXQGKhdrjNoJWpyKLACLcB/s1600/Capa-do-DVD-Carros-em-que-aparecem-varios-desenhos-de-carros-coloridos-e-com-expressoes-faciais1.jpg" group-title="Pixar", CARROS (2006)
 http://serv5-5.eletricmice.com/RedeCanais/RCFServer2/ondemand/CARROS1.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_300_300/medias/nmedia/18/87/86/63/19974029.jpg" group-title="Pixar",WALL E (2008)
