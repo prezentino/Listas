@@ -769,8 +769,7 @@ http://dfw01.portalhqs.net/html/content/httpdelivery/filmes2017/ITCOISADUB-ALTO.
 
 
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/bzp/01/34509.jpg" group-title="MarvelFilmes",HULK (2003)
-http://serv5-5.eletricmice.com/RedeCanais/RCFServer1/ondemand/HULK.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hulk.jpg" group-title="MarvelFilmes",HULK (2003)
 http://serv5-5.eletricmice.com/RedeCanais/RCFServer1/ondemand/HULK.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/14/08/27/23/09/130788.jpg" group-title="MarvelFilmes",HOMEM DE FERRO (2008)
 http://serv5-5.eletricmice.com/~habbinfo/videos/RCFServer1/ondemand/HMNDEFRO01.mp4
