@@ -1,4 +1,33 @@
-erver4/ondemand/MINSCLSOFLM.mp4
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%20Nos%20Cinemas.jpg" group-title="LANÇAMENTOS",OSJOVENS TITÃS EM AÇÃO! NO CINEMA (2018)
+http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/OSJVNSTTSEMACONSCINE.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis%202.jpg" group-title="LANÇAMENTOS",Os Incríveis 2 (2018)
+http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/OSINCRVS2.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Revolting%20Rhymes.jpg" group-title="LANÇAMENTOS",REVOLTING RHYMES LEG (2017)
+http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/RVLTNGRYMSLEG.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/26/13/42/2533608.jpg" group-title="LANÇAMENTOS",PEIXONAUTA: O FILME (2018)
+http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/PEXNTAOFLM.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/06/21/13/51/3779846.jpg" group-title="LANÇAMENTOS",ILHA DOS CACHORROS (2018)
+http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/ILHSDSCHRRS.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/05/18/14/03/158881.jpg" group-title="LANÇAMENTOS",PATO PATO GANSO (2018)
+http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/PATPATGNSO.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/18/01/15/17/16/4428764.png" group-title="LANÇAMENTOS",O HOMEM DAS CAVERNAS (2018)
+http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/OHMNDSCVNS.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/01/31/18/16/4897669.jpg" group-title="LANÇAMENTOS",GNOMEU E JULIETA (2018)
+http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/SHRLCKGNMSEOMSTRODJRDM.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/04/25/15/04/460419.jpg" group-title="LANÇAMENTOS",AS AVENTURAS DE OZZY (2017)
+http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/ASAVNTRSDOZY.mp4
+#EXTINF:-1 tvg-logo="http://stmed.net/sites/default/files/cats-%26-dogs%3A-the-revenge-of-kitty-galore-wallpapers-29449-5244789.jpg" group-title="LANÇAMENTOS",COMO CÃES E GATOS 2 (2010)
+http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/CMCSEGTS2.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/54/50/20205559.jpg" group-title="LANÇAMENTOS",COMO CÃES E GATOS (2001)
+http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/CMCSEGTS.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/11/06/20/22/0021404.jpg" group-title="LANÇAMENTOS",DUDA E OS GNOMOS (2018)	
+http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/DUDEOSGNMS.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/12/07/11/33/0502209.jpg" group-title="LANÇAMENTOS",VIVA: A VIDA É UMA FESTA (2018)
+http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/VIVAAVDEUMFST.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/12/11/15/27/039582.jpg" group-title="LANÇAMENTOS",MINÚSCULOS: O FILME (2015)
+http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/MINSCLSOFLM.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/08/28/09/57/574900.jpg" group-title="LANÇAMENTOS",A ESTRELA DE BELÉM (2017)
 http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/AESTRLDBLM.mp4
 
@@ -93,14 +122,25 @@ http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/101DMLTS2.mp4
 http://g1.azureedge.net/RedeCanais/RCFServer1/ondemand/MULAN02.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/t4471e6.jpg" group-title="Disney",O REI LEÃO 3: HAKUNA MATATA (2004)
 http://g1.azureedge.net/RedeCanais/RCFServer1/ondemand/REILAO03.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Pequena%20Sereia%20-%20A%20Hist%C3%B3ria%20de%20Ariel.jpg" group-title="Disney",A PEQUENA SEREIA: A HISTÓRIA DE ARIEL (2008)
+http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/APQNSREIAHSTRDARIEL.mp4
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20o%20Monstro%20da%20Terra%20do%20Nunca.jpg" group-title="Tinker Bell",Tinker Bell e o Monstro da Terra do Nunca (2015)
+http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTREOMNSTRDTRADNCA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20-%20O%20Segredo%20das%20Fadas.jpg" group-title="Tinker Bell",Tinker Bell: O Segredo das Fadas (2012)
+http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTROSGRDSFDS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20O%20Resgate%20das%20Fadas.jpg" group-title="Tinker Bell",Tinker Bell e o Resgate da Fada (2010)
+http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTREORSGTDFDA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20o%20Tesouro%20Perdido.jpg" group-title="Tinker Bell",Tinker Bell e o Tesouro Perdido (2009)
+http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTREOTSRPRDO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20Uma%20Aventura%20No%20Mundo%20das%20Fadas.jpg" group-title="Tinker Bell",Tinker Bell: Uma Aventura no Mundo das Fadas (2008)
+http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTRNMNDSFDS.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/AsuO4ML.jpg" group-title="Pixar",TOY STORY: UM MUNDO DE AVENTURAS (1995)
 http://g1.azureedge.net/RedeCanais/RCFServer1/ondemand/TYSTRY1.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Vida%20de%20Inseto.jpg" group-title="Pixar",Vida de Inseto (Dublado)
+http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/VDADISNTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZTf1k.jpg" group-title="Pixar",TOY STORY 2 (1999)
 http://g1.azureedge.net/RedeCanais/RCFServer1/ondemand/TYSTRY2.mp4
 #EXTINF:-1 tvg-logo="http://www.cazulo.com/media/catalog/product/cache/1/image/650x650/9df78eab33525d08d6e5fb8d27136e95/a/d/adesivo-de-parede-sully-monstros-sa-03.jpg" group-title="Pixar",MONSTROS S A (2001)
@@ -108,7 +148,7 @@ http://g1.azureedge.net/RedeCanais/RCFServer4/ondemand/MNSTRSA.mp4
 #EXTINF:-1 tvg-logo="http://acaradiscus.com.br/wp-content/uploads/2017/02/Filme-Procurando-Nemo.jpeg" group-title="Pixar",PROCURANDO NEMO (2003)
 http://g1.azureedge.net/RedeCanais/RCFServer4/ondemand/PRCRNDONEM.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster-7.jpg" group-title="Pixar",OS INCRÍVEIS (2004)
-http://cdus1.portalhqs.net/html/content/httpdelivery/filmes2018/OSINCRIVEISDUB-ALTO.mp4?token=st=1541473761~exp=1541495361~acl=/html/*~hmac=5cc57e78393b35e08545adf666af7ddf
+http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/OSINCRVS.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-PxS7aqwqXsI/WG7tbkl6AaI/AAAAAAAABPQ/-FZ9n8fFx3sCtBotXQGKhdrjNoJWpyKLACLcB/s1600/Capa-do-DVD-Carros-em-que-aparecem-varios-desenhos-de-carros-coloridos-e-com-expressoes-faciais1.jpg" group-title="Pixar", CARROS (2006)
 http://g1.azureedge.net/RedeCanais/RCFServer2/ondemand/CARROS1.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_300_300/medias/nmedia/18/87/86/63/19974029.jpg" group-title="Pixar",WALL E (2008)
@@ -119,8 +159,6 @@ http://g1.azureedge.net/RedeCanais/RCFServer1/ondemand/TYSTRY3.mp4
 http://g1.azureedge.net/RedeCanais/RCFServer2/ondemand/CRSTONAGHDM.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-IIj0y9gAlHc/WG7tbCK9utI/AAAAAAAABPM/aSv7ZTcacmwApRttTWEsytJxbimm6fkWQCLcB/s1600/Capa-Carros-2.jpg" group-title="Pixar", CARROS 2 (2011)
 http://g1.azureedge.net/RedeCanais/RCFServer2/ondemand/CARROS2.mp4
-
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9VJauzW.png" group-title="Pixar",TOY STORY: ESQUECIDOS PELO TEMPO (2015)
 http://g1.azureedge.net/RedeCanais/RCFServer2/ondemand/TYSTRYESQDPTEMP.mp4
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-IMJnPcu8mzg/WINzmGVLSkI/AAAAAAAADm0/JP4ti7QmO2cgMcmtqONt5A3tPoEAixM3gCLcB/s1600/universidade-monstros-clipart-002-650x495.jpg" group-title="Pixar",UNIVERSIDADE DOS MONSTROS (2013)
@@ -141,8 +179,8 @@ http://g1.azureedge.net/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
 http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/MONUMRDAVTRA.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/VKGhp3" group-title="Pixar",CARROS 3 (2017)
 http://g1.azureedge.net/RedeCanais/RCFServer4/ondemand/CRS3.mp4
-
-
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis%202.jpg" group-title="Pixar",Os Incríveis 2 (2018)
+http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/OSINCRVS2.mp4
 
 
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/89/63/19962658.jpg" group-title="Sony",TÁ CHOVENDO HAMBURGER (2009)
