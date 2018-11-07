@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/10/Constantine_-_City_of_Demons.jpg" group-title="DC Animações",CONSTANTINE: CIDADE DE DEMÔNIOS (2018)
-http://dfus2.portalhqs.net/html/conteudo/delivery/filmes2018/DCONSTANTINEDUB-ALTO.mp4?token=st=1539484730~exp=1539506330~acl=/html/*~hmac=941f323491c6844a10b78405a4329a72
+http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/DCCONSTNECDADEMO.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/07/3-2.jpg" group-title="DC Animações",A MORTE DO SUPERMAN (2018)
 http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/AMRTDSPRMN.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/999.jpg" group-title="DC Animações",BATMAN NINJA (2018)
@@ -38,12 +38,9 @@ http://cloud.popfilmeshd.net/popfilmes//FILMES/DUBLADO/LGDJTDATDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/marvel_dc/images/c/c1/Batman_Unlimited_Mechs_vs._Mutants.jpg" group-title="DC Animações", Batman Sem Limites: Mechas vs Mutantes
 http://cdus1.portalhqs.net/html/content/sobdemanda/netcine-bucket/filmes2016/animacoes/MECHADUB--ALTO.mp4?token=st=1541473761~exp=1541495361~acl=/html/*~hmac=5cc57e78393b35e08545adf666af7ddf
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zSUf270.jpg" group-title="DC Animações",P-1 Batman Sem Limites Caos Monstruoso
-http://www.blogger.com/video-play.mp4?contentId=88af5c8af1ac7c3c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zSUf270.jpg" group-title="DC Animações",P-2 Batman Sem Limites Caos Monstruoso
-http://www.blogger.com/video-play.mp4?contentId=11cbc16d5844f993
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zSUf270.jpg" group-title="DC Animações",P-3 Batman Sem Limites Caos Monstruoso
-http://www.blogger.com/video-play.mp4?contentId=8fc51f651d8fc24e
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Batman%20Sem%20Limites%20-%20Caos%20Monstruoso.jpg" group-title="DC Animações",Batman Sem Limites: Caos Monstruoso (2015)
+http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/BTMNSMLMTSCASMNSTOSO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W2PoEgs.jpg" group-title="DC Animações",P-1 Batman Sem Limites e Instintos Animais
 http://www.blogger.com/video-play.mp4?contentId=fe25e04a15d152b7
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W2PoEgs.jpg" group-title="DC Animações",P-2 Batman Sem Limites e Instintos Animais
@@ -165,7 +162,7 @@ http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/BATMLGOFLMSPRHRSUN.mp4
 http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/BATMLGOFLMSPRHRSUN.mp4
 #EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/02/Liga-da-Justi%C3%A7a-Lego-Combate-C%C3%B3smico-Dublado.jpg" group-title="LEGO DC Animações", Liga da Justiça Lego: Combate Cósmico (2016)
 http://g1.azureedge.net/RedeCanais/RCFServer2/ondemand/LEGLGDJSTCCMBTCSMCO.mp4
-#EXTINF:-1 tvg-logo="http://www.arrobanerd.com.br/wp-content/uploads/2017/01/lego-batman-posters--800x445.png" group-title="LEGO DC Animações", Batman Lego: O Filme (2017)
+#EXTINF:-1 tvg-logo="http://www.arrobanerd.com.br/wp-content/uploads/2017/01/lego-batman-posters--800x445.png" group-title="LEGO DC Animações",Batman Lego: O Filme (2017)
 http://g1.azureedge.net/RedeCanais/RCFServer4/ondemand/LEGBTMNOFLM.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_300_300/pictures/17/01/31/12/54/150136.jpg"  group-title="LEGO DC Animações",P-1 LEGO Liga da Justiça: O Ataque da Legiao do Mal
 http://www.blogger.com/video-play.mp4?contentId=9930d381cb2a9836
@@ -173,17 +170,24 @@ http://www.blogger.com/video-play.mp4?contentId=9930d381cb2a9836
 http://www.blogger.com/video-play.mp4?contentId=6a4d03deeb37dfe6
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_300_300/pictures/17/01/31/12/54/150136.jpg"  group-title="LEGO DC Animações",P-3 LEGO Liga da Justiça: O Ataque da Legiao do Mal
 http://www.blogger.com/video-play.mp4?contentId=e9974ce850aaf698
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Lego%20DC%20Comics%20Super%20Heroes%20-%20The%20Flash.jpg" group-title="LEGO DC Animações",Lego DC Comics Super Heroes: O Flash (2018)
+http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/LEGDCCMSSPRHRTHFLSH.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/LEGO%20DC%20Comics%20Super%20Her%C3%B3is%20-%20Aquaman%20A%20F%C3%BAria%20de%20Atl%C3%A2ntida.jpg" group-title="LEGO DC Animações",LEGO DC Comics Super Heróis: Aquaman: A Fúria de Atlântida (2018)
+http://g2.azureedge.net/RedeCanais/RCFServer4/ondemand/LGODCAQMNAFRDATLNDA.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="DC Super Hero Girls",Lego DC Super Hero Girls: Controle Mental (2017)
-http://g1.azureedge.net/RedeCanais/RCFServer4/ondemand/LEGDCSPRGRLSCNTLMENTL.mp4
-#EXTINF:-1 tvg-logo="" group-title="DC Super Hero Girls",LEGO DC Super Hero Girls: Escola de Super Vilãs (2018)
-http://g1.azureedge.net/RedeCanais/RCFServer4/ondemand/LGODCSPRHROGRLSESCLDSPRVLS.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Qr0EAdxgEk/maxresdefault.jpg" group-title="DC Super Hero Girls",P-1 DC Super Hero Girls: Heroinas do Ano
 http://www.blogger.com/video-play.mp4?contentId=b4d53e30082b98b0
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Qr0EAdxgEk/maxresdefault.jpg" group-title="DC Super Hero Girls",P-2 DC Super Hero Girls: Heroinas do Ano
 http://www.blogger.com/video-play.mp4?contentId=22c895c5c20c5609
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Qr0EAdxgEk/maxresdefault.jpg" group-title="DC Super Hero Girls",P-3 DC Super Hero Girls: Heroinas do Ano
 http://www.blogger.com/video-play.mp4?contentId=c9204f578ec23aed
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/LEGO%20DC%20Super%20Hero%20Girls%20-%20Controle%20Mental.jpg" group-title="DC Super Hero Girls",DC Super Hero Girls: Controle Mental (2017)
+http://g1.azureedge.net/RedeCanais/RCFServer4/ondemand/LEGDCSPRGRLSCNTLMENTL.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/LEGO%20DC%20Super%20Hero%20Girls%20Escola%20de%20Super%20Vil%C3%A3s.jpg" group-title="DC Super Hero Girls",DC Super Hero Girls: Escola de Super Vilãs (2018)
+http://g1.azureedge.net/RedeCanais/RCFServer4/ondemand/LGODCSPRHROGRLSESCLDSPRVLS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/DC%20Super%20Hero%20Girls%20-%20Lendas%20de%20Atl%C3%A2ntida.jpg" group-title="DC Super Hero Girls",DC Super Hero Girls: Lendas de Atlântida (2018)
+http://g1.azureedge.net/RedeCanais/RCFServer3/ondemand/DCSPRHROGRLSLNDSDATLNDA.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/d6/82/69/d68269b32e6895a50f8702a0cef6666b.jpg" group-title="SuperMan 1941",01 SuperMan 1941
