@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/11/2485925.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg" group-title="DESTAQUES",Legítimo Rei (2018)
+http://dcms3.portalhqs.net/html/content/conteudolb/filmes2018/LEGITIMONREI-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Meu%20Nome%20N%C3%A3o%20%C3%A9%20Johnny.jpg" group-title="DESTAQUES",MEU NOME NÃO É JOHNNY (2008)
 http://nn1.azureedge.net/RedeCanais/RCFServer3/ondemand/MEUNMNEJHNY.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/11/MV5BMjIxMTMyOTE2NF5BMl5BanBnXkFtZTgwMDYyNzY1NTM@._V1_SY1000_CR006741000_AL_.jpg" group-title="DESTAQUES",PAPILLON LEG (2018)
@@ -17,13 +19,16 @@ http://dcms2.portalhqs.net/html/conteudo/delivery/filmes2018/DERHAUPTMANNLEG-ALT
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/REDCUP_CHARACTER_BANNERS__1_BRAZIL.jpg" group-title="DESTAQUES",HAN SOLO: UMA HISTÓRIA STAR WARS (2018)
 http://nn2.azureedge.net/RedeCanais/RCFServer4/ondemand/HANSLOUHSTSTRWRS.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/5117345.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="DESTAQUES",MISSÃO IMPOSSÍVEL: EFEITO FALLOUT (2018)
-http://dcms2.portalhqs.net/html/conteudo/delivery/filmes2018/MISSAOIMPOSSIVELFALLOUT-ALTO.mp4?token=st=1541474610~exp=1541496210~acl=/html/*~hmac=33e1232a28c73eafb85669056f82d232
+http://dcms2.portalhqs.net/html/conteudo/delivery/filmes2018/MISSAOIMPOSSIVELFALLOUT-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg" group-title="DESTAQUES",VINGADORES: GUERRA INFINITA (2018)
 http://nn2.azureedge.net/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/18/17/25/4723738.jpg" group-title="DESTAQUES",JURASSIC WORLD:REINO AMEAÇADO (2018)
 http://nn2.azureedge.net/RedeCanais/RCFServer4/ondemand/JRSCWRLDRNOAMCDO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/19/15/31/2232385.jpg" group-title="DESTAQUES",DEADPOOL 2 (2018)
 http://nn2.azureedge.net/RedeCanais/RCFServer4/ondemand/DEADP2.mp4
+
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/05/interstellar3.jpg" group-title="FICÇÃO CIENTÍFICA",INTERESTELAR (2014)
+http://dcus5.portalhqs.net/html/content/httpdelivery/filmes2017/INTER8ST8L4RDUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Branca%20de%20Neve%20e%20o%20Ca%C3%A7ador.jpg" group-title="FANTASIA",BRANCA DE NEVE E O CAÇADOR (2013)
 http://nn2.azureedge.net/RedeCanais/RCFServer4/ondemand/BRNCDNVEOCACDR.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/F%C3%A9rias%20Frustradas%201983.jpg" group-title="COMÉDIA",FÉRIAS FRUSTADAS (1983)
@@ -1125,15 +1130,15 @@ http://dcms3.portalhqs.net/html/content/conteudolb/filmes2018/THERETURNOFTHEKING
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Hobbit%20-%20Uma%20Jornada%20Inesperada.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: UMA JORNADA INESPERADA (2012)
 http://nn1.azureedge.net/RedeCanais/RCFServer1/ondemand/OHBTUJRNINSPRD.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/06/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_UX182_CR00182268_AL_.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: UMA JORNADA INESPERADA (2012)
-http://ams01.portalhqs.net/html/content/delivery/filmes2018/HOBBIT1DUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://dcms3.portalhqs.net/html/content/delivery/filmes2018/HOBBIT1DUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Hobbit%20-%20A%20Desola%C3%A7%C3%A3o%20de%20Smaug.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A DESOLAÇÃO DE SMAUG (2013)
 http://nn1.azureedge.net/RedeCanais/RCFServer1/ondemand/OHBTADSLCDSMG.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/06/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_UX182_CR00182268_AL_.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A DESOLAÇÃO DE SMAUG (2013)
-http://dcms3.portalhqs.net/html/content/delivery/filmes2018/HOBBIT2DUB-ALTO.mp4?token=st=1541720462~exp=1541742062~acl=/html/*~hmac=e66f37b6b8eb035ab890ac251161817d
+http://dcms3.portalhqs.net/html/content/delivery/filmes2018/HOBBIT2DUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Hobbit%20-%20A%20Batalha%20dos%20Cinco%20Ex%C3%A9rcitos.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A BATALHA DOS CINCO EXÉRCITOS (2014)
 http://nn1.azureedge.net/RedeCanais/RCFServer1/ondemand/OHBTABTLHDSCNCEXRCTS.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/06/MV5BODAzMDgxMDc1MF5BMl5BanBnXkFtZTgwMTI0OTAzMjE@._V1_UX182_CR00182268_AL_.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A BATALHA DOS CINCO EXÉRCITOS (2014)
-http://dcms2.portalhqs.net/html/content/delivery/filmes2018/HOBBIT3DUB-ALTO.mp4?token=st=1541720564~exp=1541742164~acl=/html/*~hmac=5e5d1b1431d871dd392aa9904a56e017
+http://dcms2.portalhqs.net/html/content/delivery/filmes2018/HOBBIT3DUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Senhor%20dos%20An%C3%A9is%20-%20A%20Sociedade%20do%20Anel.jpg" group-title="O Hobbit & O Senhor dos Anéis",O SENHOR DOS ANÉIS: A SOCIEDADE DO ANEL (2001)
 http://nn1.azureedge.net/RedeCanais/RCFServer3/ondemand/OSNHRDSANSASCEDDANL.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Senhor%20dos%20An%C3%A9is%20-%20As%20Duas%20Torres.jpg" group-title="O Hobbit & O Senhor dos Anéis",O SENHOR DOS ANÉIS: AS DUAS TORRES (2002)
