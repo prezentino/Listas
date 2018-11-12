@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis%202.jpg" group-title="LANÇAMENTOS",Os Incríveis 2 (2018)
 http://nn1.azureedge.net/RedeCanais/RCFServer3/ondemand/OSINCRVS2.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Revolting%20Rhymes.jpg" group-title="LANÇAMENTOS",REVOLTING RHYMES LEG (2017)
@@ -2749,6 +2752,97 @@ http://nn2.azureedge.net/RedeCanais/RCServer13/ondemand/BOBESPJEP437.mp4
 #EXTINF:-1 tvg-logo="http://nick-intl.mtvnimages.com/uri/mgid:file:gsp:kids-assets:/nick/properties/spongebob-squarepants/characters/spongebob-character-web-desktop.png" group-title="BOB ESPONJA",Bob Esponja E438
 http://nn2.azureedge.net/RedeCanais/RCServer13/ondemand/BOBESPJEP438.mp4
 
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E01
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP01.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E02
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP02.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E03
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP03.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E04
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP04.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E05
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP05.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E06
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP06.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E07
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP07.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E08
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP08.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E09
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP09.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E10
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP10.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E11
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP11.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E12
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP12.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E13
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP13.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E14
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP14.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E15
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP15.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E16
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP16.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E17
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP17.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E18
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP18.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E19
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP19.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E20
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP20.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E21
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP21.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E22
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP22.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E23
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP23.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E24
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP24.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E25
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP25.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E26
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP26.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E01
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP27.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E02
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP28.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E03
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP29.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E04
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP30.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E05
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP31.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E06
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP32.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E07
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP33.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E08
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP34.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E09
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP35.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E10
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP36.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E11
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP37.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E12
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP38.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E13
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP39.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T03E01
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP40.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T03E02
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP41.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T03E03
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP42.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T03E04
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP43.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T03E05
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP44.mp4
+#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T03E06
+http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP45.mp4
+
 #EXTINF:-1 tvg-logo="http://goo.gl/0W7qgG" group-title="Cavalo de Fogo",1 Cavalo de Fogo
 http://www.blogger.com/video-play.mp4?contentId=7baa8ebb4cdbe8fa
 #EXTINF:-1 tvg-logo="http://goo.gl/0W7qgG" group-title="Cavalo de Fogo",2 Cavalo de Fogo
@@ -2833,6 +2927,32 @@ http://nn2.azureedge.net/RedeCanais/RCServer01/videos/CVRNDDRGEP27.mp4
 #EXTINF:-1 tvg-logo="http://www.correiodeuberlandia.com.br/wp-content/uploads/2014/07/carvena-do-drag%C3%A3o.jpg" group-title="Caverna do Dragão", Caverna do Dragão (Final)
 http://nn2.azureedge.net/RedeCanais/RCServer09/ondemand/CVRNDDRGEP28.mp4
 
+#EXTINF:-1 tvg-logo="http://www.animeai.online/img/desenhos/2015/12-C/chico-bento.jpg" group-title="Chico Bento",Chico Bento EP 01
+http://www.blogger.com/video-play.mp4?contentId=e8bce7a0090abe7d
+#EXTINF:-1 tvg-logo="http://www.animeai.online/img/desenhos/2015/12-C/chico-bento.jpg" group-title="Chico Bento",Chico Bento EP 02
+http://www.blogger.com/video-play.mp4?contentId=39f979c78e1f778f
+#EXTINF:-1 tvg-logo="http://www.animeai.online/img/desenhos/2015/12-C/chico-bento.jpg" group-title="Chico Bento",Chico Bento EP 03
+http://www.blogger.com/video-play.mp4?contentId=7692ce806955bd76
+#EXTINF:-1 tvg-logo="http://www.animeai.online/img/desenhos/2015/12-C/chico-bento.jpg" group-title="Chico Bento",Chico Bento EP 04
+http://www.blogger.com/video-play.mp4?contentId=d51f6086c346528d
+#EXTINF:-1 tvg-logo="http://www.animeai.online/img/desenhos/2015/12-C/chico-bento.jpg" group-title="Chico Bento",Chico Bento EP 05
+http://www.blogger.com/video-play.mp4?contentId=f4cfd534f21d420e
+#EXTINF:-1 tvg-logo="http://www.animeai.online/img/desenhos/2015/12-C/chico-bento.jpg" group-title="Chico Bento",Chico Bento EP 06
+http://www.blogger.com/video-play.mp4?contentId=4a98200fb88dcc12
+#EXTINF:-1 tvg-logo="http://www.animeai.online/img/desenhos/2015/12-C/chico-bento.jpg" group-title="Chico Bento",Chico Bento EP 07
+http://www.blogger.com/video-play.mp4?contentId=2866d5e17dbdc5ec
+#EXTINF:-1 tvg-logo="http://www.animeai.online/img/desenhos/2015/12-C/chico-bento.jpg" group-title="Chico Bento",Chico Bento EP 08
+http://www.blogger.com/video-play.mp4?contentId=e83728b7ba180377
+#EXTINF:-1 tvg-logo="http://www.animeai.online/img/desenhos/2015/12-C/chico-bento.jpg" group-title="Chico Bento",Chico Bento EP 09
+http://www.blogger.com/video-play.mp4?contentId=bdd74c412dff84bf
+#EXTINF:-1 tvg-logo="http://www.animeai.online/img/desenhos/2015/12-C/chico-bento.jpg" group-title="Chico Bento",Chico Bento EP 10
+http://www.blogger.com/video-play.mp4?contentId=359cb319b3f58d1e
+#EXTINF:-1 tvg-logo="http://www.animeai.online/img/desenhos/2015/12-C/chico-bento.jpg" group-title="Chico Bento",Chico Bento EP 11 
+http://www.blogger.com/video-play.mp4?contentId=64ad79c2934b5fdf
+#EXTINF:-1 tvg-logo="http://www.animeai.online/img/desenhos/2015/12-C/chico-bento.jpg" group-title="Chico Bento",Chico Bento EP 12
+http://www.blogger.com/video-play.mp4?contentId=ec4e240483fb5980
+#EXTINF:-1 tvg-logo="http://www.animeai.online/img/desenhos/2015/12-C/chico-bento.jpg" group-title="Chico Bento",Chico Bento EP 13
+http://www.blogger.com/video-play.mp4?contentId=80e9d047663b646c
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/eFZU7sgnmX0/maxresdefault.jpg" group-title="Coragem", Coragem O Cão Covarde T01E00
 http://nn1.azureedge.net/RedeCanais/RCServer04/ondemand/COCCEP000.mp4
@@ -3841,7 +3961,32 @@ http://www.blogger.com/video-play.mp4?contentId=f83709a5fef2d15d
 #EXTINF:-1 tvg-logo="http://goo.gl/ovHpyu" group-title="As Incriveis Aventuras de Jonny Quest ",13Jonny Quest 
 http://www.blogger.com/video-play.mp4?contentId=48a171822d806b37
 
-
+#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1E01
+http://media-br-am.crackle.com/1/m/r6/scvlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1E02
+http://media-br-am.crackle.com/1/m/r6/rcvlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1E03
+http://media-br-am.crackle.com/1/m/r6/qcvlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1E04
+http://media-br-am.crackle.com/1/m/r6/pcvlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1E05
+http://media-br-am.crackle.com/1/l/r6/ocvlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1E06
+http://media-br-am.crackle.com/1/l/r6/ncvlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1E07
+http://media-br-am.crackle.com/1/l/r6/mcvlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1E08
+http://media-br-am.crackle.com/1/l/r6/lcvlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1E09
+http://media-br-am.crackle.com/1/k/r6/kcvlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1E10
+http://media-br-am.crackle.com/1/k/r6/jcvlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1E11
+http://media-br-am.crackle.com/1/k/r6/icvlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1E12
+http://media-br-am.crackle.com/1/k/r6/hcvlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1E13
+http://media-br-am.crackle.com/1/j/r6/gcvlf_480p.mp4
 
 #EXTINF:-1 tvg-logo="http://goo.gl/LwH2HI" group-title="Mortal Kombat: Defensores da Terra",01 Mortal Kombat: Defensores da Terra
 http://nn2.azureedge.net/RedeCanais/RCServer01/videos/afc52381.mp4
@@ -4305,7 +4450,7 @@ http://cdn2.portalhqs.net/content/sobdemanda/netcine-bucket/samuraij/01dub/02-AL
 http://cdn2.portalhqs.net/content/sobdemanda/netcine-bucket/samuraij/01dub/03-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack", Samurai Jack S01E04
 http://cdn2.portalhqs.net/content/sobdemanda/netcine-bucket/samuraij/01dub/04-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
-#EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screedcms3.portalhqs.net/htmlnshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack", Samurai Jack S01E05
+#EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack", Samurai Jack S01E05
 http://cdn2.portalhqs.net/content/sobdemanda/netcine-bucket/samuraij/01dub/05-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack", Samurai Jack S01E05
 http://cdn2.portalhqs.net/content/sobdemanda/netcine-bucket/samuraij/01dub/05-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
@@ -4847,321 +4992,13 @@ http://www.blogger.com/video-play.mp4?contentId=7dc7582cbdccb158
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 01
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP01.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 02
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP02.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 03
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP03.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 04
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP04.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 05
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP05.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 06
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP06.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 07
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP07.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 08
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP08.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 09
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP09.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 10
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP10.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 11
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP11.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 12
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP12.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 13
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP13.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 14
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP14.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 15
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP15.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 16
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP16.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 17
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP17.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 18
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP18.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 19
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP19.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 20
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP20.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 21
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP21.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 22
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP22.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 23
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP23.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bacamarte e Chumbinho",Bacamarte e Chumbinho Ep 24
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BCMRTECBNHOEP24.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E01
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP01.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E02
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP02.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E03
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP03.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E04
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP04.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E05
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP05.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E06
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP06.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E07
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP07.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E08
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP08.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E09
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP09.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E10
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP10.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E11
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP11.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E12
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP12.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E13
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP13.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E14
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP14.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E15
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP15.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E16
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP16.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E17
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP17.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E18
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP18.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E19
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP19.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E20
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP20.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E21
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP21.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E22
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP22.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E23
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP23.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E24
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP24.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E25
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP25.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T01E26
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP26.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E01
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP27.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E02
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP28.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E03
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP29.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E04
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP30.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E05
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP31.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E06
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP32.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E07
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP33.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E08
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP34.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E09
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP35.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E10
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP36.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E11
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP37.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E12
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP38.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T02E13
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP39.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T03E01
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP40.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T03E02
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP41.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T03E03
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP42.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T03E04
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP43.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T03E05
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP44.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bob Pai e Bob Filho",Bob Pai e Bob Filho T03E06
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/BIBPEBOFLHEP45.mp4
 
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 01
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP01.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 02
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP02.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 03
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP03.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 04
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP04.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 05
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP05.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 06
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP06.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 07
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP07.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 08
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP08.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 09
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP09.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 10
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP10.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 11
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP11.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 12
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP12.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 13
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP13.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 14
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP14.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 15
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP15.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 16
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP16.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 17
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP17.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 18
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP18.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 19
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP19.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 20
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP20.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 21
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP21.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 22
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP22.mp4
-#EXTINF:-1 tvg-logo="" group-title="Coelho Ricochete e Blau Blau",Coelho Ricochete e Blau Blau Ep 23
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/COLHRCHTEBLAUEP23.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 01
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP01.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 02
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP02.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 03
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP03.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 04
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP04.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 05
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP05.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 06
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP06.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 07
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP07.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 08
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP08.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 09
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP09.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 10
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP10.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 11
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP11.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 12
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP12.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 13
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP13.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 14
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP14.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 15
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP15.mp4
-#EXTINF:-1 tvg-logo="" group-title="Crane: A Cegonha Perna Fina",Crane: A Cegonha Perna Fina Ep 16
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/ACGNPRFNEP16.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicao Ep 01
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP01.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicão Ep 02
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP02.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicão Ep 03
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP03.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicao Ep 04
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP04.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicao Ep 05
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP05.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicao Ep 06
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP06.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicao Ep 07
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP07.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicao Ep 08
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP08.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicao Ep 09
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP09.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicao Ep 10
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP10.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicao Ep 11
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP11.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicao Ep 12
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP12.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicao Ep 13
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP13.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicao Ep 14
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP14.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicao Ep 15
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP15.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dinamite o Bionicao",Dinamite o Bionicao Ep 16
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DNMTOBONCEP16.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E01
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP01.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E02
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP02.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E03
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP03.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E04
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP04.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E05
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP05.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E06
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP06.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E07
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP07.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E08
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP08.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E09
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP09.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E10
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP10.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E11
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP11.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E12
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP12.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E13
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP13.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E14
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP14.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E15
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP15.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E16
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP16.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E17
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP17.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E18
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP18.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E19
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP19.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E20
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP20.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E21
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP21.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dom Pixote",Dom Pixote T01E22
-http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/DMPXTEP22.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="Disney",Dumbo [Filme]
-http://www.youtube.com/watch?v=fgbMgzYU7UU
-#EXTINF:-1 tvg-logo="" group-title="Disney",Fabulas da Disney Vol 01
-http://s2.filetrip.net/p/33249/300236-F%C3%A1bulas%20Disney%20Vol%2001.mp4?start=0
-#EXTINF:-1 tvg-logo="" group-title="Disney",Fabulas da Disney Vol 02
-http://www.youtube.com/watch?v=0CqDpmB4nqQ
-#EXTINF:-1 tvg-logo="" group-title="Disney",Fabulas da Disney Vol 03
-http://www.youtube.com/watch?v=28TJm3Q0JNw
-#EXTINF:-1 tvg-logo="" group-title="Disney",Fabulas da Disney Vol 04
-http://www.youtube.com/watch?v=GNodsEMo-Jc
-#EXTINF:-1 tvg-logo="" group-title="Disney",Fabulas da Disney Vol 05
-http://www.youtube.com/watch?v=IhA2ucYK8F4
-#EXTINF:-1 tvg-logo="" group-title="Disney",Fabulas da Disney Vol 06
-http://www.youtube.com/watch?v=WAtPXpSl5FY
 
 
 
@@ -5172,32 +5009,7 @@ http://www.blogger.com/video-play.mp4?contentId=30bf4a51899c5287
 
 
 
-#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1-E1
-http://media-br-am.crackle.com/1/m/r6/scvlf_480p.mp4
-#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1-E2
-http://media-br-am.crackle.com/1/m/r6/rcvlf_480p.mp4
-#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1-E3
-http://media-br-am.crackle.com/1/m/r6/qcvlf_480p.mp4
-#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1-E4
-http://media-br-am.crackle.com/1/m/r6/pcvlf_480p.mp4
-#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1-E5
-http://media-br-am.crackle.com/1/l/r6/ocvlf_480p.mp4
-#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1-E6
-http://media-br-am.crackle.com/1/l/r6/ncvlf_480p.mp4
-#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1-E7
-http://media-br-am.crackle.com/1/l/r6/mcvlf_480p.mp4
-#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1-E8
-http://media-br-am.crackle.com/1/l/r6/lcvlf_480p.mp4
-#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1-E9
-http://media-br-am.crackle.com/1/k/r6/kcvlf_480p.mp4
-#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1-E10
-http://media-br-am.crackle.com/1/k/r6/jcvlf_480p.mp4
-#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1-E11
-http://media-br-am.crackle.com/1/k/r6/icvlf_480p.mp4
-#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1-E12
-http://media-br-am.crackle.com/1/k/r6/hcvlf_480p.mp4
-#EXTINF:-1  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/11/thumbs/karate-kid-serie-animada_t34540_jpg_290x478_upscale_q90.jpg" group-title="Karate Kid",Karate Kid S1-E13
-http://media-br-am.crackle.com/1/j/r6/gcvlf_480p.mp4
+
 
 #EXTINF:-1 tvg-logo="" group-title="Os Apuros de Penelope Charmosa",Os Apuros de Penelope Charmosa 01
 http://nn1.azureedge.net/RedeCanais/RCServer09/ondemand/OPRSDPNPLEP01.mp4
@@ -6694,3 +6506,4 @@ http://www.blogger.com/video-play.mp4?contentId=51528822d401e177&IMDSIPTV
 http://www.blogger.com/video-play.mp4?contentId=2da28662ba299995&IMDSIPTV
 #EXTINF:-1 tvg-logo="http://i.imgur.com/o5EAyUI.png" group-title="Tom & Jerry",Tom & Jerry E162
 http://www.blogger.com/video-play.mp4?contentId=a6c5692b88744723&IMDSIPTV
+
