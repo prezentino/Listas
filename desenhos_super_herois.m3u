@@ -2251,30 +2251,34 @@ http://dcms3.portalhqs.net/html/content/sobdemanda/netcine-bucket/vixen/02leg/05
 
 
 #EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/constantine-city-of-demons-2926-poster.jpg" group-title="Constantine",Constantine S01E01
-http://dcms2.portalhqs.net/html/content/delivery/constantinecd/01leg/01-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/01-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/constantine-city-of-demons-2926-poster.jpg" group-title="Constantine",Constantine S01E02
-http://dcms2.portalhqs.net/html/content/delivery/constantinecd/01leg/02-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/02-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/constantine-city-of-demons-2926-poster.jpg" group-title="Constantine",Constantine S01E03
-http://dcms2.portalhqs.net/html/content/delivery/constantinecd/01leg/03-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/03-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/constantine-city-of-demons-2926-poster.jpg" group-title="Constantine",Constantine S01E04
-http://dcms2.portalhqs.net/html/content/delivery/constantinecd/01leg/04-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/04-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/constantine-city-of-demons-2926-poster.jpg" group-title="Constantine",Constantine S01E05
-http://dcms2.portalhqs.net/html/content/delivery/constantinecd/01leg/05-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://cdn2.portalhqs.net/content/delivery/constantinecd/01leg/05-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/89/98/19962693.jpg" group-title="Marvel Animações",OS SUPREMOS: O FILME (2005)
 http://nnn2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSSPRMS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/96/73/19994381.jpg" group-title="Marvel Animações",OS SUPREMOS 2: DESCUBRA O PODER DA PANTERA (2006)
 http://nnn2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSSPRMS2.mp4
 
-#EXTINF:-1 tvg-logo="https://bignadaquasar.files.wordpress.com/2016/11/doutor-estranho-o-mago-supremo-2007.jpg" group-title="Marvel Animações",Doutor Estranho (2007)
-https://goo.gl/aBKVN4
+#EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/04/Doutor-Estranho-Filme-Anima%C3%A7%C3%A3o-Dublado.jpg" group-title="Marvel Animações",Doutor Estranho P1 (2007)
+http://www.blogger.com/video-play.mp4?contentId=87bc7b6f6747dad9
+#EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/04/Doutor-Estranho-Filme-Anima%C3%A7%C3%A3o-Dublado.jpg" group-title="Marvel Animações",Doutor Estranho P2 (2007)
+http://www.blogger.com/video-play.mp4?contentId=a5897eb481db9b11
+#EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/04/Doutor-Estranho-Filme-Anima%C3%A7%C3%A3o-Dublado.jpg" group-title="Marvel Animações",Doutor Estranho P3 (2007)
+http://www.blogger.com/video-play.mp4?contentId=106f9ce32172457c
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/81/18/19969112.jpg" group-title="Marvel Animações",O INVENCÍVEL HOMEM DE FERRO (2007)
 http://nnn2.azureedge.net/RedeCanais/RCFServer4/ondemand/OINCRVLHMNDFRO.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Hulk%20Vs%20Thor.jpg" group-title="Marvel Animações",Hulk Vs. Thor (2009)
+#EXTINF:-1 tvg-logo="https://www.zoom.co.uk/assets/images/0/0/1/7/7/mm00177441.jpg" group-title="Marvel Animações",Hulk Vs. Thor (2009)
 http://nnn2.azureedge.net/RedeCanais/RCFServer4/ondemand/HLKVSTHR.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Hulk%20Vs%20Wolverine.jpg" group-title="Marvel Animações",Hulk Vs. Wolverine (2009)
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/hulk-vs-hulk-vs-thor-wolverine.154-30761.jpg" group-title="Marvel Animações",Hulk Vs. Wolverine (2009)
 http://nnn2.azureedge.net/RedeCanais/RCFServer4/ondemand/HLKVSWVN.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Rh3C6I"  group-title="Marvel Animações",Iron Man A Batalha Contra Ezekiel Stane P1 (2013)
@@ -2296,7 +2300,7 @@ http://www.blogger.com/video-play.mp4?contentId=ea3d2f3b1ebf9029
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/4bZixH8oWwRVai0Ireox9j856kw=/fit-in/210x312/smart/media/movies/covers/2014/08/iron-man-captain-america-heroes-united_tNone.jpg" group-title="Marvel Animações",Homem de Ferro e Capitao America: Super-Herois Unidos P2 (2014)
 http://www.blogger.com/video-play.mp4?contentId=c9d88534159ca3b
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Hulk%20-%20Onde%20os%20Monstros%20Habitam.jpg"  group-title="Marvel Animações", Hulk: Onde Os Monstros Habitam (2017)
+#EXTINF:-1 tvg-logo="http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/2-3.jpg"  group-title="Marvel Animações", Hulk: Onde Os Monstros Habitam (2017)
 http://nnn2.azureedge.net/RedeCanais/RCFServer4/ondemand/HLKONDOSMNSTRHTBM.mp4
 
 
@@ -3004,60 +3008,132 @@ http://nnn2.azureedge.net/RedeCanais/RCServer13/ondemand/HMNARNHT01EP17.mp4
 http://nnn2.azureedge.net/RedeCanais/RCServer13/ondemand/HMNARNHT01EP18.mp4
 
 
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E00 Origens
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E00 Origens
 http://nnn1.azureedge.net/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT01EP00.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E01 Estrada Para Lugar Nenhum
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E01 Estrada Para Lugar Nenhum
 http://nnn1.azureedge.net/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT01EP01.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E02 Lugar Nenhum Para Fugir
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E02 Lugar Nenhum Para Fugir
 http://nnn1.azureedge.net/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT01EP02.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E03 Uma Em Um Milhão Que Você
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E03 Uma Em Um Milhão Que Você
 http://nnn1.azureedge.net/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT01EP03.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E04 Peguem a Milano e Deem o Fora
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E04 Peguem a Milano e Deem o Fora
 http://nnn1.azureedge.net/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT01EP04.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E05  Não Podemos Lutar Contra Este Muda
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E05  Não Podemos Lutar Contra Este Muda
 http://nnn1.azureedge.net/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT01EP05.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E06  Disfarce Distorcido
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E06  Disfarce Distorcido
 http://nnn1.azureedge.net/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT01EP06.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E07  A Traidora
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E07  A Traidora
 http://nnn1.azureedge.net/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT01EP07.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E08 Pegando Uma Carona
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E08 Pegando Uma Carona
 http://nnn1.azureedge.net/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT01EP08.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E09 Somos Uma Família
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E09 Somos Uma Família
 http://nnn1.azureedge.net/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT01EP09.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E10 A Ascensão da Lua Negra
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E10 A Ascensão da Lua Negra
 http://nnn1.azureedge.net/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT01EP10.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E11 Cowboys Do Espaço
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E11 Cowboys Do Espaço
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP11-up.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E12 O Cristal Azul da Persuasão
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E12 O Cristal Azul da Persuasão
 http://nnn1.azureedge.net/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT01EP12.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E13 Preso no Metal Com Você
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E13 Preso no Metal Com Você
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP13.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E14 Não Pare de Acreditar
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E14 Não Pare de Acreditar
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP14.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E15 Acidentes Vão Acontecer
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E15 Acidentes Vão Acontecer
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP15.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E16 Nós Somos a Arvore da Vida
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E16 Nós Somos a Arvore da Vida
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP16.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E17 Venha Arrancar o Seu Amor
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E17 Venha Arrancar o Seu Amor
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP17.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E18 A Guerra de Asgard (Parte 1): Tempestade de Raios
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E18 A Guerra de Asgard (Parte 1): Tempestade de Raios
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP18.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E19 A Guerra de Asgard (Parte 2): Resgate-me
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E19 A Guerra de Asgard (Parte 2): Resgate-me
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP19.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E20 A Loba Solitária
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E20 A Loba Solitária
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP20.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E21 Toque Inumano
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E21 Toque Inumano
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP21.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E22 Bem-vindo de Volta
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E22 Bem-vindo de Volta
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP22.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E23 Estou Procurando há Tanto Tempo
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E23 Estou Procurando há Tanto Tempo
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP23.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E24 Sinto a Terra se Mover
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E24 Sinto a Terra se Mover
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP24.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E25 Não Serei Enganado de Novo
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E25 Não Serei Enganado de Novo
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP25.mp4
-#EXTINF:-1 tvg-logo="http://www.tvovermind.com/wp-content/uploads/2015/07/Guardians-of-the-Galaxy-Featured-Image-NEW.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E26 Bate o Sino
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel1.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S01E26 Bate o Sino
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/GRDOESDGLXIADMRVLT01EP26.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E00
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP00.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E01
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E02
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E03
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E04
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E05
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E06
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E07
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E08
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E09
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E10
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP10.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E11
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP11.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E12
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP12.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E13
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP13.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E14
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP14.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E15
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP15.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E16
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP16.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E17
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP17.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E18
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP18.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E19
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP19.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E20
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP20.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E21
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP21.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E22
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP22.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E23
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP23.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E24
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP24.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%202.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S02E25
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT02EP25.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%203.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S03E01
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT03EP01.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%203.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S03E02
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT03EP02.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%203.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S03E03
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT03EP03.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%203.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S03E04
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT03EP04.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%203.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S03E05
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT03EP05.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%203.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S03E06
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT03EP06.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%203.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S03E07
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT03EP07.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20da%20Marvel%203.jpg" group-title="Guardiões da Galáxia", Guardiões da Galáxia S03E08
+http://sv1.redecanais.download/RedeCanais/RCServer10/ondemand/GRDOESDGLXIADMRVLT03EP08.mp4
+
+
 
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dvd-o-quarteto-fantastico-1978-D_NQ_NP_814221-MLB20736877042_052016-F.jpg" group-title="O Novo Quarteto Fantastico",01 O Novo Quarteto Fantastico (1978)
 http://www.blogger.com/video-play.mp4?contentId=ede62d3bd6f9ddba
@@ -3455,17 +3531,17 @@ http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/OVGDRSUNDST03EP18.mp4
 http://nnn1.azureedge.net/RedeCanais/RCServer11/ondemand/OVGDRSUNDST03EP19.mp4
 
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/08/FEB180862.jpg" group-title="Marvel Rising Initiation",Marvel Rising Initiation S01E01
-http://dcms2.portalhqs.net/html/content/delivery/marvelrising/01leg/01-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/01-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/08/FEB180862.jpg" group-title="Marvel Rising Initiation",Marvel Rising Initiation S01E02
-http://dcms2.portalhqs.net/html/content/delivery/marvelrising/01leg/02ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/02ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/08/FEB180862.jpg" group-title="Marvel Rising Initiation",Marvel Rising Initiation S01E03
-http://dcms2.portalhqs.net/html/content/delivery/marvelrising/01leg/03-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/03-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/08/FEB180862.jpg" group-title="Marvel Rising Initiation",Marvel Rising Initiation S01E04
-http://dcms2.portalhqs.net/html/content/delivery/marvelrising/01leg/04-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/04-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/08/FEB180862.jpg" group-title="Marvel Rising Initiation",Marvel Rising Initiation S01E05
-http://dcms2.portalhqs.net/html/content/delivery/marvelrising/01leg/05-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/05-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/08/FEB180862.jpg" group-title="Marvel Rising Initiation",Marvel Rising Initiation S01E06
-http://dcms2.portalhqs.net/html/content/delivery/marvelrising/01leg/06-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://cdn2.portalhqs.net/content/delivery/marvelrising/01leg/06-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 
 
 #EXTINF:-1 tvg-logo="http://www.tvsinopse.kinghost.net/q/quarteto%20fantastico10_arquivos/tvsinopse000006001.jpg" group-title="Quarteto Fantástico 2006", Quarteto Fantástico 2006 S01E01
