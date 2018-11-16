@@ -557,8 +557,8 @@ http://nnn2.azureedge.net/RedeCanais/RCFServer4/ondemand/OEXTCHTLMRGLD.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/cx_160_213/b_1_d6d6d6/pictures/15/06/25/15/41/464554.jpg" group-title="ÚLTIMOS REDECANAIS",O CORTIÇO (1945)
 http://nnn2.azureedge.net/RedeCanais/RCFServer4/ondemand/OCRTCO.mp4
 
-
-
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/80/79/20428505.jpg" group-title="FANTASIA",CONAN (1982)
+https://www.youtube.com/watch?v=X9slZfigD5Q
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/05/08/22/48/228460.jpg" group-title="FANTASIA",HIGHLANDER: O GUERREIRO IMORTAL (1986)
 http://nnn2.azureedge.net/RedeCanais/RCFServer4/ondemand/HGHLNDR1.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/90/90/19962789.jpg" group-title="FANTASIA",HIGHLANDER II: A RESSURREIÇÃO (1990)
