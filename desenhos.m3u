@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis%202.jpg" group-title="LANÇAMENTOS",Os Incríveis 2 (2018)
-http://nl1.azureedge.net/RedeCanais/RCFServer3/ondemand/OSINCRVS2.mp4
+http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/OSINCRVS2.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Revolting%20Rhymes.jpg" group-title="LANÇAMENTOS",REVOLTING RHYMES LEG (2017)
 http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/RVLTNGRYMSLEG.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/26/13/42/2533608.jpg" group-title="LANÇAMENTOS",PEIXONAUTA: O FILME (2018)
@@ -30,9 +30,9 @@ http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/MINSCLSOFLM.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/08/28/09/57/574900.jpg" group-title="LANÇAMENTOS",A ESTRELA DE BELÉM (2017)
 http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/AESTRLDBLM.mp4
 
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352-5.jpg-r_1920_1080-f_jpg-q_x-xxyxx-5.jpg" group-title="LANÇAMENTOS",TOURO FERDINANDO (2018)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352-5.jpg-r_1920_1080-f_jpg-q_x-xxyxx-5.jpg" group-title="Blue Sky",TOURO FERDINANDO (2018)
 http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/OTROFRDNDO.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_75_106/pictures/17/08/25/19/04/419991.jpg" group-title="LANÇAMENTOS",PICA-PAU: O FILME (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_75_106/pictures/17/08/25/19/04/419991.jpg" group-title="Universal",PICA-PAU: O FILME (2018)
 http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/PICPAU.mp4
 #EXTINF:-1 tvg-logo="http://images-na.ssl-images-amazon.com/images/I/91IHPHUB58L._SL1500_.jpg" group-title="LANÇAMENTOS",OLAF EM UMA NOVA AVENTURA CONGELANTE DE FROZEN (2017)
 http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/OLFEMUNVAVNTRCGLNT.mp4
@@ -84,7 +84,7 @@ http://l1.azureedge.net/RedeCanais/RCFServer2/ondemand/ALCNPSDSMRVLHS1951.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Peter%20Pan.jpg" group-title="Disney",PETER PAN (1953)
 http://l1.azureedge.net/RedeCanais/RCFServer4/ondemand/PTRPN.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Bela%20Adormecida.jpg" group-title="Disney",A BELA ADORMECIDA (1959)
-http://nl1.azureedge.net/RedeCanais/RCFServer3/ondemand/ABLADRMCDA.mp4
+http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/ABLADRMCDA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/101%20Dalmatas1.jpg" group-title="Disney",101 DÁLMATAS: A GUERRA DOS DÁLMATAS (1961)
 http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/101DMLTS1.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Espada%20Era%20a%20Lei.jpg" group-title="Disney",A ESPADA ERA A LEI (1964)
@@ -100,13 +100,13 @@ http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/ABELEAFRA1991.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Rei%20Le%C3%A3o1.jpg" group-title="Disney",O REI LEÃO (1994)
 http://l1.azureedge.net/RedeCanais/RCFServer1/ondemand/REILAO01.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Pocahontas%20-%20O%20Encontro%20de%20Dois%20Mundos.jpg" group-title="Disney",POCAHONTAS (1995)
-http://nl1.azureedge.net/RedeCanais/RCFServer3/ondemand/PCOHNTSOENTRDISMDO.mp4
+http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/PCOHNTSOENTRDISMDO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Corcunda%20De%20Notre%20Dame.jpg" group-title="Disney",O CORCUNDA DE NOTRE DAME (1996)
 http://l1.azureedge.net/RedeCanais/RCFServer1/ondemand/OCRCNDDNTRDM.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/H%C3%A9rcules%201997.jpg" group-title="Disney",HÉRCULES (1997)
 http://l1.azureedge.net/RedeCanais/RCFServer4/ondemand/HRCLS1997.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Pocahontas%202%20-%20Uma%20Jornada%20para%20o%20Novo%20Mundo.jpg" group-title="Disney",Pocahontas II: Viagem a um Novo Mundo (1998)
-http://nl1.azureedge.net/RedeCanais/RCFServer3/ondemand/PCOHNTS2UMJRNDPRONVMDO.mp4
+http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/PCOHNTS2UMJRNDPRONVMDO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Mulan1.jpg" group-title="Disney",MULAN (1998)
 http://l1.azureedge.net/RedeCanais/RCFServer1/ondemand/MULAN01.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Rei%20Le%C3%A3o2.jpg" group-title="Disney",O REI LEÃO 2: O REINO DE SIMBA (1998)
@@ -185,7 +185,7 @@ http://l1.azureedge.net/RedeCanais/RCFServer4/ondemand/OPRCBGHRO.mp4
 http://l1.azureedge.net/RedeCanais/RCFServer2/ondemand/DVRTDMNT.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2AvCHjC.jpg" group-title="Pixar",O BOM DINOSSAURO (2016)
 http://l1.azureedge.net/RedeCanais/RCFServer2/ondemand/OBMDINO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/60aFbhD.jpg" group-title="Pixar",Zootopia: Essa Cidade é o Bicho (2016)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Zootopia%20-%20Essa%20Cidade%20%C3%A9%20o%20Bicho.jpg" group-title="Pixar",Zootopia: Essa Cidade é o Bicho (2016)
 http://l1.azureedge.net/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/02/Moana-Poster-materia1.jpg" group-title="Pixar", Moana (2016)
 http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/MONUMRDAVTRA.mp4
@@ -208,14 +208,13 @@ http://l1.azureedge.net/RedeCanais/RCFServer2/ondemand/OSMURFS2.mp4
 
 
 
-
-#EXTINF:-1 tvg-logo="http://goo.gl/E2UDrk" group-title="ALVIN E OS ESQUILOS", ALVIN E OS ESQUILOS (1080p)
+#EXTINF:-1 tvg-logo="http://goo.gl/E2UDrk" group-title="ALVIN E OS ESQUILOS", ALVIN E OS ESQUILOS (2007)
 http://l1.azureedge.net/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS1.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/UVJt5C" group-title="ALVIN E OS ESQUILOS", ALVIN E OS ESQUILOS 2 (1080p)
+#EXTINF:-1 tvg-logo="http://goo.gl/UVJt5C" group-title="ALVIN E OS ESQUILOS", ALVIN E OS ESQUILOS 2 (2009)
 http://l1.azureedge.net/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS2.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/2Wh2Bb" group-title="ALVIN E OS ESQUILOS", ALVIN E OS ESQUILOS 3 (1080p)
+#EXTINF:-1 tvg-logo="http://goo.gl/2Wh2Bb" group-title="ALVIN E OS ESQUILOS", ALVIN E OS ESQUILOS 3 (2011)
 http://l1.azureedge.net/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS3.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/hiec4V" group-title="ALVIN E OS ESQUILOS", ALVIN E OS ESQUILOS 4: NA ESTRADA (1080p)
+#EXTINF:-1 tvg-logo="http://goo.gl/hiec4V" group-title="ALVIN E OS ESQUILOS", ALVIN E OS ESQUILOS 4: NA ESTRADA (2015)
 http://l1.azureedge.net/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULSNESTRD.mp4
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-IcQ6n_lCHf0/UJOl1TCKT7I/AAAAAAAADUk/Jx0btFkMwx4/s1600/1.jpg" group-title="Blue Sky",A ERA DO GELO (2002)
@@ -321,6 +320,10 @@ http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/BRBEASAGNTSSCRTS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Barbie%20E%20Os%20Golfinhos%20M%C3%A1gicos.jpg" group-title="BARBIE",BARBIE E  OS GOLFINHOS MÁGICOS (2017)
 http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/BARBEOSGLNHSMGCS.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bolt%20-%20Superc%C3%A3o.jpg" group-title="ANIMAÇÕES",BOLT: SUPERCÃO (2009)
+http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/BLTSPRCAO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bolt%20e%20Blip%20-%20Dois%20Rob%C3%B4s%20Pirados.jpg" group-title="ANIMAÇÕES",Bolt & Blip: Dois Robôs Pirados (2012)
+http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/BLTEBLPDOSRBSPRDS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Jos%C3%A9%20-%20O%20Rei%20dos%20Sonhos.jpg" group-title="ANIMAÇÕES",JOSÉ: O REI DOS SONHOS (2000)
 http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/JOSORIDSNHS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ecrYWzV.jpg" group-title="ANIMAÇÕES",O QUE SERÁ DE NOZES? (2014)
