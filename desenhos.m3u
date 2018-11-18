@@ -73,9 +73,11 @@ http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/PNQIO.mp4
 http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/DMBO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/75/69/19963902.jpg" group-title="Disney",BAMBI (1942)
 http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/BMBI.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Voc%C3%AA%20J%C3%A1%20Foi%20%C3%A0%20Bahia.jpg" group-title="Disney",Você Já Foi à Bahia? (1945)
+http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/VCJFOABHA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/03/09/19/31/165962.jpg" group-title="Disney",A CANÇÃO DO SUL (1946)
 http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/ACANCDSL.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/05/03/16/47/514814.jpg" group-title="Disney",COMO É BOM SE DIVERTIR (1947)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Como%20e%20Bom%20se%20Divertir.jpg" group-title="Disney",COMO É BOM SE DIVERTIR (1947)
 http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/CMEBMSDVRT.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Cinderela%201950.jpg" group-title="Disney",CINDERELA (1950)
 http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/CNDRLA1950.mp4
@@ -101,10 +103,12 @@ http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/ABELEAFRA1991.mp4
 http://l1.azureedge.net/RedeCanais/RCFServer1/ondemand/REILAO01.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Pocahontas%20-%20O%20Encontro%20de%20Dois%20Mundos.jpg" group-title="Disney",POCAHONTAS (1995)
 http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/PCOHNTSOENTRDISMDO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Pateta%20-%20O%20Filme.jpg" group-title="Disney",Pateta: O Filme (1995)
+http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/PATEAOFLM.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Corcunda%20De%20Notre%20Dame.jpg" group-title="Disney",O CORCUNDA DE NOTRE DAME (1996)
 http://l1.azureedge.net/RedeCanais/RCFServer1/ondemand/OCRCNDDNTRDM.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/H%C3%A9rcules%201997.jpg" group-title="Disney",HÉRCULES (1997)
-http://l1.azureedge.net/RedeCanais/RCFServer4/ondemand/HRCLS1997.mp4
+http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/HRCLS1997.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Pocahontas%202%20-%20Uma%20Jornada%20para%20o%20Novo%20Mundo.jpg" group-title="Disney",Pocahontas II: Viagem a um Novo Mundo (1998)
 http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/PCOHNTS2UMJRNDPRONVMDO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Mulan1.jpg" group-title="Disney",MULAN (1998)
@@ -127,6 +131,8 @@ http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/101DMLTS2.mp4
 http://l1.azureedge.net/RedeCanais/RCFServer1/ondemand/MULAN02.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Rei%20Le%C3%A3o3.jpg" group-title="Disney",O REI LEÃO 3: HAKUNA MATATA (2004)
 http://l1.azureedge.net/RedeCanais/RCFServer1/ondemand/REILAO03.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bambi%202.jpg" group-title="Disney",Bambi 2: O Grande Príncipe da Floresta (2006)
+http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/BMBI2.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Pequena%20Sereia%20-%20A%20Hist%C3%B3ria%20de%20Ariel.jpg" group-title="Disney",A PEQUENA SEREIA: A HISTÓRIA DE ARIEL (2008)
 http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/APQNSREIAHSTRDARIEL.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Cinderella%20III%20-%20Uma%20Volta%20No%20Tempo.jpg" group-title="Disney",Cinderela 3: Uma Volta no Tempo (2007)
@@ -268,22 +274,21 @@ http://lh3.googleusercontent.com/kPUHhgAyfk22F8gCSEsO7X_8klMXCrL4M5RnHP0-_fBwrU6
 http://l1.azureedge.net/RedeCanais/RCFServer2/ondemand/OSCRDS.mp4
 #EXTINF:-1 tvg-logo="http://cadeoleo.com.br/wp-content/uploads/2013/12/PeabodySherman.jpg" group-title="Dreamworks", As Aventuras de Peabody & Sherman (2014)
 http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/AAVNTRSDPABYESHRM.mp4
-#EXTINF:-1 tvg-logo="http://www.impawards.com/2016/posters/trolls_ver7.jpg" group-title="Dreamworks", Trolls (2016)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Trolls.jpg" group-title="Dreamworks",Trolls (2016)
 http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/TRLS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Trolls%20-%20Vamos%20Festejar.jpg" group-title="Dreamworks",Trolls: Vamos Festejar (2017)
+http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/TRLSVMSFSTJR.mp4
 
-
-#EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/03/01.jpg" group-title="Universal", Kubo e As Cordas Mágicas (2016)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Kubo%20e%20as%20Cordas%20M%C3%A1gicas.jpg" group-title="ANIMAÇÕES", Kubo e As Cordas Mágicas (2016)
 http://l1.azureedge.net/RedeCanais/RCFServer4/ondemand/KUBEASCRDSMGCS.mp4
 
-#EXTINF:-1 tvg-logo="http://eovideolevou.com.br/imgProduto/72872_f3.jpg" group-title="Lego", Batman Lego: Super Heróis Se Unem (2013)
-http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/BATMLGOFLMSPRHRSUN.mp4
-#EXTINF:-1 tvg-logo="http://s2.glbimg.com/S5hMsdgVLf_ccgywnMGLDDZyWpU=/s.glbimg.com/jo/g1/f/original/2014/02/05/sem-titulo-4.jpg" group-title="Lego", Uma Aventura Lego (2014)
-http://cdn2.portalhqs.net/content/sobdemanda/netcine-bucket/filmes2016/legomovie/TLM14DUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
-#EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/02/Liga-da-Justi%C3%A7a-Lego-Combate-C%C3%B3smico-Dublado.jpg" group-title="Lego", Liga da Justiça Lego: Combate Cósmico (2016)
-http://l1.azureedge.net/RedeCanais/RCFServer2/ondemand/LEGLGDJSTCCMBTCSMCO.mp4
-#EXTINF:-1 tvg-logo="http://www.arrobanerd.com.br/wp-content/uploads/2017/01/lego-batman-posters--800x445.png" group-title="Lego", Batman Lego: O Filme (2017)
-http://dcms3.portalhqs.net/html/content/httpdelivery/filmes2017/LEG0B4TM4NDUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jOodHAW.jpg" group-title="Rovio",Angry Birds (2016)
+
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/03/medium-cover.png" group-title="Lego",Uma Aventura Lego (2014)
+http://dcus4.portalhqs.net/html/content/sobdemanda/netcine-bucket/filmes2016/legomovie/TLM14DUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Lego%20Ninjago%20-%20O%20Filme.jpg" group-title="Lego",LEGO Ninjago: O Filme (2017)
+http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/LEGNJGOFLM.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jOodHAW.jpg" group-title="ANIMAÇÕES",Angry Birds (2016)
 http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/ANGRYBRDSFLM.mp4
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-kQ6_1fDM3NM/TkngA22Q9NI/AAAAAAAADwM/bwvgX8fJoL4/s1600/12b.jpg" group-title="DESENHOS BIBLICOS",DESENHOS BIBLICOS GENESIS O INICIO DA CRIAÇÃO
@@ -320,6 +325,8 @@ http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/BRBEASAGNTSSCRTS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Barbie%20E%20Os%20Golfinhos%20M%C3%A1gicos.jpg" group-title="BARBIE",BARBIE E  OS GOLFINHOS MÁGICOS (2017)
 http://l2.azureedge.net/RedeCanais/RCFServer4/ondemand/BARBEOSGLNHSMGCS.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Festa%20no%20C%C3%A9u.jpg" group-title="ANIMAÇÕES",FESTA NO CÉU (2014)
+http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/FSTNOCEU.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bolt%20-%20Superc%C3%A3o.jpg" group-title="ANIMAÇÕES",BOLT: SUPERCÃO (2009)
 http://l1.azureedge.net/RedeCanais/RCFServer3/ondemand/BLTSPRCAO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bolt%20e%20Blip%20-%20Dois%20Rob%C3%B4s%20Pirados.jpg" group-title="ANIMAÇÕES",Bolt & Blip: Dois Robôs Pirados (2012)
@@ -2879,7 +2886,32 @@ http://l2.azureedge.net/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP17.mp4
 http://l2.azureedge.net/RedeCanais/RCServer13/ondemand/HTLTRNSLVNT01EP18.mp4
 
 
-
+#EXTINF: -1 tvg-logo = "http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Haratê Kid",Karate Kid S1E01
+http://media-br-am.crackle.com/1/m/r6/scvlf_480p.mp4
+#EXTINF: -1 tvg-logo = "http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Haratê Kid",Karate Kid S1E02
+http://media-br-am.crackle.com/1/m/r6/rcvlf_480p.mp4
+#EXTINF: -1 tvg-logo = "http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Haratê Kid",Karate Kid S1E03
+http://media-br-am.crackle.com/1/m/r6/qcvlf_480p.mp4
+#EXTINF: -1 tvg-logo = "http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Haratê Kid",Karate Kid S1E04
+http://media-br-am.crackle.com/1/m/r6/pcvlf_480p.mp4
+#EXTINF: -1 tvg-logo = "http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Haratê Kid",Karate Kid S1E05
+http://media-br-am.crackle.com/1/l/r6/ocvlf_480p.mp4
+#EXTINF: -1 tvg-logo = "http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Haratê Kid",Karate Kid S1E06
+http://media-br-am.crackle.com/1/l/r6/ncvlf_480p.mp4
+#EXTINF: -1 tvg-logo = "http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Haratê Kid",Karate Kid S1E07
+http://media-br-am.crackle.com/1/l/r6/mcvlf_480p.mp4
+#EXTINF: -1 tvg-logo = "http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Haratê Kid",Karate Kid S1E08
+http://media-br-am.crackle.com/1/l/r6/lcvlf_480p.mp4
+#EXTINF: -1 tvg-logo = "http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Haratê Kid",Karate Kid S1E09
+http://media-br-am.crackle.com/1/k/r6/kcvlf_480p.mp4
+#EXTINF: -1 tvg-logo = "http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Haratê Kid",Karate Kid S1E10
+http://media-br-am.crackle.com/1/k/r6/jcvlf_480p.mp4
+#EXTINF: -1 tvg-logo = "http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Haratê Kid",Karate Kid S1E11
+http://media-br-am.crackle.com/1/k/r6/icvlf_480p.mp4
+#EXTINF: -1 tvg-logo = "http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Haratê Kid",Karate Kid S1E12
+http://media-br-am.crackle.com/1/k/r6/hcvlf_480p.mp4
+#EXTINF: -1 tvg-logo = "http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Haratê Kid",Karate Kid S1E13
+http://media-br-am.crackle.com/1/j/r6/gcvlf_480p.mp4
 
 
 #EXTINF:-1 tvg-logo="http://goo.gl/LwH2HI" group-title="Mortal Kombat: Defensores da Terra",01 Mortal Kombat: Defensores da Terra
