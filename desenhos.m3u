@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Peter%20Pan%20-%20A%20Procura%20do%20Livro%20do%20Nunca.jpg" group-title="LANÇAMENTOS",Peter Pan: A Procura do Livro do Nunca (2018)
+http://lll1.azureedge.net/RedeCanais/RCFServer3/ondemand/PTRPNAPRCDLVRDNCA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Miss%C3%A3o%20Catmandu%20-%20As%20Aventuras%20de%20Nelly%20e%20Simon.jpg" group-title="LANÇAMENTOS",Missão Catmandu: As Aventuras de Nelly e Simon (2018)
+http://lll1.azureedge.net/RedeCanais/RCFServer3/ondemand/MSAOCTMNDASAVNTRSNLYESMON.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis%202.jpg" group-title="LANÇAMENTOS",Os Incríveis 2 (2018)
 http://lll1.azureedge.net/RedeCanais/RCFServer3/ondemand/OSINCRVS2.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Revolting%20Rhymes.jpg" group-title="LANÇAMENTOS",REVOLTING RHYMES LEG (2017)
@@ -44,18 +47,15 @@ http://lll2.azureedge.net/RedeCanais/RCFServer4/ondemand/MYLTLEPNYOFLM.mp4
 http://lll2.azureedge.net/RedeCanais/RCFServer4/ondemand/NATLCMSTRBTS.mp4
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LUC_tBjHy74/maxresdefault.jpg" group-title="LANÇAMENTOS",MONSTER ISLAND (2017)
 http://lll2.azureedge.net/RedeCanais/RCFServer4/ondemand/MONSTRISLND.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w185/g4LW0JOeHyOFRsN6PAyWrH4qbG.jpg" group-title="LANÇAMENTOS",EMOJI O FILME (2017)
-http://lll2.azureedge.net/RedeCanais/RCFServer4/ondemand/EMJOFLM.mp4
+
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/89/83/20028679.jpg" group-title="LANÇAMENTOS",MEU MALVADO FAVORITO (2010)
 http://lll2.azureedge.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV1.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/PLNwvT" group-title="LANÇAMENTOS",MEU MALVADO FAVORITO 3 (2017)
 http://lll2.azureedge.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV3.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/IRpkca" group-title="LANÇAMENTOS",SING: QUEM CANTA SEUS MALES ESPANTA (2017)
 http://lll2.azureedge.net/RedeCanais/RCFServer3/ondemand/SNGQCSME.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/6LHzkK" group-title="LANÇAMENTOS", OS SMURFS 3: E A VILA PERDIDA (2017)
-http://lll2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSMRFSEAVLPRDA.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/YmkAT3" group-title="LANÇAMENTOS", HOTEL TRANSILVÂNIA 2 (2017)
-http://lll2.azureedge.net/RedeCanais/RCFServer2/ondemand/HOTLTRNSVLNA2.mp4
+
+
 #EXTINF:-1 tvg-logo="http://goo.gl/oCmZrd" group-title="LANÇAMENTOS", SCOOBY-DOO! E O COMBATE DO SALSICHA (2017)
 http://lll2.azureedge.net/RedeCanais/RCServer09/ondemand/SCBDFLM28.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/yLiNdZ" group-title="LANÇAMENTOS", LEGO SCOOBY-DOO! O GOLPE DA PRAIA (2017)
@@ -203,16 +203,22 @@ http://lll1.azureedge.net/RedeCanais/RCFServer3/ondemand/OSINCRVS2.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/89/63/19962658.jpg" group-title="Sony",TÁ CHOVENDO HAMBURGER (2009)
 http://lll1.azureedge.net/RedeCanais/RCFServer4/ondemand/TACHVNDHMBRGR.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/210/432/21043244_2013092323163504.jpg" group-title="Sony",TÁ CHOVENDO HAMBURGER 2 (2013)
-http://lll1.azureedge.net/RedeCanais/RCFServer4/ondemand/TACHVNDHMBRGR2.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/Mq3VTr" group-title="Sony",HOTEL TRANSILVÂNIA (2014)
-http://lll1.azureedge.net/RedeCanais/RCFServer2/ondemand/HOTLTRNSVLNA1.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2xm0KVi.jpg" group-title="Sony",OS SMURFS (2011)
 http://lll1.azureedge.net/RedeCanais/RCFServer2/ondemand/OSMURFS1.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/210/432/21043244_2013092323163504.jpg" group-title="Sony",TÁ CHOVENDO HAMBURGER 2 (2013)
+http://lll1.azureedge.net/RedeCanais/RCFServer4/ondemand/TACHVNDHMBRGR2.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZJFveLm.png" group-title="Sony",OS SMURFS 2 (2013)
 http://lll1.azureedge.net/RedeCanais/RCFServer2/ondemand/OSMURFS2.mp4
-
-
+#EXTINF:-1 tvg-logo="http://goo.gl/Mq3VTr" group-title="Sony",HOTEL TRANSILVÂNIA (2014)
+http://lll1.azureedge.net/RedeCanais/RCFServer2/ondemand/HOTLTRNSVLNA1.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/6LHzkK" group-title="Sony", OS SMURFS 3: E A VILA PERDIDA (2017)
+http://lll2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSMRFSEAVLPRDA.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/YmkAT3" group-title="Sony", HOTEL TRANSILVÂNIA 2 (2017)
+http://lll2.azureedge.net/RedeCanais/RCFServer2/ondemand/HOTLTRNSVLNA2.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w185/g4LW0JOeHyOFRsN6PAyWrH4qbG.jpg" group-title="Sony",EMOJI O FILME (2017)
+http://lll2.azureedge.net/RedeCanais/RCFServer4/ondemand/EMJOFLM.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/images-3.jpg" group-title="Sony",HOTEL TRANSILVÂNIA 3 (2018)
+http://lll1.azureedge.net/RedeCanais/RCFServer3/ondemand/HTLTRNSVN3.mp4
 
 #EXTINF:-1 tvg-logo="http://goo.gl/E2UDrk" group-title="ALVIN E OS ESQUILOS", ALVIN E OS ESQUILOS (2007)
 http://lll1.azureedge.net/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS1.mp4
