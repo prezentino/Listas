@@ -66,7 +66,7 @@ http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/BLCH.mp4
 http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/SMSNHR.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Real%20-%20O%20Plano%20por%20Tr%C3%A1s%20da%20Hist%C3%B3ria.jpg" group-title="DRAMA",REAL: O PLANO POR TRÁS DA HISTÓRIA (2017)
 http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/RELOPLNPRTRSDHSTRIA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Quatro%20Casamentos%20E%20Um%20Funeral.jpg" group-title="COMÉDIA",QUATRO CASAMENTOS E UM FUNERAL (1994)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Quatro%20Casamentos%20E%20Um%20Funeral.jpg" group-title="COMÉDIA ROMÂNTICA",QUATRO CASAMENTOS E UM FUNERAL (1994)
 http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/QUTRCSMNTSEUMFNRAL.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Processo.jpg" group-title="DOCUMETÁRIO",O PROCESSO (2018)
 http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/OPRCESO.mp4
@@ -373,7 +373,7 @@ http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/OVODFNX.mp4
 http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/OULTMBTLH.mp4
 #EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",O OBSERVADOR (2007)
 http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/OOBSVDR.mp4
-#EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS", Núcleo: Missão ao Centro da Terra (2003)
+#EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",Núcleo: Missão ao Centro da Terra (2003)
 http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/ONCLOMSAOCNTDTRA.mp4
 #EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",O DIA DO TERROR (2001)
 http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/ODIADTROR.mp4
@@ -411,7 +411,7 @@ http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/K9-1.mp4
 http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/ERUMVZNMXCO.mp4
 #EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",EQUILIBRIUM (2003)
 http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/EQLBRM.mp4
-#EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",ENQUANTO VOCÊ DORMIA (1995)
+#EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="COMÉDIA ROMÂNTICA",ENQUANTO VOCÊ DORMIA (1995)
 http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/ENQNTVCDRMIA.mp4
 #EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="ÚLTIMOS REDECANAIS",ENIGMA (2001)
 http://llll2.azureedge.net/RedeCanais/RCFServer4/ondemand/ENGMA.mp4
@@ -766,7 +766,7 @@ http://serv1-1.eletricmice.com/RedeCanais/RCFServer3/ondemand/TRQDMSTR2.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/poster.jpg" group-title="POLICIAL",TRUQUE DE MESTRE (2013)
 http://serv1-1.eletricmice.com/RedeCanais/RCFServer3/ondemand/TRQDMSTR.mp4
 
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/images-1.jpeg" group-title="ROMANCE",ELA (2013)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/images-1.jpeg" group-title="FICÇÃO CIENTÍFICA",ELA (2013)
 http://idms3.portalhqs.net/html/content/httpdelivery/filmes2018/ELADUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 
 #EXTINF:-1 tvg-logo="http://goo.gl/8SZ9bv" group-title="SUSPENSE",AMERICAN SATAN LEG (2018)
@@ -5006,10 +5006,9 @@ http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
 http://lh3.googleusercontent.com/kxFv8YbaZhJVTSK_3v18NuhVtrZ69TT20ARUV7RCP_jRfV_6Sd05NHR6pWa-357iJzkK3g0y=m18
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aJ5Imuh.jpg" group-title="LETRA S",SNIPER AMERICANO (2015)
 http://llll1.azureedge.net/RedeCanais/RCFServer1/ondemand/SNPRAMRCN.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/10/14/15/46/312186.jpg" group-title="LETRA S", SNOWDEN: HERÓI OU TRAIDOR (LEGENDADO 1080p)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/10/14/15/46/312186.jpg" group-title="LETRA S",SNOWDEN: HERÓI OU TRAIDOR (LEGENDADO 1080p)
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/SNODNHROTRIDRLEG.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/n0VZiRb.jpg" group-title="LETRA S",SNOOPY E CHARLIE BROWN: PEANUTS: O FILME (2016)
-http://llll1.azureedge.net/RedeCanais/RCFServer2/ondemand/SNPYECRLIBRPANRSOFLM.mp4
+
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/im/9odyb_tnl_210x118.jpg?ts=20131029012940" group-title="LETRA S" pltv-subgroup="Comédia",Sob Suspeita Comédia Dublado
 http://media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA S",Sobre Meninos e Lobos
