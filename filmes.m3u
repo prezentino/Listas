@@ -1083,6 +1083,14 @@ http://z1.azureedge.net/RedeCanais/RCFServer1/ondemand/JGSMRTS05.mp4
 http://z1.azureedge.net/RedeCanais/RCFServer1/ondemand/JGSMRTS06.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MRO4SSE.jpg" group-title="JOGOS MORTAIS",JOGOS MORTAIS: O FINAL (2010)
 http://z1.azureedge.net/RedeCanais/RCFServer1/ondemand/JGSMRTS07.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wikyKFk.jpg" group-title="INVOCAÇÃO DO MAL",INVOCAÇÃO DO MAL (2013)
+http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/INVCAODML.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dENTLzg.jpg" group-title="INVOCAÇÃO DO MAL",INVOCAÇÃO DO MAL 2 (2016)
+http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/INVCAODML2.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Freira.jpg" group-title="INVOCAÇÃO DO MAL",A Freira (2018)
+http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/AFRA.mp4
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/saqOXjC.jpg" group-title="JOGOS VORAZES",JOGOS VORAZES (2012)
 http://z1.azureedge.net/RedeCanais/RCFServer1/ondemand/JGSVRZS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9gfIL5i.jpg" group-title="JOGOS VORAZES",JOGOS VORAZES: EM CHAMAS (2013)
@@ -3187,16 +3195,7 @@ http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/Assistir%20Invasao%20a%20Casa%20Br
 http://www.youtube.com/watch?v=3ZK2hO7O7pY
 #EXTINF:-1 tvg-logo="http://i.imgur.com/56lkdvb.jpg" group-title="LETRA I",INVASÃO DO MUNDO: BATALHA DE LOS ANGELES (2011)
 http://z1.azureedge.net/RedeCanais/RCFServer2/ondemand/INVSDMND.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wikyKFk.jpg" group-title="LETRA J",INVOCAÇÃO DO MAL (2013)
-http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/INVCAODML.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/vABJLJm.jpg" group-title="LETRA I",INVOCAÇÃO DO MAL 2
-http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/invocacao_do_mal_2_-_dublado_filmes_online_%E2%80%93_armagedom_filme.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dENTLzg.jpg" group-title="LETRA I",INVOCAÇÃO DO MAL 2 (2016)
-http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/INVCAODML2.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/28PMyZt" group-title="LETRA I" pltv-subgroup="Terror",Invocação Do Mal Terror Dublado
-http://cdgoficial.com/go/Invocacaoo%20Do%20Mal%20(2013)%20BDrip%20720.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA I",INVOCAÇÃO DO MAL. 2014
-http://lh3.googleusercontent.com/wFJZnPkhM-RTzDXl5Mhr-nldDG34IhDs42BSQKwQyNc=m22?cpn=-3mqzfWZ-Co1AhNz&c=WEB&cver=html5
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0sez1ky.jpg" group-title="LETRA I",IP MAN: A BATALHA FINAL (2013)
 http://z1.azureedge.net/RedeCanais/RCFServer1/ondemand/IPMANABTLHFNL.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oiPIQMC.jpg" group-title="LETRA I",IP MAN: NASCE UMA LENDA (2010)
