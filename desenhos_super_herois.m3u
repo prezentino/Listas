@@ -18,9 +18,9 @@ http://z2.azureedge.net/RedeCanais/RCFServer4/ondemand/BATMNGTHMBGSLGHT.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/FofzKa" group-title="DC Animações",SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS (2018)
 http://z2.azureedge.net/RedeCanais/RCFServer4/ondemand/SCBYDOEBTMNOSBVSEDSTMDS.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cabanadoleitor.com.br/wp-content/uploads/2017/06/Batman-Harley-Quinn-2D-760x963.jpeg" group-title="DC Animações",BATMAN & ARLEQUINA: PANCADAS E RISADAS (2017)
-http://idms3.portalhqs.net/html/content/httpdelivery/filmes2017/BATMANALERQUINADUB.mp4
+http://athena.portalhqs.net/html/content/httpdelivery/filmes2017/BATMANALERQUINADUB.mp4
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CbK_ETrzzyU/VZU9jGAI2wI/AAAAAAAAego/57fOLPHyBas/s640/Vixen%2Bs%25C3%25A9rie%2Banimada%2Bda%2BCW.jpg" group-title="DC Animações",Vixen O Filme
-http://idms3.portalhqs.net/html/content/httpdelivery/filmes2017/VIXEN2017LEG-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://athena.portalhqs.net/html/content/httpdelivery/filmes2017/VIXEN2017LEG-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/04/1-1.jpg" group-title="DC Animações",Os Jovens Titãs: O Contrato de Judas (2017)
 http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/JVNSTSOCTRTDJDS.mp4
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/marvel_dc/images/a/aa/Justice_League_Dark_box_art.jpg" group-title="DC Animações",Liga da Justiça Sombria (2017)
@@ -38,7 +38,7 @@ http://z1.azureedge.net/RedeCanais/RCFServer1/ondemand/BTMNVSRBN.mp4
 #EXTINF:-1 tvg-logo="https://www.popfilmeshd.online/wp-content/uploads/2017/12/yntRCtkrltmMQf5bK7k4ptfREYN-185x278.jpg" group-title="DC Animações",Liga da Justiça: Trono de Atlântida (2015)
 http://cloud.popfilmeshd.net/popfilmes//FILMES/DUBLADO/LGDJTDATDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/marvel_dc/images/c/c1/Batman_Unlimited_Mechs_vs._Mutants.jpg" group-title="DC Animações",Batman Sem Limites: Mechas vs Mutantes
-http://idms3.portalhqs.net/html/content/sobdemanda/netcine-bucket/filmes2016/animacoes/MECHADUB--ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://athena.portalhqs.net/html/content/sobdemanda/netcine-bucket/filmes2016/animacoes/MECHADUB--ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Batman%20Sem%20Limites%20-%20Caos%20Monstruoso.jpg" group-title="DC Animações",Batman Sem Limites: Caos Monstruoso (2015)
@@ -1962,9 +1962,9 @@ http://z1.azureedge.net/RedeCanais/RCServer07/ondemand/CNSTNCTYDMNS01EP04.mp4
 http://z1.azureedge.net/RedeCanais/RCServer07/ondemand/CNSTNCTYDMNS01EP05.mp4
 
 
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/89/98/19962693.jpg" group-title="Marvel Animações",OS SUPREMOS: O FILME (2005)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Os%20Supremos%20-%20O%20Filme.jpg" group-title="Marvel Animações",OS SUPREMOS: O FILME (2005)
 http://z2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSSPRMS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/96/73/19994381.jpg" group-title="Marvel Animações",OS SUPREMOS 2: DESCUBRA O PODER DA PANTERA (2006)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Os%20Supremos%202.jpg" group-title="Marvel Animações",OS SUPREMOS 2: DESCUBRA O PODER DA PANTERA (2006)
 http://z2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSSPRMS2.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/81/18/19969112.jpg" group-title="Marvel Animações",O INVENCÍVEL HOMEM DE FERRO (2007)
 http://z2.azureedge.net/RedeCanais/RCFServer4/ondemand/OINCRVLHMNDFRO.mp4
@@ -1974,7 +1974,8 @@ http://z2.azureedge.net/RedeCanais/RCFServer4/ondemand/HLKVSTHR.mp4
 http://z2.azureedge.net/RedeCanais/RCFServer4/ondemand/HLKVSWVN.mp4
 #EXTINF:-1 tvg-logo="http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/2-3.jpg"  group-title="Marvel Animações",Hulk: Onde Os Monstros Habitam (2017)
 http://z2.azureedge.net/RedeCanais/RCFServer4/ondemand/HLKONDOSMNSTRHTBM.mp4
-
+https://cometa.top/player3/imgs-videos/Filmes/Marvel%20Rising%20-%20Guerreiros%20Secretos.jpg" group-title="Marvel Animações",Marvel Rising: Guerreiros Secretos (2018)
+http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/MRVLRSNGGRSCRTS.mp4
 
 
 
