@@ -43,8 +43,14 @@ http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/MENMRDOEUMZMB.mp4
 http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/FLCOCMPDSCMPS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Monster%20-%20Desejo%20Assassino.jpg" group-title="DRAMA",Monster: Desejo Assassino (2003)
 http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/MONSRDSJODASASNO.mp4
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="" group-title="DRAMA"," group-title="DRAMA",Contra a Parede (2018)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Contra%20a%20Parede.jpg" group-title="DRAMA",Contra a Parede (2018)
 http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/CNTRAPRDE.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Peter%20Pan%202003.jpg" group-title="FANTASIA",Peter Pan (2004)
+http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/PTRPN2003.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Em%20Busca%20da%20Terra%20do%20Nunca.jpg" group-title="FANTASIA",Em Busca da Terra do Nunca (2005)
+http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/EMBSCDTRNCA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Peter%20Pan%202015.jpg" group-title="FANTASIA",Peter Pan (2015)
+http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/PTRPN2015.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Meu%20Nome%20N%C3%A3o%20%C3%A9%20Johnny.jpg" group-title="DRAMA",MEU NOME NÃO É JOHNNY (2008)
 http://z1.azureedge.net/RedeCanais/RCFServer3/ondemand/MEUNMNEJHNY.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Jovem%20Messias.jpg" group-title="RELIGIOSO",O Jovem Messias (2018)
