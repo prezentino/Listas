@@ -557,10 +557,24 @@ http://zzz1.azureedge.net/RedeCanais/RCServer09/ondemand/ALDNEP85.mp4
 #EXTINF:-1 tvg-logo="http://liberal.com.br/wp-content/uploads/2016/10/aladdin-1992.jpg" group-title="Aladdin",Aladdin T03E08
 http://zzz1.azureedge.net/RedeCanais/RCServer09/ondemand/ALDNEP86.mp4
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E01
+http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/52a5743d.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E02
+http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/8d69bc21.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E03
+http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/a12446cf.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E04
+http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/2380bec0.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E05
+http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/dfef5f00.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E06
+http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/9c250df0.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E07
+http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/c1263230.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E08
+http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/806eefa9.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E09
+http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/9ff4d83b.mp4
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JDBfq5zAGgE/Tw37VYcLJ1I/AAAAAAAABbQ/NEelgWPm-xg/s1600/pequena-sereia_01.jpg" group-title="A Pequena Sereia",A Pequena Sereia S01E01
 http://zzz1.azureedge.net/RedeCanais/RCServer09/ondemand/APQNSRAEP01.mp4
