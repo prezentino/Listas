@@ -22,8 +22,7 @@ http://sapphire.portalhqs.net/html/conteudo/delivery/filmes2018/THELASTSHARKNADO
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/p15267808_p_v8_ab.jpg" group-title="DESTAQUES",O CAPITÃO (2018)
 http://zeus.portalhqs.net/html/conteudo/delivery/filmes2018/DERHAUPTMANNLEG-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/O%20Resgate%20do%20Soldado%20Ryan.jpg" group-title="DRAMAS HISTÓRICOS",O RESGATE DO SOLDADO RYAN (1998)
-http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/ORSGTDSLDRYAN.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Outra%20Hist%C3%B3ria%20Americana.jpg" group-title="DRAMA",A Outra História Americana (1999)
 http://zzz1.azureedge.net/RedeCanais/RCFServer3/ondemand/AOUTRHSTIA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/A%20Incr%C3%ADvel%20Aventura%20de%20Rick%20Baker.jpg" group-title="AVENTURA",A Incrível Aventura de Rick Baker (2018)
@@ -2433,12 +2432,11 @@ http://www.youtube.com/watch?v=G9vaVoYK4i8
 http://zzz1.azureedge.net/RedeCanais/RCFServer3/ondemand/OCEDVRD.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/Y6c3hP" group-title="LETRA C",CHRISTINE (2017)
 http://zzz1.azureedge.net/RedeCanais/RCFServer4/ondemand/CHRSTINE.mp4
-#EXTINF:-1 tvg-logo="http://www.alemdaimaginacao.com/Noticias/Christine/christine_capa.jpg" group-title="LETRA C" pltv-subgroup="Terror",Christine O Carro Assassino Terror Dublado
+#EXTINF:-1 tvg-logo="http://www.alemdaimaginacao.com/Noticias/Christine/christine_capa.jpg" group-title="LETRA C",CHRISTINE: O CARRO ASSASSINO (1983)
 http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/N68KCjj.jpg" group-title="LETRA C",CHRISTINE: O CARRO ASSASSINO (1983)
 http://zzz1.azureedge.net/RedeCanais/RCFServer1/ondemand/CRSTNOCRASSANO.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/Y6c3hP" group-title=“LETRA C”,CHRISTINE (2017)
-http://zzz1.azureedge.net/RedeCanais/RCFServer4/ondemand/CHRSTINE.mp4
+
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_300_300/pictures/17/04/20/10/03/005926.jpg" group-title="LETRA C",Churchill (2017)
 http://zzz1.azureedge.net/RedeCanais/RCFServer4/ondemand/CHRCHL.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/OuvPFCz.jpg" group-title="LETRA C",CIDADE DE DEUS (2002)
@@ -2511,8 +2509,7 @@ http://lh3.googleusercontent.com/H9RKXltfPv-WkROril_9YP9SXJxAusYrsiBYMNgTzgd65QG
 http://lh3.googleusercontent.com/f01NI1Ju1uHG1tqJqZdAqYKu54TLve6HgGnrwlAoa4mYxiAxyY51rqiKwRZW5cQVMU-x4FHKlcMm=m22
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vvVyISz.jpg" group-title="LETRA C",COMO SOBREVIVER A UM ATAQUE ZUMBI (2015)
 http://zzz1.azureedge.net/RedeCanais/RCFServer2/ondemand/CMSBRVVERAUATQZMB.mp4
-#EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="LETRA C",COMO TREINAR O SEU DRAGÃO 2
-http://lh3.googleusercontent.com/Q-LyLaRTq0I1QPHs1j34kSiFukm3cCUaeN1-v6CQU6b5XN0AZLezzZbHW2O_G7Cq62NJpP_3IQ=m18
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNSlV3l.jpg" group-title="LETRA C",COMPANY OF HEROES: O FILME (2013)
 http://zzz1.azureedge.net/RedeCanais/RCFServer1/ondemand/COMPNYOHROS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA C",Complicações do Amor
@@ -3801,12 +3798,8 @@ http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2AvCHjC.jpg" group-title="LETRA O",O BOM DINOSSAURO (2016)
 http://zzz1.azureedge.net/RedeCanais/RCFServer2/ondemand/OBMDINO.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/j0w1HK",O Bom Gigante Amigo(2016)
+#EXTINF:-1 tvg-logo="http://goo.gl/j0w1HK" group-title="LETRA O",O Bom Gigante Amigo(2016)
 http://zzz1.azureedge.net/RedeCanais/RCFServer3/ondemand/OBMGIGNTAMG.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/28Bx2K6" group-title="LETRA O" pltv-subgroup="Suspense",O Buraco 2001 1080p Dublado Suspense
-http://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OBURC.mp4
-#EXTINF:-1 tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/b0/30/5e/b0305ebabfd70f5124993f78570c1520.png" group-title="LETRA O",O CAÇADOR E A RAINHA DO GELO
-http://lh3.googleusercontent.com/JbHqLylR1CREPvv76ZM__gmW7iF9D7edkHuqLSUcfYRt-Q2zWkNobGVzlTTrcgG81gbAvOCR_A=m37
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA O",O Candidato Honesto
 http://lh3.googleusercontent.com/U55yF097-hz3coog1ZTeVjvllGvWXc2CDOwr4BZbsarZDWnHaNrrcwzbHf-yHvhK3Ac=m18
 #EXTINF:-1 tvg-logo="http://i.imgur.com/D8Wrv6J.jpg" group-title="LETRA O",O CANDIDATO HONESTO (2014)
@@ -6434,7 +6427,7 @@ https://goo.gl/vV8drc
 https://goo.gl/YTJsUd
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2CP6W4C.jpg" group-title="LETRA C",Como Sobreviver a um Ataque Zumbi
 https://goo.gl/garGyc
-#EXTINF:-1 tvg-logo="https://goo.gl/A9PLcm" group-title="LETRA C",Como Treinar o seu Dragão 
+#EXTINF:-1 tvg-logo="https://goo.gl/A9PLcm" group-title="LETRA C",Como Treinar o seu Dragão
 https://goo.gl/WsbMhn
 #EXTINF:-1 tvg-logo="https://goo.gl/7jGN9o" group-title="LETRA C",Conexão Ásia 
 https://goo.gl/xUfFTz
@@ -6780,7 +6773,7 @@ https://goo.gl/2Sv9ni
 https://goo.gl/5FWguv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/e9GypQs.jpg" group-title="LETRA E",Ex Machina
 https://goo.gl/fQinxi
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PPO95yS.jpg" group-title="LETRA Ê",Êxodo
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PPO95yS.jpg" group-title="LETRA E",Êxodo
 https://goo.gl/tZ3qHH
 #EXTINF:-1 tvg-logo="http://i.imgur.com/AO6X10O.jpg" group-title="LETRA E",Exorcistas do Vaticano
 https://goo.gl/SdhiZZ
@@ -7026,9 +7019,9 @@ https://goo.gl/RJnESD
 https://goo.gl/t6zfkH
 #EXTINF:-1 tvg-logo="https://goo.gl/wcEV7e" group-title="LETRA I",Ibiza Tudo Pelo DJ 2018
 https://goo.gl/haneJz
-#EXTINF:-1 tvg-logo="http://m3u.me/br/CJAa" group-title="LETRA i",iBoy 
+#EXTINF:-1 tvg-logo="http://m3u.me/br/CJAa" group-title="LETRA I",iBoy 
 https://goo.gl/XKDowm
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Etr1fCU.jpg" group-title="LETRA Í",Ícaro 2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Etr1fCU.jpg" group-title="LETRA I",Ícaro 2017
 https://goo.gl/TBFddM
 #EXTINF:-1 tvg-logo="https://goo.gl/NaK8jS" group-title="LETRA I",Identidade Especial 
 https://goo.gl/3QATSN
