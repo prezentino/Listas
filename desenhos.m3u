@@ -7,6 +7,10 @@ http://zzz1.azureedge.net/RedeCanais/RCFServer3/ondemand/PTRPNAPRCDLVRDNCA.mp4
 http://zzz1.azureedge.net/RedeCanais/RCFServer3/ondemand/MSAOCTMNDASAVNTRSNLYESMON.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis%202.jpg" group-title="LANÇAMENTOS",Os Incríveis 2 (2018)
 http://zzz1.azureedge.net/RedeCanais/RCFServer3/ondemand/OSINCRVS2.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Wheely%20-%20Velozes%20e%20Divertidos.jpg" group-title="LANÇAMENTOS",Wheely: Velozes e Divertidos (2018)
+http://zzz1.azureedge.net/RedeCanais/RCFServer3/ondemand/WHLYVLZEDVTDS.mp4
+
+https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20-%20Fadas%20E%20Piratas.jpg
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Revolting%20Rhymes.jpg" group-title="LANÇAMENTOS",REVOLTING RHYMES LEG (2017)
 http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/RVLTNGRYMSLEG.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/26/13/42/2533608.jpg" group-title="LANÇAMENTOS",PEIXONAUTA: O FILME (2018)
@@ -38,7 +42,7 @@ http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/AESTRLDBLM.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_75_106/pictures/17/08/25/19/04/419991.jpg" group-title="Universal",PICA-PAU: O FILME (2018)
 http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/PICPAU.mp4
-#EXTINF:-1 tvg-logo="http://images-na.ssl-images-amazon.com/images/I/91IHPHUB58L._SL1500_.jpg" group-title="LANÇAMENTOS",OLAF EM UMA NOVA AVENTURA CONGELANTE DE FROZEN (2017)
+#EXTINF:-1 tvg-logo="http://images-na.ssl-images-amazon.com/images/I/91IHPHUB58L._SL1500_.jpg" group-title="Pixar",OLAF EM UMA NOVA AVENTURA CONGELANTE DE FROZEN (2017)
 http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/OLFEMUNVAVNTRCGLNT.mp4
 #EXTINF:-1 tvg-logo="http://occ-0-2433-999.1.nflxso.net/art/993d2/57b74abca91d8a21fe116b945c5386aed39993d2.jpg" group-title="LANÇAMENTOS",TROLL: VAMOS FESTEJAR (2017)
 http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/TRLSVMSFSTJR.mp4
@@ -48,20 +52,34 @@ http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/MYLTLEPNYOFLM.mp4
 http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/NATLCMSTRBTS.mp4
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LUC_tBjHy74/maxresdefault.jpg" group-title="LANÇAMENTOS",MONSTER ISLAND (2017)
 http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/MONSTRISLND.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Dora%20A%20Aventureira%20-%20Party%20Super%20Divertida!.jpg" group-title="LANÇAMENTOS",Dora A Aventureira: Party Super Divertida! (2018)
+http://zzz1.azureedge.net/RedeCanais/RCFServer3/ondemand/DORAVNTRPRTSPRDVRTDA.mp4
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/89/83/20028679.jpg" group-title="LANÇAMENTOS",MEU MALVADO FAVORITO (2010)
-http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV1.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/PLNwvT" group-title="LANÇAMENTOS",MEU MALVADO FAVORITO 3 (2017)
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Meu%20Malvado%20Favorito%203.jpg" group-title="Ilumination",MEU MALVADO FAVORITO 3 (2017)
 http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV3.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/IRpkca" group-title="LANÇAMENTOS",SING: QUEM CANTA SEUS MALES ESPANTA (2017)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Sing%20-%20Quem%20Canta%20Seus%20Males%20Espanta.jpg" group-title="Ilumination",SING: QUEM CANTA SEUS MALES ESPANTA (2017)
 http://zzz2.azureedge.net/RedeCanais/RCFServer3/ondemand/SNGQCSME.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Pets%20-%20A%20Vida%20Secreta%20dos%20Bichos.jpg" group-title="Ilumination",Pets: A Vida Secreta dos Bichos (2016)
+http://zzz1.azureedge.net/RedeCanais/RCFServer3/ondemand/PETSAVSCDBS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Minions.jpg" group-title="Ilumination",MINIONS (2015)
+http://zzz1.azureedge.net/RedeCanais/RCFServer2/ondemand/MINIONS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Meu%20Malvado%20Favorito%202.jpg" group-title="Ilumination",MEU MALVADO FAVORITO 2 (2013)
+http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV2.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Meu%20Malvado%20Favorito.jpg" group-title="Ilumination",MEU MALVADO FAVORITO (2010)
+http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV1.mp4
 
 
 #EXTINF:-1 tvg-logo="http://goo.gl/oCmZrd" group-title="LANÇAMENTOS",SCOOBY-DOO! E O COMBATE DO SALSICHA (2017)
 http://zzz2.azureedge.net/RedeCanais/RCServer09/ondemand/SCBDFLM28.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/yLiNdZ" group-title="LANÇAMENTOS",LEGO SCOOBY-DOO! O GOLPE DA PRAIA (2017)
+#EXTINF:-1 tvg-logo="http://goo.gl/yLiNdZ" group-title="LEGO SCOOBY-DOO",LEGO SCOOBY-DOO! O GOLPE DA PRAIA (2017)
 http://zzz2.azureedge.net/RedeCanais/RCServer09/ondemand/SCBDFLM29.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/videothumbnails/16/10/17/16/26/158484.jpg" group-title="LANÇAMENTOS",O Poderoso Chefinho (2017)
+
+#EXTINF:-1 tvg-logo="" group-title="Dreamworks",Como Treinar o Seu Dragão 2 (2014)
+http://zzz1.azureedge.net/RedeCanais/RCServer09/ondemand/CMTRNRDRG2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Dreamworks",Como Treinar o Seu Dragão (2010)
+http://zzz1.azureedge.net/RedeCanais/RCServer08/ondemand/CMTRNRDRG.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Poderoso%20Chefinho.jpg" group-title="Dreamworks",O Poderoso Chefinho (2017)
 http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/OPDRSOCFNHDUB.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/03/05/19/05/058446.jpg" group-title="Disney",BRANCA DE NEVE E OS SETE ANÕES (1938)
@@ -147,6 +165,8 @@ http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/AGRDALEO.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20o%20Monstro%20da%20Terra%20do%20Nunca.jpg" group-title="Tinker Bell",Tinker Bell e o Monstro da Terra do Nunca (2015)
 http://zzz1.azureedge.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTREOMNSTRDTRADNCA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20-%20Fadas%20E%20Piratas.jpg" group-title="Tinker Bell",Tinker Bell: Fadas e Piratas (2014)
+http://zzz1.azureedge.net/RedeCanais/RCFServer3/ondemand/TNKRBLLFDSEPRTS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20-%20O%20Segredo%20das%20Fadas.jpg" group-title="Tinker Bell",Tinker Bell: O Segredo das Fadas (2012)
 http://zzz1.azureedge.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTROSGRDSFDS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20O%20Resgate%20das%20Fadas.jpg" group-title="Tinker Bell",Tinker Bell e o Resgate da Fada (2010)
@@ -358,10 +378,8 @@ http://zzz1.azureedge.net/RedeCanais/RCFServer1/ondemand/OQUSRDNZS.mp4
 http://zzz1.azureedge.net/RedeCanais/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/06/23/19/41/320742.jpg" group-title="ANIMAÇÕES",CONDORITO: O FILME (2017)
 http://zzz2.azureedge.net/RedeCanais/RCFServer4/ondemand/CONDRTOFLM.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/71gKAmw.png" group-title="ANIMAÇÕES",MINIONS (2015)
-http://zzz1.azureedge.net/RedeCanais/RCFServer2/ondemand/MINIONS.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tnKjB08.jpg" group-title="ANIMAÇÕES",Pets: A Vida Secreta dos Bichos (2016)
-http://zzz1.azureedge.net/RedeCanais/RCFServer3/ondemand/PETSAVSCDBS.mp4
+
+
 #EXTINF:-1 tvg-logo="http://goo.gl/SSVf6E" group-title="ANIMAÇÕES",A NOIVA CADÁVER (2005)
 http://zzz1.azureedge.net/RedeCanais/RCFServer2/ondemand/ANOIVCDVER.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/k9Vqns" group-title="ANIMAÇÕES",A BAILARINA (2016)
@@ -557,24 +575,10 @@ http://zzz1.azureedge.net/RedeCanais/RCServer09/ondemand/ALDNEP85.mp4
 #EXTINF:-1 tvg-logo="http://liberal.com.br/wp-content/uploads/2016/10/aladdin-1992.jpg" group-title="Aladdin",Aladdin T03E08
 http://zzz1.azureedge.net/RedeCanais/RCServer09/ondemand/ALDNEP86.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E01
-http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/52a5743d.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E02
-http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/8d69bc21.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E03
-http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/a12446cf.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E04
-http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/2380bec0.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E05
-http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/dfef5f00.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E06
-http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/9c250df0.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E07
-http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/c1263230.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E08
-http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/806eefa9.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Animatrix.jpg" group-title="Animatrix",Animatrix E09
-http://zzz2.azureedge.net/RedeCanais/RCServer01/videos/9ff4d83b.mp4
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JDBfq5zAGgE/Tw37VYcLJ1I/AAAAAAAABbQ/NEelgWPm-xg/s1600/pequena-sereia_01.jpg" group-title="A Pequena Sereia",A Pequena Sereia S01E01
 http://zzz1.azureedge.net/RedeCanais/RCServer09/ondemand/APQNSRAEP01.mp4
