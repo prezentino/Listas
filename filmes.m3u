@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/07/16/18/30/2826074.jpg" group-title="DESTAQUES",Aquaman (2018)
+http://livevod.cf/stream/720/2673b406ef2475264cd7b4004830cd07/
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/12/images-6.jpg" group-title="DESTAQUES",Sansão (2018)
 http://sapphire.portalhqs.net/html/content/conteudolb2/filmes2018/SANSAO-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/12/p15363265_v_v8_aa.jpg" group-title="DESTAQUES",Rei Lear (2018)
