@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/07/16/18/30/2826074.jpg" group-title="DESTAQUES",Aquaman (2018)
 http://livevod.cf/stream/720/2673b406ef2475264cd7b4004830cd07/
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/11/08/14/45/3423559.jpg" group-title="DESTAQUES",Animais Fantásticos: Os Crimes de Grindelwald (2018)
-http://zeus26.portalhqs.net/html/content/conteudolb2/filmes2018/ANIMAISFANTASTICOS2018-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+http://zeus26.portalhqs.net/html/content/conteudolb2/filmes2018/FANTASTICBEASTSLEG-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/127%20Horas.jpg" group-title="DESTAQUES",127 HORAS (2011)
 http://ccv1.azureedge.net/RedeCanais/RCFServer3/ondemand/127HRS.mp4
 
@@ -30,8 +30,7 @@ http://apollo.portalhqs.net/html/content/conteudolb/filmes2018/VENOMFILME2018DUB
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Viking%20-%20Os%20Pergaminhos%20Sagrados.jpg" group-title="DESTAQUES",Viking: Os Pergaminhos Sagrados (2018)
 http://ccv1.azureedge.net/RedeCanais/RCFServer3/ondemand/VKNGOSPRGMNHSGDS.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hulk.jpg" group-title="MarvelFilmes",HULK (2003)
-http://ccv1.azureedge.net/RedeCanais/RCFServer1/ondemand/HULK.mp4
+
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/14/08/27/23/09/130788.jpg" group-title="MarvelFilmes",HOMEM DE FERRO (2008)
 http://ccv1.azureedge.net/RedeCanais/RCFServer1/ondemand/HMNDEFRO01.mp4
 #EXTINF:-1 tvg-logo="http://cinescopiotv.com/blog/wp-content/uploads/2015/04/Hulk.jpg" group-title="MarvelFilmes",O INCRÍVEL HULK (2008)
@@ -87,6 +86,8 @@ http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/LGDJSTC.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Spawn%20-%20O%20Soldado%20do%20Inferno.jpg" group-title="SUPER-HERÓIS",SPAWN: O SOLDADO DO INFERNO (1997)
 http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/SPWMPSLDINFN.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hulk.jpg" group-title="SUPER-HERÓIS",HULK (2003)
+http://ccv1.azureedge.net/RedeCanais/RCFServer1/ondemand/HULK.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Hellboy.jpg" group-title="SUPER-HERÓIS",HELLBOY (2004)
 http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/HLBOY.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Hellboy%20II%20-%20O%20Ex%C3%A9rcito%20Dourado.jpg" group-title="SUPER-HERÓIS",HELLBOY 2: O EXÉRCITO DOURADO (2008)
@@ -616,12 +617,13 @@ http://ccv1.azureedge.net/RedeCanais/RCFServer1/ondemand/KLBILV2.mp4
 http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/PLPFCTNTMPDVILNC.mp4
 
 
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/10/345288.jpg" group-title="ÚLTIMOS NETCINE",IT: A COISA (2017)
-http://zeus26.portalhqs.net/html/content/httpdelivery/filmes2017/ITCOISADUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/p14365734_p_v8_aa.jpg" group-title="ÚLTIMOS NETCINE",THE TITAN LEG (2018)
 http://zeus26.portalhqs.net/html/content/delivery/filmes2018/THETITANLEG-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://goo.gl/Tx1iS3" group-title="ÚLTIMOS NETCINE",VOLDEMORT: A ORIGEM DO HERDEIRO LEG (2018)
 http://zeus26.portalhqs.net/html/content/httpdelivery/filmes2018/VOLDEMORT2018-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/...E%20o%20Vento%20Levou.jpg" group-title="ÚLTIMOS REDECANAIS",...E O VENTO LEVOU (1940)
 http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/EOVNTOLVOU.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/12%20Her%C3%B3is.jpg" group-title="ÚLTIMOS REDECANAIS",12 HERÓIS (2018)
@@ -1381,6 +1383,10 @@ http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/AMSCA.mp4
 http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/AMSCA2.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="FICÇÃO CIENTÍFICA",Aproximando-se do Desconhecido (2016)
 http://lh3.googleusercontent.com/7kW6BoEIfRlrXx7iGb_WE7CrGvL08l-APMtRg8DHk3Ju9A13e5mvWFUB1UWEmuV4AuWuukiH=m22
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Blade%20Runner%20O%20Ca%C3%A7ador%20de%20Androides.jpg" group-title="FICÇÃO CIENTÍFICA",BLADE RUNNER (1982)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/BLDRNER.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Blade%20Runner%202049.jpg" group-title="FICÇÃO CIENTÍFICA",BLADE RUNNER 2049 (2017)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/BLDRNR2049.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Contatos%20Imediatos%20do%20Terceiro%20Grau.jpg" group-title="FICÇÃO CIENTÍFICA",CONTATOS IMEDIATOS DO TERCEIRO GRAU (1978)
 http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/CNTSIMDATSDTRCROGRU.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/images-1.jpeg" group-title="FICÇÃO CIENTÍFICA",ELA (2013)
@@ -1390,9 +1396,7 @@ http://ccv1.azureedge.net/RedeCanais/RCFServer3/ondemand/EURBO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="FICÇÃO CIENTÍFICA",Hardcore Henry (2016)
 http://lh3.googleusercontent.com/NTDytyoByH1JqCqK57eMPSE-tQM4xTxr6L3YyVpvfR_69gHr4PD9YQNFrY2pAhhYdT7jcUj5=m22
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/05/interstellar3.jpg" group-title="FICÇÃO CIENTÍFICA",INTERESTELAR (2014)
-http://dcus5.portalhqs.net/html/content/httpdelivery/filmes2017/INTER8ST8L4RDUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="FICÇÃO CIENTÍFICA",Interestelar (2014)
-http://lh3.googleusercontent.com/NloiK_YE_FqLRYIcZbOY_h5YIxn_H5azNHsFSmOxEIpARPHhDS6IfBCUhtRZQL34FezPAlri=m18
+http://ccv1.azureedge.net/RedeCanais/RCFServer2/ondemand/INTRSTLAR.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/05/09/21/03/326587.jpg" group-title="FICÇÃO CIENTÍFICA",SOB A PELE (2014)
 http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/SOBAPLE.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/06/20/10/05/5494076.jpg" group-title="FICÇÃO CIENTÍFICA",TAU (2018)
@@ -2613,10 +2617,7 @@ http://ccv1.azureedge.net/RedeCanais/RCFServer1/ondemand/BTRSHOFILME.mp4
 http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/BNGORDSMNH.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/QcXZMg" group-title="LETRA B",BIRDMAN OU (A INESPERADA VIRTUDE DA IGNORÂNCIA) (2015)
 http://ccv1.azureedge.net/RedeCanais/RCFServer1/ondemand/BRDMAINSPDVRTDAIGN.mp4
-#EXTINF:-1 tvg-logo="http://www.semprefamilia.com.br/alem-da-tela/wp-content/uploads/sites/7/2016/09/blade-runner.jpg" group-title="LETRA B",BLADE RUNNER (1982)
-http://zeus26.portalhqs.net/html/content/httpdelivery/filmes2017/BLADERUNNERDUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
-#EXTINF:-1 tvg-logo="http://www.chicagonow.com/hammervision/files/2017/10/blade-runner-2049-main-1.jpg" group-title="LETRA B",BLADE RUNNER 2049 (2017)
-http://zeus26.portalhqs.net/html/content/httpdelivery/filmes2017/BR2049DUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EMzVBvO.jpg" group-title="LETRA B",Bob Esponja Um Herói Fora D?Água
 https://goo.gl/fvVRjT
 #EXTINF:-1 tvg-logo="http://i.imgur.com/i7M84xB.jpg" group-title="LETRA B",Bob Esponja: O Filme
@@ -3974,10 +3975,6 @@ http://www.youtube.com/watch?v=LeS-JhbHBgs
 http://www.youtube.com/watch?v=bCuL3m6caPY
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MemBieL.jpg" group-title="LETRA I",INSENSÍVEIS (2015)
 http://ccv1.azureedge.net/RedeCanais/RCFServer1/ondemand/INSNSVS.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/svQHXMZ.jpg" group-title="LETRA I",INTERESTELAR (2014)
-http://ccv1.azureedge.net/RedeCanais/RCFServer2/ondemand/INTRSTLAR.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mJs8PZV.jpg" group-title="LETRA I",Interestelar 2014 
-https://goo.gl/qKEvMs
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cfKgEND.jpg" group-title="LETRA I",Internet: O Filmes 
 https://goo.gl/y3Lynj
 #EXTINF:-1 tvg-logo="https://goo.gl/EK4s8P" group-title="LETRA I",Invasão a Londres
@@ -4405,7 +4402,7 @@ https://goo.gl/yLSxiS
 https://goo.gl/bdUj17
 #EXTINF:-1 tvg-logo="https://goo.gl/Brfxar" group-title="LETRA M",Mãe e Pai 2018
 https://goo.gl/USdmdH
-#EXTINF:-1 tvg-logo="http://goo.gl/caqMRm" group-title="LETRA M",MÃE! (2017)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/M%C3%A3e!.jpg" group-title="LETRA M",MÃE! (2017)
 http://ccv1.azureedge.net/RedeCanais/RCFServer4/ondemand/MAE.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/d5T2Ssi.jpg" group-title="LETRA M",Magia Estranha
 https://goo.gl/M5sf2p
