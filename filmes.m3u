@@ -140,7 +140,7 @@ http://ccv1.azureedge.net/RedeCanais/RCFServer2/ondemand/ELKTRA.mp4
 
 #EXTINF:-1 tvg-logo="http://criticosbotequim.files.wordpress.com/2011/02/spm1.jpg" group-title="HOMEM-ARANHA",HOMEM-ARANHA (2002)
 http://ccv1.azureedge.net/RedeCanais/RCFServer1/ondemand/HMNARNH01.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/210/544/21054460_2013103118041242.jpg" group-title="HOMEM-ARANHAa",HOMEM-ARANHA 2 (2004)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/210/544/21054460_2013103118041242.jpg" group-title="HOMEM-ARANHA",HOMEM-ARANHA 2 (2004)
 http://ccv1.azureedge.net/RedeCanais/RCFServer1/ondemand/HMNARNH02.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Homem-Aranha3.jpg" group-title="HOMEM-ARANHA",HOMEM-ARANHA 3 (2007)
 http://ccv1.azureedge.net/RedeCanais/RCFServer1/ondemand/HMNARNH03.mp4
@@ -490,6 +490,34 @@ http://ccv1.azureedge.net/RedeCanais/RCFServer1/ondemand/OMRCNRS01.mp4
 http://ccv1.azureedge.net/RedeCanais/RCFServer1/ondemand/OMRCNRS02.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EMsOzFS.jpg" group-title="OS MERCENÁRIOS",OS MERCENÁRIOS 3 (2014)
 http://ccv1.azureedge.net/RedeCanais/RCFServer1/ondemand/OMRCNRS03.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Trapalh%C3%B5es%20-%20Ali%20Bab%C3%A1%20e%20os%20Quarenta%20Ladr%C3%B5es.jpg" group-title="OS TRAPALHÕES",Os Trapalhões: Ali Babá e os Quarenta Ladrões (1972)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSTRPLHNALBABEOQTRSLDRS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Trapalh%C3%B5es%20-%20Aladim%20e%20a%20L%C3%A2mpada%20Maravilhosa.jpg" group-title="OS TRAPALHÕES",Os Trapalhões: Aladim e a Lâmpada Maravilhosa (1973)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSTRPLHNALDMEALMPDA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Trapalh%C3%B5es%20na%20Guerra%20dos%20Planetas.jpg" group-title="OS TRAPALHÕES",Os Trapalhões na Guerra dos Planetas (1978)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSTRPLHNNGRADSPLNTS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Tr%C3%AAs%20Mosqueteiros%20Trapalh%C3%B5es.jpg" group-title="OS TRAPALHÕES",Os Três Mosqueteiros Trapalhões (1980)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSTRSMSQTRSTRPLHN.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Filha%20dos%20Trapalh%C3%B5es.jpg" group-title="OS TRAPALHÕES",A Filha dos Trapalhões (1984)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/AFLHDSTRAPLHS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Trapalh%C3%B5es%20no%20Reino%20da%20Fantasia.jpg" group-title="OS TRAPALHÕES",Os Trapalhões no Reino da Fantasia (1985)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSTRPLHNRNODFNTS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Trapalh%C3%B5es%20e%20o%20Rei%20do%20Futebol.jpg" group-title="OS TRAPALHÕES",Os Trapalhões e o Rei do Futebol (1986)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSTRPLHNEOREIDFUTBL.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Trapalh%C3%B5es%20no%20Rabo%20do%20Cometa.jpg" group-title="OS TRAPALHÕES",Os Trapalhões no Rabo do Cometa (1986)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSTRPLHNORBODOCOMTA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Casamento%20dos%20Trapalh%C3%B5es.jpg" group-title="OS TRAPALHÕES",O Casamento dos Trapalhões (1988)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/OCSMNTDSTRPLHS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Her%C3%B3is%20Trapalh%C3%B5es%20-%20Uma%20Aventura%20na%20Selva.jpg" group-title="OS TRAPALHÕES",Os Heróis Trapalhões: Uma Aventura na Selva (1988)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSHRSTRPLHN.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Princesa%20Xuxa%20e%20os%20Trapalh%C3%B5es.jpg" group-title="OS TRAPALHÕES",A Princesa Xuxa e os Trapalhões (1989)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/APRNCSXUXAEOSTRSPLHS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Trapalh%C3%B5es%20e%20a%20%C3%81rvore%20da%20Juventude.jpg" group-title="OS TRAPALHÕES",Os Trapalhões e a Árvore da Juventude (1991)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSTRPLHNEARVRDJVNTD.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Saltimbancos%20Trapalh%C3%B5es%20-%20Rumo%20a%20Hollywood.jpg" group-title="OS TRAPALHÕES",Os Saltimbancos Trapalhões: Rumo a Hollywood (2017)
+http://ccv2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSLTMBCSTRPLHSRMAHLWD.mp4
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5nMQ66i.jpg" group-title="PLANETA DOS MACACOS",A BATALHA DO PLANETA DOS MACACOS (1974)
 http://ccv1.azureedge.net/RedeCanais/RCFServer1/ondemand/PLNTDSMCMCS5.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-6X9QLBkJ4DU/ViL8nTEnfwI/AAAAAAAAA2E/q0qBOBSFVVs/s300/Conquista%2Bdo%2BPlaneta%2Bdos%2BMacacos%2B-%2Bwww.tiodosfilmes.com-.jpg" group-title="PLANETA DOS MACACOS",A CONQUISTA DO PLANETA DOS MACACOS (1972)
