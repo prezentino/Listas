@@ -1951,6 +1951,15 @@ http://q1.azureedge.net/RedeCanais/RCServer07/ondemand/CNSTNCTYDMNS01EP04.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Constantine%20-%20City%20of%20Demons%20Capa.jpg" group-title="Constantine: Cidade dos Demônios",Constantine: Cidade dos Demônios S01E0
 http://q1.azureedge.net/RedeCanais/RCServer07/ondemand/CNSTNCTYDMNS01EP05.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Hellboy%20-%20Espada%20das%20Tempestades.jpg" group-title="Hellboy",Hellboy: Espada das Tempestades (2006)
+http://q1.azureedge.net/RedeCanais/RCFServer2/ondemand/HLBOYESPDSTMPSTD.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Hellboy%20-%20Sangue%20e%20Ferro.jpg" group-title="Hellboy",Hellboy: Sangue e Ferro (2007)
+http://q1.azureedge.net/RedeCanais/RCFServer2/ondemand/HLBOYSNGEFRO.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTViMzhmMjItMDcwOS00NzYzLWE3MjMtY2M2MWZhMzM1N2E4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="Spawn",Spawn P1
+https://www.youtube.com/watch?v=ov-T5LmWIJs&t=2s
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTViMzhmMjItMDcwOS00NzYzLWE3MjMtY2M2MWZhMzM1N2E4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="Spawn",Spawn P2
+https://www.youtube.com/watch?v=rihyD6EpikM&t=16s
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Os%20Supremos%20-%20O%20Filme.jpg" group-title="Marvel Animações",OS SUPREMOS: O FILME (2005)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/OSSPRMS.mp4
