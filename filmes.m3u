@@ -1,12 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Um%20Lugar%20Silencioso.jpg" group-title="DESTAQUES",Um Lugar Silencioso (2018)
+http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/UMLGRSLNCOSO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Venom.jpg" group-title="DESTAQUES",Venon (2018)
 http://q1.azureedge.net/RedeCanais/RCFServer2/ondemand/VENOM.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/07/16/18/30/2826074.jpg" group-title="DESTAQUES",Aquaman (2018)
 http://livevod.cf/stream/720/2673b406ef2475264cd7b4004830cd07/
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/11/08/14/45/3423559.jpg" group-title="DESTAQUES",Animais Fantásticos: Os Crimes de Grindelwald (2018)
 http://zeus26.portalhqs.net/html/content/conteudolb2/filmes2018/FANTASTICBEASTSLEG-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/127%20Horas.jpg" group-title="DESTAQUES",127 HORAS (2011)
-http://q1.azureedge.net/RedeCanais/RCFServer3/ondemand/127HRS.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Christopher%20Robin%20-%20Um%20Reencontro%20Inesquec%C3%ADvel.jpg" group-title="DESTAQUES",Christopher Robin: Um Reencontro Inesquecível (2018)
@@ -84,15 +85,20 @@ http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/MLHRMRVLHA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/10/23/19/55/0260439.jpg"  group-title="DCFilmes",LIGA DA JUSTIÇA (2017)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/LGDJSTC.mp4
 
-
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/The%20Flash%20O%20Filme.jpg" group-title="SUPER-HERÓIS",THE FLASH: O FILME (1991)
+http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/THEFLSHOFLME.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Spawn%20-%20O%20Soldado%20do%20Inferno.jpg" group-title="SUPER-HERÓIS",SPAWN: O SOLDADO DO INFERNO (1997)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/SPWMPSLDINFN.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hulk.jpg" group-title="SUPER-HERÓIS",HULK (2003)
 http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HULK.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Hellboy.jpg" group-title="SUPER-HERÓIS",HELLBOY (2004)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/HLBOY.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Zes5giB.jpg" group-title="SUPER-HERÓIS",Hellboy (2004)
+https://goo.gl/fUvE4q
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Hellboy%20II%20-%20O%20Ex%C3%A9rcito%20Dourado.jpg" group-title="SUPER-HERÓIS",HELLBOY 2: O EXÉRCITO DOURADO (2008)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/HLBOY2.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pu4tNy4.jpg" group-title="SUPER-HERÓIS",Hellboy 2: O EXÉRCITO DOURADO (2008)
+https://goo.gl/VL3aEA
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Dredd.jpg" group-title="SUPER-HERÓIS",DREDD (2012)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/DRDD.mp4
 
@@ -283,32 +289,39 @@ http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HNBL.mp4
 http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HNBLAORGMDML.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qMxCu6b.jpg" group-title="HANNIBAL",O SILÊNCIO DOS INOCENTES (1991)
 http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/OSLNCDSINCTS.mp4
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HRdIQ5oLHG4/maxresdefault.jpg" group-title="HARRY POTTER",ANIMAIS FANTÁSTICOS E ONDE HABITAM (2016)
-http://q1.azureedge.net/RedeCanais/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/s07x36P.jpg" group-title="HARRY POTTER",HARRY POTTER E A CÂMARA SECRETA (2002)
-http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HRYPTR02.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/E6IsXtK.jpg" group-title="HARRY POTTER",HARRY POTTER E A ORDEM DA FÊNIX (2007)
-http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HRYPTR05.mp4
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KO78cxv.jpg" group-title="HARRY POTTER",HARRY POTTER E A PEDRA FILOSOFAL (2001)
 http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HRYPTR01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/s07x36P.jpg" group-title="HARRY POTTER",HARRY POTTER E A CÂMARA SECRETA (2002)
+http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HRYPTR02.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/V3E2O.jpg" group-title="HARRY POTTER",HARRY POTTER E O PRISIONEIRO DE AZKABAN (2004)
+http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HRYPTR03.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ckur9.jpg" group-title="HARRY POTTER",HARRY POTTER E O CÁLICE DE FOGO (2005)
+http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HRYPTR04.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/E6IsXtK.jpg" group-title="HARRY POTTER",HARRY POTTER E A ORDEM DA FÊNIX (2007)
+http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HRYPTR05.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XzUBb5k.jpg" group-title="HARRY POTTER",HARRY POTTER E O ENIGMA DO PRÍNCIPE (2009)
+http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HRYPTR06.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U9AfmWZ.jpg" group-title="HARRY POTTER",HARRY POTTER E AS RELÍQUIAS DA MORTE: PARTE 1 (2010)
 http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HRYPTR07.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yfjNdrY.jpg" group-title="HARRY POTTER",HARRY POTTER E AS RELÍQUIAS DA MORTE: PARTE 2 (2011)
 http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HRYPTR08.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ckur9.jpg" group-title="HARRY POTTER",HARRY POTTER E O CÁLICE DE FOGO (2005)
-http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HRYPTR04.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XzUBb5k.jpg" group-title="HARRY POTTER",HARRY POTTER E O ENIGMA DO PRÍNCIPE (2009)
-http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HRYPTR06.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/V3E2O.jpg" group-title="HARRY POTTER",HARRY POTTER E O PRISIONEIRO DE AZKABAN (2004)
-http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/HRYPTR03.mp4
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HRdIQ5oLHG4/maxresdefault.jpg" group-title="HARRY POTTER",ANIMAIS FANTÁSTICOS E ONDE HABITAM (2016)
+http://q1.azureedge.net/RedeCanais/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iijQJ43.jpg" group-title="HARRY POTTER",Animais Fantásticos e Onde Habitam (2016)
+https://goo.gl/VYP4qQ
+#EXTINF:-1 tvg-logo="https://goo.gl/PGnouA" group-title="HARRY POTTER",Animais Fantásticos e Onde Habitam (2017)
+https://goo.gl/kzmfjf
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/05/08/22/48/228460.jpg" group-title="HIGHLANDER",HIGHLANDER: O GUERREIRO IMORTAL (1986)
+http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/HGHLNDR1.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/90/90/19962789.jpg" group-title="HIGHLANDER",HIGHLANDER II: A RESSURREIÇÃO (1990)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/HGHLNDR2.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/88/06/19962490.jpg" group-title="HIGHLANDER",HIGHLANDER III: O FEITICEIRO (1994)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/HGHLNDR3.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/26/56/19873706.jpg" group-title="HIGHLANDER",HIGHLANDER IV: A BATALHA FINAL (2000)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/HGHLNDR4.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/05/08/22/48/228460.jpg" group-title="HIGHLANDER",HIGHLANDER: O GUERREIRO IMORTAL (1986)
-http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/HGHLNDR1.mp4
+
 
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/91/98/15/20172684.jpg" group-title="INDIANA JONES",INDIANA JONES E A ÚLTIMA CRUZADA (1989)
@@ -635,7 +648,7 @@ http://q1.azureedge.net/RedeCanais/RCFServer3/ondemand/RGONUHSTRWRS.mp4
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2LczDOP.jpg" group-title="Tarantino",BASTARDOS INGLÓRIOS (2009)
-http://zeus26.portalhqs.net/html/content/httpdelivery/filmes2018/BASTADOSINGLORIOSDUB-ALTO.mp4?token=st=1543018607~exp=1543040207~acl=/html/*~hmac=a4568f3427d8279ac9ae5d2cdded36b4
+http://zeus26.portalhqs.net/html/content/httpdelivery/filmes2018/BASTADOSINGLORIOSDUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2LczDOP.jpg" group-title="Tarantino",DJANGO LIVRE (2012)
 http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/DJNGLVR.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/elEmkOs.jpg" group-title="Tarantino",KILL BILL: VOLUME 1 (2003)
@@ -1059,8 +1072,7 @@ http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/TNTCLS.mp4
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/AVNGCPRFTA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/The%20Doors%20-%20O%20Filme.jpg" group-title="ÚLTIMOS REDECANAIS",THE DOORS: O FILME (1991)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/THRDRS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/The%20Flash%20O%20Filme.jpg" group-title="ÚLTIMOS REDECANAIS",THE FLASH: O FILME (1991)
-http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/THEFLSHOFLME.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Timecop%20-%20O%20Guardi%C3%A3o%20do%20Tempo.jpg" group-title="ÚLTIMOS REDECANAIS",TIMECOP: O GUARDIÃO DO TEMPO (1994)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/TMCOPOGRDIAODTMP.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Todo%20Mundo%20Quase%20Morto.jpg" group-title="ÚLTIMOS REDECANAIS",TODO MUNDO QUASE MORTO (2004)
@@ -1073,8 +1085,7 @@ http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/TOTLMNTSEMRUM.mp4
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/TOTLMNTSEMRUM2.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Tr%C3%A1fico%20de%20Mulheres.jpg" group-title="ÚLTIMOS REDECANAIS",TRÁFICO DE MULHERES (2017)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/TRFCODMLHRS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Trocando%20as%20Bolas.jpg" group-title="ÚLTIMOS REDECANAIS",TROCANDO AS BOLAS (1983)
-http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/TRCNDASBLS.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/U.S.%20Marshals%20-%20Os%20Federais.jpg" group-title="ÚLTIMOS REDECANAIS",U.S. MARSHALS: OS FEDERAIS (1998)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/USMRSHLSOSFDRAIS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Um%20Evento%20Feliz.jpg" group-title="ÚLTIMOS REDECANAIS",UM EVENTO FELIZ (2012)
@@ -1137,6 +1148,7 @@ http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/BLCH.mp4
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/PRGONMONTN.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Liga%20dos%20Deuses.jpg" group-title="AÇÃO",LIGA DOS DEUSES (2016)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/LGDSDEUS.mp4
+
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/images-3.jpg" group-title="AÇÃO",MAZE RUNNER: A CURA MORTAL (2018)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/MAZRNERACRMRTL.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/16/52/20091675.jpg" group-title="AÇÃO",O CORVO (2012)
@@ -1452,34 +1464,47 @@ http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/MARMDLNA.mp4
 http://q1.azureedge.net/RedeCanais/RCFServer3/ondemand/OJVMSIS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/10/19/11/1325949.jpg" group-title="RELIGIOSO",PAULO: O APÓSTOLO DE CRISTO (2018)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/PALOAPSTLODCRST.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/77/05/19961371.jpg" group-title="SESSÃO DA TARDE",Admiradora Secreta (1985)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Trocando%20as%20Bolas.jpg" group-title="ANOS 80",TROCANDO AS BOLAS (1983)
+http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/TRCNDASBLS.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/77/05/19961371.jpg" group-title="ANOS 80",Admiradora Secreta (1985)
 https://www.youtube.com/watch?v=4_-SieQ_VXI
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/83/27/94/19680430.jpg" group-title="SESSÃO DA TARDE",CARAVANA DA CORAGEM: A BATALHA DE ENDOR (1986)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/83/27/94/19680430.jpg" group-title="ANOS 80",CARAVANA DA CORAGEM: A BATALHA DE ENDOR (1986)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/CRVNDCRGMABTLHENDR.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/09/05/16/56/481717.jpg" group-title="SESSÃO DA TARDE",CARAVANA DA CORAGEM: UMA AVENTURA EWOK (1984)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/09/05/16/56/481717.jpg" group-title="ANOS 80",CARAVANA DA CORAGEM: UMA AVENTURA EWOK (1984)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/CRVNDCRGMUMAVTEWK.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Clube%20dos%20Cinco.jpg" group-title="SESSÃO DA TARDE",Clube dos Cinco (1985)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Clube%20dos%20Cinco.jpg" group-title="ANOS 80",Clube dos Cinco (1985)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/CLBDSCNCS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/80/79/20428505.jpg" group-title="SESSÃO DA TARDE",CONAN: O BÁRBARO (1982)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/80/79/20428505.jpg" group-title="ANOS 80",CONAN: O BÁRBARO (1982)
 https://www.youtube.com/watch?v=WYA-4J6jv1c
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Gremlins.jpg" group-title="SESSÃO DA TARDE",GREMLINS (1984)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Gremlins.jpg" group-title="ANOS 80",GREMLINS (1984)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/GMLNS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/45/41/20200765.jpg" group-title="SESSÃO DA TARDE",HOMENS DE HONRA (2000)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/45/41/20200765.jpg" group-title="ANOS 80",HOMENS DE HONRA (2000)
 https://www.youtube.com/watch?v=U3pQ6R2D9CI
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/35/11/20092858.jpg" group-title="SESSÃO DA TARDE",INIMIGO MEU (1985)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/35/11/20092858.jpg" group-title="ANOS 80",INIMIGO MEU (1985)
 https://www.youtube.com/watch?v=2FLic6DVEfY&t=10s
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/06/11/19/26/048209.jpg" group-title="SESSÃO DA TARDE",NAMORADA DE ALUGUEL (1987)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/06/11/19/26/048209.jpg" group-title="ANOS 80",NAMORADA DE ALUGUEL (1987)
 https://www.youtube.com/watch?v=0W8tH5IPr2U
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/89/89/65/20071778.jpg" group-title="SESSÃO DA TARDE",O Que é Isso Companheiro (1997)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/89/89/65/20071778.jpg" group-title="ANOS 80",O Que é Isso Companheiro (1997)
 https://www.youtube.com/watch?v=21aAsdNizI4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/02/07/20/09/270960.jpg" group-title="SESSÃO DA TARDE",O QUINTO ELEMENTO (1997)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/02/07/20/09/270960.jpg" group-title="ANOS 80",O QUINTO ELEMENTO (1997)
 https://www.youtube.com/watch?v=xQKKGlk6L3o
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/01/02/15/54/516683.jpg" group-title="SESSÃO DA TARDE",TRÊS SOLTEIRÕES E UM BEBÊ (1987)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/01/02/15/54/516683.jpg" group-title="ANOS 80",TRÊS SOLTEIRÕES E UM BEBÊ (1987)
 http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/TRSLTRSEUMBB.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/15/60/19872583.jpg" group-title="SESSÃO DA TARDE",UMA NOITE DE AVENTURAS (1987)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/15/60/19872583.jpg" group-title="ANOS 80",UMA NOITE DE AVENTURAS (1987)
 https://www.youtube.com/watch?v=LKbIW3HmodE
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="SUSPENSE",O Lobo Atrás da Porta (2013)
-http://lh3.googleusercontent.com/13KHPhjpo_BfFBynx37TgjwIdW80brlxEWij2-NrfL_8exVzU99QixlDUlkbdr7vtus=m18
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Mortal%20Kombat%20-%20O%20Filme.jpg" group-title="ANOS 90",Mortal Kombat: O FIlme (1995)
+http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/MRTLKMBTOLFM.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Street%20Fighter%20-%20A%20%C3%9Altima%20Batalha.jpg" group-title="ANOS 90",Street Fighter: A Última Batalha (1995)
+http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/STRTFGTRAULTMBTLH.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ulKCug1.jpg" group-title="ANOS 90",UM DRINK NO INFERNO (1996)
+http://q1.azureedge.net/RedeCanais/RCFServer2/ondemand/UDRNKNINFRN.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Mortal%20Kombat%20-%20A%20Aniquila%C3%A7%C3%A3o.jpg" group-title="ANOS 90",Mortal Kombat: A Aniquilação (1998)
+http://q1.azureedge.net/RedeCanais/RCFServer1/ondemand/MRTLKMBTAANQLCAO.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/127%20Horas.jpg" group-title="SUSPENSE",127 HORAS (2011)
+http://q1.azureedge.net/RedeCanais/RCFServer3/ondemand/127HRS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Lobo%20Atr%C3%A1s%20da%20Porta.jpg" group-title="SUSPENSE",O Lobo Atrás da Porta (2014)
+http://q1.azureedge.net/RedeCanais/RCFServer3/ondemand/OLBOATRSDORTA.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/8SZ9bv" group-title="SUSPENSE",AMERICAN SATAN LEG (2018)
 http://zeus26.portalhqs.net/html/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/01/48/19871116.jpg" group-title="SUSPENSE",O CORVO (1994)
@@ -2311,8 +2336,7 @@ https://goo.gl/G4Nyj8
 https://goo.gl/upktMG
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jOodHAW.jpg" group-title="LETRA A",ANGRY BIRDS (2016)
 http://q1.azureedge.net/RedeCanais/RCFServer3/ondemand/ANGRYBRDSFLM.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/iijQJ43.jpg" group-title="LETRA A",Animais Fantásticos e Onde Habitam (2016)
-https://goo.gl/VYP4qQ
+
 #EXTINF:-1 tvg-logo="https://goo.gl/K9mfQw" group-title="LETRA A",Animais Noturnos 2017 
 https://goo.gl/h6tD9M
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7QeZYLe.jpg" group-title="LETRA A",Animal
@@ -3544,8 +3568,7 @@ https://goo.gl/yZngJL
 https://goo.gl/bXKEL3
 #EXTINF:-1 tvg-logo="http://goo.gl/oJ5KXQ" group-title="LETRA F",Fantasmas de Marte Ação Dublado
 http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/PGnouA" group-title="LETRA F",Fantásticos e Onde Habitam 2017 
-https://goo.gl/kzmfjf
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BsetRAu.jpg" group-title="LETRA F",Farol das Orcas
 https://goo.gl/Zck5Dx
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA F",Fate Stay night. Unlimited blade works
@@ -3834,10 +3857,7 @@ https://goo.gl/bzcuJK
 http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WOecxB8.jpg" group-title="LETRA H",Hector e a Procura da Felicidade
 https://goo.gl/3p19B3
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Zes5giB.jpg" group-title="LETRA H",Hellboy
-https://goo.gl/fUvE4q
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pu4tNy4.jpg" group-title="LETRA H",Hellboy 2
-https://goo.gl/VL3aEA
+
 #EXTINF:-1 tvg-logo="https://goo.gl/xhgWS1" group-title="LETRA H",Hello Ladies 
 https://goo.gl/vq3qtB
 #EXTINF:-1 tvg-logo="https://goo.gl/gjHfB1" group-title="LETRA H",Hellraiser 01 Renascido do Inferno
@@ -6990,8 +7010,7 @@ http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4
 https://goo.gl/aYsySA
 #EXTINF:-1 tvg-logo="https://goo.gl/QJX8KW" group-title="LETRA U",Um Dia Difícil 
 https://goo.gl/vqkmx9
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ulKCug1.jpg" group-title="LETRA U",UM DRINK NO INFERNO (1996)
-http://q1.azureedge.net/RedeCanais/RCFServer2/ondemand/UDRNKNINFRN.mp4
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GTNna28.jpg" group-title="LETRA U",UM DRINK NO INFERNO 2: TEXAS SANGRENTO (1999)
 http://q1.azureedge.net/RedeCanais/RCFServer2/ondemand/UDRNKNINFRN2.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VwgKIKH.jpg" group-title="LETRA U",UM DRINK NO INFERNO 3: A FILHA DO CARRASCO (2000)
