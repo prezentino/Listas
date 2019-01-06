@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Caixa%20de%20P%C3%A1ssaros.jpg" group-title="DESTAQUES",Caixa de Pássaros (2018)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Caixa%20de%20P%C3%A1ssaros.jpg" group-title="DESTAQUES",Bird Box: Caixa de Pássaros (2018)
 http://xxp1.azureedge.net/RedeCanais/RCFServer2/ondemand/CXDPASRO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Crimes%20em%20Happytime.jpg" group-title="DESTAQUES",Crimes em Happy Time (2018)
 http://xxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/CRMSEMHPYTME.mp4
@@ -140,12 +140,15 @@ http://xxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/KLBILV2.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/03/poster-9.jpg" group-title="Tarantino",BASTARDOS INGLÓRIOS (2009)
 http://s2.portalhqs.net/html/content/httpdelivery/filmes2018/BASTADOSINGLORIOSDUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/15/73/19872596.jpg" group-title="",A Liga Extraordinária (2003)
+https://goo.gl/8DYHdh
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-4beNK7yPKEU/TdaEDt7im6I/AAAAAAAAArI/tV3mV13lNqI/s1600/constantine.jpg" group-title="Alan Moore",CONSTANTINE (2005)
 http://xxp1.azureedge.net/RedeCanais/RCFServer4/ondemand/CNSTNTNE.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/210/506/21050637_20131017235623573.jpg" group-title="Alan Moore",V DE VINGANÇA (2006)
 http://xxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/VDVNGNCA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Watchmen%20-%20O%20Filme.jpg" group-title="Alan Moore",WATCHMEN (2009)
 http://xxp1.azureedge.net/RedeCanais/RCFServer2/ondemand/WTCHMNOFLM.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/300.jpg" group-title="FRANK MILLER",300 (2007)
 http://xxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/300.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/300%20A%20Ascens%C3%A3o%20do%20Imp%C3%A9rio.jpg" group-title="FRANK MILLER",300: A ASCENSÃO DO IMPÉRIO (2014)
@@ -942,8 +945,7 @@ http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/OEXRCSTA2OHRGE.mp4
 http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/OEXTCHTLMRGLD.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Ex%C3%B3tico%20Hotel%20Marigold%202.jpg" group-title="ÚLTIMOS REDECANAIS",O EXÓTICO HOTEL MARIGOLD (2015)
 http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/OEXTCHTLMRGLD2.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Feiti%C3%A7o%20de%20%C3%81quila.jpg" group-title="ÚLTIMOS REDECANAIS",O FEITIÇO DE ÁQUILA (1985)
-http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/OFETCDAQLA.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Franco%20Atirador%201978.jpg" group-title="ÚLTIMOS REDECANAIS",O FRANCO ATIRADOR (1978)
 http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/OFRNCATRDR1978.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Franco%20Atirador.jpg" group-title="ÚLTIMOS REDECANAIS",O FRANCO ATIRADOR (2015)
@@ -1224,6 +1226,8 @@ http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/ULTMTNGOEMPRS.mp4
 http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/ENQNTVCDRMIA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Quatro%20Casamentos%20E%20Um%20Funeral.jpg" group-title="COMÉDIA ROMÂNTICA",QUATRO CASAMENTOS E UM FUNERAL (1994)
 http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/QUTRCSMNTSEUMFNRAL.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vdoJql494lQhcMhqA4ct3oeXZku.jpg" group-title="COMÉDIA ROMÂNTICA",UM LUGAR CHAMADO NOTTING HILL (1999)
+https://www918.playercdn.net/188/2/nwA0a_dccc6bpZQcGjYAAw/1546769680/180401/570FPXFVQ2TXWJWTK9LAW.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/(500)%20Dias%20com%20Ela.jpg" group-title="COMÉDIA",(500) DIAS COM ELA (2009)
 http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/500DSCMELA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Com%C3%A9dia%20Divina.jpg" group-title="COMÉDIA",A COMÉDIA DIVINA (2018)
@@ -1423,6 +1427,8 @@ http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/GLADR.mp4
 http://xxp1.azureedge.net/RedeCanais/RCFServer2/ondemand/TROIA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/SzWegL" group-title="ÉPICO",Tróia: Versão do Diretor (2004)
 https://goo.gl/5SEHSt
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Feiti%C3%A7o%20de%20%C3%81quila.jpg" group-title="FANTASIA",O FEITIÇO DE ÁQUILA (1985)
+http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/OFETCDAQLA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20B%C3%BAssola%20De%20Ouro.jpg" group-title="FANTASIA",A BÚSSULA DE OURO (2007)
 http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/ABSOLADORO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/93/91/24/20285454.jpg" group-title="FANTASIA",A HISTÓRIA SEM FIM (1984)
@@ -1541,6 +1547,10 @@ https://www.youtube.com/watch?v=LKbIW3HmodE
 https://goo.gl/FfZX44
 #EXTINF:-1  tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Predador.jpg" group-title="ANOS 80",O PREDADOR (1987)
 http://xxp1.azureedge.net/RedeCanais/RCFServer4/ondemand/OPRDR.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/60/14/20417708.jpg" group-title="ANOS 90",Uma Linda Mulher (1990)
+http://livevod.cf/stream/720/c7d9924a2cbdc69264778f5cddf04f21/
+#EXTINF:-1 tvg-logo="http://goo.gl/EUR7HM" group-title="ANOS 90",EDWARD MÃOS DE TESOURA (1991)
+http://xxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/EDWRDMSDTSR.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Mortal%20Kombat%20-%20O%20Filme.jpg" group-title="ANOS 90",Mortal Kombat: O FIlme (1995)
 http://xxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/MRTLKMBTOLFM.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Street%20Fighter%20-%20A%20%C3%9Altima%20Batalha.jpg" group-title="ANOS 90",Street Fighter: A Última Batalha (1995)
@@ -1558,18 +1568,22 @@ http://xxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/OLBOATRSDORTA.mp4
 http://s1.portalhqs.net/html/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/01/48/19871116.jpg" group-title="SUSPENSE",O CORVO (1994)
 http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/OCRVO.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/jWQAz3" group-title="SUSPENSE",Ray Kurzweil Legendado 480p
+#EXTINF:-1 tvg-logo="http://goo.gl/jWQAz3" group-title="SUSPENSE",Ray Kurzweil Legendado
 http://archive.org/download/RayKurzweil-Legendado/RayKurzweil-GloboNewsCinciaETecnologia.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/14/12/01/19/19/491221.jpg" group-title="TERROR",COLHEITA MALDITA (1984)
+http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/CLHTMLDTA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Bolha%20Assassina.jpg" group-title="TERROR",A BOLHA ASSASSINA (1989)
 http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/ABLHASASNA.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/85/79/19962261.jpg" group-title="TERROR",Os Outros (2001)
+http://livevod.cf/stream/1080/5d547cf5660cf94325402f9cbd3b69f3/
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Chave%20Mestra.jpg" group-title="TERROR",A Chave Mestra (2005)
 http://xxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/ACHVMSTRA.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="TERROR",Anger of The Dead (2015)
 http://lh3.googleusercontent.com/-HMtlmUizy2LhV7m8GfmbzgVHCsmVodxJDuYefrQ_5VNrWwNKxJLCNtbFCwEtu7zN0ikGfrC=m22
 #EXTINF:-1 tvg-logo="http://bit.ly/1UD9wpX" group-title="TERROR",Anger of The Dead (2015)
 http://lh3.googleusercontent.com/nroUgjp1AvZHqjWgt8TBsGz-gB10dbDVk3X7N0bUOMrJjze0wBjRARjPkBGKCQbTVVykfJrhFA=m22
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/14/12/01/19/19/491221.jpg" group-title="TERROR",COLHEITA MALDITA (1984)
-http://xxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/CLHTMLDTA.mp4
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="TERROR",O Último Sacramento (2013)
 http://lh3.googleusercontent.com/UGgqs0BOEeUSVXr1_wICIDhv9Nbau7AldrffjjwiHx_goVeUoqsIr8Y31VCqa03oaEw=m18
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/09/14/09/09/5617441.jpg" group-title="TERROR",PERIGO PRÓXIMO (2017)
@@ -1961,8 +1975,7 @@ http://xxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/ALNDETRZN.mp4
 https://goo.gl/DxU9BU
 #EXTINF:-1 tvg-logo="http://i.imgur.com/uy8MD1m.jpg" group-title="LETRA A",A Lenda do rei Macaco 2 Viagem ao Oeste
 https://goo.gl/ezBWdM
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oPqhO0c.jpg" group-title="LETRA A",A Liga Extraordinária
-https://goo.gl/8DYHdh
+
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wfTR-jB3QdE/U0i2QT8XVaI/AAAAAAAAQxo/lpXNUGsl8ec/s1600/2.png" group-title="LETRA A",A LISTA (2011)
 http://xxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/ALISTA2011.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/897v5z" group-title="LETRA A",A Luz Entre Oceanos 2017 
@@ -3412,8 +3425,7 @@ http://www.youtube.com/watch?v=q0KNFU9upKQ
 https://goo.gl/E92DgN
 #EXTINF:-1 tvg-logo="https://goo.gl/6PjB9M" group-title="LETRA E",Eden Lutar ou Morrer
 https://goo.gl/kVH5kk
-#EXTINF:-1 tvg-logo="http://goo.gl/EUR7HM" group-title="LETRA E",EDWARD MÃOS DE TESOURA (1991)
-http://xxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/EDWRDMSDTSR.mp4
+
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/images-1.jpeg" group-title="LETRA E",ELA
 http://s1.portalhqs.net/html/content/httpdelivery/filmes2018/ELADUB-ALTO.mp4?token=st=1541958116~exp=1541979716~acl=/html/*~hmac=4f043a1d9200b1834df58670f5b0a180
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oWXTloO.png" group-title="LETRA E",ELA É DEMAIS PRA MIM (2010)
