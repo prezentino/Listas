@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/No%20Cora%C3%A7%C3%A3o%20do%20Mar.jpg" group-title="DESTAQUES",No Coração do Mar (2015)
+http://xxxp1.azureedge.net/RedeCanais/RCFServer2/ondemand/NOCRCAODMR.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Halloween.jpg" group-title="DESTAQUES",Halloween (2018)
+http://xxxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/HLWN2018.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Caixa%20de%20P%C3%A1ssaros.jpg" group-title="DESTAQUES",Bird Box: Caixa de Pássaros (2018)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer2/ondemand/CXDPASRO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Crimes%20em%20Happytime.jpg" group-title="DESTAQUES",Crimes em Happy Time (2018)
@@ -11,12 +15,10 @@ http://xxxp1.azureedge.net/RedeCanais/RCFServer2/ondemand/VENOM.mp4
 http://livevod.cf/stream/720/2673b406ef2475264cd7b4004830cd07/
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/11/08/14/45/3423559.jpg" group-title="DESTAQUES",Animais Fantásticos: Os Crimes de Grindelwald (2018)
 http://lb01.portalhqs.net/html/content/conteudolb2/filmes2018/FANTASTICBEASTSLEG-ALTO.mp4?token=st=1546925432~exp=1546947032~acl=/html/*~hmac=930ecc49b4626ee980ce1d3aff5a0756
-
-
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/12/p15363265_v_v8_aa.jpg" group-title="DESTAQUES",Rei Lear (2018)
 http://lb02.portalhqs.net/html/content/conteudolb2/filmes2018/KINGLEAR-ALTO.mp4?token=st=1546925432~exp=1546947032~acl=/html/*~hmac=930ecc49b4626ee980ce1d3aff5a0756
-#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/12/images-6.jpg" group-title="DESTAQUES",Sansão (2018)
-http://lb02.portalhqs.net/html/content/conteudolb2/filmes2018/SANSAO-ALTO.mp4?token=st=1546925432~exp=1546947032~acl=/html/*~hmac=930ecc49b4626ee980ce1d3aff5a0756
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Sans%C3%A3o.jpg" group-title="DESTAQUES",Sansão (2018)
+http://xxxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/SNSAO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Mist%C3%A9rio%20do%20Rel%C3%B3gio%20na%20Parede.jpg" group-title="DESTAQUES",O Mistério do Relógio na Parede (2018)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer2/ondemand/OMSTRDRLGIONPRDELEG.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Um%20Lugar%20Silencioso.jpg" group-title="DESTAQUES",Um Lugar Silencioso (2018)
@@ -35,63 +37,59 @@ http://lb01.portalhqs.net/html/conteudo/delivery/filmes2018/DERHAUPTMANNLEG-ALTO
 http://lb02.portalhqs.net/html/conteudo/delivery/filmes2018/THELASTSHARKNADOLEG-ALTO.mp4?token=st=1546925432~exp=1546947032~acl=/html/*~hmac=930ecc49b4626ee980ce1d3aff5a0756
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/11/MV5BMjIxMTMyOTE2NF5BMl5BanBnXkFtZTgwMDYyNzY1NTM@._V1_SY1000_CR006741000_AL_.jpg" group-title="DESTAQUES",PAPILLON LEG (2018)
 http://lb01.portalhqs.net/html/content/conteudolb/filmes2018/PAPILLONLEG-ALTO.mp4?token=st=1546925432~exp=1546947032~acl=/html/*~hmac=930ecc49b4626ee980ce1d3aff5a0756
-
-
-
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Viking%20-%20Os%20Pergaminhos%20Sagrados.jpg" group-title="DESTAQUES",Viking: Os Pergaminhos Sagrados (2018)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/VKNGOSPRGMNHSGDS.mp4
 
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Homem%20de%20Ferro1.jpg" group-title="MarvelFilmes",HOMEM DE FERRO (2008)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Homem%20de%20Ferro1.jpg" group-title="Universo Marvel",HOMEM DE FERRO (2008)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/HMNDEFRO01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Incr%C3%ADvel%20Hulk.jpg" group-title="MarvelFilmes",O INCRÍVEL HULK (2008)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Incr%C3%ADvel%20Hulk.jpg" group-title="Universo Marvel",O INCRÍVEL HULK (2008)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/HMNDEFRO02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Homem%20de%20Ferro%202.jpg" group-title="MarvelFilmes",HOMEM DE FERRO 2 (2010)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Homem%20de%20Ferro%202.jpg" group-title="Universo Marvel",HOMEM DE FERRO 2 (2010)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/HMNDEFRO02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Thor.jpg" group-title="MarvelFilmes",THOR (2011)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Thor.jpg" group-title="Universo Marvel",THOR (2011)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/THOR.mp4
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/d/d8/Capit%C3%A3o_Am%C3%A9rica_O_Primeiro_Vingador_-_Poster.jpg" group-title="MarvelFilmes",CAPITÃO AMÉRICA: O PRIMEIRO VINGADOR (2011)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Capit%C3%A3o%20Am%C3%A9rica%20-%20O%20Primeiro%20Vingador.jpg" group-title="Universo Marvel",CAPITÃO AMÉRICA: O PRIMEIRO VINGADOR (2011)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer2/ondemand/CAPTAMRC1.mp4
-#EXTINF:-1 tvg-logo="http://eagoradezoito.files.wordpress.com/2012/05/os-vingadores.jpg" group-title="MarvelFilmes",OS VINGADORES (2012)
+#EXTINF:-1 tvg-logo="http://eagoradezoito.files.wordpress.com/2012/05/os-vingadores.jpg" group-title="Universo Marvel",OS VINGADORES (2012)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/OSVGDRS.mp4
-#EXTINF:-1 tvg-logo="http://awesomeplayers.files.wordpress.com/2013/04/homem-de-ferro-3-iron-man-3-crc3adtica.jpg" group-title="MarvelFilmes",HOMEM DE FERRO 3 (2013)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Homem%20de%20Ferro%203.jpg" group-title="Universo Marvel",HOMEM DE FERRO 3 (2013)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/HMNDEFRO03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Thor%20-%20O%20Mundo%20Sombrio.jpg" group-title="MarvelFilmes",THOR: O MUNDO SOMBRIO (2013)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Thor%20-%20O%20Mundo%20Sombrio.jpg" group-title="Universo Marvel",THOR: O MUNDO SOMBRIO (2013)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/THOROMNDSBR.mp4
-#EXTINF:-1 tvg-logo="http://www.popground.com.br/wp-content/uploads/2014/03/capamerica2.png" group-title="MarvelFilmes",CAPITÃO AMÉRICA 2: O SOLDADO INVERNAL (2014)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Capit%C3%A3o%20Am%C3%A9rica%202%20-%20O%20Soldado%20Invernal.jpg" group-title="Universo Marvel",CAPITÃO AMÉRICA 2: O SOLDADO INVERNAL (2014)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer2/ondemand/CAPTAMRC2.mp4
-#EXTINF:-1 tvg-logo="http://phsantos.info/blog/wp-content/uploads/2014/08/wpid-gotg_wpw_teaser.jpg" group-title="MarvelFilmes",OS GUARDIÕES DA GALÁXIA (2014)
+#EXTINF:-1 tvg-logo="http://phsantos.info/blog/wp-content/uploads/2014/08/wpid-gotg_wpw_teaser.jpg" group-title="Universo Marvel",OS GUARDIÕES DA GALÁXIA (2014)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer2/ondemand/GRDOESDGLXIA.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/02/24/18/27/528824.jpg" group-title="MarvelFilmes",OS VINGADORES 2: A ERA DE ULTRON (2015)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/02/24/18/27/528824.jpg" group-title="Universo Marvel",OS VINGADORES 2: A ERA DE ULTRON (2015)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/VNGDRSEDURON.mp4
-#EXTINF:-1 tvg-logo="http://nerdeekqueens.files.wordpress.com/2015/08/check-out-the-new-ant-man-poster_qp5u-1920.jpg" group-title="MarvelFilmes",HOMEM-FORMIGA (2015)
+#EXTINF:-1 tvg-logo="http://nerdeekqueens.files.wordpress.com/2015/08/check-out-the-new-ant-man-poster_qp5u-1920.jpg" group-title="Universo Marvel",HOMEM-FORMIGA (2015)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer2/ondemand/HMNFRMGA.mp4
-#EXTINF:-1 tvg-logo="http://semantike.com/leviosa/wp-content/uploads/2016/05/maxresdefault.jpg" group-title="MarvelFilmes",CAPITÃO AMÉRICA 3: GUERRA CIVIL (2016)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Capit%C3%A3o%20Am%C3%A9rica%20-%20Guerra%20Civil.jpg" group-title="Universo Marvel",CAPITÃO AMÉRICA 3: GUERRA CIVIL (2016)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/CAPTAMRC3.mp4
-#EXTINF:-1 tvg-logo="http://minasnerds.com.br/wp-content/uploads/2016/10/Filme-Doutor-Estranho.jpg" group-title="MarvelFilmes",DOUTOR ESTRANHO (2016)
+#EXTINF:-1 tvg-logo="http://minasnerds.com.br/wp-content/uploads/2016/10/Filme-Doutor-Estranho.jpg" group-title="Universo Marvel",DOUTOR ESTRANHO (2016)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/DRESTNHO.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/08/078128.jpg" group-title="MarvelFilmes",GUARDIÕES DA GALÁXIA VOL. 2 (2017)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/08/078128.jpg" group-title="Universo Marvel",GUARDIÕES DA GALÁXIA VOL. 2 (2017)
 http://xxxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/GRDOESDGLXIAVL2.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/images.jpg" group-title="MarvelFilmes",HOMEM-ARANHA: DE VOLTA AO LAR (2017)
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/09/images.jpg" group-title="Universo Marvel",HOMEM-ARANHA: DE VOLTA AO LAR (2017)
 http://xxxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/HOMARNHDVLTALR.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Thor%20Ragnarok.jpg" group-title="MarvelFilmes",THOR RAGNAROK (2017)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Thor%20Ragnarok.jpg" group-title="Universo Marvel",THOR RAGNAROK (2017)
 http://xxxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/THORAGORK.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/07/16/09/2291532.jpg" group-title="MarvelFilmes",PANTERA NEGRA (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/07/16/09/2291532.jpg" group-title="Universo Marvel",PANTERA NEGRA (2018)
 http://xxxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/PNTRNGR.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg"  group-title="MarvelFilmes",VINGADORES: GUERRA INFINITA (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/16/15/08/2019826.jpg"  group-title="Universo Marvel",VINGADORES: GUERRA INFINITA (2018)
 http://xxxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Homem-formiga%20e%20a%20Vespa.jpg" group-title="MarvelFilmes",HOMEM FORMIGA E A VESPA (2018)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Homem-formiga%20e%20a%20Vespa.jpg" group-title="Universo Marvel",HOMEM FORMIGA E A VESPA (2018)
 http://xxxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/HMNFRMGEVSPA.mp4
 
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/057/21005782_20130514172205617.jpg" group-title="DCFilmes",O HOMEM DE AÇO (2013)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/057/21005782_20130514172205617.jpg" group-title="Universo DC",O HOMEM DE AÇO (2013)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/OHMNDACO.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/01/04/18/43/2155615.jpg" group-title="DCFilmes",BATMAN VS SUPERMAN: A ORIGEM DA JUSTIÇA (2016)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/01/04/18/43/2155615.jpg" group-title="Universo DC",BATMAN VS SUPERMAN: A ORIGEM DA JUSTIÇA (2016)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/06/22/00/19/008711.jpg" group-title="DCFilmes",ESQUADRÃO SUICIDA (2016)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/06/22/00/19/008711.jpg" group-title="Universo DC",ESQUADRÃO SUICIDA (2016)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/ESQDSUCDA.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/03/10/19/41/580546.jpg" group-title="DCFilmes",MULHER-MARAVILHA (2017)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/03/10/19/41/580546.jpg" group-title="Universo DC",MULHER-MARAVILHA (2017)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/MLHRMRVLHA.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/10/23/19/55/0260439.jpg"  group-title="DCFilmes",LIGA DA JUSTIÇA (2017)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/10/23/19/55/0260439.jpg"  group-title="Universo DC",LIGA DA JUSTIÇA (2017)
 http://xxxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/LGDJSTC.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/The%20Flash%20O%20Filme.jpg" group-title="SUPER-HERÓIS",THE FLASH: O FILME (1991)
@@ -108,6 +106,8 @@ https://goo.gl/fUvE4q
 http://xxxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/HLBOY2.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pu4tNy4.jpg" group-title="SUPER-HERÓIS",Hellboy 2: O EXÉRCITO DOURADO (2008)
 https://goo.gl/VL3aEA
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Lanterna%20Verde.jpg" group-title="SUPER-HERÓIS",Lanterna Verde (2011)
+http://xxxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/LNTRNVRDS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Dredd.jpg" group-title="SUPER-HERÓIS",DREDD (2012)
 http://xxxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/DRDD.mp4
 
@@ -1298,6 +1298,8 @@ http://xxxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/TRNSPTSMLMTS.mp4
 http://xxxp1.azureedge.net/RedeCanais/RCFServer1/ondemand/CLBDLT.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Em%20Ritmo%20De%20Fuga.jpg" group-title="CULT",Em Ritmo de Fuga (2017)
 http://xxxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/EMRTMDFG.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Banquete.jpg" group-title="CULT",O Banquete (2018)
+http://xxxp1.azureedge.net/RedeCanais/RCFServer2/ondemand/OBNQTE.mp4
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/AlszA7q.jpg" group-title="DOCUMENTÁRIO",A GUERRA DO VIETNÃ- PARTE 1
@@ -1416,6 +1418,8 @@ http://lh3.googleusercontent.com/07HSJBrIavzF3L-awJ_LkAJrXuzUWNS2uS65E70Nah50Ofz
 http://lh3.googleusercontent.com/GZTscfvesKyDwHQUJlgwLBFcFbfG8FDN16ly_nWm4S57kiz1l-Sybwo1sgF_iGZiacwdjbyrXg=m22
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="DRAMA",Voando Alto (2016)
 http://lh3.googleusercontent.com/lMdrSvt_BndWcj8g6wAnWAV8Eg0sNz1hsV6nEcJO1jfJZHGXkgEt7qon3pUtizmDaS31jtkA=m22
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Mary%20Shelley.jpg" group-title="DRAMA",Mary Shelley (2018)
+http://xxxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/MRYSHLY.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Ben-Hur%201959.jpg" group-title="ÉPICO",BEN HUR (1959)
 http://xxxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/BENHUR.mp4
@@ -1509,6 +1513,8 @@ http://serv1-1.eletricmice.com/RedeCanais/RCFServer3/ondemand/TRQDMSTR.mp4
 http://serv1-1.eletricmice.com/RedeCanais/RCFServer3/ondemand/TRQDMSTR2.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/1WUZuTj" group-title="POLICIAL",Wild Card: Jogo Duro (2015)
 http://lh3.googleusercontent.com/tOHHOKk19yMSR1O8-kE7nIVHwMzR9pYxr5uXut4wwwbR9mu5ptZdoqiZbnEuHzTZx41HXcjamQ=m22
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Sans%C3%A3o%20e%20Dalila.jpg" group-title="RELIGIOSOS",SANSÃO E DALILA (1951)
+http://xxxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/SNSOEDLA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/21/17/47/5445593.jpg" group-title="RELIGIOSO",MARIA MADALENA (2018)
 http://xxxp2.azureedge.net/RedeCanais/RCFServer4/ondemand/MARMDLNA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Jovem%20Messias.jpg" group-title="RELIGIOSO",O Jovem Messias (2018)
@@ -6376,8 +6382,7 @@ https://goo.gl/zT7ZWL
 https://goo.gl/pJ9q1c
 #EXTINF:-1 tvg-logo="http://goo.gl/jSukva" group-title="LETRA S",SANGUE PELA GLÓRIA (2017)
 http://xxxp1.azureedge.net/RedeCanais/RCFServer4/ondemand/SNGPLGLR.mp4
-#EXTINF:-1 tvg-logo="" group-title="LETRA S",SANSÃO E DALILA (1951)
-http://xxxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/SNSOEDLA.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/qEfrjL" group-title="LETRA S",Santo Time 2018
 https://goo.gl/dndxNX
 #EXTINF:-1 tvg-logo="https://goo.gl/u6g8V3" group-title="LETRA S",Santos Justiceiros 2 O Retorno 2009 
