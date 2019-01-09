@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Leo%20Da%20Vinci%20-%20Miss%C3%A3o%20Mona%20Lisa.jpg" group-title="LANÇAMENTOS",Leo Da Vinci: Missão Mona Lisa (2018)
+http://xxxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/LEODVNCMSNMNLSA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Resgate%20da%20Princesa.jpg" group-title="LANÇAMENTOS",O Resgate da Princesa (2018)
+http://xxxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/ORSGTEDPRNCSA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Fuga%20do%20Planeta%20Terra.jpg" group-title="LANÇAMENTOS",A Fuga do Planeta Terra (2013)
+http://xxxp1.azureedge.net/RedeCanais/RCFServer3/ondemand/AFGADPLNTRA.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/images-3.jpg" group-title="LANÇAMENTOS",WiFi Ralph: Quebrando a Internet (2018)
 http://lb01.portalhqs.net/html/content/conteudolb2/filmes2018/RALPHR5-ALTO.mp4?token=st=1546925307~exp=1546946907~acl=/html/*~hmac=e8082ab1449f50f318c0033d89357aa4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Ca%C3%A7adores%20de%20Drag%C3%B5es.jpg" group-title="LANÇAMENTOS",Caçadores de Dragões (2008)
@@ -3697,9 +3703,9 @@ http://xxxp2.azureedge.net/RedeCanais/RCServer01/videos/76aa798b.mp4
 http://xxxp2.azureedge.net/RedeCanais/RCServer01/videos/d9ed031e.mp4
 #EXTINF:-1 tvg-logo="http://www.cineprise.com.br/wp-content/uploads/2012/05/Thundercats-Logo-thundercats-34314_1152_8642.jpg" group-title="Thundercats",Thundercats T01E65
 http://xxxp2.azureedge.net/RedeCanais/RCServer01/videos/cf0aea86.mp4
-#EXTINF:-1 tvg-logo="http://www.cineprise.com.br/wp-content/uploads/2012/05/Thundercats-Logo-thundercats-34314_1152_8642.jpg" group-title="Thundercats",Thundercats T02E01  66
+#EXTINF:-1 tvg-logo="http://www.cineprise.com.br/wp-content/uploads/2012/05/Thundercats-Logo-thundercats-34314_1152_8642.jpg" group-title="Thundercats",Thundercats T02E01
 http://xxxp2.azureedge.net/RedeCanais/RCServer01/videos/2d0468e0.mp4
-#EXTINF:-1 tvg-logo="http://www.cineprise.com.br/wp-content/uploads/2012/05/Thundercats-Logo-thundercats-34314_1152_8642.jpg" group-title="Thundercats",Thundercats T02E02  67
+#EXTINF:-1 tvg-logo="http://www.cineprise.com.br/wp-content/uploads/2012/05/Thundercats-Logo-thundercats-34314_1152_8642.jpg" group-title="Thundercats",Thundercats T02E02
 http://xxxp2.azureedge.net/RedeCanais/RCServer01/videos/ccc42e0e.mp4
 #EXTINF:-1 tvg-logo="http://www.cineprise.com.br/wp-content/uploads/2012/05/Thundercats-Logo-thundercats-34314_1152_8642.jpg" group-title="Thundercats",Thundercats T02E03  68
 http://xxxp2.azureedge.net/RedeCanais/RCServer01/videos/919009ce.mp4
