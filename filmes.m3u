@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/07/16/18/30/2826074.jpg" group-title="DESTAQUES",Aquaman (2018)
 http://cdn.lhmtv.ga/filmes/aquaman-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/07/16/18/30/2826074.jpg" group-title="DESTAQUES",Aquaman (2018)
+http://network.redecanais.ru/movies/aquaman-dub-720p.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/11/08/14/45/3423559.jpg" group-title="DESTAQUES",Animais Fantásticos: Os Crimes de Grindelwald (2018)
-http://cdn.lhmtv.ga/filmes/animaisfantasticos2almosthd-dub-1080p.mp4
+http://cdn.lhmtv.ga/filmes/animaisfantasticos2almosthd-dub-1080p.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/11/01/23/36/5877049.jpg" group-title="DESTAQUES",Robin Hood: A Origem (2018)
 http://media.lhmtv.ga/filmes/ROBINHOODHDTCDUB.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/No%20Cora%C3%A7%C3%A3o%20do%20Mar.jpg" group-title="DESTAQUES",No Coração do Mar (2015)
