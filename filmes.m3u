@@ -314,11 +314,11 @@ http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/BRDCK3.mp4
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FENGuCb.png" group-title="DE VOLTA PARA O FUTURO",DE VOLTA PARA O FUTURO (1985)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/De%20Volta%20Para%20o%20Futuro1.jpg" group-title="DE VOLTA PARA O FUTURO",DE VOLTA PARA O FUTURO (1985)
 http://sve.redecanais.download/RedeCanais/RCFServer1/ondemand/DVLTPROFUT1.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JlOGV76.jpg" group-title="DE VOLTA PARA O FUTURO",DE VOLTA PARA O FUTURO 2 (1989)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/De%20Volta%20Para%20o%20Futuro2.jpg" group-title="DE VOLTA PARA O FUTURO",DE VOLTA PARA O FUTURO 2 (1989)
 http://sve.redecanais.download/RedeCanais/RCFServer1/ondemand/DVLTPROFUT2.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wLB2QgG.jpg" group-title="DE VOLTA PARA O FUTURO",DE VOLTA PARA O FUTURO 3 (1990)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/De%20Volta%20Para%20o%20Futuro3.jpg" group-title="DE VOLTA PARA O FUTURO",DE VOLTA PARA O FUTURO 3 (1990)
 http://sve.redecanais.download/RedeCanais/RCFServer1/ondemand/DVLTPROFUT3.mp4
 
 
@@ -1383,6 +1383,9 @@ http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/ELEJHN.mp4
 http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/EXTRORDNR.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Falc%C3%A3o%20-%20O%20Campe%C3%A3o%20dos%20Campe%C3%B5es.jpg" group-title="DRAMA",Falcão: O Campeão dos Campeões (1987)
 http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/FLCOCMPDSCMPS.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/45/41/20200765.jpg" group-title="DRAMA",HOMENS DE HONRA (2000)
+https://www.youtube.com/watch?v=U3pQ6R2D9CI
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Meu%20Nome%20N%C3%A3o%20%C3%A9%20Johnny.jpg" group-title="DRAMA",MEU NOME NÃO É JOHNNY (2008)
 http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/MEUNMNEJHNY.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Monster%20-%20Desejo%20Assassino.jpg" group-title="DRAMA",Monster: Desejo Assassino (2003)
@@ -1549,8 +1552,7 @@ http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/CLBDSCNCS.mp4
 https://www.youtube.com/watch?v=WYA-4J6jv1c
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Gremlins.jpg" group-title="ANOS 80",GREMLINS (1984)
 http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/GMLNS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/45/41/20200765.jpg" group-title="ANOS 80",HOMENS DE HONRA (2000)
-https://www.youtube.com/watch?v=U3pQ6R2D9CI
+
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/35/11/20092858.jpg" group-title="ANOS 80",INIMIGO MEU (1985)
 https://www.youtube.com/watch?v=2FLic6DVEfY&t=10s
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/06/11/19/26/048209.jpg" group-title="ANOS 80",NAMORADA DE ALUGUEL (1987)
@@ -1563,6 +1565,11 @@ http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/UMNTDAVNTS.mp4
 https://goo.gl/FfZX44
 #EXTINF:-1  tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Predador.jpg" group-title="ANOS 80",O PREDADOR (1987)
 http://sve.redecanais.download/RedeCanais/RCFServer4/ondemand/OPRDR.mp4
+#EXTINF:-1  tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Inferno%20Vermelho.jpg" group-title="ANOS 80",Inferno Vermelho (1988)
+http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/INFRNVRMLH.mp4
+#EXTINF:-1  tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tango%20E%20Cash.jpg" group-title="ANOS 80",Tango e Cash (1989)
+http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/TNGECSH.mp4
+
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/60/14/20417708.jpg" group-title="ANOS 90",Uma Linda Mulher (1990)
 http://livevod.cf/stream/720/c7d9924a2cbdc69264778f5cddf04f21/
 #EXTINF:-1 tvg-logo="http://goo.gl/EUR7HM" group-title="ANOS 90",EDWARD MÃOS DE TESOURA (1991)
