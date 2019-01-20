@@ -1,10 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/images-3.jpg" group-title="LANÇAMENTOS",WiFi Ralph: Quebrando a Internet (2018)
-http://ds01.portalhqs.net/html/content/conteudolb2/filmes2018/RALPHR5-ALTO.mp4?token=st=1546925307~exp=1546946907~acl=/html/*~hmac=e8082ab1449f50f318c0033d89357aa4
+http://lbdf03.portalhqs.net/html/content/conteudolb2/filmes2018/RALPHR5-ALTO.mp4?token=st=1546925307~exp=1546946907~acl=/html/*~hmac=e8082ab1449f50f318c0033d89357aa4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/P%C3%A9Pequeno.jpg" group-title="LANÇAMENTOS",PéPequeno (2018)
 http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/PEPQNO.mp4
 
-
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Amigos%20Alien%C3%ADgenas.jpg" group-title="ÚLTIMOS REDECANAIS",Amigos Alienígenas (2018)
+http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/AMGSALENGNA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3o%20Sharky%20o%20Pequeno%20Pirata.jpg" group-title="ÚLTIMOS REDECANAIS",Capitao Sharky O Pequeno Pirata (2018)
 http://sve.redecanais.download/RedeCanais/RCFServer2/ondemand/CPTSHRKYOPQNPRTA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Leo%20Da%20Vinci%20-%20Miss%C3%A3o%20Mona%20Lisa.jpg" group-title="ÚLTIMOS REDECANAIS",Leo Da Vinci: Missão Mona Lisa (2018)
@@ -120,12 +121,16 @@ http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/101DMLTS1.mp4
 http://sve.redecanais.download/RedeCanais/RCFServer4/ondemand/AESPDERALEI.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/07/03/17/15/146710.jpg" group-title="Disney",MOGLI: O MENINO LOBO (1968)
 http://sve.redecanais.download/RedeCanais/RCFServer4/ondemand/MGLIOMENIOLBO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Aristogatas.jpg" group-title="Disney",Aristogatas (1970)
+http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/ARSTGTS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/94/05/35/20299477.jpg" group-title="Disney",A DAMA E O VAGABUNDO (1975)
 http://sve.redecanais.download/RedeCanais/RCFServer4/ondemand/ADMAEOVAGNDO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/17/03/20/14/01/037368.jpg" group-title="Disney",A PEQUENA SEREIA (1989)
 http://sve.redecanais.download/RedeCanais/RCFServer1/ondemand/APQNSRAFILME01.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/A%20Bela%20e%20a%20Fera%201991.jpg" group-title="Disney",A BELA E A FERA (1991)
 http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/ABELEAFRA1991.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Aladdin.jpg" group-title="Disney",Aladdin (1992)
+http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/ALDN.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Rei%20Le%C3%A3o1.jpg" group-title="Disney",O REI LEÃO (1994)
 http://sve.redecanais.download/RedeCanais/RCFServer1/ondemand/REILAO01.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Pocahontas%20-%20O%20Encontro%20de%20Dois%20Mundos.jpg" group-title="Disney",POCAHONTAS (1995)
@@ -136,10 +141,14 @@ http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/PATEAOFLM.mp4
 http://sve.redecanais.download/RedeCanais/RCFServer1/ondemand/OCRCNDDNTRDM.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/H%C3%A9rcules%201997.jpg" group-title="Disney",HÉRCULES (1997)
 http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/HRCLS1997.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Aladdin%20e%20os%2040%20Ladr%C3%B5es.jpg" group-title="Disney",Aladdin e os 40 Ladrões (1997)
+http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/ALDNEOS40LDRS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Pocahontas%202%20-%20Uma%20Jornada%20para%20o%20Novo%20Mundo.jpg" group-title="Disney",Pocahontas II: Viagem a um Novo Mundo (1998)
 http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/PCOHNTS2UMJRNDPRONVMDO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Mulan1.jpg" group-title="Disney",MULAN (1998)
 http://sve.redecanais.download/RedeCanais/RCFServer1/ondemand/MULAN01.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Natal%20Encantado%20da%20Bela%20e%20a%20Fera.jpg" group-title="Disney",A Bela e A Fera: O Natal Encantado (1998)
+http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/ABLAEAFRONTLENCTDO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Rei%20Le%C3%A3o2.jpg" group-title="Disney",O REI LEÃO 2: O REINO DE SIMBA (1998)
 http://sve.redecanais.download/RedeCanais/RCFServer1/ondemand/REILAO02.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Pequena%20Sereia%20Filme2.jpg" group-title="Disney",A PEQUENA SEREIA II O RETORNO PARA O MAR (2000)
@@ -150,6 +159,8 @@ http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/FNTSIA2000.mp4
 http://sve.redecanais.download/RedeCanais/RCFServer1/ondemand/OCRCNDDNTRDM2.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Mogli%20-%20O%20Menino%20Lobo%202.jpg" group-title="Disney",MOGLI: O MENINO LOBO 2 (2002)
 http://sve.redecanais.download/RedeCanais/RCFServer4/ondemand/MGLIOMENIOLBO2.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Lilo%20e%20Stitch.jpg" group-title="Disney",Lilo & Stitch (2002)
+http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/LILOESTCH.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Cinderella%20II%20-%20Os%20Sonhos%20Se%20Realizam.jpg" group-title="Disney",Cinderela 2: Os Sonhos se Realizam (2002)
 http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/CNDRLAII.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/101%20D%C3%A1lmatas%202%20-%20A%20Aventura%20de%20Patch%20em%20Londres.jpg" group-title="Disney",101 Dálmatas 2: A Aventura de Patch em Londres (2003)
@@ -158,18 +169,28 @@ http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/101DMLTS2.mp4
 http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/PLNTDTSRO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KBe3xc8.jpg" group-title="Disney",Irmão Urso (2003)
 https://goo.gl/7EMD4m
+
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Stitch!%20O%20Filme.jpg" group-title="Disney",Stitch!: O Filme (2004)
+http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/STCHOFLM.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Mulan2.jpg" group-title="Disney",MULAN 2: A LENDA CONTINUA (2004)
 http://sve.redecanais.download/RedeCanais/RCFServer1/ondemand/MULAN02.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Rei%20Le%C3%A3o3.jpg" group-title="Disney",O REI LEÃO 3: HAKUNA MATATA (2004)
 http://sve.redecanais.download/RedeCanais/RCFServer1/ondemand/REILAO03.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Lilo%20e%20Stitch%202%20-%20Stitch%20Deu%20Defeito.jpg" group-title="Disney",Lilo & Stitch 2: Stitch Deu Defeito (2005)
+http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/LILOESTCH2.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bambi%202.jpg" group-title="Disney",Bambi 2: O Grande Príncipe da Floresta (2006)
 http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/BMBI2.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qGCvnC1.jpg" group-title="Disney",Irmão Urso 2 (2006)
 https://goo.gl/GhwQpN
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Leroy%20e%20Stitch.jpg" group-title="Disney",Leroy & Stitch (2006)
+http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/LERYSTCH.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Pequena%20Sereia%20-%20A%20Hist%C3%B3ria%20de%20Ariel.jpg" group-title="Disney",A PEQUENA SEREIA: A HISTÓRIA DE ARIEL (2008)
 http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/APQNSREIAHSTRDARIEL.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Cinderella%20III%20-%20Uma%20Volta%20No%20Tempo.jpg" group-title="Disney",Cinderela 3: Uma Volta no Tempo (2007)
 http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/CNDRLAIII.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Princesa%20e%20o%20Sapo.jpg" group-title="Disney",A Princesa e O Sapo (2009)
+http://sve.redecanais.download/RedeCanais/RCFServer3/ondemand/APRNCSEOSPO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/A%20Guarda%20do%20Le%C3%A3o%20-%20Um%20Novo%20Rugido.jpg" group-title="Disney",A Guarda do Leão: Um Novo Rugido (2016)
 http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/AGRDALEO.mp4
 
@@ -344,7 +365,7 @@ http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/ASAVNTRSDCAPCUC.mp
 
 
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/03/medium-cover.png" group-title="Lego",Uma Aventura Lego (2014)
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/filmes2016/legomovie/TLM14LEG-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/filmes2016/legomovie/TLM14LEG-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Lego%20Ninjago%20-%20O%20Filme.jpg" group-title="Lego",LEGO Ninjago: O Filme (2017)
 http://svd.redecanais.download/RedeCanais/RCFServer4/ondemand/LEGNJGOFLM.mp4
 
@@ -3177,147 +3198,147 @@ http://svd.redecanais.download/RedeCanais/RCServer01/videos/1cce5661.mp4
 
 
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S01E01
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/01-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/01-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S01E02
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/02-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/02-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S01E03
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/03-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/03-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S01E04
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/04-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/04-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S01E05
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S01E06
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/06-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/06-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S01E07
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/07-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/07-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S01E08
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/08-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/08-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S01E09
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/09-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/09-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S01E10
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/10-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/10-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S01E11
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/11-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/11-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S01E12
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/12-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/12-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S01E13
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/13-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/01dub/13-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E01
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/01-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/01-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E02
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/02-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/02-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E03
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/03-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/03-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E04
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/04-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/04-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E05
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E05
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E05
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E05
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E06
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/06-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/06-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E07
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/07-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/07-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E08
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/08-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/08-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E09
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/09-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/09-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E10
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/10-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/10-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E11
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/11-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/11-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E12
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/12-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/12-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S02E13
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/13-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/02dub/13-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E01
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/01-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/01-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E02
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/02-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/02-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E03
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/03-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/03-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E04
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/04-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/04-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E05
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E05
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E05
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E05
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E06
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/06-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/06-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E07
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/07-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/07-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E08
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/08-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/08-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E09
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/09-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/09-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E10
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/10-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/10-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E11
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/11-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/11-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E12
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/12-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/12-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S03E13
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/13-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/03dub/13-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E01
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/01-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/01-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E02
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/02-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/02-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E03
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/03-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/03-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E04
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/04-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/04-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E05
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E05
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E05
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E05
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E06
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/06-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/06-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E07
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/07-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/07-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E08
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/08-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/08-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E09
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/09-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/09-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E10
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/10-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/10-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E11
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/11-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/11-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E12
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/12-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/12-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://sm.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E13
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/13-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/04dub/13-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E01
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/01-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/01-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E02
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/02-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/02-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E03
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/03-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/03-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E04
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/04-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/04-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E05
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/05-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E06
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/06-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/06-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E07
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/07-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/07-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E08
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/08-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/08-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E09
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/09-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/09-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E10
-http://ds01.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/10-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
+http://lbdf03.portalhqs.net/html/content/sobdemanda/netcine-bucket/samuraij/05leg/10-ALTO.mp4?token=st=1547683793~exp=1547705393~acl=/html/*~hmac=5aa1df7621dead6c34238a904f436b77
 
 
 
