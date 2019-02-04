@@ -1,14 +1,12 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Roma.jpg" group-title="OSCAR 2019",Roma Leg (2018)
-http://xe.azureedge.net/RedeCanais/RCFServer2/ondemand/ROMALEG.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Nasce%20Uma%20Estrela.jpg" group-title="OSCAR 2019",Nasce Uma Estrela (2018)
-http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/NSCUMAESTLA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bohemian%20Rhapsody.jpg" group-title="OSCAR 2019",Bohemian Rhapsody Leg (2018)
-http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/BOHMNRHPSODYLEG.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Primeiro%20Homem.jpg" group-title="OSCAR 2019",O Primeiro Homem (2018)
-http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/OPRMRHOME.mp4
-
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Jardim%20das%20Afli%C3%A7%C3%B5es.jpg" group-title="DESTAQUES",O Jardim das Aflições (2017)
+http://xd.azureedge.net/RedeCanais/RCFServer4/ondemand/OJRDMDSAFLC.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Gran%20Torino.jpg" group-title="DESTAQUES",Gran Torino (2009)
+http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/GRNTRNO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20M%C3%A3o%20que%20Balan%C3%A7a%20o%20Ber%C3%A7o.jpg" group-title="DESTAQUES",A Mão que Balança o Berço (1991)
+http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/AMAOQBLCOBRCO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Crimes%20de%20Primeiro%20Grau.jpg" group-title="DESTAQUES",Crimes de Primeiro Grau (2002)
+http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/CRMSEMPRMROGRAU.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Unic%C3%B3rnio.jpg" group-title="DESTAQUES",Unicórnio (2018)
 http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/UNCRNIO.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/5831979.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="DESTAQUES",Era Uma Vez um Deadpool (2019)
@@ -51,11 +49,19 @@ http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/MEGTBRAO.mp4
 http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/MEUJNTCMHRVE.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/p15267808_p_v8_ab.jpg" group-title="DESTAQUES",O CAPITÃO (2018)
 http://lbdf03.portalhqs.net/html/conteudo/delivery/filmes2018/DERHAUPTMANNLEG-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
-
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/11/MV5BMjIxMTMyOTE2NF5BMl5BanBnXkFtZTgwMDYyNzY1NTM@._V1_SY1000_CR006741000_AL_.jpg" group-title="DESTAQUES",PAPILLON LEG (2018)
 http://lbdf03.portalhqs.net/html/content/conteudolb/filmes2018/PAPILLONLEG-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Viking%20-%20Os%20Pergaminhos%20Sagrados.jpg" group-title="DESTAQUES",Viking: Os Pergaminhos Sagrados (2018)
 http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/VKNGOSPRGMNHSGDS.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Roma.jpg" group-title="OSCAR 2019",Roma Leg (2018)
+http://xe.azureedge.net/RedeCanais/RCFServer2/ondemand/ROMALEG.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Nasce%20Uma%20Estrela.jpg" group-title="OSCAR 2019",Nasce Uma Estrela (2018)
+http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/NSCUMAESTLA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bohemian%20Rhapsody.jpg" group-title="OSCAR 2019",Bohemian Rhapsody Leg (2018)
+http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/BOHMNRHPSODYLEG.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Primeiro%20Homem.jpg" group-title="OSCAR 2019",O Primeiro Homem (2018)
+http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/OPRMRHOME.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Homem%20de%20Ferro1.jpg" group-title="Universo Marvel",HOMEM DE FERRO (2008)
 http://xe.azureedge.net/RedeCanais/RCFServer1/ondemand/HMNDEFRO01.mp4
