@@ -1,8 +1,11 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/MV5BMjEzMDY3MDYwMl5BMl5BanBnXkFtZTgwOTY3MDY3NjM@._V1_SY1000_CR006741000_AL_.jpg" group-title="DESTAQUES",Aquaman (2018)
 http://sp07.portalhqs.net/html/content/conteudolb3/filmes2019/AQUAMANDUBLADO-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Gran%20Torino.jpg" group-title="DESTAQUES",Gran Torino (2009)
 http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/GRNTRNO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Mestre.jpg" group-title="DESTAQUES",O Mestre (2007)
+http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/OMSTR.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20M%C3%A3o%20que%20Balan%C3%A7a%20o%20Ber%C3%A7o.jpg" group-title="DESTAQUES",A Mão que Balança o Berço (1991)
 http://xe.azureedge.net/RedeCanais/RCFServer3/ondemand/AMAOQBLCOBRCO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Unic%C3%B3rnio.jpg" group-title="DESTAQUES",Unicórnio (2018)
