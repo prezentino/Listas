@@ -1,7 +1,14 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/MV5BMjEzMDY3MDYwMl5BMl5BanBnXkFtZTgwOTY3MDY3NjM@._V1_SY1000_CR006741000_AL_.jpg" group-title="DESTAQUES",Aquaman (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/11/01/23/39/0758382.jpg" group-title="DESTAQUES",Creed II (2019)
+http://livevod.cf/stream/720/f2836939ee308a714e177164e97fc6f6/
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/11/30/21/49/3142885.jpg" group-title="DESTAQUES",Vidro (2019)
+https://www3762.playercdn.net/87/3/wJljM9bDJ7gHjGh15Ee64Q/1549768894/190202/966FZSTLP6M46N3DPVU9G.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/07/16/18/30/2826074.jpg" group-title="DESTAQUES",Aquaman (2018)
 http://topfilmesapp.arges.feralhosting.com/2018/aquamandvdrip.mp4
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/MV5BMjEzMDY3MDYwMl5BMl5BanBnXkFtZTgwOTY3MDY3NjM@._V1_SY1000_CR006741000_AL_.jpg" group-title="DESTAQUES",Aquaman (2018)
+http://sp02.portalhqs.net/html/content/conteudolb3/filmes2019/AQUAMANDUBLADO-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/MV5BMjEzMDY3MDYwMl5BMl5BanBnXkFtZTgwOTY3MDY3NjM@._V1_SY1000_CR006741000_AL_.jpg" group-title="DESTAQUES",Aquaman Leg (2018)
+http://sp02.portalhqs.net/html/content/conteudolb3/filmes2019/AQUAMANR5-BAIXO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Gran%20Torino.jpg" group-title="DESTAQUES",Gran Torino (2009)
 http://ssvie.azureedge.net/RedeCanais/RCFServer3/ondemand/GRNTRNO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Mestre.jpg" group-title="DESTAQUES",O Mestre (2007)
