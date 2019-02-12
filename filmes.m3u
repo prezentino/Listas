@@ -1267,42 +1267,47 @@ http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/AINCRVLAVNTDRCK.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/No%20Cora%C3%A7%C3%A3o%20do%20Mar.jpg" group-title="AVENTURA",No Coração do Mar (2015)
 http://ssvie.azureedge.net/RedeCanais/RCFServer2/ondemand/NOCRCAODMR.mp4
 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/93/94/10/20287529.jpg" group-title="CLÁSSICOS",O MÁGICO DE OZ (1939)
+http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/OMGCODOZ.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/...E%20o%20Vento%20Levou.jpg" group-title="CLÁSSICOS",...E O VENTO LEVOU (1940)
 http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/EOVNTOLVOU.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Malvada.jpg" group-title="CLÁSSICOS",A MALVALDA (1950)
+http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/AMLVDA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Cantando%20na%20Chuva.jpg" group-title="CLÁSSICOS",CANTANDO NA CHUVA (1952)
+http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/CNTNDNCHVA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Ponte%20do%20Rio%20Kwai.jpg" group-title="CLÁSSICOS",A PONTE DO RIO KWAI (1957)
+http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/APNTDRIOKWAI.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/12%20Homens%20e%20uma%20Senten%C3%A7a.jpg" group-title="CLÁSSICOS",DOZE HOMENS E UMA SENTENÇA (1957)
+http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/12HMNSEUMSTNC.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Psicose.jpg" group-title="CLÁSSICOS",Psicose (1960)
 http://ssvie.azureedge.net/RedeCanais/RCFServer3/ondemand/PSCSE.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Os%20P%C3%A1ssaros.jpg" group-title="CLÁSSICOS",Os Pássaros (1963)
 http://ssvie.azureedge.net/RedeCanais/RCFServer3/ondemand/OSPSRS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Cor%20P%C3%BArpura.jpg" group-title="CLÁSSICOS",A COR PÚRPURA (1985)
-http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/ACORPRPRA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Malvada.jpg" group-title="CLÁSSICOS",A MALVALDA (1950)
-http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/AMLVDA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Ponte%20do%20Rio%20Kwai.jpg" group-title="CLÁSSICOS",A PONTE DO RIO KWAI (1957)
-http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/APNTDRIOKWAI.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Mary%20Poppins.jpg" group-title="CLÁSSICOS",MARY POPPINS (1964)
+http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/MRYPOPNS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Tubar%C3%A3o.jpg" group-title="CLÁSSICOS",TUBARÃO (1975)
+http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/TBRAO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/King%20Kong.jpg" group-title="CLÁSSICOS",KING KONG (1976)
+http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/KNKONG.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Um%20Dia%20de%20C%C3%A3o.jpg" group-title="CLÁSSICOS",Um Dia de Cão (1976)
+http://ssvie.azureedge.net/RedeCanais/RCFServer3/ondemand/UMDIADCAO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Carrie,%20A%20Estranha%201976.jpg" group-title="CLÁSSICOS",CARRIE: A ESTRANHA (1976)
+http://ssvie.azureedge.net/RedeCanais/RCFServer1/ondemand/CRIEAESTNH1976.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/%C3%9Altimo%20Tango%20em%20Paris.jpg" group-title="CLÁSSICOS",ÚLTIMO TANGO EM PARIS (1979)
+http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/ULTMTNGOEMPRS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Duna.jpg" group-title="CLÁSSICOS",DUNA (1984)
+http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/DUNA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Amadeus.jpg" group-title="CLÁSSICOS",AMADEUS (1984)
 http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/AMDEUS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Cantando%20na%20Chuva.jpg" group-title="CLÁSSICOS",CANTANDO NA CHUVA (1952)
-http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/CNTNDNCHVA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Cor%20P%C3%BArpura.jpg" group-title="CLÁSSICOS",A COR PÚRPURA (1985)
+http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/ACORPRPRA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Chaplin.jpg" group-title="CLÁSSICOS",CHAPLIN (1992)
 http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/CPLN.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Cocoon.jpg" group-title="CLÁSSICOS",COCOON (1995)
 http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/COCON.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/12%20Homens%20e%20uma%20Senten%C3%A7a.jpg" group-title="CLÁSSICOS",DOZE HOMENS E UMA SENTENÇA (1957)
-http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/12HMNSEUMSTNC.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Duna.jpg" group-title="CLÁSSICOS",DUNA (1984)
-http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/DUNA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/King%20Kong.jpg" group-title="CLÁSSICOS",KING KONG (1976)
-http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/KNKONG.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Mary%20Poppins.jpg" group-title="CLÁSSICOS",MARY POPPINS (1964)
-http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/MRYPOPNS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/93/94/10/20287529.jpg" group-title="CLÁSSICOS",O MÁGICO DE OZ (1939)
-http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/OMGCODOZ.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Terminal.jpg" group-title="CLÁSSICOS",O TERMINAL (2004)
 http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/OTRMNL.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Tubar%C3%A3o.jpg" group-title="CLÁSSICOS",TUBARÃO (1975)
-http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/TBRAO.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/%C3%9Altimo%20Tango%20em%20Paris.jpg" group-title="CLÁSSICOS",ÚLTIMO TANGO EM PARIS (1979)
-http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/ULTMTNGOEMPRS.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Enquanto%20Voc%C3%AA%20Dormia.jpg" group-title="COMÉDIA ROMÂNTICA",ENQUANTO VOCÊ DORMIA (1995)
 http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/ENQNTVCDRMIA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Quatro%20Casamentos%20E%20Um%20Funeral.jpg" group-title="COMÉDIA ROMÂNTICA",QUATRO CASAMENTOS E UM FUNERAL (1994)
@@ -1436,7 +1441,7 @@ http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tro
 http://archive.org/download/tarjabranca/VTS_01_1_Joined.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/1UHaUE5" group-title="DOCUMENTÁRIO",The naked truth Legendado
 http://archive.org/download/Mcrost01-TheNakedTruthLegendadoPTBR166/Mcrost01-TheNakedTruthLegendadoPTBR166_512kb.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Jardim%20das%20Afli%C3%A7%C3%B5es.jpg" group-title="DOCUMENTÁRIOS",O Jardim das Aflições (2017)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Jardim%20das%20Afli%C3%A7%C3%B5es.jpg" group-title="DOCUMENTÁRIO",O Jardim das Aflições (2017)
 http://ssvid.azureedge.net/RedeCanais/RCFServer4/ondemand/OJRDMDSAFLC.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="DRAMA ROMANCE",A Beira Mar (2016)
@@ -3016,8 +3021,7 @@ https://goo.gl/ktGkae
 https://goo.gl/zpTsGz
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rkYV9j1.jpg" group-title="LETRA C",Carol Dublado
 https://goo.gl/51GtPv
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9lW64UR.jpg" group-title="LETRA C",CARRIE: A ESTRANHA (1976)
-http://ssvie.azureedge.net/RedeCanais/RCFServer1/ondemand/CRIEAESTNH1976.mp4
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/SpcqlGp.jpg" group-title="LETRA C",CARRIE: A ESTRANHA (2013)
 http://ssvie.azureedge.net/RedeCanais/RCFServer1/ondemand/CRIEAESTNH2013.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Zy50Fjz.png" group-title="LETRA C",CARROS (2006)
