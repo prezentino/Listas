@@ -1298,6 +1298,8 @@ http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer05/ondemand/DBZLEGMOVIEB
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0ZtN_-pBSNY/maxresdefault.jpg" group-title="Dragon Ball Z Filmes",Dragon Ball Z: O Renascimento de Freeza (2015)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer1/ondemand/DBZLEGFILME15.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Dragon%20Ball%20GT%20-%20O%20Legado%20de%20um%20Heroi.jpg" group-title="DRAGON BALL GT",Dragon Ball GT: Filme 01 O Legado de um Heroi (1997)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer01/videos/DBGTLEGFILME1.mp4
 #EXTINF:0 tvg-logo="http://i.imgur.com/2BqQzLT.jpg" group-title="DRAGON BALL GT",DRAGON BALL GT EP01
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer01/videos/DBGTEP01.mp4
 #EXTINF:0 tvg-logo="http://i.imgur.com/2BqQzLT.jpg" group-title="DRAGON BALL GT",DRAGON BALL GT EP02
@@ -1426,8 +1428,7 @@ http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer01/videos/DBGTEP62.mp4
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer01/videos/DBGTEP63.mp4
 #EXTINF:0 tvg-logo="http://i.imgur.com/2BqQzLT.jpg" group-title="DRAGON BALL GT",DRAGON BALL GT EP64
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer01/videos/DBGTEP64.mp4
-#EXTINF:-1 tvg-logo="" group-title="Dragon Ball Z Filmes",Dragon Ball GT: Filme 01 O Legado de um Heroi (1997)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer01/videos/DBGTLEGFILME1.mp4
+
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/vQVu6HW.jpg" group-title="DRAGON BALL KAI",DRAGON BALL KAI EP001
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCServer02/ondemand/DBKAIEP001.mp4
@@ -1626,8 +1627,8 @@ http://d19zi908weod19.cloudfront.net/RedeCanais/RCServer02/ondemand/DBKAIEP097.m
 #EXTINF:0 tvg-logo="http://i.imgur.com/vQVu6HW.jpg" group-title="DRAGON BALL KAI",DRAGON BALL KAI EP098
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCServer02/ondemand/DBKAIEP098.mp4
 
-
-
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Dragon%20Ball%20Super%20-%20Broly.jpg" group-title="DRAGON BALL SUPER",Dragon Ball Super: Broly Legendado (2019)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/DBSPRBRLYLEG.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super1.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER EP001
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCServer09/ondemand/DBSPREP001.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super1.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER EP002
@@ -1866,18 +1867,18 @@ http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer06/ondemand/DBSPREP117.m
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer06/ondemand/DBSPREP118.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER EP119
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer06/ondemand/DBSPREP119.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER (LEG) EP120
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer13/ondemand/DBSPRLEGEP120.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER (LEG) EP121
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer13/ondemand/DBSPRLEGEP121.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER (LEG) EP122
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer13/ondemand/DBSPRLEGEP122.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER (LEG) EP123
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer13/ondemand/DBSPRLEGEP123.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER (LEG) EP124
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer13/ondemand/DBSPRLEGEP124.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER (LEG) EP125
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer13/ondemand/DBSPRLEGEP125.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER EP120
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer06/ondemand/DBSPREP120.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER EP121
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer06/ondemand/DBSPREP121.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER EP122
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer06/ondemand/DBSPREP122.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER EP123
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer06/ondemand/DBSPREP123.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER EP124
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer06/ondemand/DBSPREP124.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER EP125
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer06/ondemand/DBSPREP125.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER (LEG) EP126
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer13/ondemand/DBSPRLEGEP126.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Dragon%20Ball%20Super5.jpg" group-title="DRAGON BALL SUPER",DRAGON BALL SUPER (LEG) EP127
