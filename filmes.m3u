@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/02/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SY1000_CR006741000_AL_.jpg" group-title="DESTAQUES",Homem-Aranha: No Aranhaverso (2019)
+http://eu6.portalhqs.net/html/content/conteudolb3/filmes2019/HOMEMARANHANOVOR5-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Animais%20Fant%C3%A1sticos%20-%20Os%20Crimes%20de%20Grindelwald.jpg" group-title="DESTAQUES",Animais Fantásticos: Os Crimes de Grindelwald (2018)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/ANMSFNTSTCOSCRMSDGRLWRD.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Era%20uma%20Vez%20um%20Deadpool.jpg" group-title="DESTAQUES",Era Uma Vez um Deadpool (2019)
@@ -709,58 +711,60 @@ http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/RCKY1.mp4
 
 
 
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3cs3LBS.jpg" group-title="STAR TREK",ALÉM DA ESCURIDÃO: STAR TREK (2013)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK12.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MaePFGN.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS II: A IRA DE KHAN (1982)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jornada%20nas%20Estrelas%20-%20O%20Filme.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS: O FILME (1980)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK01.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jornada%20nas%20Estrelas%20II%20-%20A%20Ira%20de%20Khan.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS II: A IRA DE KHAN (1982)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK02.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/81HxJLy.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS III: À PROCURA DE SPOCK (1984)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jornada%20nas%20Estrelas%20III%20-%20%C3%80%20Procura%20de%20Spock.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS III: À PROCURA DE SPOCK (1984)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK03.mp4
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_ZyBGdXZ4e5A/TOq1G7drEuI/AAAAAAAAUrM/1rfdK9WP0rQ/s1600/4.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS IV: A VOLTA PARA CASA (1987)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jornada%20nas%20Estrelas%20IV%20-%20A%20Volta%20para%20Casa.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS IV: A VOLTA PARA CASA (1987)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK04.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GGfkmc0.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS V: A FRONTEIRA FINAL (1989)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jornada%20nas%20Estrelas%20V%20-%20A%20Fronteira%20Final.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS V: A FRONTEIRA FINAL (1989)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK05.mp4
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-YEonDCfv04o/VWeSG2PVPJI/AAAAAAAAJxA/IoPxoZfU2DU/s1600/star%2Btrek%2Bvi.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS VI: A TERRA DESCONHECIDA (1991)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jornada%20nas%20Estrelas%20VI%20-%20A%20Terra%20Desconhecida.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS VI: A TERRA DESCONHECIDA (1991)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK06.mp4
 #EXTINF:-1 tvg-logo="http://www.cafecomfilme.com.br/media/k2/items/cache/f3dd59a2cb6c4d08f016cde5495f86d5_XL.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS: GENERATIONS (1994)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK07.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1560/mtHDzKRweEKVjCWg6Ks8jAo0rA1.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS: INSURREIÇÃO (1998)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK09.mp4
-#EXTINF:-1 tvg-logo="http://www.oreidofaroeste.com.br/imagens/capa_5911.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS: NEMESIS (2002)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK10.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/gH9WLRw.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS: O FILME (1980)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK01.mp4
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/QHyFxKd-RLc/hqdefault.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS: PRIMEIRO CONTATO (1997)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jornada%20nas%20Estrelas%20-%20Primeiro%20Contato.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS: PRIMEIRO CONTATO (1997)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK08.mp4
-#EXTINF:-1 tvg-logo="http://i0.wp.com/www.startrektrekie.com/startrek/Posters/images/Star-Trek-2009-Movie-Poster.jpg" group-title="STAR TREK",STAR TREK (2009)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jornada%20Nas%20Estrelas%20-%20Insurrei%C3%A7%C3%A3o.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS: INSURREIÇÃO (1998)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK09.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jornada%20nas%20Estrelas%20-%20N%C3%AAmesis.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS: NEMESIS (2002)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK10.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Trek.jpg" group-title="STAR TREK",STAR TREK (2009)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK11.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eilQ1Z2.jpg" group-title="STAR TREK",STAR TREK: SEM FRONTEIRAS (2016)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Al%C3%A9m%20da%20Escurid%C3%A3o%20-%20Star%20Trek.jpg" group-title="STAR TREK",STAR TREK: ALÉM DA ESCURIDÃO (2013)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK12.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Trek%20-%20Sem%20Fronteiras.jpg" group-title="STAR TREK",STAR TREK: SEM FRONTEIRAS (2016)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/STRTRK13.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/REDCUP_CHARACTER_BANNERS__1_BRAZIL.jpg" group-title="STAR WARS",HAN SOLO: UMA HISTÓRIA STAR WARS (2018)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/HANSLOUHSTSTRWRS.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SY1000_CR006751000_AL_.jpg"  group-title="STAR WARS",STAR WARS VIII: OS ÚLTIMOS JEDI (2017)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer4/ondemand/STRWRSOSULTMSJD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BXau8IR.jpg" group-title="STAR WARS",STAR WARS: EPISÓDIO I: A AMEAÇA FANTASMA (1999)
+
+
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars1.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO I: A AMEAÇA FANTASMA (1999)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/STRWRSI.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cO8Gcpc.jpg" group-title="STAR WARS",STAR WARS: EPISÓDIO II: ATAQUE DOS CLONES (2002)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars2.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO II: ATAQUE DOS CLONES (2002)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/STRWRSII.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JsQMk7W.jpg" group-title="STAR WARS",STAR WARS: EPISÓDIO III: A VINGANÇA DOS SITH (2005)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars3.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO III: A VINGANÇA DOS SITH (2005)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/STRWRSIII.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lDPHBTB.jpg" group-title="STAR WARS",STAR WARS: EPISÓDIO IV: UMA NOVA ESPERANÇA (1978)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars4.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO IV: UMA NOVA ESPERANÇA (1978)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/STRWRSIV.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jlHfl60.jpg" group-title="STAR WARS",STAR WARS: EPISÓDIO V: O IMPÉRIO CONTRA-ATACA (1980)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars5.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO V: O IMPÉRIO CONTRA-ATACA (1980)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/STRWRSV.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bh2pzCF.jpg" group-title="STAR WARS",STAR WARS: EPISÓDIO VI: O RETORNO DE JEDI (1983)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars6.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO VI: O RETORNO DE JEDI (1983)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/STRWRSVI.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/10/18/18/39/408904.jpg" group-title="STAR WARS",STAR WARS: EPISÓDIO VII: O DESPERTAR DA FORÇA (2015)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20-%20O%20Despertar%20da%20For%C3%A7a.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO VII: O DESPERTAR DA FORÇA (2015)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/STRWRSVII.mp4
-#EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/03/images-2.jpg" group-title="STAR WARS",STAR WARS: ROGUE ONE
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Rogue%20One%20-%20Uma%20Hist%C3%B3ria%20Star%20Wars.jpg" group-title="STAR WARS",STAR WARS: ROGUE ONE (2016)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/RGONUHSTRWRS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20Os%20%C3%9Altimos%20Jedi.jpg"  group-title="STAR WARS",STAR WARS EPISÓDIO VIII: OS ÚLTIMOS JEDI (2017)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer4/ondemand/STRWRSOSULTMSJD.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Han%20Solo%20-%20Uma%20Hist%C3%B3ria%20Star%20Wars.jpg" group-title="STAR WARS",HAN SOLO: UMA HISTÓRIA STAR WARS (2018)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/HANSLOUHSTSTRWRS.mp4
 
-
-
-
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Corpo%20Fechado.jpg" group-title="Shyamalan",Corpo Fechado (2000)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/CRPFCHDO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Fragmentado.jpg" group-title="Shyamalan",FRAGMENTADO (2017)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/FRGMTDO.mp4
 
 
 
@@ -1683,6 +1687,8 @@ http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/INSTOSLVGM.m
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/ESQCRMDMIM2.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Filad%C3%A9lfia.jpg" group-title="ANOS 90",Filadélfia (1994) 
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/FLDLFIA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Forrest%20Gump%20-%20O%20Contador%20de%20Hist%C3%B3rias.jpg" group-title="ANOS 90",FORREST GUMP: O CONTADOR DE HISTÓRIAS (1994)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/FORSTGRMPOCNTADRDHSTRIA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Mortal%20Kombat%20-%20O%20Filme.jpg" group-title="ANOS 90",Mortal Kombat: O FIlme (1995)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/MRTLKMBTOLFM.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Street%20Fighter%20-%20A%20%C3%9Altima%20Batalha.jpg" group-title="ANOS 90",Street Fighter: A Última Batalha (1995)
@@ -3838,16 +3844,14 @@ http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/FRCAMIOR.mp4
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/FRCPRVIV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DyujxLX.jpg" group-title="LETRA F",Formiguinhaz 
 https://goo.gl/uXHeQB
-#EXTINF:-1 tvg-logo="" group-title="LETRA F",FORREST GUMP: O CONTADOR DE HISTÓRIAS (1994)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer4/ondemand/FORSTGRMPOCNTADRDHSTRIA.mp4
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZHhnc54.jpg" group-title="LETRA F",Foxcatcher
 https://goo.gl/pPuZqk
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1jh8oc8.jpg" group-title="LETRA F",FOXCATCHER: UMA HISTÓRIA QUE CHOCOU O MUNDO (2015)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/FXCTHRUHQCOM.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nfvPmi9.jpg" group-title="LETRA F",Fragmentado 
 https://goo.gl/C6RWwn
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Fragmentado.jpg" group-title="LETRA F",FRAGMENTADO (2017)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/FRGMTDO.mp4
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JdjqA4d.jpg" group-title="LETRA F",Frank
 https://goo.gl/bgtDtv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yZPcIQk.jpg" group-title="LETRA F",Frank & Lola
