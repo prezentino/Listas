@@ -1,5 +1,3 @@
-###Desenhos
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Grinch.jpg" group-title="LANÇAMENTOS",O Grinch (2018)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/OGRNCH.mp4
@@ -3328,25 +3326,27 @@ http://bx6.portalhqs.net/html/content/sobdemanda26/netcine-bucket/samuraij/04dub
 http://bx6.portalhqs.net/html/content/sobdemanda26/netcine-bucket/samuraij/04dub/12-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
 #EXTINF:-1 tvg-logo="http://bx.ign.com/ign_br/screenshot/default/36190303uan-samuraijack-1449189177030-1280w-bedy_3w2t.jpg" group-title="Samurai Jack",Samurai Jack S04E13
 http://bx6.portalhqs.net/html/content/sobdemanda26/netcine-bucket/samuraij/04dub/13-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
-#EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E01
+
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/04/image003-1.jpg" group-title="Samurai Jack",Samurai Jack S05E01
+http://bx6.portalhqs.net/html/content/sobdemanda26/netcine-bucket/samuraij/05leg/01-ALTO.mp4?token=st=1552188704~exp=1552210304~acl=/html/*~hmac=4c6e3a7a3e80dd324a7f1abb94fb9dc6
 http://bx6.portalhqs.net/html/content/sobdemanda26/netcine-bucket/samuraij/05leg/01-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
-#EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E02
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/04/image003-1.jpg" group-title="Samurai Jack",Samurai Jack S05E02
 http://bx6.portalhqs.net/html/content/sobdemanda26/netcine-bucket/samuraij/05leg/02-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
-#EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E03
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/04/image003-1.jpg" group-title="Samurai Jack",Samurai Jack S05E03
 http://bx6.portalhqs.net/html/content/sobdemanda26/netcine-bucket/samuraij/05leg/03-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
-#EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E04
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/04/image003-1.jpg" group-title="Samurai Jack",Samurai Jack S05E04
 http://bx6.portalhqs.net/html/content/sobdemanda26/netcine-bucket/samuraij/05leg/04-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
-#EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E05
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/04/image003-1.jpg" group-title="Samurai Jack",Samurai Jack S05E05
 http://bx6.portalhqs.net/html/content/sobdemanda26/netcine-bucket/samuraij/05leg/05-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
-#EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E06
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/04/image003-1.jpg" group-title="Samurai Jack",Samurai Jack S05E06
 http://bx6.portalhqs.net/html/content/sobdemanda26/netcine-bucket/samuraij/05leg/06-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
-#EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E07
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/04/image003-1.jpg" group-title="Samurai Jack",Samurai Jack S05E07
 http://bx6.portalhqs.net/html/content/sobdemanda26/netcine-bucket/samuraij/05leg/07-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
-#EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E08
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/04/image003-1.jpg" group-title="Samurai Jack",Samurai Jack S05E08
 http://bx6.portalhqs.net/html/content/sobdemanda26/netcine-bucket/samuraij/05leg/08-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
-#EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E09
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/04/image003-1.jpg" group-title="Samurai Jack",Samurai Jack S05E09
 http://bx6.portalhqs.net/html/content/sobdemanda26/netcine-bucket/samuraij/05leg/09-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
-#EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/01/23/samuraijack_fbsearchTn.jpg" group-title="Samurai Jack",Samurai Jack S05E10
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/04/image003-1.jpg" group-title="Samurai Jack",Samurai Jack S05E10
 http://bx6.portalhqs.net/html/content/sobdemanda26/netcine-bucket/samuraij/05leg/10-ALTO.mp4?token=st=1548904375~exp=1548925975~acl=/html/*~hmac=c8a1c19b8306ec2a3b63f006fe2a55c5
 
 
