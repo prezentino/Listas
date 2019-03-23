@@ -1,94 +1,111 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Encantado.jpg" group-title="ÚLTIMOS REDECANAIS",Encantado (2018)
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/90/70/20028698.jpg" group-title="ÚLTIMOS ADICIONADOS",A Lenda dos Guardiões (2010)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/ALNDADSGRDOES.mp4
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/03/Zombillenium.jpg" group-title="ÚLTIMOS ADICIONADOS",Zumbilênio: O Parque dos Monstros (2017)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/ZMBLNIOPRQDSMNSTRS.mp4
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/images-3.jpg" group-title="LANÇAMENTOS",WiFi Ralph: Quebrando a Internet (2018)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/WIFIRLPHQBRNDOAINTNET.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Encantado.jpg" group-title="ÚLTIMOS ADICIONADOS",Encantado (2018)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/ENCTDO.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Amigos%20Alien%C3%ADgenas.jpg" group-title="ÚLTIMOS REDECANAIS",Amigos Alienígenas (2018)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Grinch.jpg" group-title="LANÇAMENTOS",O Grinch (2018)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/OGRNCH.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Amigos%20Alien%C3%ADgenas.jpg" group-title="ÚLTIMOS ADICIONADOS",Amigos Alienígenas (2018)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/AMGSALENGNA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3o%20Sharky%20o%20Pequeno%20Pirata.jpg" group-title="ÚLTIMOS REDECANAIS",Capitao Sharky O Pequeno Pirata (2018)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/CPTSHRKYOPQNPRTA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Leo%20Da%20Vinci%20-%20Miss%C3%A3o%20Mona%20Lisa.jpg" group-title="ÚLTIMOS REDECANAIS",Leo Da Vinci: Missão Mona Lisa (2018)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/LEODVNCMSNMNLSA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Resgate%20da%20Princesa.jpg" group-title="ÚLTIMOS REDECANAIS",O Resgate da Princesa (2018)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/ORSGTEDPRNCSA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Fuga%20do%20Planeta%20Terra.jpg" group-title="ÚLTIMOS REDECANAIS",A Fuga do Planeta Terra (2013)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/AFGADPLNTRA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Como%20Salvar%20o%20Papai%20Noel.jpg" group-title="ÚLTIMOS REDECANAIS",Como Salvar o Papai Noel (2013)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/CMSLVOPANEL.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Ca%C3%A7adores%20de%20Drag%C3%B5es.jpg" group-title="ÚLTIMOS REDECANAIS",Caçadores de Dragões (2008)
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/12/MV5BZTFlOTBkMGUtNWUwNy00OWEwLWJmNjctNWIyZDA4NjNmOWFlXkEyXkFqcGdeQXVyNjkxOTM4ODY@._V1_.jpg" group-title="ÚLTIMOS ADICIONADOS",O Natal de Ângela (2017)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/ONTLDANGLA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Ca%C3%A7adores%20de%20Drag%C3%B5es.jpg" group-title="ÚLTIMOS ADICIONADOS",Caçadores de Dragões (2008)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/CACDRSDRGS.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Peter%20Pan%20-%20A%20Procura%20do%20Livro%20do%20Nunca.jpg" group-title="ÚLTIMOS REDECANAIS",Peter Pan: A Procura do Livro do Nunca (2018)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Fuga%20do%20Planeta%20Terra.jpg" group-title="ÚLTIMOS ADICIONADOS",A Fuga do Planeta Terra (2013)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/AFGADPLNTRA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3o%20Sharky%20o%20Pequeno%20Pirata.jpg" group-title="ÚLTIMOS ADICIONADOS",Capitao Sharky O Pequeno Pirata (2018)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/CPTSHRKYOPQNPRTA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Leo%20Da%20Vinci%20-%20Miss%C3%A3o%20Mona%20Lisa.jpg" group-title="ÚLTIMOS ADICIONADOS",Leo Da Vinci: Missão Mona Lisa (2018)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/LEODVNCMSNMNLSA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/P%C3%A9Pequeno.jpg" group-title="ÚLTIMOS ADICIONADOS",PéPequeno (2018)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/PEPQNO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Resgate%20da%20Princesa.jpg" group-title="ÚLTIMOS ADICIONADOS",O Resgate da Princesa (2018)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/ORSGTEDPRNCSA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Como%20Salvar%20o%20Papai%20Noel.jpg" group-title="ÚLTIMOS ADICIONADOS",Como Salvar o Papai Noel (2013)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/CMSLVOPANEL.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Peter%20Pan%20-%20A%20Procura%20do%20Livro%20do%20Nunca.jpg" group-title="ÚLTIMOS ADICIONADOS",Peter Pan: A Procura do Livro do Nunca (2018)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/PTRPNAPRCDLVRDNCA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Miss%C3%A3o%20Catmandu%20-%20As%20Aventuras%20de%20Nelly%20e%20Simon.jpg" group-title="ÚLTIMOS REDECANAIS",Missão Catmandu: As Aventuras de Nelly e Simon (2018)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Miss%C3%A3o%20Catmandu%20-%20As%20Aventuras%20de%20Nelly%20e%20Simon.jpg" group-title="ÚLTIMOS ADICIONADOS",Missão Catmandu: As Aventuras de Nelly e Simon (2018)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/MSAOCTMNDASAVNTRSNLYESMON.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Wheely%20-%20Velozes%20e%20Divertidos.jpg" group-title="ÚLTIMOS REDECANAIS",Wheely: Velozes e Divertidos (2018)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Wheely%20-%20Velozes%20e%20Divertidos.jpg" group-title="ÚLTIMOS ADICIONADOS",Wheely: Velozes e Divertidos (2018)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/WHLYVLZEDVTDS.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Revolting%20Rhymes.jpg" group-title="ÚLTIMOS REDECANAIS",REVOLTING RHYMES LEG (2017)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Revolting%20Rhymes.jpg" group-title="ÚLTIMOS ADICIONADOS",REVOLTING RHYMES LEG (2017)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/RVLTNGRYMSLEG.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/26/13/42/2533608.jpg" group-title="ÚLTIMOS REDECANAIS",PEIXONAUTA: O FILME (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/26/13/42/2533608.jpg" group-title="ÚLTIMOS ADICIONADOS",PEIXONAUTA: O FILME (2018)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/PEXNTAOFLM.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/06/21/13/51/3779846.jpg" group-title="ÚLTIMOS REDECANAIS",ILHA DOS CACHORROS (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/06/21/13/51/3779846.jpg" group-title="ÚLTIMOS ADICIONADOS",ILHA DOS CACHORROS (2018)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/ILHSDSCHRRS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/05/18/14/03/158881.jpg" group-title="ÚLTIMOS REDECANAIS",PATO PATO GANSO (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/05/18/14/03/158881.jpg" group-title="ÚLTIMOS ADICIONADOS",PATO PATO GANSO (2018)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/PATPATGNSO.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/18/01/15/17/16/4428764.png" group-title="ÚLTIMOS REDECANAIS",O HOMEM DAS CAVERNAS (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/18/01/15/17/16/4428764.png" group-title="ÚLTIMOS ADICIONADOS",O HOMEM DAS CAVERNAS (2018)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/OHMNDSCVNS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/01/31/18/16/4897669.jpg" group-title="ÚLTIMOS REDECANAIS",GNOMEU E JULIETA (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/01/31/18/16/4897669.jpg" group-title="ÚLTIMOS ADICIONADOS",GNOMEU E JULIETA (2018)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/SHRLCKGNMSEOMSTRODJRDM.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/04/25/15/04/460419.jpg" group-title="ÚLTIMOS REDECANAIS",AS AVENTURAS DE OZZY (2017)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/04/25/15/04/460419.jpg" group-title="ÚLTIMOS ADICIONADOS",AS AVENTURAS DE OZZY (2017)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/ASAVNTRSDOZY.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/11/06/20/22/0021404.jpg" group-title="ÚLTIMOS REDECANAIS",DUDA E OS GNOMOS (2018)	
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/11/06/20/22/0021404.jpg" group-title="ÚLTIMOS ADICIONADOS",DUDA E OS GNOMOS (2018)	
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/DUDEOSGNMS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/12/11/15/27/039582.jpg" group-title="ÚLTIMOS REDECANAIS",MINÚSCULOS: O FILME (2015)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/12/11/15/27/039582.jpg" group-title="ÚLTIMOS ADICIONADOS",MINÚSCULOS: O FILME (2015)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/MINSCLSOFLM.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/08/28/09/57/574900.jpg" group-title="ÚLTIMOS REDECANAIS",A ESTRELA DE BELÉM (2017)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/AESTRLDBLM.mp4
-#EXTINF:-1 tvg-logo="http://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2017/07/my_little_pony_the_movie-800x535.jpg" group-title="ÚLTIMOS REDECANAIS",MY LITTLE PONEY (2017)
+
+#EXTINF:-1 tvg-logo="http://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2017/07/my_little_pony_the_movie-800x535.jpg" group-title="ÚLTIMOS ADICIONADOS",MY LITTLE PONEY (2017)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/MYLTLEPNYOFLM.mp4
-#EXTINF:-1 tvg-logo="http://occ-0-2433-1001.1.nflxso.net/art/efa47/9be9bda8e026c6ff062e7805c6869a1d287efa47.jpg" group-title="ÚLTIMOS REDECANAIS",NATAL COM OS STORYBOTS (2017)
+#EXTINF:-1 tvg-logo="http://occ-0-2433-1001.1.nflxso.net/art/efa47/9be9bda8e026c6ff062e7805c6869a1d287efa47.jpg" group-title="ÚLTIMOS ADICIONADOS",NATAL COM OS STORYBOTS (2017)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/NATLCMSTRBTS.mp4
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LUC_tBjHy74/maxresdefault.jpg" group-title="ÚLTIMOS REDECANAIS",MONSTER ISLAND (2017)
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LUC_tBjHy74/maxresdefault.jpg" group-title="ÚLTIMOS ADICIONADOS",MONSTER ISLAND (2017)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/MONSTRISLND.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Dora%20A%20Aventureira%20-%20Party%20Super%20Divertida!.jpg" group-title="ÚLTIMOS REDECANAIS",Dora A Aventureira: Party Super Divertida! (2018)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Dora%20A%20Aventureira%20-%20Party%20Super%20Divertida!.jpg" group-title="ÚLTIMOS ADICIONADOS",Dora A Aventureira: Party Super Divertida! (2018)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/DORAVNTRPRTSPRDVRTDA.mp4
-
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Looney%20Tunes%20-%20De%20Volta%20%C3%A0%20A%C3%A7%C3%A3o.jpg" group-title="ANIMAÇÃO E LIVE ACTION",Looney Tunes: De Volta à Ação (2002)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/LONEYTNSDVLTACO.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/54/50/20205559.jpg" group-title="ANIMAÇÃO E LIVE ACTION",COMO CÃES E GATOS (2001)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/CMCSEGTS.mp4
-#EXTINF:-1 tvg-logo="http://stmed.net/sites/default/files/cats-%26-dogs%3A-the-revenge-of-kitty-galore-wallpapers-29449-5244789.jpg" group-title="ANIMAÇÃO E LIVE ACTION",COMO CÃES E GATOS 2 (2010)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/CMCSEGTS2.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster-10.jpg" group-title="ANIMAÇÃO E LIVE ACTION",AS AVENTURAS DE PADDINGTON (2014)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/ASAVNTRDPNGTN.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster-11.jpg" group-title="ANIMAÇÃO E LIVE ACTION",PADDINGTON 2 (2018)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/PDNGTN2.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_75_106/pictures/17/08/25/19/04/419991.jpg" group-title="ANIMAÇÃO E LIVE ACTION",PICA-PAU: O FILME (2018)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/PICPAU.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Meu%20Malvado%20Favorito%203.jpg" group-title="Ilumination",MEU MALVADO FAVORITO 3 (2017)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV3.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Sing%20-%20Quem%20Canta%20Seus%20Males%20Espanta.jpg" group-title="Ilumination",SING: QUEM CANTA SEUS MALES ESPANTA (2017)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer3/ondemand/SNGQCSME.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Pets%20-%20A%20Vida%20Secreta%20dos%20Bichos.jpg" group-title="Ilumination",Pets: A Vida Secreta dos Bichos (2016)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/PETSAVSCDBS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Minions.jpg" group-title="Ilumination",MINIONS (2015)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/MINIONS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Meu%20Malvado%20Favorito%202.jpg" group-title="Ilumination",MEU MALVADO FAVORITO 2 (2013)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV2.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Meu%20Malvado%20Favorito.jpg" group-title="Ilumination",MEU MALVADO FAVORITO (2010)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV1.mp4
-
-
-#EXTINF:-1 tvg-logo="http://goo.gl/oCmZrd" group-title="LEGO SCOOBY-DOO",SCOOBY-DOO! E O COMBATE DO SALSICHA (2017)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer09/ondemand/SCBDFLM28.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/yLiNdZ" group-title="LEGO SCOOBY-DOO",LEGO SCOOBY-DOO! O GOLPE DA PRAIA (2017)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer09/ondemand/SCBDFLM29.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/%C3%89%20Natal%20De%20Novo%20Charlie%20Brown.jpg" group-title="ÚLTIMOS ADICIONADOS",É Natal De Novo Charlie Brown (1992) - Snoopy
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/ENTLDNVCRLBRWN.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Jos%C3%A9%20-%20O%20Rei%20dos%20Sonhos.jpg" group-title="ÚLTIMOS ADICIONADOS",JOSÉ: O REI DOS SONHOS (2000)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/JOSORIDSNHS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/A%20Fuga%20das%20Galinhas.jpg" group-title="ÚLTIMOS ADICIONADOS",A FUGA DAS GALINHAS (2000)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/AFGADSGLHNS.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/80/04/19961677.jpg" group-title="ÚLTIMOS ADICIONADOS",O GALINHO CHICKEN LITTLE (2005)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer4/ondemand/OGLNHCHKNLT.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Deu%20a%20Louca%20na%20Chapeuzinho.jpg" group-title="ÚLTIMOS ADICIONADOS",Deu a Louca na Chapeuzinho (2005)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/DEUALCNCHPUZNH1.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/SSVf6E" group-title="ÚLTIMOS ADICIONADOS",A NOIVA CADÁVER (2005)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/ANOIVCDVER.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-KUpMwH81COg/WG7tXnT9KyI/AAAAAAAABO4/fccQrVt7-9gTbYgPmbK6uCF1Q6auFch9gCLcB/s1600/9ASALVACAO.jpg" group-title="ÚLTIMOS ADICIONADOS",9 A SALVAÇÃO (2006)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/ASLVCAO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bolt%20-%20Superc%C3%A3o.jpg" group-title="ÚLTIMOS ADICIONADOS",BOLT: SUPERCÃO (2009)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/BLTSPRCAO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Deu%20a%20Louca%20na%20Chapeuzinho%202.jpg" group-title="ÚLTIMOS ADICIONADOS",Deu a Louca na Chapeuzinho 2 (2011)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/DEUALCNCHPUZNH2.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bolt%20e%20Blip%20-%20Dois%20Rob%C3%B4s%20Pirados.jpg" group-title="ÚLTIMOS ADICIONADOS",Bolt & Blip: Dois Robôs Pirados (2012)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/BLTEBLPDOSRBSPRDS.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JsSYV5m5vOg/VQkT3bksd4I/AAAAAAAAVhc/1RvmQ5FhNBQ/s1600/irmaos-urso-a-viagem-de-volta-para-casa-filmesonline10.jpg" group-title="ÚLTIMOS ADICIONADOS",Irmãos Urso: A Viagem de Volta Para Casa (2013)
+https://goo.gl/an2i95
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Festa%20no%20C%C3%A9u.jpg" group-title="ÚLTIMOS ADICIONADOS",FESTA NO CÉU (2014)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/FSTNOCEU.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ecrYWzV.jpg" group-title="ÚLTIMOS ADICIONADOS",O QUE SERÁ DE NOZES? (2014)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/OQUSRDNZS.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cfTMr9" group-title="ÚLTIMOS ADICIONADOS",O PEQUENO PRÍNCIPE (2015)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/OPQNPRNCP.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/16/11/10/18/59/152563.jpg" group-title="ÚLTIMOS ADICIONADOS",Masha e o Urso (2016)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer4/ondemand/MSHEOURSOFLM.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/k9Vqns" group-title="ÚLTIMOS ADICIONADOS",A BAILARINA (2016)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/ABLRN.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/upxOtgk.jpg" group-title="ÚLTIMOS ADICIONADOS",Cegonhas: A História que Não te Contaram (2016)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Kubo%20e%20as%20Cordas%20M%C3%A1gicas.jpg" group-title="ÚLTIMOS ADICIONADOS",Kubo e As Cordas Mágicas (2016)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer4/ondemand/KUBEASCRDSMGCS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Aventuras%20de%20Robinson%20Cruso%C3%A9.jpg" group-title="ÚLTIMOS ADICIONADOS",As Aventuras de Robinson Crusoé (2016)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/ASAVNTRSDRBNSCRSOE.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/06/23/19/41/320742.jpg" group-title="ÚLTIMOS ADICIONADOS",CONDORITO: O FILME (2017)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/CONDRTOFLM.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/03/05/19/05/058446.jpg" group-title="Disney",BRANCA DE NEVE E OS SETE ANÕES (1938)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/BRANCDNCEOSTSANOES.mp4
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/BRNCDNVEOSTSANS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Fantasia%201940.jpg" group-title="Disney",FANTASIA (1940)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/FNTSIA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Pin%C3%B3quio.jpg" group-title="Disney",PINÓQUIO (1940)
@@ -190,30 +207,13 @@ http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/APRNCSEOSPO.
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/A%20Guarda%20do%20Le%C3%A3o%20-%20Um%20Novo%20Rugido.jpg" group-title="Disney",A Guarda do Leão: Um Novo Rugido (2016)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/AGRDALEO.mp4
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20o%20Monstro%20da%20Terra%20do%20Nunca.jpg" group-title="Tinker Bell",Tinker Bell e o Monstro da Terra do Nunca (2015)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTREOMNSTRDTRADNCA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20-%20Fadas%20E%20Piratas.jpg" group-title="Tinker Bell",Tinker Bell: Fadas e Piratas (2014)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/TNKRBLLFDSEPRTS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20-%20O%20Segredo%20das%20Fadas.jpg" group-title="Tinker Bell",Tinker Bell: O Segredo das Fadas (2012)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTROSGRDSFDS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20O%20Resgate%20das%20Fadas.jpg" group-title="Tinker Bell",Tinker Bell e o Resgate da Fada (2010)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTREORSGTDFDA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20o%20Tesouro%20Perdido.jpg" group-title="Tinker Bell",Tinker Bell e o Tesouro Perdido (2009)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTREOTSRPRDO.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20Uma%20Aventura%20No%20Mundo%20das%20Fadas.jpg" group-title="Tinker Bell",Tinker Bell: Uma Aventura no Mundo das Fadas (2008)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTRNMNDSFDS.mp4
-
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Toy%20Story1.jpg" group-title="Pixar",TOY STORY: UM MUNDO DE AVENTURAS (1995)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/TYSTRY1.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Vida%20de%20Inseto.jpg" group-title="Pixar",Vida de Inseto (Dublado)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/VDADISNTO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Toy%20Story2.jpg" group-title="Pixar",TOY STORY 2 (1999)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/TYSTRY2.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Monstros%20S.A..jpg" group-title="Pixar",MONSTROS S A (2001)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Monstros%20S.A..jpg" group-title="Pixar",MONSTROS S. A. (2001)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/MNSTRSA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Procurando%20Nemo.jpg" group-title="Pixar",PROCURANDO NEMO (2003)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/PRCRNDONEM.mp4
@@ -233,15 +233,15 @@ http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/CARROS2.mp4
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/UNIMNSTRS.mp4
 #EXTINF:-1 tvg-logo="http://lumiere-a.akamaihd.net/v1/images/ralph-headretina_f6ef0c9b.jpeg" group-title="Pixar",DETONA RALPH (2013)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/DTNARLPH.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/j090Z3k.png" group-title="Pixar",FROZEN: UMA AVENTURA CONGELANTE (2013)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/461/21046189_20131002174340886.jpg" group-title="Pixar",FROZEN: UMA AVENTURA CONGELANTE (2013)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/FRZNUACGLNT.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/09/01/13/43/553593.jpg" group-title="Pixar",OPERAÇÃO BIG HERO (2014)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/OPRCBGHRO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Toy%20Story%20-%20Esquecidos%20pelo%20Tempo.jpg" group-title="Pixar",TOY STORY: ESQUECIDOS PELO TEMPO (2015)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/TYSTRYESQDPTEMP.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dtDWm49.jpg" group-title="Pixar",DIVERTIDA MENTE (2015)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/05/14/14/20/365361.jpg" group-title="Pixar",DIVERTIDA MENTE (2015)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/DVRTDMNT.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/2AvCHjC.jpg" group-title="Pixar",O BOM DINOSSAURO (2016)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/15/10/15/22/24/429658.jpg" group-title="Pixar",O BOM DINOSSAURO (2016)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/OBMDINO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Procurando%20Dory.jpg" group-title="Pixar",PROCURANDO DORY (2016)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/PRCNDRY.mp4
@@ -251,65 +251,12 @@ http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/MONUMRDAVTRA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Carros%203.jpg" group-title="Pixar",CARROS 3 (2017)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/CRS3.mp4
-#EXTINF:-1 tvg-logo="http://images-na.ssl-images-amazon.com/images/I/91IHPHUB58L._SL1500_.jpg" group-title="Pixar",OLAF EM UMA NOVA AVENTURA CONGELANTE DE FROZEN (2017)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Olaf%20-%20Em%20uma%20Nova%20Aventura%20Congelante%20de%20Frozen.jpg" group-title="Pixar",OLAF EM UMA NOVA AVENTURA CONGELANTE DE FROZEN (2017)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/OLFEMUNVAVNTRCGLNT.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/12/07/11/33/0502209.jpg" group-title="ÚLTIMOS REDECANAIS",VIVA: A VIDA É UMA FESTA (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/12/07/11/33/0502209.jpg" group-title="Pixar",VIVA: A VIDA É UMA FESTA (2018)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/VIVAAVDEUMFST.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis%202.jpg" group-title="Pixar",Os Incríveis 2 (2018)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/OSINCRVS2.mp4
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/89/63/19962658.jpg" group-title="Sony",TÁ CHOVENDO HAMBURGER (2009)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer4/ondemand/TACHVNDHMBRGR.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/2xm0KVi.jpg" group-title="Sony",OS SMURFS (2011)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/OSMURFS1.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/210/432/21043244_2013092323163504.jpg" group-title="Sony",TÁ CHOVENDO HAMBURGER 2 (2013)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer4/ondemand/TACHVNDHMBRGR2.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZJFveLm.png" group-title="Sony",OS SMURFS 2 (2013)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/OSMURFS2.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/Mq3VTr" group-title="Sony",HOTEL TRANSILVÂNIA (2014)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/HOTLTRNSVLNA1.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/6LHzkK" group-title="Sony",OS SMURFS 3: E A VILA PERDIDA (2017)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/OSMRFSEAVLPRDA.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/YmkAT3" group-title="Sony",HOTEL TRANSILVÂNIA 2 (2017)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer2/ondemand/HOTLTRNSVLNA2.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w185/g4LW0JOeHyOFRsN6PAyWrH4qbG.jpg" group-title="Sony",EMOJI O FILME (2017)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/EMJOFLM.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/images-3.jpg" group-title="Sony",HOTEL TRANSILVÂNIA 3 (2018)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/HTLTRNSVN3.mp4
-
-#EXTINF:-1 tvg-logo="http://goo.gl/E2UDrk" group-title="ALVIN E OS ESQUILOS",ALVIN E OS ESQUILOS (2007)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS1.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/UVJt5C" group-title="ALVIN E OS ESQUILOS",ALVIN E OS ESQUILOS 2 (2009)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS2.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/2Wh2Bb" group-title="ALVIN E OS ESQUILOS",ALVIN E OS ESQUILOS 3 (2011)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS3.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/hiec4V" group-title="ALVIN E OS ESQUILOS",ALVIN E OS ESQUILOS 4: NA ESTRADA (2015)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULSNESTRD.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Rob%C3%B4s.jpg" group-title="Blue Sky",Robôs (2005)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/ROBS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Era%20do%20Gelo1.jpg" group-title="Blue Sky",A ERA DO GELO (2002)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/AERDGL1.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Era%20do%20Gelo2.jpg" group-title="Blue Sky",A ERA DO GELO 2 (2006)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/AERDGL2.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Era%20do%20Gelo3.jpg" group-title="Blue Sky",A ERA DO GELO 3 (2009)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/AERDGL3.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Rio.jpg" group-title="Blue Sky",RIO (2011)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/RIO.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Era%20do%20Gelo4.jpg" group-title="Blue Sky",A ERA DO GELO 4 (2012)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/AERDGL4.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Rio%202.jpg" group-title="Blue Sky",RIO 2 (2014)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/RIO2.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Snoopy%20e%20Charlie%20Brown%20-%20Peanuts%20-%20O%20Filme.jpg" group-title="Blue Sky",SNOOPY E CHARLIE BROWN: PEANUTS: O FILME (2016)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/SNPYECRLIBRPANRSOFLM.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ur8CRp4.jpg" group-title="Blue Sky",A Era do Gelo: O Big Bang (2016)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/AERDGLOBB.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Era%20Do%20Gelo%20-%20A%20Grande%20Ca%C3%A7ada%20Aos%20Ovos%20De%20P%C3%A1scoa.jpg" group-title="Blue Sky",A ERA DO GELO: A GRANDE CAÇADA AOS OVOS DE PÁSCOA (2016)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/AERDGLAGRNDCAOVS.mp4
-#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352-5.jpg-r_1920_1080-f_jpg-q_x-xxyxx-5.jpg" group-title="Blue Sky",TOURO FERDINANDO (2018)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/OTROFRDNDO.mp4
-
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Shrek1.jpg" group-title="Dreamworks",SHREK (2001)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/SHREK01.mp4
@@ -339,11 +286,8 @@ http://d19zi908weod19.cloudfront.net/RedeCanais/RCServer08/ondemand/CMTRNRDRG.mp
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/KUNGFUPND2.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/m5opILz.jpg" group-title="Dreamworks",MADAGASCAR 3: OS PROCURADOS (2012)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/MDGSCR03.mp4
-
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Como%20Treinar%20Seu%20Drag%C3%A3o%202.jpg" group-title="Dreamworks",Como Treinar o Seu Dragão 2 (2014)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCServer09/ondemand/CMTRNRDRG2.mp4
-
-
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Kung%20Fu%20Panda%203.jpg" group-title="Dreamworks",Kung Fu Panda 3 (2016)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/KUNGFUPND3.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Kung%20Fu%20Panda%20-%20Segredos%20do%20Pergaminho.jpg" group-title="Dreamworks",Kung Fu Panda: Segredos do Pergaminho (2016)
@@ -362,17 +306,112 @@ http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/OPDRSOCFNHDU
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/ASAVNTRSDCAPCUC.mp4
 
 
+
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Meu%20Malvado%20Favorito%203.jpg" group-title="Ilumination",MEU MALVADO FAVORITO 3 (2017)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV3.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Sing%20-%20Quem%20Canta%20Seus%20Males%20Espanta.jpg" group-title="Ilumination",SING: QUEM CANTA SEUS MALES ESPANTA (2017)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer3/ondemand/SNGQCSME.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Pets%20-%20A%20Vida%20Secreta%20dos%20Bichos.jpg" group-title="Ilumination",Pets: A Vida Secreta dos Bichos (2016)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/PETSAVSCDBS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Minions.jpg" group-title="Ilumination",MINIONS (2015)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/MINIONS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Meu%20Malvado%20Favorito%202.jpg" group-title="Ilumination",MEU MALVADO FAVORITO 2 (2013)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV2.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Meu%20Malvado%20Favorito.jpg" group-title="Ilumination",MEU MALVADO FAVORITO (2010)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV1.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/89/63/19962658.jpg" group-title="Sony",TÁ CHOVENDO HAMBURGER (2009)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer4/ondemand/TACHVNDHMBRGR.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2xm0KVi.jpg" group-title="Sony",OS SMURFS (2011)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/OSMURFS1.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/210/432/21043244_2013092323163504.jpg" group-title="Sony",TÁ CHOVENDO HAMBURGER 2 (2013)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer4/ondemand/TACHVNDHMBRGR2.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZJFveLm.png" group-title="Sony",OS SMURFS 2 (2013)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/OSMURFS2.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Mq3VTr" group-title="Sony",HOTEL TRANSILVÂNIA (2014)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/HOTLTRNSVLNA1.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Angry%20Birds%20-%20O%20Filme.jpg" group-title="Sony",Angry Birds (2016)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/ANGRYBRDSFLM.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/6LHzkK" group-title="Sony",OS SMURFS 3: E A VILA PERDIDA (2017)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/OSMRFSEAVLPRDA.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/YmkAT3" group-title="Sony",HOTEL TRANSILVÂNIA 2 (2017)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer2/ondemand/HOTLTRNSVLNA2.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w185/g4LW0JOeHyOFRsN6PAyWrH4qbG.jpg" group-title="Sony",EMOJI O FILME (2017)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/EMJOFLM.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/08/28/09/57/574900.jpg" group-title="Sony",A ESTRELA DE BELÉM (2017)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/AESTRLDBLM.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/09/images-3.jpg" group-title="Sony",HOTEL TRANSILVÂNIA 3 (2018)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/HTLTRNSVN3.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Rob%C3%B4s.jpg" group-title="Blue Sky",Robôs (2005)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/ROBS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Era%20do%20Gelo1.jpg" group-title="Blue Sky",A ERA DO GELO (2002)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/AERDGL1.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Era%20do%20Gelo2.jpg" group-title="Blue Sky",A ERA DO GELO 2 (2006)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/AERDGL2.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Era%20do%20Gelo3.jpg" group-title="Blue Sky",A ERA DO GELO 3 (2009)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/AERDGL3.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Rio.jpg" group-title="Blue Sky",RIO (2011)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/RIO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Era%20do%20Gelo4.jpg" group-title="Blue Sky",A ERA DO GELO 4 (2012)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/AERDGL4.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Rio%202.jpg" group-title="Blue Sky",RIO 2 (2014)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/RIO2.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Snoopy%20e%20Charlie%20Brown%20-%20Peanuts%20-%20O%20Filme.jpg" group-title="Blue Sky",SNOOPY E CHARLIE BROWN: PEANUTS: O FILME (2016)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/SNPYECRLIBRPANRSOFLM.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ur8CRp4.jpg" group-title="Blue Sky",A Era do Gelo: O Big Bang (2016)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/AERDGLOBB.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Era%20Do%20Gelo%20-%20A%20Grande%20Ca%C3%A7ada%20Aos%20Ovos%20De%20P%C3%A1scoa.jpg" group-title="Blue Sky",A ERA DO GELO: A GRANDE CAÇADA AOS OVOS DE PÁSCOA (2016)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/AERDGLAGRNDCAOVS.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/19962352-5.jpg-r_1920_1080-f_jpg-q_x-xxyxx-5.jpg" group-title="Blue Sky",TOURO FERDINANDO (2018)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/OTROFRDNDO.mp4
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20o%20Monstro%20da%20Terra%20do%20Nunca.jpg" group-title="Tinker Bell",Tinker Bell e o Monstro da Terra do Nunca (2015)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTREOMNSTRDTRADNCA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20-%20Fadas%20E%20Piratas.jpg" group-title="Tinker Bell",Tinker Bell: Fadas e Piratas (2014)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/TNKRBLLFDSEPRTS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20-%20O%20Segredo%20das%20Fadas.jpg" group-title="Tinker Bell",Tinker Bell: O Segredo das Fadas (2012)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTROSGRDSFDS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20O%20Resgate%20das%20Fadas.jpg" group-title="Tinker Bell",Tinker Bell e o Resgate da Fada (2010)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTREORSGTDFDA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20o%20Tesouro%20Perdido.jpg" group-title="Tinker Bell",Tinker Bell e o Tesouro Perdido (2009)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTREOTSRPRDO.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20Uma%20Aventura%20No%20Mundo%20das%20Fadas.jpg" group-title="Tinker Bell",Tinker Bell: Uma Aventura no Mundo das Fadas (2008)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/TNKRBLLUMAVNTRNMNDSFDS.mp4
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/03/medium-cover.png" group-title="Lego",Uma Aventura Lego (2014)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/UMAVNTRLGO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Lego%20Ninjago%20-%20O%20Filme.jpg" group-title="Lego",LEGO Ninjago: O Filme (2017)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/LEGNJGOFLM.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/oCmZrd" group-title="Lego",SCOOBY-DOO! E O COMBATE DO SALSICHA (2017)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer09/ondemand/SCBDFLM28.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/yLiNdZ" group-title="Lego",LEGO SCOOBY-DOO! O GOLPE DA PRAIA (2017)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCServer09/ondemand/SCBDFLM29.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Lego%20Jurassic%20World%20-%20A%20Exposi%C3%A7%C3%A3o%20Secreta.jpg" group-title="Lego",Lego Jurassic World: A Exposição Secreta Parte 1 (2018)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/LGOJRSCWRLDAEXPSCRTAPT1.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Lego%20Jurassic%20World%20-%20A%20Exposi%C3%A7%C3%A3o%20Secreta.jpg" group-title="Lego",Lego Jurassic World: A Exposição Secreta Parte 2 (2018)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/LGOJRSCWRLDAEXPSCRTAPT2.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Angry%20Birds%20-%20O%20Filme.jpg" group-title="Sony",Angry Birds (2016)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/ANGRYBRDSFLM.mp4
+
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-kQ6_1fDM3NM/TkngA22Q9NI/AAAAAAAADwM/bwvgX8fJoL4/s1600/12b.jpg" group-title="DESENHOS BIBLICOS",DESENHOS BIBLICOS GENESIS O INICIO DA CRIAÇÃO
 http://ia601503.us.archive.org/16/items/DESENHOSBIBLICOSGENESISOINICIODACRIACAO/DESENHOS%20BIBLICOS%20-%20GENESIS%20O%20INICIO%20DA%20CRIAC%C3%83O.mp4?AndreOid
@@ -410,50 +449,33 @@ http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/BRBEASAGNTSS
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Barbie%20E%20Os%20Golfinhos%20M%C3%A1gicos.jpg" group-title="BARBIE",BARBIE E  OS GOLFINHOS MÁGICOS (2017)
 http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/BARBEOSGLNHSMGCS.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Filme%20Looney,%20Looney,%20Looney%20do%20Pernalonga.jpg" group-title="ANIMAÇÕES",O Filme Looney, Looney, Looney do Pernalonga (1981)
+
+
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Filme%20Looney,%20Looney,%20Looney%20do%20Pernalonga.jpg" group-title="ANIMAÇÃO E LIVE ACTION",O Filme Looney, Looney, Looney do Pernalonga (1981)
 http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/LONEYTNSDVLTACO.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/%C3%89%20Natal%20De%20Novo%20Charlie%20Brown.jpg" group-title="ANIMAÇÕES",É Natal De Novo Charlie Brown (1992) - Snoopy
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/ENTLDNVCRLBRWN.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Jos%C3%A9%20-%20O%20Rei%20dos%20Sonhos.jpg" group-title="ANIMAÇÕES",JOSÉ: O REI DOS SONHOS (2000)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/JOSORIDSNHS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/A%20Fuga%20das%20Galinhas.jpg" group-title="ANIMAÇÕES",A FUGA DAS GALINHAS (2000)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/AFGADSGLHNS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/80/04/19961677.jpg" group-title="ANIMAÇÕES",O GALINHO CHICKEN LITTLE (2005)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer4/ondemand/OGLNHCHKNLT.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Deu%20a%20Louca%20na%20Chapeuzinho.jpg" group-title="ANIMAÇÕES",Deu a Louca na Chapeuzinho (2005)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/DEUALCNCHPUZNH1.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/SSVf6E" group-title="ANIMAÇÕES",A NOIVA CADÁVER (2005)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/ANOIVCDVER.mp4
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-KUpMwH81COg/WG7tXnT9KyI/AAAAAAAABO4/fccQrVt7-9gTbYgPmbK6uCF1Q6auFch9gCLcB/s1600/9ASALVACAO.jpg" group-title="ANIMAÇÕES",9 A SALVAÇÃO (2006)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/ASLVCAO.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bolt%20-%20Superc%C3%A3o.jpg" group-title="ANIMAÇÕES",BOLT: SUPERCÃO (2009)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/BLTSPRCAO.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Deu%20a%20Louca%20na%20Chapeuzinho%202.jpg" group-title="ANIMAÇÕES",Deu a Louca na Chapeuzinho 2 (2011)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/DEUALCNCHPUZNH2.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bolt%20e%20Blip%20-%20Dois%20Rob%C3%B4s%20Pirados.jpg" group-title="ANIMAÇÕES",Bolt & Blip: Dois Robôs Pirados (2012)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/BLTEBLPDOSRBSPRDS.mp4
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JsSYV5m5vOg/VQkT3bksd4I/AAAAAAAAVhc/1RvmQ5FhNBQ/s1600/irmaos-urso-a-viagem-de-volta-para-casa-filmesonline10.jpg" group-title="ANIMAÇÕES",Irmãos Urso: A Viagem de Volta Para Casa (2013)
-https://goo.gl/an2i95
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Festa%20no%20C%C3%A9u.jpg" group-title="ANIMAÇÕES",FESTA NO CÉU (2014)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/FSTNOCEU.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ecrYWzV.jpg" group-title="ANIMAÇÕES",O QUE SERÁ DE NOZES? (2014)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/OQUSRDNZS.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/cfTMr9" group-title="ANIMAÇÕES",O PEQUENO PRÍNCIPE (2015)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/OPQNPRNCP.mp4#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/16/11/10/18/59/152563.jpg" group-title="Masha e o Urso",Masha e o Urso (2016)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer4/ondemand/MSHEOURSOFLM.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/k9Vqns" group-title="ANIMAÇÕES",A BAILARINA (2016)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/ABLRN.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/upxOtgk.jpg" group-title="ANIMAÇÕES",Cegonhas: A História que Não te Contaram (2016)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Kubo%20e%20as%20Cordas%20M%C3%A1gicas.jpg" group-title="ANIMAÇÕES",Kubo e As Cordas Mágicas (2016)
-http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer4/ondemand/KUBEASCRDSMGCS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Aventuras%20de%20Robinson%20Cruso%C3%A9.jpg" group-title="ANIMAÇÕES",As Aventuras de Robinson Crusoé (2016)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/ASAVNTRSDRBNSCRSOE.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/06/23/19/41/320742.jpg" group-title="ANIMAÇÕES",CONDORITO: O FILME (2017)
-http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/CONDRTOFLM.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Looney%20Tunes%20-%20De%20Volta%20%C3%A0%20A%C3%A7%C3%A3o.jpg" group-title="ANIMAÇÃO E LIVE ACTION",Looney Tunes: De Volta à Ação (2002)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer3/ondemand/LONEYTNSDVLTACO.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/54/50/20205559.jpg" group-title="ANIMAÇÃO E LIVE ACTION",COMO CÃES E GATOS (2001)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/CMCSEGTS.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/E2UDrk" group-title="ANIMAÇÃO E LIVE ACTION",ALVIN E OS ESQUILOS (2007)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS1.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/UVJt5C" group-title="ANIMAÇÃO E LIVE ACTION",ALVIN E OS ESQUILOS 2 (2009)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS2.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2Wh2Bb" group-title="ANIMAÇÃO E LIVE ACTION",ALVIN E OS ESQUILOS 3 (2011)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS3.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/hiec4V" group-title="ANIMAÇÃO E LIVE ACTION",ALVIN E OS ESQUILOS 4: NA ESTRADA (2015)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULSNESTRD.mp4
 
 
-
+#EXTINF:-1 tvg-logo="http://stmed.net/sites/default/files/cats-%26-dogs%3A-the-revenge-of-kitty-galore-wallpapers-29449-5244789.jpg" group-title="ANIMAÇÃO E LIVE ACTION",COMO CÃES E GATOS 2 (2010)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/CMCSEGTS2.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster-10.jpg" group-title="ANIMAÇÃO E LIVE ACTION",AS AVENTURAS DE PADDINGTON (2014)
+http://d19zi908weod19.cloudfront.net/RedeCanais/RCFServer1/ondemand/ASAVNTRDPNGTN.mp4
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster-11.jpg" group-title="ANIMAÇÃO E LIVE ACTION",PADDINGTON 2 (2018)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/PDNGTN2.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_75_106/pictures/17/08/25/19/04/419991.jpg" group-title="ANIMAÇÃO E LIVE ACTION",PICA-PAU: O FILME (2018)
+http://d2l3ptd2yc9pwi.cloudfront.net/RedeCanais/RCFServer4/ondemand/PICPAU.mp4
 
 
 
