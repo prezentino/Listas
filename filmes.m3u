@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/08/22/22/44/279579.jpg" group-title="ADICIONADOS RECENTEMENTE",O Homem nas trevas (2016)
+https://globalc2.global.ssl.fastly.net/RedeCanais/RCFServer2/ondemand/OHMEMNSTRVS.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/PjU_Ox56EAQCNPkCyAeNvd5ANZs=/fit-in/210x312/smart/media/movies/covers/2019/02/jUnV7vpUEffMGtYVjZoX7qFuEJO.jpg" group-title="ADICIONADOS RECENTEMENTE",Saving Leningrad (2019)
+https://globalc2.global.ssl.fastly.net/RedeCanais/RCFServer2/ondemand/SVNGLNGRDLEG.mp4
+
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/11/01/23/40/0266976.jpg" group-title="ADICIONADOS RECENTEMENTE",A Mula (2019)
 https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/AMLALEG.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Anjos%20Rebeldes%203%20-%20O%20Ascendente.jpg" group-title="ADICIONADOS RECENTEMENTE",Anjos Rebeldes 3: O Ascendente (2000)
@@ -11,7 +17,7 @@ http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/ANJSRBLDS.mp
 http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/ASVIUVS.mp4
 
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/03/images-1-1.jpg" group-title="ADICIONADOS RECENTEMENTE",Uma Aventura Lego 2
-http://sr8-2.portalhqs.net/html/content/conteudolb3/filmes2019/UMAAVENTURALEGO2-ALTO.mp4?token=st=1553819417~exp=1553841017~acl=/html/*~hmac=eea9f6e24ae25b2c3fbb9ddc37f962b4
+https://globalc2.global.ssl.fastly.net/RedeCanais/RCFServer2/ondemand/UMAVNTRLGO2LEG.mp4
 
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/03/images.jpg" group-title="ADICIONADOS RECENTEMENTE",Chacrinha: O Velho Guerreiro (2018)
 http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/CHCRNHOLHGERIRO.mp4
@@ -67,8 +73,8 @@ http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/OLGSTA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Trov%C3%A3o%20Tropical.jpg" group-title="COMÉDIA",Trovão Tropical (2008)
 http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/TRVAOTRPCL.mp4
 
-
-
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/11/01/23/33/3540981.jpg" group-title="OSCAR 2019",A Favorita (2019)
+https://globalc2.global.ssl.fastly.net/RedeCanais/RCFServer2/ondemand/AFVRTA.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/11/download.jpg" group-title="OSCAR 2019",Infiltrado na Klan (2018)
 http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/INFLDONKLN.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/02/MV5BNTY3YWY3NzEtMjhkOS00ZWQ2LTk4NWItNGVjYjUzYjc4MGVhXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_CR007491000_AL_.jpg" group-title="OSCAR 2019",Green Book: O Guia (2018)
