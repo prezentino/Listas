@@ -2560,6 +2560,9 @@ http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT07EP0
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Game%20Of%20Thrones7.jpg" group-title="GAME OF THRONES",GoT S07E07 O Dragão e O Lobo
 http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT07EP07.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20of%20Thrones%208.jpg" group-title="GAME OF THRONES",GoT S08E01 Whinterfell
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP01.mp4
+
 #EXTINF:-1 tvg-logo="http://static.quizur.com/i/b/56f7599dbfb736.6786838856f7599da73ad0.42267932.jpg" group-title="GUERRAS MUNDIAIS",GUERRAS MUNDIAIS E01
 http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer09/ondemand/GRSMDLT01EP01.mp4
 #EXTINF:-1 tvg-logo="http://static.quizur.com/i/b/56f7599dbfb736.6786838856f7599da73ad0.42267932.jpg" group-title="GUERRAS MUNDIAIS",GUERRAS MUNDIAIS E02
@@ -2656,6 +2659,32 @@ http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer09/ondemand/HNBLLS03EP12
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hannibal3.jpg" group-title="HANNIBAL",HANNIBAL S03E13 (LEG)
 http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer09/ondemand/HNBLLS03EP13.mp4
 
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/H%C3%A9rcules%20-%20A%20Lend%C3%A1ria%20Jornada%201.jpg" group-title="Hércules",Hércules S01E01
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/HRCLST01EP01.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/H%C3%A9rcules%20-%20A%20Lend%C3%A1ria%20Jornada%201.jpg" group-title="Hércules",Hércules S01E02
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/HRCLST01EP02.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/H%C3%A9rcules%20-%20A%20Lend%C3%A1ria%20Jornada%201.jpg" group-title="Hércules",Hércules S01E03
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/HRCLST01EP03.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/H%C3%A9rcules%20-%20A%20Lend%C3%A1ria%20Jornada%201.jpg" group-title="Hércules",Hércules S01E04
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/HRCLST01EP04.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/H%C3%A9rcules%20-%20A%20Lend%C3%A1ria%20Jornada%201.jpg" group-title="Hércules",Hércules S01E05
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/HRCLST01EP05.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/H%C3%A9rcules%20-%20A%20Lend%C3%A1ria%20Jornada%201.jpg" group-title="Hércules",Hércules S01E06
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/HRCLST01EP06.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/H%C3%A9rcules%20-%20A%20Lend%C3%A1ria%20Jornada%201.jpg" group-title="Hércules",Hércules S01E07
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/HRCLST01EP07.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/H%C3%A9rcules%20-%20A%20Lend%C3%A1ria%20Jornada%201.jpg" group-title="Hércules",Hércules S01E08
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/HRCLST01EP08.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/H%C3%A9rcules%20-%20A%20Lend%C3%A1ria%20Jornada%201.jpg" group-title="Hércules",Hércules S01E09
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/HRCLST01EP09.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/H%C3%A9rcules%20-%20A%20Lend%C3%A1ria%20Jornada%201.jpg" group-title="Hércules",Hércules S01E10
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/HRCLST01EP10.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/H%C3%A9rcules%20-%20A%20Lend%C3%A1ria%20Jornada%201.jpg" group-title="Hércules",Hércules S01E11
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/HRCLST01EP11.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/H%C3%A9rcules%20-%20A%20Lend%C3%A1ria%20Jornada%201.jpg" group-title="Hércules",Hércules S01E12
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/HRCLST01EP12.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/H%C3%A9rcules%20-%20A%20Lend%C3%A1ria%20Jornada%201.jpg" group-title="Hércules",Hércules S01E13
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/HRCLST01EP13.mp4
 
 
 
@@ -6818,6 +6847,55 @@ http://d126y6al26xchi.cloudfront.net/RedeCanais/RCServer13/ondemand/WSTWRLDT02EP
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/690/files/2018/04/westworld.jpg" group-title="WESTWORLD",WESTWORLD S02E10
 http://d126y6al26xchi.cloudfront.net/RedeCanais/RCServer13/ondemand/WSTWRLDT02EP10.mp4
 
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E01
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E02
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E03
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E04
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E05
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E06
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E07
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E08
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E09
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E10
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E11
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP11.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E12
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP12.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E13
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP13.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E14
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP14.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E15
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP15.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E16
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP16.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E17
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP17.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E18
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP18.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E19
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP19.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E20
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP20.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E21
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP21.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E22
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP22.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E23
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP23.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Xena%20-%20A%20Princesa%20Guerreira1.jpg" group-title="Xena",Xena S01E24
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/XENAT01EP24.mp4
 
 
 
