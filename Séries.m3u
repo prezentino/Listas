@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:0  tvg-logo="https://cometa.top/player3/imgs-videos/Series/Alf,%20O%20ETeimoso%201.jpg" group-title="Alf",Alf S01E01
 http://d126y6al26xchi.cloudfront.net/RedeCanais/RCServer06/ondemand/ALFOETMSOT01EP01.mp4
@@ -2562,6 +2563,12 @@ http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT07EP0
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20of%20Thrones%208.jpg" group-title="GAME OF THRONES",GoT S08E01 Whinterfell
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20of%20Thrones%208.jpg" group-title="GAME OF THRONES", GoT S08E02
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cr8E8IhxVJorb0hOPphxGXigNQwOyCd1Yr7GtdXhAHDqjn9aYaZk-JXVXmCvwVwmiG7oON0qQBpMT7B5vfuRlYuCmlF1iXLgwSGbAF3tRhI1E__Wa8AMvGA5f9MzU94Zi_uEktsI3CpF9tO1fFPJ817lukqoRXWSNeURhSYOSaorzr80i8GGN2OWsa8ntMqFxS3Koi7oAyTrEbsukRzA7sNc1XVlHjDH0Y68x4oRdTU7t6yB0GegPK6FZcZ8gNWYM_ZBfOIzss7_jacfvAokqO7LEII9IOexG8JIkIAYAy2OfXqip7ebGP3n1WhdpG25p1WOtwz7mlS2AxiV3yr9VK3BlvUxPoMOX7DxI16_-5tIpNScaZwsMcp-gkh3OxJVLCEKx79q4CBYm4gOGBjq88qAOFH42IMkZ9svtzM8SaZj7gJoMCccRQzxSwvjjqcZSlHfbWl_ndXe6psYWMq7_cm-ZfHKaiIu6cazhPqYfWn823Rufo5EN4ypRQAAhZPtFcPXexkHi7-wGiuxUYrxht7BEgcm162RJszLiTj4zSRf93jjXpHtmHT6Q_Cvh6qYS7DZS4wyd4X-xe1AkQQRXy-D3OV8JCimj91PUsTrnt7YyOrAlhv59d3Cq4TlrTC9PawAAhToGM9R77U3eIpPXFYQfx16JmBWLyzBG9iaWGCaMjZR9outWknF_79P3vEXSPhqbLR6U--0oMS5QC5MC857sGWUJlWccFj-ai60Su9-yFH0WUOVZegnRslJALgXCSkSEGqpnceTDq0-sLJVmGjHTxMaDCgj6Zota_QNEpYGAA.m3u8
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20of%20Thrones%208.jpg" group-title="GAME OF THRONES", GoT S08E02
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cr8E0yQEa0zFev-YafMVu41DknCRXwVh4hMojQ-TVDrgxxdtkEZHu4K6sokZVUqG0M_15mUDJP_HbBp6RcvWUebdn7r9BKG4pFGejMANecFajkkDp2wfSqFFiWuG9j7G7ZeynIZsaVjl9wEABXkecNtwDEHlw5Wvr8tCG6hbsDiSzPsIeW3nFTON6WMKzhFkjHC8ooSoiEUwS1zevHrewfgEZAiW_ldIJXlvtqD9naylGLZTy8xtimXudTntRn1W562NAo44r332rx0sxkYBBzPHx_CGUZbS6P8j4Ld5ZElD9ynmw_HF-4mNuOEXImLSgEp2J_nuCRPbHrurqJAzIWJtOyj6VU1tcPCpOqpT9sCKjhprgtdB-m-Ot8bKhXpfJUZ_B_0feRX_Q4Qm3-4hDHSRIZ2cfW2h5SJGXYsZSK1BHSlT3scWaEHohEEXTNtPJmgu7dSp0czLqghYqTX6KWWZuf4hGxRP_-4RewMpwOeiJ5WUwe8oMiOlZiCFrXQ38oq4cwzAX6kDKKPsjrA6BIrryKak9I1fZvB3oEdSW9GFGeXG_yoiE6tiX00mD5ebLGB2uYQUJNYhH-L6RhUqBon4CEDwfmpyOt34Ar8bcYEvYagHBFiCyP64c3XSnNqZf-TTWz5Ina2IPzbBbnn2z5oofaLM8URPtVRPV9DzOk3ptPitRiumAOjjUAyFGYNc5vWAjFsgm-ysEN3axZ6orZwUeNvO7XZkmiFIGwrpIkDlbGjUGDlAJV1ItXeDKekMp5ESELbjcyT9rskK81f8M2oa9goaDNNzg35LAPO-cqeExw.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://static.quizur.com/i/b/56f7599dbfb736.6786838856f7599da73ad0.42267932.jpg" group-title="GUERRAS MUNDIAIS",GUERRAS MUNDIAIS E01
 http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer09/ondemand/GRSMDLT01EP01.mp4
