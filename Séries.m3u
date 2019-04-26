@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:0  tvg-logo="https://cometa.top/player3/imgs-videos/Series/Alf,%20O%20ETeimoso%201.jpg" group-title="Alf",Alf S01E01
 http://d126y6al26xchi.cloudfront.net/RedeCanais/RCServer06/ondemand/ALFOETMSOT01EP01.mp4
@@ -2562,7 +2561,7 @@ http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT07EP0
 http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT07EP07.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20of%20Thrones%208.jpg" group-title="GAME OF THRONES",GoT S08E01 Whinterfell
-https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP01.mp4
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08Ep01.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20of%20Thrones%208.jpg" group-title="GAME OF THRONES", GoT S08E02 O Cavaleiro dos Sete Reinos
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP02.mp4
 
