@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/10/30/09/49/457279.jpg" group-title="ADICIONADOS RECENTEMENTE",A Senhora da Van (2015)
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/ASNHRDVAN.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/24/38/19873482.jpg" group-title="ADICIONADOS RECENTEMENTE",Viagem Insólita (1985)	
 http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/VGMINSLTA.mp4
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8713703/s592/o-caldeirao-magico" group-title="ADICIONADOS RECENTEMENTE",O Caldeirão Mágico (1985)
@@ -89,7 +91,7 @@ http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/VICE.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/11/download.jpg" group-title="OSCAR 2019",Infiltrado na Klan (2018)
 http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/INFLDONKLN.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/02/MV5BNTY3YWY3NzEtMjhkOS00ZWQ2LTk4NWItNGVjYjUzYjc4MGVhXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_CR007491000_AL_.jpg" group-title="OSCAR 2019",Green Book: O Guia (2018)
-http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/GRENBOKOGUALEG.mp4
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/GRENBOKOGUA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Roma.jpg" group-title="OSCAR 2019",Roma Leg (2018)
 http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/ROMALEG.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Nasce%20Uma%20Estrela.jpg" group-title="OSCAR 2019",Nasce Uma Estrela (2018)
