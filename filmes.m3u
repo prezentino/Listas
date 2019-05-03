@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/04/26/17/30/2428965.jpg" group-title="ADICIONADOS RECENTEMENTE",Vingadores: Ultimato (2019)
+http://logicaldatacenters.global.ssl.fastly.net/RedeCanais/RCFServer2/ondemand/VNGDRSULTMTO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/10/30/09/49/457279.jpg" group-title="ADICIONADOS RECENTEMENTE",A Senhora da Van (2015)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/ASNHRDVAN.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/24/38/19873482.jpg" group-title="ADICIONADOS RECENTEMENTE",Viagem Insólita (1985)	
