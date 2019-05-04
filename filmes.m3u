@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/04/26/17/30/2428965.jpg" group-title="ADICIONADOS RECENTEMENTE",Vingadores: Ultimato (2019)
-http://logicaldatacenters.global.ssl.fastly.net/RedeCanais/RCFServer2/ondemand/VNGDRSULTMTO.mp4
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/VNGDRSULTMTO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/10/30/09/49/457279.jpg" group-title="ADICIONADOS RECENTEMENTE",A Senhora da Van (2015)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/ASNHRDVAN.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/24/38/19873482.jpg" group-title="ADICIONADOS RECENTEMENTE",Viagem Insólita (1985)	
@@ -11,8 +11,8 @@ http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/OMRACH.mp4
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/CMTRNRDRG3LEG.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/10/01/17/49/4006109.jpg" group-title="ADICIONADOS RECENTEMENTE",Holmes e Watson (2019)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/HLMSEWTSN.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_75_106/pictures/18/11/30/21/49/3142885.jpg" group-title="ADICIONADOS RECENTEMENTE",Vidro Leg (2018)
-http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/VDROLEG.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_75_106/pictures/18/11/30/21/49/3142885.jpg" group-title="ADICIONADOS RECENTEMENTE",Vidro (2018)
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/VDRO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/08/22/22/44/279579.jpg" group-title="ADICIONADOS RECENTEMENTE",O Homem nas trevas (2016)
 https://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/OHMEMNSTRVS.mp4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/PjU_Ox56EAQCNPkCyAeNvd5ANZs=/fit-in/210x312/smart/media/movies/covers/2019/02/jUnV7vpUEffMGtYVjZoX7qFuEJO.jpg" group-title="ADICIONADOS RECENTEMENTE",Saving Leningrad (2019)
