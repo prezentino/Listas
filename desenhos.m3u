@@ -121,7 +121,7 @@ http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/BRNCDNVEOSTS
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/FNTSIA.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RHPxfx0SfwM/maxresdefault.jpg" group-title="Disney",PINÓQUIO (1940)
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/PNQIO.mp4
-#EXTINF:-1 tvg-logo="https://arynews.tv/wp-content/uploads/2019/03/maxresdefault.jpg" group-title="Disney",DUMBO (1941)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/11/Dumbo_trilha_sonora.jpg" group-title="Disney",DUMBO (1941)
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/DMBO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/75/69/19963902.jpg" group-title="Disney",BAMBI (1942)
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/BMBI.mp4
@@ -183,7 +183,7 @@ http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer1/ondemand/APQNSRAFILME
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/FNTSIA2000.mp4
 #EXTINF:-1 tvg-logo="https://oespectadorrabugentoblog.files.wordpress.com/2018/12/sc8xyijj96roetmsqb47nefjkfx.jpg" group-title="Disney",O CORCUNDA DE NOTRE DAME 2 (2002)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer1/ondemand/OCRCNDDNTRDM2.mp4
-#EXTINF:-1 tvg-logo="https://v-s.mobi/cITYLDjUMm9K5N9esBfv_gsXmdEsqOWcTNApMew_lnha0OQL1fAV2DVlA9qf7Qgn/HQ.jpg" group-title="Disney",MOGLI: O MENINO LOBO 2 (2002)
+#EXTINF:-1 tvg-logo="https://ssdvds.loja2.com.br/img/722b2173c79049fc9e98f622beadcd7a.jpg" group-title="Disney",MOGLI: O MENINO LOBO 2 (2002)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer4/ondemand/MGLIOMENIOLBO2.mp4
 #EXTINF:-1 tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/scale_crop_768_433/2018/10/lilo__stitch_still.jpg" group-title="Disney",Lilo & Stitch (2002)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/LILOESTCH.mp4
@@ -263,77 +263,78 @@ http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/MONUMRDAVTRA.mp4
 #EXTINF:-1 tvg-logo="https://cdn-1.motorsport.com/images/amp/2dyW5BeY/s6/general-carros-3-2017-cena-de-carros-3.jpg" group-title="Pixar",CARROS 3 (2017)
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/CRS3.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Olaf%20-%20Em%20uma%20Nova%20Aventura%20Congelante%20de%20Frozen.jpg" group-title="Pixar",OLAF EM UMA NOVA AVENTURA CONGELANTE DE FROZEN (2017)
+#EXTINF:-1 tvg-logo="http://www.diarioonline.com.br/app/painel/modulo-noticia/img/imagensdb/original/destaque-465743-olafs-frozen-adventure2.jpg" group-title="Pixar",OLAF EM UMA NOVA AVENTURA CONGELANTE DE FROZEN (2017)
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/OLFEMUNVAVNTRCGLNT.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Cocofilme.png/250px-Cocofilme.png" group-title="Pixar",VIVA: A VIDA É UMA FESTA (2018)
+#EXTINF:-1 tvg-logo="https://i2.wp.com/nosbastidores.com.br/wp-content/uploads/2017/11/coco59c2b7f63158e_-_h_2017-1200x676.jpg" group-title="Pixar",VIVA: A VIDA É UMA FESTA (2018)
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/VIVAAVDEUMFST.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis%202.jpg" group-title="Pixar",Os Incríveis 2 (2018)
+#EXTINF:-1 tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2018/06/os-incriveis-760x428.jpg" group-title="Pixar",Os Incríveis 2 (2018)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/OSINCRVS2.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Shrek1.jpg" group-title="Dreamworks",SHREK (2001)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/l-SJcwSFA4M/maxresdefault.jpg" group-title="Dreamworks",SHREK (2001)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer1/ondemand/SHREK01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Shrek2.jpg" group-title="Dreamworks",SHREK 2 (2004)
+#EXTINF:-1 tvg-logo="https://queridojeito.com/wp-content/uploads/2017/04/Shrek-2.jpg" group-title="Dreamworks",SHREK 2 (2004)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer1/ondemand/SHREK02.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ecivpjm.png" group-title="Dreamworks",MADAGASCAR (2005)
+#EXTINF:-1 tvg-logo="https://images.impresa.pt/sic/2017-08-09-MADAGASCAR.jpg" group-title="Dreamworks",MADAGASCAR (2005)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer1/ondemand/MDGSCR01.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Shrek3.jpg" group-title="Dreamworks",SHREK TERCEIRO (2007)
+#EXTINF:-1 tvg-logo="https://i3.wp.com/br.nacaodamusica.com/wp-content/uploads/2017/01/Shrek_3_Wallpaper_1024.jpg" group-title="Dreamworks",SHREK TERCEIRO (2007)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer1/ondemand/SHREK03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bee%20Movie%20-%20A%20Hist%C3%B3ria%20de%20uma%20Abelha.jpg" group-title="Dreamworks",Bee Movie: A História de uma Abelha (2007)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Zv9k2nBE7nI/maxresdefault.jpg" group-title="Dreamworks",Bee Movie: A História de uma Abelha (2007)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/BEMVEAHSTRDUMABLHA.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eGWJqSI.png" group-title="Dreamworks",MADAGASCAR 2: A GRANDE ESCAPADA (2008)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/anxiz37Z9FPKeuCsJcxViSWmPxg.jpg" group-title="Dreamworks",MADAGASCAR 2: A GRANDE ESCAPADA (2008)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer1/ondemand/MDGSCR02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Kung%20Fu%20Panda.jpg" group-title="Dreamworks",KUNG FU PANDA (2008)
+#EXTINF:-1 tvg-logo="http://www.bhmpics.com/walls/kung_fu_panda_3_poster-wide.jpg" group-title="Dreamworks",KUNG FU PANDA (2008)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/KUNGFUPND1.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/88/85/19962577.jpg" group-title="Dreamworks",Monstros Vs Alienígenas (2009)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer4/ondemand/MNSTRSVSALIEN.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Shrek%20para%20Sempre.jpg" group-title="Dreamworks",SHREK PARA SEMPRE (2010)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/33/c8/a8/33c8a87871f55baf4b124bb8147ba118.jpg" group-title="Dreamworks",SHREK PARA SEMPRE (2010)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer1/ondemand/SHREKPRSMPR.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/90/97/19962796.jpg" group-title="Dreamworks",MEGAMENTE (2010)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer4/ondemand/MGMNTE.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Como%20Treinar%20Seu%20Drag%C3%A3o.jpg" group-title="Dreamworks",Como Treinar o Seu Dragão (2010)
+#EXTINF:-1 tvg-logo="https://data.1freewallpapers.com/detail/how-to-train-your-dragon.jpg" group-title="Dreamworks",Como Treinar o Seu Dragão (2010)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer08/ondemand/CMTRNRDRG.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/210/611/21061197_2013112620590918.jpg" group-title="Dreamworks",Natal Shrektacular do Burro (2010)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/NTLSHRKTCLRDBRO.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Kung%20Fu%20Panda%202.jpg" group-title="Dreamworks",KUNG FU PANDA 2 (2011)
+#EXTINF:-1 tvg-logo="https://kgsmovierants.files.wordpress.com/2016/07/kung_fu_panda_2_2011-wide.jpg" group-title="Dreamworks",KUNG FU PANDA 2 (2011)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/KUNGFUPND2.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/m5opILz.jpg" group-title="Dreamworks",MADAGASCAR 3: OS PROCURADOS (2012)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer1/ondemand/MDGSCR03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Como%20Treinar%20Seu%20Drag%C3%A3o%202.jpg" group-title="Dreamworks",Como Treinar o Seu Dragão 2 (2014)
+#EXTINF:-1 tvg-logo="https://data.1freewallpapers.com/detail/how-to-train-your-dragon-2-poster.jpg" group-title="Dreamworks",Como Treinar o Seu Dragão 2 (2014)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer09/ondemand/CMTRNRDRG2.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Kung%20Fu%20Panda%203.jpg" group-title="Dreamworks",Kung Fu Panda 3 (2016)
+#EXTINF:-1 tvg-logo="https://data2.1freewallpapers.com/detail/kung-fu-panda-3-panda-kids.jpg" group-title="Dreamworks",Kung Fu Panda 3 (2016)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/KUNGFUPND3.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Kung%20Fu%20Panda%20-%20Segredos%20do%20Pergaminho.jpg" group-title="Dreamworks",Kung Fu Panda: Segredos do Pergaminho (2016)
+#EXTINF:-1 tvg-logo="https://cdn.i-scmp.com/sites/default/files/styles/og_twitter_scmp_live/public/d8/images/methode/2019/03/14/a0998edc-43db-11e9-b5dc-9921d5eb8a6d_image_hires_141150.JPG" group-title="Dreamworks",Kung Fu Panda: Segredos do Pergaminho (2016)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/KUNGFUPNDSGRDDPRGMH.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Os%20Croods.jpg" group-title="Dreamworks",OS CROODS (2013)
+#EXTINF:-1 tvg-logo="https://data.1freewallpapers.com/detail/the-croods-cartoon-movie-poster-2013.jpg" group-title="Dreamworks",OS CROODS (2013)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/OSCRDS.mp4
 #EXTINF:-1 tvg-logo="http://cadeoleo.com.br/wp-content/uploads/2013/12/PeabodySherman.jpg" group-title="Dreamworks",As Aventuras de Peabody & Sherman (2014)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/AAVNTRSDPABYESHRM.mp4
 #EXTINF:-1 tvg-logo="http://www.artwave.org/wp-content/uploads/Trolls.jpg" group-title="Dreamworks",Trolls (2016)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/TRLS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Trolls%20-%20Vamos%20Festejar.jpg" group-title="Dreamworks",Trolls: Vamos Festejar (2017)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BW6dAq4wYk0/maxresdefault.jpg" group-title="Dreamworks",Trolls: Vamos Festejar (2017)
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/TRLSVMSFSTJR.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Poderoso%20Chefinho.jpg" group-title="Dreamworks",O Poderoso Chefinho (2017)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Rc1HaT8W570/maxresdefault.jpg" group-title="Dreamworks",O Poderoso Chefinho (2017)
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/OPDRSOCFNHDUB.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Aventuras%20do%20Capit%C3%A3o%20Cueca.jpg" group-title="Dreamworks",As Aventuras do Capitão Cueca: O Filme (2017)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/y9RnoC9JEiI/maxresdefault.jpg" group-title="Dreamworks",As Aventuras do Capitão Cueca: O Filme (2017)
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/ASAVNTRSDCAPCUC.mp4
 
-
-
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Meu%20Malvado%20Favorito%203.jpg" group-title="Ilumination",MEU MALVADO FAVORITO 3 (2017)
-https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV3.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Sing%20-%20Quem%20Canta%20Seus%20Males%20Espanta.jpg" group-title="Ilumination",SING: QUEM CANTA SEUS MALES ESPANTA (2017)
-https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer3/ondemand/SNGQCSME.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Pets%20-%20A%20Vida%20Secreta%20dos%20Bichos.jpg" group-title="Ilumination",Pets: A Vida Secreta dos Bichos (2016)
-http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/PETSAVSCDBS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Minions.jpg" group-title="Ilumination",MINIONS (2015)
-http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/MINIONS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Meu%20Malvado%20Favorito%202.jpg" group-title="Ilumination",MEU MALVADO FAVORITO 2 (2013)
-https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV2.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Meu%20Malvado%20Favorito.jpg" group-title="Ilumination",MEU MALVADO FAVORITO (2010)
+#EXTINF:-1 tvg-logo="https://images8.alphacoders.com/522/522285.jpg" group-title="Ilumination",MEU MALVADO FAVORITO (2010)
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV1.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.suwalls.com/wallpapers/cartoons/despicable-me-2-22544-2880x1800.jpg" group-title="Ilumination",MEU MALVADO FAVORITO 2 (2013)
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV2.mp4
+#EXTINF:-1 tvg-logo="http://s1.picswalls.com/wallpapers/2015/07/24/2015-minions_064620878_257.jpg" group-title="Ilumination",MINIONS (2015)
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/MINIONS.mp4
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/the-secret-life-of-pets.jpg" group-title="Ilumination",Pets: A Vida Secreta dos Bichos (2016)
+http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/PETSAVSCDBS.mp4
+#EXTINF:-1 tvg-logo="https://www.myfreewallpapers.net/cartoons/wallpapers/despicable-me-3-twin.jpg" group-title="Ilumination",MEU MALVADO FAVORITO 3 (2017)
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/MEMLVDFAV3.mp4
+#EXTINF:-1 tvg-logo="http://www.saladacult.com.br/wp-content/uploads/2017/01/SING-SATURDAY-1-1200x800_c.jpg" group-title="Ilumination",SING: QUEM CANTA SEUS MALES ESPANTA (2017)
+https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer3/ondemand/SNGQCSME.mp4
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/89/63/19962658.jpg" group-title="Sony",TÁ CHOVENDO HAMBURGER (2009)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer4/ondemand/TACHVNDHMBRGR.mp4
@@ -345,9 +346,9 @@ http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer4/ondemand/TACHVNDHMBRG
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/OSMURFS2.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/Mq3VTr" group-title="Sony",HOTEL TRANSILVÂNIA (2014)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/HOTLTRNSVLNA1.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Angry%20Birds%20-%20O%20Filme.jpg" group-title="Sony",Angry Birds (2016)
+#EXTINF:-1 tvg-logo="https://images6.alphacoders.com/777/thumb-1920-777491.jpg" group-title="Sony",Angry Birds (2016)
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/ANGRYBRDSFLM.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/6LHzkK" group-title="Sony",OS SMURFS 3: E A VILA PERDIDA (2017)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/o2oLyIWSeuI/maxresdefault.jpg" group-title="Sony",OS SMURFS 3: E A VILA PERDIDA (2017)
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/OSMRFSEAVLPRDA.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/YmkAT3" group-title="Sony",HOTEL TRANSILVÂNIA 2 (2017)
 https://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer2/ondemand/HOTLTRNSVLNA2.mp4
