@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Disney Channel
+https://ori6s.azureedge.net//hls1/disneyxd.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6Mzg6NDAgUE0maGFzaF92YWx1ZT0vWUhxTzlOejgwYS8yL0I3RjFaS2VRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Space
+https://ori4s.azureedge.net//hls1/space.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6NDA6NTAgUE0maGFzaF92YWx1ZT15M2lFWDZrWUlYaitqeit2dGVqbWpRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Espn Brasil
+https://ori6s.azureedge.net//hls1/espnbrasil.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6NTI6NDAgUE0maGFzaF92YWx1ZT1oOVBCMktrWTVjQWhGejhVQzlkYS93PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Multishow
+https://ori5i.azureedge.net//hls1/multishow.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MDM6MTAgQU0maGFzaF92YWx1ZT02YkJpK0dOcm5uUTBOdHFPbjhYMjV3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Notícias",Globo News
+https://ori3i.azureedge.net//hls1/globonews.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MDU6MTUgQU0maGFzaF92YWx1ZT1kV1VncGhxOUZ0ZFVaRzFVRWxMNUl3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Documentários",History
+https://ori6i.azureedge.net//hls1/history.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MDk6MjUgQU0maGFzaF92YWx1ZT1NK2hBUHhISStYTkRLSFpvcng3aEFnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Documentários",H2
+https://ori6i.azureedge.net//hls1/history2.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MDY6NDAgQU0maGFzaF92YWx1ZT1YUHVYV1ZlOTR2R0xHK1UvOXpuTnl3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",HBO
+https://ori6i.azureedge.net//hls1/hbo.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MTA6NDUgQU0maGFzaF92YWx1ZT1OQkwrMzJRbzUvNEVXekxCdXdvTFZRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",HBO 2
+https://ori5i.azureedge.net//hls1/hbo2.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MTE6NTEgQU0maGFzaF92YWx1ZT03U1F1NXRnOXZBWmpCUER4dW9nMTNRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",HBO Signature
+https://ori6i.azureedge.net//hls1/hbosignature.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MTI6NTggQU0maGFzaF92YWx1ZT1STU5HaWRIN0Jpb2J6bE16YzdOb0lnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
