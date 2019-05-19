@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2019/05/MV5BNGJlZGQ3ZWEtYWNkZi00ZTU0LTg0MGYtMDU5MTBiNjg3NGQyXkEyXkFqcGdeQXVyNTM2NTY4NzU@._V1_SY1000_CR007521000_AL_.jpg" group-title="ADICIONADOS RECENTEMENTE",Shazan (2019)
+http://s1.netcine.us/html/content/conteudolb4/filmes2019/SHAZZAMMLEG-ALTO.mp4?token=st=1558196889~exp=1558218489~acl=/html/*~hmac=bd15ba13091e15f57b07c8cf7c14686c
 #EXTINF:-1 tvg-logo="https://nerdbreak.com.br/wp-content/uploads/2019/02/sai-de-baixo-1-768x432.jpg" group-title="ADICIONADOS RECENTEMENTE",Sai De Baixo: O Filme (2019)
 http://ori22e.azureedge.net/RedeCanais/RCFServer2/ondemand/SADBXOFLM.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/04/26/17/30/2428965.jpg" group-title="ADICIONADOS RECENTEMENTE",Vingadores: Ultimato (2019)
@@ -216,7 +218,7 @@ http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/108/21010802_20130606193222789.jpg" group-title="KUBRICK",2001: UMA ODISSÉIA NO ESPAÇO (1968)
 https://ori11d.azureedge.net/RedeCanais/RCFServer4/ondemand/2001UMAODSANESPC.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/12/20127559.jpg" group-title="KUBRICK",Laranja Mecânica (1971)
-http://s8.netcine.us/html/content/conteudolb2/filmes2018/LARANJAMECANICA-ALTO.mp4?token=st=1558196889~exp=1558218489~acl=/html/*~hmac=bd15ba13091e15f57b07c8cf7c14686c
+http://s3.netcine.us/html/content/conteudolb2/filmes2018/LARANJAMECANICA-ALTO.mp4?token=st=1558196889~exp=1558218489~acl=/html/*~hmac=bd15ba13091e15f57b07c8cf7c14686c
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/093/21009361_20130529171930105.jpg" group-title="KUBRICK",NASCIDO PARA MATAR (1987)
 https://ori11d.azureedge.net/RedeCanais/RCFServer4/ondemand/NSCDPRMTR.mp4
 
