@@ -2406,15 +2406,15 @@ http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer13/ondemand/GNIST01EP10.
 
 
 #EXTINF:-1 tvg-logo="http://www.revistapixel.com.br/wp-content/uploads/2016/09/gigantes.jpg" group-title="GIGANTES DO BRASIL",Gigantes do Brasil E01	
-http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GIGNTSDBRSLPT01.mp4?CompartilhandoIPTV		
+http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GIGNTSDBRSLPT01.mp4
 #EXTINF:-1 tvg-logo="http://www.revistapixel.com.br/wp-content/uploads/2016/09/gigantes.jpg" group-title="GIGANTES DO BRASIL",Gigantes do Brasil E02	
-http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GIGNTSDBRSLPT02.mp4?CompartilhandoIPTV		
+http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GIGNTSDBRSLPT02.mp4
 #EXTINF:-1 tvg-logo="http://www.revistapixel.com.br/wp-content/uploads/2016/09/gigantes.jpg" group-title="GIGANTES DO BRASIL",Gigantes do Brasil E03	
-http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GIGNTSDBRSLPT03.mp4?CompartilhandoIPTV		
+http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GIGNTSDBRSLPT03.mp4
 #EXTINF:-1 tvg-logo="http://www.revistapixel.com.br/wp-content/uploads/2016/09/gigantes.jpg" group-title="GIGANTES DO BRASIL",Gigantes do Brasil E04	
-http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GIGNTSDBRSLPT04.mp4?CompartilhandoIPTV
+http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GIGNTSDBRSLPT04.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20of%20Thrones%20Capa.jpg" group-title="GAME OF THRONES",GoT S01E00
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dvd-serie-game-of-thrones-1-a-7-temporada-D_NQ_NP_839056-MLB26666020627_012018-F.jpg" group-title="GAME OF THRONES",GoT S01E00
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/3e1ea534.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Game%20of%20Thrones1.jpg" group-title="GAME OF THRONES",GoT S01E01 Winter is Coming
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/GMOFTRT01EP01.mp4
@@ -2436,141 +2436,145 @@ http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/GMOFTRT01EP08.m
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/GMOFTRT01EP09.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Game%20of%20Thrones1.jpg" group-title="GAME OF THRONES",GoT S01E10 Fire and Blood – Season Finale
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/GMOFTRT01EP10.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES",GoT S02E01 The North Remembers
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/segunda-temporada.jpg" group-title="GAME OF THRONES",GoT S02E01 The North Remembers
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/GMOFTRT02EP01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES",GoT S02E02 The Night Lands
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/segunda-temporada.jpg" group-title="GAME OF THRONES",GoT S02E02 The Night Lands
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/GMOFTRT02EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES",GoT S02E03 What is Dead May Never Die
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/segunda-temporada.jpg" group-title="GAME OF THRONES",GoT S02E03 What is Dead May Never Die
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/GMOFTRT02EP03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES",GoT S02E04 Garden of Bones
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/segunda-temporada.jpg" group-title="GAME OF THRONES",GoT S02E04 Garden of Bones
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/GMOFTRT02EP04.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES",GoT S02E05 The Ghost of Harrenhal
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/segunda-temporada.jpg" group-title="GAME OF THRONES",GoT S02E05 The Ghost of Harrenhal
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/GMOFTRT02EP05.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES",GoT S02E06 The Old Gods and the New
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/segunda-temporada.jpg" group-title="GAME OF THRONES",GoT S02E06 The Old Gods and the New
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/GMOFTRT02EP06.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES",GoT S02E07 A Man Without Honor
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/segunda-temporada.jpg" group-title="GAME OF THRONES",GoT S02E07 A Man Without Honor
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/GMOFTRT02EP07.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES",GoT S02E08 The Prince of Winterfell
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/segunda-temporada.jpg" group-title="GAME OF THRONES",GoT S02E08 The Prince of Winterfell
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/GMOFTRT02EP08.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES",GoT S02E09 Blackwater
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/segunda-temporada.jpg" group-title="GAME OF THRONES",GoT S02E09 Blackwater
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/GMOFTRT02EP09.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES",GoT S02E10 Valar Morghulis – Season Finale
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/segunda-temporada.jpg" group-title="GAME OF THRONES",GoT S02E10 Valar Morghulis – Season Finale
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer01/videos/GMOFTRT02EP10.mp4
 
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Game%20Of%20Thrones3.jpg" group-title="GAME OF THRONES",GoT S03E01 Valar Dohaeris
+#EXTINF:-1 tvg-logo="http://wallup.net/wp-content/uploads/2016/05/27/135423-anime-Peter_Dinklage-Game_of_Thrones-Tyrion_Lannister.jpg" group-title="GAME OF THRONES",GoT S03E01 Valar Dohaeris
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer04/ondemand/GMOFTRT03EP01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Game%20Of%20Thrones3.jpg" group-title="GAME OF THRONES",GoT S03E02 Dark Wings Dark Words
+#EXTINF:-1 tvg-logo="http://wallup.net/wp-content/uploads/2016/05/27/135423-anime-Peter_Dinklage-Game_of_Thrones-Tyrion_Lannister.jpg" group-title="GAME OF THRONES",GoT S03E02 Dark Wings Dark Words
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer04/ondemand/GMOFTRT03EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Game%20Of%20Thrones3.jpg" group-title="GAME OF THRONES",GoT S03E03 Walk of Punishment
+#EXTINF:-1 tvg-logo="http://wallup.net/wp-content/uploads/2016/05/27/135423-anime-Peter_Dinklage-Game_of_Thrones-Tyrion_Lannister.jpg" group-title="GAME OF THRONES",GoT S03E03 Walk of Punishment
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer04/ondemand/GMOFTRT03EP03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Game%20Of%20Thrones3.jpg" group-title="GAME OF THRONES",GoT S03E04 And Now His Watch Is Ended
+#EXTINF:-1 tvg-logo="http://wallup.net/wp-content/uploads/2016/05/27/135423-anime-Peter_Dinklage-Game_of_Thrones-Tyrion_Lannister.jpg" group-title="GAME OF THRONES",GoT S03E04 And Now His Watch Is Ended
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer04/ondemand/GMOFTRT03EP04.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Game%20Of%20Thrones3.jpg" group-title="GAME OF THRONES",GoT S03E05 Kissed by Fire
+#EXTINF:-1 tvg-logo="http://wallup.net/wp-content/uploads/2016/05/27/135423-anime-Peter_Dinklage-Game_of_Thrones-Tyrion_Lannister.jpg" group-title="GAME OF THRONES",GoT S03E05 Kissed by Fire
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer04/ondemand/GMOFTRT03EP05.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Game%20Of%20Thrones3.jpg" group-title="GAME OF THRONES",GoT S03E06 The Climb
+#EXTINF:-1 tvg-logo="http://wallup.net/wp-content/uploads/2016/05/27/135423-anime-Peter_Dinklage-Game_of_Thrones-Tyrion_Lannister.jpg" group-title="GAME OF THRONES",GoT S03E06 The Climb
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer05/ondemand/GMOFTRT03EP06.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Game%20Of%20Thrones3.jpg" group-title="GAME OF THRONES",GoT S03E07 The Bear and the Maiden Fair
+#EXTINF:-1 tvg-logo="http://wallup.net/wp-content/uploads/2016/05/27/135423-anime-Peter_Dinklage-Game_of_Thrones-Tyrion_Lannister.jpg" group-title="GAME OF THRONES",GoT S03E07 The Bear and the Maiden Fair
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer05/ondemand/GMOFTRT03EP07.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Game%20Of%20Thrones3.jpg" group-title="GAME OF THRONES",GoT S03E08 Second Sons
+#EXTINF:-1 tvg-logo="http://wallup.net/wp-content/uploads/2016/05/27/135423-anime-Peter_Dinklage-Game_of_Thrones-Tyrion_Lannister.jpg" group-title="GAME OF THRONES",GoT S03E08 Second Sons
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer05/ondemand/GMOFTRT03EP08.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Game%20Of%20Thrones3.jpg" group-title="GAME OF THRONES",GoT S03E09 The Rains of Castamere
+#EXTINF:-1 tvg-logo="http://wallup.net/wp-content/uploads/2016/05/27/135423-anime-Peter_Dinklage-Game_of_Thrones-Tyrion_Lannister.jpg" group-title="GAME OF THRONES",GoT S03E09 The Rains of Castamere
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer05/ondemand/GMOFTRT03EP09.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Game%20Of%20Thrones3.jpg" group-title="GAME OF THRONES",GoT S03E10 Mhysa – Season Finale
+#EXTINF:-1 tvg-logo="http://wallup.net/wp-content/uploads/2016/05/27/135423-anime-Peter_Dinklage-Game_of_Thrones-Tyrion_Lannister.jpg" group-title="GAME OF THRONES",GoT S03E10 Mhysa – Season Finale
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer05/ondemand/GMOFTRT03EP10.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Game%20Of%20Thrones4.jpg" group-title="GAME OF THRONES",GoT S04E00 Gelo e Fogo um Prenúncio
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/Game-of-Thrones-Quarta-Temporada.jpg" group-title="GAME OF THRONES",GoT S04E00 Gelo e Fogo um Prenúncio
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRS04EP00.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Game%20Of%20Thrones4.jpg" group-title="GAME OF THRONES",GoT S04E01 Two Swords
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/Game-of-Thrones-Quarta-Temporada.jpg" group-title="GAME OF THRONES",GoT S04E01 Two Swords
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer07/ondemand/GMOFTRT04EP01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Game%20Of%20Thrones4.jpg" group-title="GAME OF THRONES",GoT S04E02 The Lion and the Rose
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/Game-of-Thrones-Quarta-Temporada.jpg" group-title="GAME OF THRONES",GoT S04E02 The Lion and the Rose
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer07/ondemand/GMOFTRT04EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Game%20Of%20Thrones4.jpg" group-title="GAME OF THRONES",GoT S04E03 Breaker of Chains
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/Game-of-Thrones-Quarta-Temporada.jpg" group-title="GAME OF THRONES",GoT S04E03 Breaker of Chains
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer07/ondemand/GMOFTRT04EP03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Game%20Of%20Thrones4.jpg" group-title="GAME OF THRONES",GoT S04E04 Oathkeeper
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/Game-of-Thrones-Quarta-Temporada.jpg" group-title="GAME OF THRONES",GoT S04E04 Oathkeeper
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer07/ondemand/GMOFTRT04EP04.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Game%20Of%20Thrones4.jpg" group-title="GAME OF THRONES",GoT S04E05 First of His Name
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/Game-of-Thrones-Quarta-Temporada.jpg" group-title="GAME OF THRONES",GoT S04E05 First of His Name
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer07/ondemand/GMOFTRT04EP05.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Game%20Of%20Thrones4.jpg" group-title="GAME OF THRONES",GoT S04E06 The Laws of Gods and Men
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/Game-of-Thrones-Quarta-Temporada.jpg" group-title="GAME OF THRONES",GoT S04E06 The Laws of Gods and Men
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer08/ondemand/GMOFTRT04EP06.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Game%20Of%20Thrones4.jpg" group-title="GAME OF THRONES",GoT S04E07 Mockingbird
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/Game-of-Thrones-Quarta-Temporada.jpg" group-title="GAME OF THRONES",GoT S04E07 Mockingbird
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer08/ondemand/GMOFTRT04EP07.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Game%20Of%20Thrones4.jpg" group-title="GAME OF THRONES",GoT S04E08 The Mountain and the Viper
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/Game-of-Thrones-Quarta-Temporada.jpg" group-title="GAME OF THRONES",GoT S04E08 The Mountain and the Viper
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer08/ondemand/GMOFTRT04EP08.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Game%20Of%20Thrones4.jpg" group-title="GAME OF THRONES",GoT S04E09 The Watchers on the Wall
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/Game-of-Thrones-Quarta-Temporada.jpg" group-title="GAME OF THRONES",GoT S04E09 The Watchers on the Wall
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer08/ondemand/GMOFTRT04EP09.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Game%20Of%20Thrones4.jpg" group-title="GAME OF THRONES",GoT S04E10 The Children – Season Finale
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.gameofthrones.tv.br/wp-content/uploads/2016/07/Game-of-Thrones-Quarta-Temporada.jpg" group-title="GAME OF THRONES",GoT S04E10 The Children – Season Finale
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer08/ondemand/GMOFTRT04EP10.mp4
 
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones5.jpg" group-title="GAME OF THRONES",GoT S05E00 Um Dia na Vida
+#EXTINF:-1 tvg-logo="https://overmental.com/wp-content/uploads/2015/03/Game-of-Thrones-Article-Pic-6.jpg" group-title="GAME OF THRONES",GoT S05E00 Um Dia na Vida
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRS05EP00.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones5.jpg" group-title="GAME OF THRONES",GoT S05E01 The Wars to Come
+#EXTINF:-1 tvg-logo="https://overmental.com/wp-content/uploads/2015/03/Game-of-Thrones-Article-Pic-6.jpg" group-title="GAME OF THRONES",GoT S05E01 The Wars to Come
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT05EP01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones5.jpg" group-title="GAME OF THRONES",GoT S05E02 The House of Black and White
+#EXTINF:-1 tvg-logo="https://overmental.com/wp-content/uploads/2015/03/Game-of-Thrones-Article-Pic-6.jpg" group-title="GAME OF THRONES",GoT S05E02 The House of Black and White
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT05EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones5.jpg" group-title="GAME OF THRONES",GoT S05E03 High Sparrow
+#EXTINF:-1 tvg-logo="https://overmental.com/wp-content/uploads/2015/03/Game-of-Thrones-Article-Pic-6.jpg" group-title="GAME OF THRONES",GoT S05E03 High Sparrow
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT05EP03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones5.jpg" group-title="GAME OF THRONES",GoT S05E04 The Sons of the Harpy
+#EXTINF:-1 tvg-logo="https://overmental.com/wp-content/uploads/2015/03/Game-of-Thrones-Article-Pic-6.jpg" group-title="GAME OF THRONES",GoT S05E04 The Sons of the Harpy
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT05EP04.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones5.jpg" group-title="GAME OF THRONES",GoT S05E05 Kill the Boy
+#EXTINF:-1 tvg-logo="https://overmental.com/wp-content/uploads/2015/03/Game-of-Thrones-Article-Pic-6.jpg" group-title="GAME OF THRONES",GoT S05E05 Kill the Boy
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT05EP05.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones5.jpg" group-title="GAME OF THRONES",GoT S05E06 Unbowed Unbent Unbroken
+#EXTINF:-1 tvg-logo="https://overmental.com/wp-content/uploads/2015/03/Game-of-Thrones-Article-Pic-6.jpg" group-title="GAME OF THRONES",GoT S05E06 Unbowed Unbent Unbroken
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT05EP06.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones5.jpg" group-title="GAME OF THRONES",GoT S05E07 The Gift
+#EXTINF:-1 tvg-logo="https://overmental.com/wp-content/uploads/2015/03/Game-of-Thrones-Article-Pic-6.jpg" group-title="GAME OF THRONES",GoT S05E07 The Gift
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT05EP07.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones5.jpg" group-title="GAME OF THRONES",GoT S05E08 Hardhome
+#EXTINF:-1 tvg-logo="https://overmental.com/wp-content/uploads/2015/03/Game-of-Thrones-Article-Pic-6.jpg" group-title="GAME OF THRONES",GoT S05E08 Hardhome
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT05EP08.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones5.jpg" group-title="GAME OF THRONES",GoT S05E09 The Dance of Dragons
+#EXTINF:-1 tvg-logo="https://overmental.com/wp-content/uploads/2015/03/Game-of-Thrones-Article-Pic-6.jpg" group-title="GAME OF THRONES",GoT S05E09 The Dance of Dragons
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT05EP09.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones5.jpg" group-title="GAME OF THRONES",GoT S05E10 Mother's Mercy – Season Finale
+#EXTINF:-1 tvg-logo="https://overmental.com/wp-content/uploads/2015/03/Game-of-Thrones-Article-Pic-6.jpg" group-title="GAME OF THRONES",GoT S05E10 Mother's Mercy – Season Finale
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT05EP10.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones6.jpg" group-title="GAME OF THRONES",GoT S06E01 The Red Woman
+
+#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/noticias/game_of_thrones_ver59.2.jpg" group-title="GAME OF THRONES",GoT S06E01 The Red Woman
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GMOFTRT06EP01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones6.jpg" group-title="GAME OF THRONES",GoT S06E02 Home
+#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/noticias/game_of_thrones_ver59.2.jpg" group-title="GAME OF THRONES",GoT S06E02 Home
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GMOFTRT06EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones6.jpg" group-title="GAME OF THRONES",GoT S06E03 Oathbreaker
+#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/noticias/game_of_thrones_ver59.2.jpg" group-title="GAME OF THRONES",GoT S06E03 Oathbreaker
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GMOFTRT06EP03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones6.jpg" group-title="GAME OF THRONES",GoT S06E04 Book of the Stranger
+#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/noticias/game_of_thrones_ver59.2.jpg" group-title="GAME OF THRONES",GoT S06E04 Book of the Stranger
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GMOFTRT06EP04.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones6.jpg" group-title="GAME OF THRONES",GoT S06E05 A Porta
+#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/noticias/game_of_thrones_ver59.2.jpg" group-title="GAME OF THRONES",GoT S06E05 A Porta
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GMOFTRT06EP05.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones6.jpg" group-title="GAME OF THRONES",GoT S06E06  Sangue do Meu Sangue
+#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/noticias/game_of_thrones_ver59.2.jpg" group-title="GAME OF THRONES",GoT S06E06  Sangue do Meu Sangue
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GMOFTRT06EP06.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones6.jpg" group-title="GAME OF THRONES",GoT S06E07 O Homem Quebrado
+#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/noticias/game_of_thrones_ver59.2.jpg" group-title="GAME OF THRONES",GoT S06E07 O Homem Quebrado
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GMOFTRT06EP07.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones6.jpg" group-title="GAME OF THRONES",GoT S06E08  Ninguém
+#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/noticias/game_of_thrones_ver59.2.jpg" group-title="GAME OF THRONES",GoT S06E08  Ninguém
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GMOFTRT06EP08.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones6.jpg" group-title="GAME OF THRONES",GoT S06E09 A Batalha dos Bastardos
+#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/noticias/game_of_thrones_ver59.2.jpg" group-title="GAME OF THRONES",GoT S06E09 A Batalha dos Bastardos
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GMOFTRT06EP09.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Game%20Of%20Thrones6.jpg" group-title="GAME OF THRONES",GoT S06E10 Os Ventos do Inverno
+#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/noticias/game_of_thrones_ver59.2.jpg" group-title="GAME OF THRONES",GoT S06E10 Os Ventos do Inverno
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer10/ondemand/GMOFTRT06EP10.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Game%20Of%20Thrones7.jpg" group-title="GAME OF THRONES",GoT S07E01 Pedra do Dragão
+
+#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2017/08/image.jpg" group-title="GAME OF THRONES",GoT S07E01 Pedra do Dragão
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer05/ondemand/GMOFTRT07EP01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Game%20Of%20Thrones7.jpg" group-title="GAME OF THRONES",GoT S07E02 Nascida na Tormenta
+#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2017/08/image.jpg" group-title="GAME OF THRONES",GoT S07E02 Nascida na Tormenta
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer05/ondemand/GMOFTRT07EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Game%20Of%20Thrones7.jpg" group-title="GAME OF THRONES",GoT S07E03 A Justiça da Rainha
+#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2017/08/image.jpg" group-title="GAME OF THRONES",GoT S07E03 A Justiça da Rainha
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer05/ondemand/GMOFTRT07EP03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Game%20Of%20Thrones7.jpg" group-title="GAME OF THRONES",GoT S07E04 Os Espólios da Guerra
+#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2017/08/image.jpg" group-title="GAME OF THRONES",GoT S07E04 Os Espólios da Guerra
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT07EP04.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Game%20Of%20Thrones7.jpg" group-title="GAME OF THRONES",GoT S07E05 Atalaialeste
+#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2017/08/image.jpg" group-title="GAME OF THRONES",GoT S07E05 Atalaialeste
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT07EP05.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Game%20Of%20Thrones7.jpg" group-title="GAME OF THRONES",GoT S07E06 O Inimigo é a Morte
+#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2017/08/image.jpg" group-title="GAME OF THRONES",GoT S07E06 O Inimigo é a Morte
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT07EP06.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Game%20Of%20Thrones7.jpg" group-title="GAME OF THRONES",GoT S07E07 O Dragão e O Lobo
+#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2017/08/image.jpg" group-title="GAME OF THRONES",GoT S07E07 O Dragão e O Lobo
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GMOFTRT07EP07.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20of%20Thrones%208.jpg" group-title="GAME OF THRONES",GoT S08E01 Whinterfell
+#EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/game_of_thrones_season_8_poster.jpg" group-title="GAME OF THRONES",GoT S08E01 Whinterfell
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08Ep01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20of%20Thrones%208.jpg" group-title="GAME OF THRONES",GoT S08E02 Uma Cavaleira dos Sete Reinos
+#EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/game_of_thrones_season_8_poster.jpg" group-title="GAME OF THRONES",GoT S08E02 Uma Cavaleira dos Sete Reinos
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20of%20Thrones%208.jpg" group-title="GAME OF THRONES",GoT S08E03 A Longa Noite
+#EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/game_of_thrones_season_8_poster.jpg" group-title="GAME OF THRONES",GoT S08E03 A Longa Noite
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20of%20Thrones%208.jpg" group-title="GAME OF THRONES",GoT S08E04 Os Últimos Starks
+#EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/game_of_thrones_season_8_poster.jpg" group-title="GAME OF THRONES",GoT S08E04 Os Últimos Starks
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP04.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Game%20of%20Thrones%208.jpg" group-title="GAME OF THRONES",GoT S08E05 Os Sinos
+#EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/game_of_thrones_season_8_poster.jpg" group-title="GAME OF THRONES",GoT S08E05 Os Sinos
 http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP05.mp4
-
+#EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/game_of_thrones_season_8_poster.jpg" group-title="GAME OF THRONES",GoT S08E06 O Trono de Ferro
+http://drt993bten3n8.cloudfront.net/RedeCanais/RCServer06/ondemand/GMOFTRT08EP06.mp4
 #EXTINF:-1 tvg-logo="http://static.quizur.com/i/b/56f7599dbfb736.6786838856f7599da73ad0.42267932.jpg" group-title="GUERRAS MUNDIAIS",GUERRAS MUNDIAIS E01
 http://d2ams7wra7r370.cloudfront.net/RedeCanais/RCServer09/ondemand/GRSMDLT01EP01.mp4
 #EXTINF:-1 tvg-logo="http://static.quizur.com/i/b/56f7599dbfb736.6786838856f7599da73ad0.42267932.jpg" group-title="GUERRAS MUNDIAIS",GUERRAS MUNDIAIS E02
