@@ -142,14 +142,12 @@ https://upstreams.global.ssl.fastly.net/RedeCanais/RedeCanais/RCFServer4/ondeman
 https://upstreams.global.ssl.fastly.net/RedeCanais/RedeCanais/RCFServer4/ondemand/PNTRNGR.mp4/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/2C0hMRuCY_7NfDPjby4_Bjmq8Nc=/e.glbimg.com/og/ed/f/original/2018/03/22/avengers-infinity-war-official-poster-2018-4o.jpg"  group-title="Universo Marvel",VINGADORES: GUERRA INFINITA (2018)
 https://upstreams.global.ssl.fastly.net/RedeCanais/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4/chunk.m3u8
-https://upstreams.global.ssl.fastly.net/RedeCanais/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://centralvingadores.com.br/wp-content/uploads/2018/09/HOMEM-FORMIGA-E-A-VESPA-Veja-a-lista-de-extras-do-Blu-ray-do-filme-894x597.png" group-title="Universo Marvel",HOMEM FORMIGA E A VESPA (2018)
 https://upstreams.global.ssl.fastly.net/RedeCanais/RedeCanais/RCFServer4/ondemand/HMNFRMGEVSPA.mp4/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://abrilsuperinteressante.files.wordpress.com/2019/02/site_capitamarvel.png" group-title="Universo Marvel",Capitã Marvel (2019)
 http://s1.netcine.us/html/content/conteudolb4/filmes2019/CAPITAMARVELLEG-ALTO.mp4?token=st=1558281015~exp=1558302615~acl=/html/*~hmac=95d2e145ab51ca1d4b1e1beb37e28dcd
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_br/screenshot/default/avengers-endgame-poster-bottom-half_7qau.600.jpg" group-title="Universo Marvel",Vingadores: Ultimato (2019)
 https://upstreams.global.ssl.fastly.net/RedeCanais/RedeCanais/RCFServer2/ondemand/VNGDRSULTMTO.mp4/chunk.m3u8
-
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/057/21005782_20130514172205617.jpg" group-title="Universo DC",O HOMEM DE AÇO (2013)
 https://upstreams.global.ssl.fastly.net/RedeCanais/RedeCanais/RCFServer1/ondemand/OHMNDACO.mp4/chunk.m3u8
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/01/04/18/43/2155615.jpg" group-title="Universo DC",BATMAN VS SUPERMAN: A ORIGEM DA JUSTIÇA (2016)
