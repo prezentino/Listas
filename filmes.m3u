@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://www.contracampo.com.br/48/tresreis.jpg" group-title="ADICIONADOS RECENTEMENTE",Três Reis (2019)
+https://betonimble.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/TRSRES.mp4
 #EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2019/06/images.jpg" group-title="ADICIONADOS RECENTEMENTE",O Gênio e O Louco (2019)
 http://s1.netcine.us/html/content/conteudolb4/filmes2019/THEPROFESSORANDTHEMADMAN-ALTO.mp4?token=st=1559592528~exp=1559614128~acl=/html/*~hmac=25246eb4cc03f8ee087749ce014f3fbe
 #EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2019/04/images.jpg" group-title="ADICIONADOS RECENTEMENTE",Capitã Marvel (2019)
