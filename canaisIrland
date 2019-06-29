@@ -1724,3 +1724,135 @@ http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/29432
 http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/29566
 #EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiacos 24H Saga Doze Casas" tvg-logo="" group-title="Canais: 24 Hrs",Cavaleiros dos Zodiacos 24H Saga Doze Casas
 http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/29706
+#EXTINF:-1 tvg-id="Band.hdbr" tvg-name="BAND SP" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais: Abertos",BAND SP
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/30930
+#EXTINF:-1 tvg-id="CancaoNova1.hdbr" tvg-name="CANCÃO NOVA FHD" tvg-logo="http://i.imgur.com/wVxLluR.png" group-title="Canais: Religioso",CANCÃO NOVA FHD
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/30931
+#EXTINF:-1 tvg-id="CancaoNova1.hdbr" tvg-name="CANCÃO NOVA HD" tvg-logo="http://i.imgur.com/wVxLluR.png" group-title="Canais: Religioso",CANCÃO NOVA HD
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/30932
+#EXTINF:-1 tvg-id="Globosp.hdbr" tvg-name="GLOBO SP" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais: Abertos",GLOBO SP
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/30938
+#EXTINF:-1 tvg-id="Globosp1.hdbr" tvg-name="GLOBO SP HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais: Abertos",GLOBO SP HD
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/30937
+#EXTINF:-1 tvg-id="Canalbrasil1.hdbr" tvg-name="CANAL BRASIL HD" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais: Abertos",CANAL BRASIL HD
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/30933
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-1-hd_m.png" group-title="Canais: Filmes e Séries",FOX PREMIUM 1 HD
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/30934
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM S. J. DO RIO PRETO" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais: Abertos",GLOBO TV TEM S. J. DO RIO PRETO
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/30935
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM S. J. DO RIO PRETO HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais: Abertos",GLOBO TV TEM S. J. DO RIO PRETO HD
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/30936
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais: Abertos",GLOBO EPTV RIBEIRÃO PRETO
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/30940
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais: Abertos",GLOBO EPTV RIBEIRÃO PRETO HD
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/30941
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais: Abertos",GLOBO NORDESTE HD
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/30939
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais: Abertos",GLOBO RBS TV PELOTAS HD
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/30948
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS SD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais: Abertos",GLOBO RBS TV PELOTAS SD
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/30949
+#EXTINF:-1 tvg-id="SporTV HD [Alter]" tvg-name="SPORTV HD [Alter]" tvg-logo="http://i.imgur.com/gDHSHwM.png" group-title="Canais: Esportes",SPORTV HD [Alter]
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31207
+#EXTINF:-1 tvg-id="" tvg-name="Vingança a Sangue Frio" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/01/28/15/08/1460544.jpg" group-title="Filme: Lançamentos / Pedidos",Vingança a Sangue Frio
+http://srv.mtvs.me:8880/movie/HmMETkGDuV/mjCWfBcLDf/31284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24H 3 PALAVRINHAS" tvg-logo="" group-title="Canais: 24 Hrs",24H 3 PALAVRINHAS
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31311
+#EXTINF:-1 tvg-id="" tvg-name="24H A PANTERA COR DE ROSA" tvg-logo="" group-title="Canais: 24 Hrs",24H A PANTERA COR DE ROSA
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31310
+#EXTINF:-1 tvg-id="" tvg-name="24H A PEQUENA SEREIA" tvg-logo="" group-title="Canais: 24 Hrs",24H A PEQUENA SEREIA
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31314
+#EXTINF:-1 tvg-id="" tvg-name="24H A VACA E O FRANGO" tvg-logo="" group-title="Canais: 24 Hrs",24H A VACA E O FRANGO
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31309
+#EXTINF:-1 tvg-id="" tvg-name="24H ALADDIN" tvg-logo="" group-title="Canais: 24 Hrs",24H ALADDIN
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31338
+#EXTINF:-1 tvg-id="" tvg-name="24H AS MENINAS SUPERPODEROSAS" tvg-logo="" group-title="Canais: 24 Hrs",24H AS MENINAS SUPERPODEROSAS
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31324
+#EXTINF:-1 tvg-id="" tvg-name="24H BABY LOONEY TUNES" tvg-logo="" group-title="Canais: 24 Hrs",24H BABY LOONEY TUNES
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31323
+#EXTINF:-1 tvg-id="" tvg-name="24H BIBO PAI E BOBI FILHO" tvg-logo="" group-title="Canais: 24 Hrs",24H BIBO PAI E BOBI FILHO
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31308
+#EXTINF:-1 tvg-id="" tvg-name="24H BIG MOUTH" tvg-logo="" group-title="Canais: 24 Hrs",24H BIG MOUTH
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31307
+#EXTINF:-1 tvg-id="" tvg-name="24H BLAZE AND THE MONSTER MACHINES" tvg-logo="" group-title="Canais: 24 Hrs",24H BLAZE AND THE MONSTER MACHINES
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31335
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVALO DE FOGO" tvg-logo="" group-title="Canais: 24 Hrs",24H CAVALO DE FOGO
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31306
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGAO" tvg-logo="" group-title="Canais: 24 Hrs",24H CAVERNA DO DRAGAO
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31305
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES" tvg-logo="" group-title="Canais: 24 Hrs",24H CHAVES
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31339
+#EXTINF:-1 tvg-id="" tvg-name="24H COELHO RICOCHETE" tvg-logo="" group-title="Canais: 24 Hrs",24H COELHO RICOCHETE
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31304
+#EXTINF:-1 tvg-id="" tvg-name="24H CORRIDA MALUCA" tvg-logo="" group-title="Canais: 24 Hrs",24H CORRIDA MALUCA
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31334
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAKE E JOSH" tvg-logo="" group-title="Canais: 24 Hrs",24H DRAKE E JOSH
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31329
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCKTALES" tvg-logo="" group-title="Canais: 24 Hrs",24H DUCKTALES
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31302
+#EXTINF:-1 tvg-id="" tvg-name="24H ESQUILO SEM GRILO" tvg-logo="" group-title="Canais: 24 Hrs",24H ESQUILO SEM GRILO
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31301
+#EXTINF:-1 tvg-id="" tvg-name="24H EU A PATROA E AS CRIAN?AS" tvg-logo="" group-title="Canais: 24 Hrs",24H EU A PATROA E AS CRIAN?AS
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31315
+#EXTINF:-1 tvg-id="" tvg-name="24H EU SOU O MAXIMO" tvg-logo="" group-title="Canais: 24 Hrs",24H EU SOU O MAXIMO
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31300
+#EXTINF:-1 tvg-id="" tvg-name="24H FAMIL?A DINOSSAUROS" tvg-logo="" group-title="Canais: 24 Hrs",24H FAMIL?A DINOSSAUROS
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31333
+#EXTINF:-1 tvg-id="" tvg-name="24H FAMILIA ADDAMS" tvg-logo="" group-title="Canais: 24 Hrs",24H FAMILIA ADDAMS
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31286
+#EXTINF:-1 tvg-id="" tvg-name="24H FORMIGA ATOMICA" tvg-logo="" group-title="Canais: 24 Hrs",24H FORMIGA ATOMICA
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31299
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA PINTADINHA" tvg-logo="" group-title="Canais: 24 Hrs",24H GALINHA PINTADINHA
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31320
+#EXTINF:-1 tvg-id="" tvg-name="24H GASPARZINHO" tvg-logo="" group-title="Canais: 24 Hrs",24H GASPARZINHO
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31298
+#EXTINF:-1 tvg-id="" tvg-name="24H GATO FELIX" tvg-logo="" group-title="Canais: 24 Hrs",24H GATO FELIX
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31297
+#EXTINF:-1 tvg-id="" tvg-name="24H HEY ARNOLD" tvg-logo="" group-title="Canais: 24 Hrs",24H HEY ARNOLD
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31296
+#EXTINF:-1 tvg-id="" tvg-name="24H HORA DE AVENTURA" tvg-logo="" group-title="Canais: 24 Hrs",24H HORA DE AVENTURA
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31331
+#EXTINF:-1 tvg-id="" tvg-name="24H HORA DO ROCK" tvg-logo="" group-title="Canais: 24 Hrs",24H HORA DO ROCK
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31295
+#EXTINF:-1 tvg-id="" tvg-name="24H ICARLY" tvg-logo="" group-title="Canais: 24 Hrs",24H ICARLY
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31294
+#EXTINF:-1 tvg-id="" tvg-name="24H LIGEIRINHO" tvg-logo="" group-title="Canais: 24 Hrs",24H LIGEIRINHO
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31293
+#EXTINF:-1 tvg-id="" tvg-name="24H MASHA E O URSO" tvg-logo="" group-title="Canais: 24 Hrs",24H MASHA E O URSO
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31319
+#EXTINF:-1 tvg-id="" tvg-name="24H MASTERCHEF" tvg-logo="" group-title="Canais: 24 Hrs",24H MASTERCHEF
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31285
+#EXTINF:-1 tvg-id="" tvg-name="24H O M?SKARA" tvg-logo="" group-title="Canais: 24 Hrs",24H O M?SKARA
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31287
+#EXTINF:-1 tvg-id="" tvg-name="24H O MUNDO DE BITA" tvg-logo="" group-title="Canais: 24 Hrs",24H O MUNDO DE BITA
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31318
+#EXTINF:-1 tvg-id="" tvg-name="24H OS FLINTSTONES" tvg-logo="" group-title="Canais: 24 Hrs",24H OS FLINTSTONES
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31317
+#EXTINF:-1 tvg-id="" tvg-name="24H OS JETSONS" tvg-logo="" group-title="Canais: 24 Hrs",24H OS JETSONS
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31292
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA" tvg-logo="" group-title="Canais: 24 Hrs",24H PATRULHA CANINA
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31336
+#EXTINF:-1 tvg-id="" tvg-name="24H PEPPA PIG" tvg-logo="" group-title="Canais: 24 Hrs",24H PEPPA PIG
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31341
+#EXTINF:-1 tvg-id="" tvg-name="24H PERNALONGA" tvg-logo="" group-title="Canais: 24 Hrs",24H PERNALONGA
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31291
+#EXTINF:-1 tvg-id="" tvg-name="24H PICA PAU" tvg-logo="" group-title="Canais: 24 Hrs",24H PICA PAU
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31328
+#EXTINF:-1 tvg-id="" tvg-name="24H POCOYO" tvg-logo="" group-title="Canais: 24 Hrs",24H POCOYO
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31332
+#EXTINF:-1 tvg-id="" tvg-name="24H POPOYO" tvg-logo="" group-title="Canais: 24 Hrs",24H POPOYO
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31340
+#EXTINF:-1 tvg-id="" tvg-name="24H SCOOBY DOO!" tvg-logo="" group-title="Canais: 24 Hrs",24H SCOOBY DOO!
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31290
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPER AMIGOS" tvg-logo="" group-title="Canais: 24 Hrs",24H SUPER AMIGOS
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31289
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPER WINGS" tvg-logo="" group-title="Canais: 24 Hrs",24H SUPER WINGS
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31337
+#EXTINF:-1 tvg-id="" tvg-name="24H TODO MUNDO ODEIA O CHIRS" tvg-logo="" group-title="Canais: 24 Hrs",24H TODO MUNDO ODEIA O CHIRS
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31316
+#EXTINF:-1 tvg-id="" tvg-name="24H TURMA DO PATETA" tvg-logo="" group-title="Canais: 24 Hrs",24H TURMA DO PATETA
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31288
+#EXTINF:-1 tvg-id="" tvg-name="A AVENTUREIRA" tvg-logo="" group-title="Canais: 24 Hrs",A AVENTUREIRA
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31312
+#EXTINF:-1 tvg-id="" tvg-name="O PIMENTINHA" tvg-logo="" group-title="Canais: 24 Hrs",O PIMENTINHA
+http://srv.mtvs.me:8880/HmMETkGDuV/mjCWfBcLDf/31303
