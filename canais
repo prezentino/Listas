@@ -31,6 +31,8 @@ https://dqrlo08fv7y4w.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9N
 https://dqrlo08fv7y4w.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTI6MzkgUE0maGFzaF92YWx1ZT1RbWdxdzZNb1FraE5nVHAyanVmSCtRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Syfy
 https://dqrlo08fv7y4w.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6Mjg6MTQgUE0maGFzaF92YWx1ZT1HRm5CYnJEOFoyTXRzVitmMFVWaElBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Space HD
+https://dqrlo08fv7y4w.cloudfront.net/hls1/space.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6NDA6NTAgUE0maGFzaF92YWx1ZT15M2lFWDZrWUlYaitqeit2dGVqbWpRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",AXN
 https://dqrlo08fv7y4w.cloudfront.net/hls1/axn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTk6NTggUE0maGFzaF92YWx1ZT0xcFFrQlp1OEIzUVlRWnNKWko1Ny9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",AMC
@@ -68,6 +70,8 @@ https://dqrlo08fv7y4w.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=c2VydmVyX3R
 
 #EXTINF:-1 tvg-logo="" group-title="Cinemax",Cinemax
 https://dqrlo08fv7y4w.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTQ6MzAgUE0maGFzaF92YWx1ZT1mMHptRWxLcG1JKzdlTktuS1J5RWZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Cinemax",Max Up
+https://dqrlo08fv7y4w.cloudfront.net/hls1/maxup.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDM6MzcgUE0maGFzaF92YWx1ZT1Fb3hPTUdFVHFzL2xsaWFTenJLcUVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
 #EXTINF:-1 tvg-logo="" group-title="Telecine",Telecine Premium
@@ -84,8 +88,7 @@ https://dqrlo08fv7y4w.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign=c2VydmVyX
 https://dqrlo08fv7y4w.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTA6MjEgUE0maGFzaF92YWx1ZT0zRmdOajc3QmhrZEFMQUc0ZXRMN2R3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Space
-https://dqrlo08fv7y4w.cloudfront.net/hls1/space.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6NDA6NTAgUE0maGFzaF92YWx1ZT15M2lFWDZrWUlYaitqeit2dGVqbWpRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+
 
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Multishow
 https://dqrlo08fv7y4w.cloudfront.net/hls1/multishow.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MDM6MTAgQU0maGFzaF92YWx1ZT02YkJpK0dOcm5uUTBOdHFPbjhYMjV3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
