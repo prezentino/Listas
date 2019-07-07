@@ -17,6 +17,8 @@ https://dqrlo08fv7y4w.cloudfront.net/hls1/nick.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 https://dqrlo08fv7y4w.cloudfront.net/hls1/nickjr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDY6MTcgUE0maGFzaF92YWx1ZT1CYnNBWTNnb05pTkxyd09RZ2xMSDJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Zoomoo
 https://dqrlo08fv7y4w.cloudfront.net/hls1/zoomoo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MTA6MTcgUE0maGFzaF92YWx1ZT0yRUJuT2x0VTh2MXBSVTVjQjlYWTBBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Infantil",NatGeo Kids
+https://dqrlo08fv7y4w.cloudfront.net/hls1/natgeokids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MTQ6MjggUE0maGFzaF92YWx1ZT1uc1EzaEh0TzZNSzVOck1abVJuWnpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Warner
@@ -25,9 +27,19 @@ https://dqrlo08fv7y4w.cloudfront.net/hls1/warner.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMD
 https://dqrlo08fv7y4w.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1ODoxNyBQTSZoYXNoX3ZhbHVlPUg0bHZFQ3FodUdBN2FqOE1ydElDRVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TNT
 https://dqrlo08fv7y4w.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDA6MDMgUE0maGFzaF92YWx1ZT0xdTFxUHp2SUk3cURUd0NFREJGbFpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Syfy
+https://dqrlo08fv7y4w.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6Mjg6MTQgUE0maGFzaF92YWx1ZT1HRm5CYnJEOFoyTXRzVitmMFVWaElBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Paramount Channel
+https://dqrlo08fv7y4w.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzE6NTcgUE0maGFzaF92YWx1ZT1SU2xjMDk2TXAvQ2RtdC9zM2FUdEhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Universal Channel
+https://dqrlo08fv7y4w.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzA6MzkgUE0maGFzaF92YWx1ZT1IZld4bThMNkg1aXZNTjZCSEZScUJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Studio Universal
+https://dqrlo08fv7y4w.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MjE6NDAgUE0maGFzaF92YWx1ZT0zVFpQSTJ3Um9Vb2lZMXR6bGhLR25nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="" group-title="Fox",Fox
 https://dqrlo08fv7y4w.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1NTowMSBQTSZoYXNoX3ZhbHVlPTRtQ3lQSk1iMWNsM2grRVJnT2h4UVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+#EXTINF:-1 tvg-logo="" group-title="Fox",FX
+https://dqrlo08fv7y4w.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzM6MjkgUE0maGFzaF92YWx1ZT1NeEdGcklvTVNoNnJwTnB1clhMNUxRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="" group-title="HBO",HBO
 https://dqrlo08fv7y4w.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1MTo0NyBQTSZoYXNoX3ZhbHVlPU1YbEY0WEtaSDVTektTWS8xdC9RbXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
@@ -39,6 +51,8 @@ https://dqrlo08fv7y4w.cloudfront.net/hls1/hbosignature.m3u8?c2VydmVyX3RpbWU9NS8x
 
 #EXTINF:-1 tvg-logo="" group-title="Telecine",Telecine Premium
 https://dqrlo08fv7y4w.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1Mjo0NCBQTSZoYXNoX3ZhbHVlPXhtWXRqUjgycjlGOWNuUDFTb0l0R2c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+#EXTINF:-1 tvg-logo="" group-title="Telecine",Telecine Cult
+https://dqrlo08fv7y4w.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6Mzg6MDAgUE0maGFzaF92YWx1ZT1uK2FMeHF0UVdwQ1VVNjVzQ3pYNThBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Space
@@ -59,6 +73,14 @@ https://dqrlo08fv7y4w.cloudfront.net/hls1/globonews.m3u8?c2VydmVyX3RpbWU9NS8xOS8
 https://dqrlo08fv7y4w.cloudfront.net/hls1/history.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaW
 #EXTINF:-1 tvg-logo="" group-title="Documentários",H2
 https://dqrlo08fv7y4w.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaW
+#EXTINF:-1 tvg-logo="" group-title="Documentários",NatGeo
+https://dqrlo08fv7y4w.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MjU6NDggUE0maGFzaF92YWx1ZT11OGowTlUzdGtDemdNM1hLdWZnYnBRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Documentários",Discovery Channel
+https://dqrlo08fv7y4w.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MjM6MTAgUE0maGFzaF92YWx1ZT1oWlJ5K3ZoYlpVWWs1V3E1QWk3UnB3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Documentários",Discovery Science
+https://dqrlo08fv7y4w.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzU6MjQgUE0maGFzaF92YWx1ZT1MbjhSNVpnQTBreXlvb2I1K296WWNnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Documentários",Discovery Civilization
+https://dqrlo08fv7y4w.cloudfront.net/hls1/discoverycivilization.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzY6NDggUE0maGFzaF92YWx1ZT0vaXJYWCtGSFoxaGFmVmxZelVncnpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Espn Brasil
