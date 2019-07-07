@@ -39,6 +39,8 @@ https://dqrlo08fv7y4w.cloudfront.net/hls1/axn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9N
 https://dqrlo08fv7y4w.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDI6MDggUE0maGFzaF92YWx1ZT1lZ2luS2pkQU5QV2lESHZvM1JhSG93PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",A&E
 https://dqrlo08fv7y4w.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDE6NDAgUE0maGFzaF92YWx1ZT1PZkRFQXpKdlphY2FQcGwvbldUSUZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TCM
+https://dqrlo08fv7y4w.cloudfront.net/hls1/tcm.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTY6MjggUE0maGFzaF92YWx1ZT1pOU5kTTB2VDZldUdyZHNIZmwrZitnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Paramount Channel
 https://dqrlo08fv7y4w.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzE6NTcgUE0maGFzaF92YWx1ZT1SU2xjMDk2TXAvQ2RtdC9zM2FUdEhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Universal Channel
@@ -58,7 +60,7 @@ https://dqrlo08fv7y4w.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=c2VydmVyX
 https://dqrlo08fv7y4w.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTc6NDggUE0maGFzaF92YWx1ZT1HWjNXeHo2VW1tQ1FZbFJMaTlRQ0pnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="" group-title="HBO",HBO
-https://dqrlo08fv7y4w.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1MTo0NyBQTSZoYXNoX3ZhbHVlPU1YbEY0WEtaSDVTektTWS8xdC9RbXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://dqrlo08fv7y4w.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTc6MTMgUE0maGFzaF92YWx1ZT1CZEp3aU9CbW9zWVd3MnlNNndvVW5nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="HBO",HBO 2
 https://dqrlo08fv7y4w.cloudfront.net/hls1/hbo2.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MTE6NTEgQU0maGFzaF92YWx1ZT03U1F1NXRnOXZBWmpCUER4dW9nMTNRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="HBO",HBO Signature
@@ -70,8 +72,12 @@ https://dqrlo08fv7y4w.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=c2VydmVyX3R
 
 #EXTINF:-1 tvg-logo="" group-title="Cinemax",Cinemax
 https://dqrlo08fv7y4w.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTQ6MzAgUE0maGFzaF92YWx1ZT1mMHptRWxLcG1JKzdlTktuS1J5RWZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Cinemax",Max
+https://dqrlo08fv7y4w.cloudfront.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDc6MDAgUE0maGFzaF92YWx1ZT1PSWNaQjJ0cUFvUUdCZ1Y5WmkrVTJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Cinemax",Max Up
 https://dqrlo08fv7y4w.cloudfront.net/hls1/maxup.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDM6MzcgUE0maGFzaF92YWx1ZT1Fb3hPTUdFVHFzL2xsaWFTenJLcUVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Cinemax",Max Prime
+https://dqrlo08fv7y4w.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDY6MTQgUE0maGFzaF92YWx1ZT0wYUx5Q3RJWjk5MDdVVTF2Yzg3SXhnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
 #EXTINF:-1 tvg-logo="" group-title="Telecine",Telecine Premium
@@ -92,6 +98,16 @@ https://dqrlo08fv7y4w.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2Vydm
 
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Multishow
 https://dqrlo08fv7y4w.cloudfront.net/hls1/multishow.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MDM6MTAgQU0maGFzaF92YWx1ZT02YkJpK0dOcm5uUTBOdHFPbjhYMjV3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Comedy Central
+https://dqrlo08fv7y4w.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTI6MDQgUE0maGFzaF92YWx1ZT1KdVZvcmIwVXU3cHZMcjQ5UTZjT2NRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Discovery Home & Health
+https://dqrlo08fv7y4w.cloudfront.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTM6MzYgUE0maGFzaF92YWx1ZT1vZkk1KzlVVXdJM1h0T3dNbHB4VFJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Variedades",TLC
+https://dqrlo08fv7y4w.cloudfront.net/hls1/tlc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTY6MDIgUE0maGFzaF92YWx1ZT1jRW96dDFuNmhRR0hCRnhwU0IrRGFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Viva
+https://dqrlo08fv7y4w.cloudfront.net/hls1/viva.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTI6NTEgUE0maGFzaF92YWx1ZT03dzJKRW11UTdoTkg4VzNkZE1ZMTZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Lifetime
+https://dqrlo08fv7y4w.cloudfront.net/hls1/lifetime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDk6NDUgUE0maGFzaF92YWx1ZT1KN2dMWklCUlpCRVdnL1FmaXJzZUt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="" group-title="Artes",Curta!
 https://dqrlo08fv7y4w.cloudfront.net/hls1/curta.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOToxODozNiBQTSZoYXNoX3ZhbHVlPUx4dlJCSFhTYS9hUzZxTXhpYjhPYVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
