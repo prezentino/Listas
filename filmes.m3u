@@ -162,20 +162,30 @@ http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/NOPRTLDETRN
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/14/08/27/23/09/130788.jpg" group-title="Universo Marvel",HOMEM DE FERRO (2008)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNDEFRO01.mp4
+#EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2017/12/Homem-de-Ferro.jpg" group-title="Universo Marvel",HOMEM DE FERRO (2008)
+http://cdn2.netcine.us/html/content/httpdelivery-auth024846/filmes2017/HOMEMFERRODUB001-ALTO.mp4?token=qTxfO5TJ9Vx0fkTp5zpOjg&expires=1562914124
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xjBAYL-lvW0/hqdefault.jpg" group-title="Universo Marvel",O INCRÍVEL HULK (2008)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNDEFRO02.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_300_300/medias/nmedia/18/87/31/07/19874181.jpg" group-title="Universo Marvel",HOMEM DE FERRO 2 (2010)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNDEFRO02.mp4
+#EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2017/12/HOMEM-DE-FERRO-2.jpg" group-title="Universo Marvel",HOMEM DE FERRO 2 (2010)
+http://cdn2.netcine.us/html/content/httpdelivery-auth024846/filmes2017/HOMEMFERRODUB02-ALTO.mp4?token=QP3ynjQbd0fFebju8lttZQ&expires=1562914321
 #EXTINF:-1 tvg-logo="http://cdn.playbuzz.com/cdn/6ef253ba-124d-450f-838a-a166b1ef36a3/633e8e70-01f1-4f86-869f-3067cc33b8c0.jpg" group-title="Universo Marvel",THOR (2011)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer1/ondemand/THOR.mp4
+#EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2017/12/thor-movie-poster-marvel-2011-chris-hemsworth.jpg" group-title="Universo Marvel",THOR (2011)
+http://cdn2.netcine.us/html/content/httpdelivery-auth024846/filmes2017/THOR01DUB-ALTO.mp4?token=7kYW3tYknz6fs6G2gZ7yfw&expires=1562914545
 #EXTINF:-1 tvg-logo="http://midias.gazetaonline.com.br/_midias/jpg/2018/07/05/america-5682102.jpg" group-title="Universo Marvel",CAPITÃO AMÉRICA: O PRIMEIRO VINGADOR (2011)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/CAPTAMRC1.mp4
 #EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1600/0*CEzRw8b9bdMQZs9r.jpg" group-title="Universo Marvel",OS VINGADORES (2012)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer1/ondemand/OSVGDRS.mp4
 #EXTINF:-1 tvg-logo="https://awesomeplayers.files.wordpress.com/2013/04/homem-de-ferro-3-iron-man-3-crc3adtica.jpg" group-title="Universo Marvel",HOMEM DE FERRO 3 (2013)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNDEFRO03.mp4
+#EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2017/12/homem-de-ferro-3-poster.jpg" group-title="Universo Marvel",HOMEM DE FERRO 3 (2013)
+http://cdn2.netcine.us/html/content/httpdelivery-auth024846/filmes2017/HOMEMFERRODUB03-ALTO.mp4?token=hUfi9gU1zOdFu6egt-aoWA&expires=1562914409
 #EXTINF:-1 tvg-logo="http://www.blogdehollywood.com.br/wp-content/uploads/2013/10/filme-thor2-o-mundo-sombrio.jpg" group-title="Universo Marvel",THOR: O MUNDO SOMBRIO (2013)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer1/ondemand/THOROMNDSBR.mp4
+#EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2017/12/Thor_The_Dark_World_poster_006.jpg" group-title="Universo Marvel",THOR: O MUNDO SOMBRIO (2013)
+http://cdn2.netcine.us/html/content/httpdelivery-auth024846/filmes2017/THOR02DUB-ALTO.mp4?token=geXJ4qV89m2bwjFpWrypPQ&expires=1562914623
 #EXTINF:-1 tvg-logo="http://www.popground.com.br/wp-content/uploads/2014/03/capamerica2.png" group-title="Universo Marvel",CAPITÃO AMÉRICA 2: O SOLDADO INVERNAL (2014)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/CAPTAMRC2.mp4
 #EXTINF:-1 tvg-logo="http://phsantos.info/blog/wp-content/uploads/2014/08/wpid-gotg_wpw_teaser.jpg" group-title="Universo Marvel",GUARDIÕES DA GALÁXIA (2014)
@@ -224,21 +234,21 @@ http://cdn2.netcine.us/html/content/conteudolb/filmes2018/THEHOBBITDELEG-ALTO.mp
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/videothumbnails/15/07/14/17/08/377613.jpg" group-title="O Hobbit & O Senhor dos Anéis",O Senhor dos Anéis (1978)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer3/ondemand/OSNHRDSANES.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/11/e8c0b6e149f53e23834ecbca15881774.jpg" group-title="O Hobbit & O Senhor dos Anéis",O Retorno do Rei (1980)
-http://cdn2.netcine.us/html/content/conteudolb/filmes2018/THERETURNOFTHEKINGLEG-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn2.netcine.us/html/content/conteudolb/filmes2018/THERETURNOFTHEKINGLEG-ALTO.mp4?token=CU1bbKVhTSmH0p79KS6Jjg&expires=1562913682
 
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Hobbit%20-%20Uma%20Jornada%20Inesperada.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: UMA JORNADA INESPERADA (2012)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer1/ondemand/OHBTUJRNINSPRD.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/06/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_UX182_CR00182268_AL_.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: UMA JORNADA INESPERADA (2012)
-http://cdn2.netcine.us/html/content/delivery/filmes2018/HOBBIT1DUB-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn2.netcine.us/html/content/delivery/filmes2018/HOBBIT1DUB-ALTO.mp4?token=Gpr2CQWTdzrbKsY033UYjg&expires=1562913811
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Hobbit%20-%20A%20Desola%C3%A7%C3%A3o%20de%20Smaug.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A DESOLAÇÃO DE SMAUG (2013)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer1/ondemand/OHBTADSLCDSMG.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/06/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_UX182_CR00182268_AL_.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A DESOLAÇÃO DE SMAUG (2013)
-http://cdn2.netcine.us/html/content/delivery/filmes2018/HOBBIT2DUB-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn2.netcine.us/html/content/delivery/filmes2018/HOBBIT2DUB-ALTO.mp4?token=J8MiPJk4oz_fA6oRv1uSZQ&expires=1562913909
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Hobbit%20-%20A%20Batalha%20dos%20Cinco%20Ex%C3%A9rcitos.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A BATALHA DOS CINCO EXÉRCITOS (2014)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer1/ondemand/OHBTABTLHDSCNCEXRCTS.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/06/MV5BODAzMDgxMDc1MF5BMl5BanBnXkFtZTgwMTI0OTAzMjE@._V1_UX182_CR00182268_AL_.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A BATALHA DOS CINCO EXÉRCITOS (2014)
-http://cdn2.netcine.us/html/content/delivery/filmes2018/HOBBIT3DUB-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn2.netcine.us/html/content/delivery/filmes2018/HOBBIT3DUB-ALTO.mp4?token=2kQTEAmJ8ggqE9C_tksWNw&expires=1562913956
 
 
 #EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2017/11/O-Senhor-dos-Aneis.jpg" group-title="O Hobbit & O Senhor dos Anéis",O SENHOR DOS ANÉIS: A SOCIEDADE DO ANEL (2001)
