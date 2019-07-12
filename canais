@@ -140,12 +140,6 @@ https://d2mzfskehttrlf.cloudfront.net/hls1/curta.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 #EXTINF:-1 tvg-logo="" group-title="Artes",Arte 1
 https://d2mzfskehttrlf.cloudfront.net/hls1/arte1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOToyMjo0OSBQTSZoYXNoX3ZhbHVlPVdxakNMTkc2TEJ0S1Q3VndWSkk0UUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
-#EXTINF:-1 tvg-logo="" group-title="Notícias",Globo News
-https://d2mzfskehttrlf.cloudfront.net/hls1/globonews.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MDU6MTUgQU0maGFzaF92YWx1ZT1kV1VncGhxOUZ0ZFVaRzFVRWxMNUl3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Notícias",Record News
-https://d2mzfskehttrlf.cloudfront.net/hls1/recordnews.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MDc6NTggQU0maGFzaF92YWx1ZT1HTHlDZmVLeDUyYmJjSHR5NGhTbmtBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Notícias",Band News
-https://d2mzfskehttrlf.cloudfront.net/hls1/bandnews.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTA6MzkgQU0maGFzaF92YWx1ZT1VYUxkYVVIc3Q2T3k5Q3hDem0yZERBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="" group-title="Documentários",History
 https://d2mzfskehttrlf.cloudfront.net/hls1/history.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaW
