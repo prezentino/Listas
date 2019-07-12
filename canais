@@ -1,134 +1,138 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Abertos",Globo SP
-https://d2mzfskehttrlf.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDEyOjMxOjI4IEFNJmhhc2hfdmFsdWU9T0ppR2NhWEsvYXNYOEs1M2xwenE4UT09JnZhbGlkbWludXRlcz02MCZpZD01
+https://d3s5hk5snqct33.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDEyOjMxOjI4IEFNJmhhc2hfdmFsdWU9T0ppR2NhWEsvYXNYOEs1M2xwenE4UT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-logo="" group-title="Abertos",Globo RJ
-https://d2mzfskehttrlf.cloudfront.net/hls1/boborj.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MDk6MzMgQU0maGFzaF92YWx1ZT1iVDRCNFJZcWJHS0c2YjFSdWh5OHFnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/boborj.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MDk6MzMgQU0maGFzaF92YWx1ZT1iVDRCNFJZcWJHS0c2YjFSdWh5OHFnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Abertos",Globo Nordeste
-https://d2mzfskehttrlf.cloudfront.net/hls1/bobonordeste.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTA6MDUgQU0maGFzaF92YWx1ZT1yQVFyUmk1MjVyYWd2RERodExqaXdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/bobonordeste.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTA6MDUgQU0maGFzaF92YWx1ZT1yQVFyUmk1MjVyYWd2RERodExqaXdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="" group-title="Notícias",Globo News
-https://d2mzfskehttrlf.cloudfront.net/hls1/globonews.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MDU6MTUgQU0maGFzaF92YWx1ZT1kV1VncGhxOUZ0ZFVaRzFVRWxMNUl3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/globonews.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MDU6MTUgQU0maGFzaF92YWx1ZT1kV1VncGhxOUZ0ZFVaRzFVRWxMNUl3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Notícias",Record News
-https://d2mzfskehttrlf.cloudfront.net/hls1/recordnews.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MDc6NTggQU0maGFzaF92YWx1ZT1HTHlDZmVLeDUyYmJjSHR5NGhTbmtBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/recordnews.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MDc6NTggQU0maGFzaF92YWx1ZT1HTHlDZmVLeDUyYmJjSHR5NGhTbmtBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Notícias",Band News
-https://d2mzfskehttrlf.cloudfront.net/hls1/bandnews.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTA6MzkgQU0maGFzaF92YWx1ZT1VYUxkYVVIc3Q2T3k5Q3hDem0yZERBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/bandnews.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTA6MzkgQU0maGFzaF92YWx1ZT1VYUxkYVVIc3Q2T3k5Q3hDem0yZERBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Espn Brasil
-https://d2mzfskehttrlf.cloudfront.net/hls1/espnbrasil.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6NTI6NDAgUE0maGFzaF92YWx1ZT1oOVBCMktrWTVjQWhGejhVQzlkYS93PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/espnbrasil.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6NTI6NDAgUE0maGFzaF92YWx1ZT1oOVBCMktrWTVjQWhGejhVQzlkYS93PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Espn
-https://d2mzfskehttrlf.cloudfront.net/hls1/espn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://d3s5hk5snqct33.cloudfront.net/hls1/espn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Espn 2
-https://d2mzfskehttrlf.cloudfront.net/hls1/espn2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTQ6MzggUE0maGFzaF92YWx1ZT1ZRnE5c2w1a1ZSL3h6SzlaZFVzbTR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/espn2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTQ6MzggUE0maGFzaF92YWx1ZT1ZRnE5c2w1a1ZSL3h6SzlaZFVzbTR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="Esportes",Espn Extra
-https://d2mzfskehttrlf.cloudfront.net/hls1/espnextra.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTY6MjIgUE0maGFzaF92YWx1ZT14VWVhWStWUFdaZ0RMb1djS2hIQVlBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/espnextra.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTY6MjIgUE0maGFzaF92YWx1ZT14VWVhWStWUFdaZ0RMb1djS2hIQVlBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv
-https://d2mzfskehttrlf.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOToyODo0MiBQTSZoYXNoX3ZhbHVlPVQ1VFV3K1N6bVdSTG9tdEIvRC9Hb1E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://d3s5hk5snqct33.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOToyODo0MiBQTSZoYXNoX3ZhbHVlPVQ1VFV3K1N6bVdSTG9tdEIvRC9Hb1E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv 2
-https://d2mzfskehttrlf.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTozOToyOSBQTSZoYXNoX3ZhbHVlPU52c2Nsejd6NEdVRWd6OGIvRXV5OGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://d3s5hk5snqct33.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTozOToyOSBQTSZoYXNoX3ZhbHVlPU52c2Nsejd6NEdVRWd6OGIvRXV5OGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv 3
-https://d2mzfskehttrlf.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo0MDo1MiBQTSZoYXNoX3ZhbHVlPVFVZGhOSDltZnNuQXF3VGdzWGxoclE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://d3s5hk5snqct33.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo0MDo1MiBQTSZoYXNoX3ZhbHVlPVFVZGhOSDltZnNuQXF3VGdzWGxoclE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Fox Sports
-https://d2mzfskehttrlf.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo0NzoyMCBQTSZoYXNoX3ZhbHVlPVhMWWxMWVVhOTRyL3c3dms0dlRqWUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://d3s5hk5snqct33.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo0NzoyMCBQTSZoYXNoX3ZhbHVlPVhMWWxMWVVhOTRyL3c3dms0dlRqWUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Fox Sports 2
-https://d2mzfskehttrlf.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTM6NDAgUE0maGFzaF92YWx1ZT1zVUUxamdMWG9JcFZvbUQ5a2xOZTRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTM6NDAgUE0maGFzaF92YWx1ZT1zVUUxamdMWG9JcFZvbUQ5a2xOZTRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Combate
+https://d3s5hk5snqct33.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDEwOjEyOjA1IFBNJmhhc2hfdmFsdWU9a2haa2xjc3FCT2lxMDV5NU82d2Vudz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Boomerang
-https://d2mzfskehttrlf.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDg6MjQgUE0maGFzaF92YWx1ZT1WOG1VenpqK3N0S1R6TXN6M2Y4d2tBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDg6MjQgUE0maGFzaF92YWx1ZT1WOG1VenpqK3N0S1R6TXN6M2Y4d2tBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Tooncast
-https://d2mzfskehttrlf.cloudfront.net/hls1/tooncast.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDc6MDMgUE0maGFzaF92YWx1ZT1ESWp3OUVtcVpJbTFrZ2J6NWdmVTRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/tooncast.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDc6MDMgUE0maGFzaF92YWx1ZT1ESWp3OUVtcVpJbTFrZ2J6NWdmVTRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Cartoon Network
-https://d2mzfskehttrlf.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDE6MzQgUE0maGFzaF92YWx1ZT1IbkRZeDV6SURyRE1oYnhrbCtJT3FBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDE6MzQgUE0maGFzaF92YWx1ZT1IbkRZeDV6SURyRE1oYnhrbCtJT3FBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Discovery Kids
-https://d2mzfskehttrlf.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDQ6NTUgUE0maGFzaF92YWx1ZT1pbnVrZTg1WmRER0FlaUtQd2Q2TklRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDQ6NTUgUE0maGFzaF92YWx1ZT1pbnVrZTg1WmRER0FlaUtQd2Q2TklRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Disney Channel
-https://d2mzfskehttrlf.cloudfront.net/hls1/disneyxd.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6Mzg6NDAgUE0maGFzaF92YWx1ZT0vWUhxTzlOejgwYS8yL0I3RjFaS2VRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/disneyxd.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6Mzg6NDAgUE0maGFzaF92YWx1ZT0vWUhxTzlOejgwYS8yL0I3RjFaS2VRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Disney Junior
-https://d2mzfskehttrlf.cloudfront.net/hls1/disneyjunior.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDI6NDUgUE0maGFzaF92YWx1ZT13UXlYMVJJeWVQcVpXb2JwOEpzV1hBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/disneyjunior.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDI6NDUgUE0maGFzaF92YWx1ZT13UXlYMVJJeWVQcVpXb2JwOEpzV1hBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Nick
-https://d2mzfskehttrlf.cloudfront.net/hls1/nick.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDM6NDAgUE0maGFzaF92YWx1ZT0yR1Rmc3hhbTY0VFFyeEgwVVIzRUh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/nick.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDM6NDAgUE0maGFzaF92YWx1ZT0yR1Rmc3hhbTY0VFFyeEgwVVIzRUh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Nick Jr
-https://d2mzfskehttrlf.cloudfront.net/hls1/nickjr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDY6MTcgUE0maGFzaF92YWx1ZT1CYnNBWTNnb05pTkxyd09RZ2xMSDJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/nickjr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDY6MTcgUE0maGFzaF92YWx1ZT1CYnNBWTNnb05pTkxyd09RZ2xMSDJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Gloob
-https://d2mzfskehttrlf.cloudfront.net/hls1/gloob.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMTkgMTI6MDU6NTYgQU0maGFzaF92YWx1ZT1LemlyUDUvaS9FMktQVENuV0dZalp3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/gloob.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMTkgMTI6MDU6NTYgQU0maGFzaF92YWx1ZT1LemlyUDUvaS9FMktQVENuV0dZalp3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Zoomoo
-https://d2mzfskehttrlf.cloudfront.net/hls1/zoomoo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MTA6MTcgUE0maGFzaF92YWx1ZT0yRUJuT2x0VTh2MXBSVTVjQjlYWTBBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/zoomoo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MTA6MTcgUE0maGFzaF92YWx1ZT0yRUJuT2x0VTh2MXBSVTVjQjlYWTBBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",NatGeo Kids
-https://d2mzfskehttrlf.cloudfront.net/hls1/natgeokids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MTQ6MjggUE0maGFzaF92YWx1ZT1uc1EzaEh0TzZNSzVOck1abVJuWnpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/natgeokids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MTQ6MjggUE0maGFzaF92YWx1ZT1uc1EzaEh0TzZNSzVOck1abVJuWnpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:0 tvg-group="Infantil" tvg-logo="https://sdn.pkds.it/prod/lp-us/1.42/images/train_mobile.png" group-title="Infantil", Playkids
-https://d2mzfskehttrlf.cloudfront.net/hls1/playkids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMTkgMTI6MDQ6MzEgQU0maGFzaF92YWx1ZT1BU0Q4S01tdHA0eHNuTHJqUi9TZE9nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/playkids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMTkgMTI6MDQ6MzEgQU0maGFzaF92YWx1ZT1BU0Q4S01tdHA0eHNuTHJqUi9TZE9nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Warner
-https://d2mzfskehttrlf.cloudfront.net/hls1/warner.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDQ6MDU6MjggUE0maGFzaF92YWx1ZT1ZbFpjOVQ3eCtSUGdwSGVjSnN5SXpBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/warner.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDQ6MDU6MjggUE0maGFzaF92YWx1ZT1ZbFpjOVQ3eCtSUGdwSGVjSnN5SXpBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Sony
-https://d2mzfskehttrlf.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1ODoxNyBQTSZoYXNoX3ZhbHVlPUg0bHZFQ3FodUdBN2FqOE1ydElDRVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://d3s5hk5snqct33.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1ODoxNyBQTSZoYXNoX3ZhbHVlPUg0bHZFQ3FodUdBN2FqOE1ydElDRVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TNT
-https://d2mzfskehttrlf.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDA6MDMgUE0maGFzaF92YWx1ZT0xdTFxUHp2SUk3cURUd0NFREJGbFpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDA6MDMgUE0maGFzaF92YWx1ZT0xdTFxUHp2SUk3cURUd0NFREJGbFpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Megapix
-https://d2mzfskehttrlf.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTI6MzkgUE0maGFzaF92YWx1ZT1RbWdxdzZNb1FraE5nVHAyanVmSCtRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTI6MzkgUE0maGFzaF92YWx1ZT1RbWdxdzZNb1FraE5nVHAyanVmSCtRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Syfy
-https://d2mzfskehttrlf.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6Mjg6MTQgUE0maGFzaF92YWx1ZT1HRm5CYnJEOFoyTXRzVitmMFVWaElBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6Mjg6MTQgUE0maGFzaF92YWx1ZT1HRm5CYnJEOFoyTXRzVitmMFVWaElBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Space HD
-https://d2mzfskehttrlf.cloudfront.net/hls1/space.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6NDA6NTAgUE0maGFzaF92YWx1ZT15M2lFWDZrWUlYaitqeit2dGVqbWpRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/space.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6NDA6NTAgUE0maGFzaF92YWx1ZT15M2lFWDZrWUlYaitqeit2dGVqbWpRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",AXN
-https://d2mzfskehttrlf.cloudfront.net/hls1/axn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTk6NTggUE0maGFzaF92YWx1ZT0xcFFrQlp1OEIzUVlRWnNKWko1Ny9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/axn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTk6NTggUE0maGFzaF92YWx1ZT0xcFFrQlp1OEIzUVlRWnNKWko1Ny9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",AMC
-https://d2mzfskehttrlf.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDI6MDggUE0maGFzaF92YWx1ZT1lZ2luS2pkQU5QV2lESHZvM1JhSG93PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDI6MDggUE0maGFzaF92YWx1ZT1lZ2luS2pkQU5QV2lESHZvM1JhSG93PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",A&E
-https://d2mzfskehttrlf.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDE6NDAgUE0maGFzaF92YWx1ZT1PZkRFQXpKdlphY2FQcGwvbldUSUZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDE6NDAgUE0maGFzaF92YWx1ZT1PZkRFQXpKdlphY2FQcGwvbldUSUZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TCM
-https://d2mzfskehttrlf.cloudfront.net/hls1/tcm.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTY6MjggUE0maGFzaF92YWx1ZT1pOU5kTTB2VDZldUdyZHNIZmwrZitnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/tcm.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTY6MjggUE0maGFzaF92YWx1ZT1pOU5kTTB2VDZldUdyZHNIZmwrZitnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Paramount Channel
-https://d2mzfskehttrlf.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzE6NTcgUE0maGFzaF92YWx1ZT1SU2xjMDk2TXAvQ2RtdC9zM2FUdEhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzE6NTcgUE0maGFzaF92YWx1ZT1SU2xjMDk2TXAvQ2RtdC9zM2FUdEhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Universal Channel
-https://d2mzfskehttrlf.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzA6MzkgUE0maGFzaF92YWx1ZT1IZld4bThMNkg1aXZNTjZCSEZScUJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzA6MzkgUE0maGFzaF92YWx1ZT1IZld4bThMNkg1aXZNTjZCSEZScUJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Studio Universal
-https://d2mzfskehttrlf.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MjE6NDAgUE0maGFzaF92YWx1ZT0zVFpQSTJ3Um9Vb2lZMXR6bGhLR25nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MjE6NDAgUE0maGFzaF92YWx1ZT0zVFpQSTJ3Um9Vb2lZMXR6bGhLR25nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TNT Series
+https://d3s5hk5snqct33.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDEwOjEzOjM0IFBNJmhhc2hfdmFsdWU9d1d5QVJWU3ZSYU00cDZGa21xOExYUT09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="" group-title="Fox",Fox
-https://d2mzfskehttrlf.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1NTowMSBQTSZoYXNoX3ZhbHVlPTRtQ3lQSk1iMWNsM2grRVJnT2h4UVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://d3s5hk5snqct33.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1NTowMSBQTSZoYXNoX3ZhbHVlPTRtQ3lQSk1iMWNsM2grRVJnT2h4UVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Fox",FX
-https://d2mzfskehttrlf.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzM6MjkgUE0maGFzaF92YWx1ZT1NeEdGcklvTVNoNnJwTnB1clhMNUxRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzM6MjkgUE0maGFzaF92YWx1ZT1NeEdGcklvTVNoNnJwTnB1clhMNUxRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Fox",Fox Premium 1
-https://d2mzfskehttrlf.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTY6MTggUE0maGFzaF92YWx1ZT1MQWdlUlNRbVU5aXE0djB0YitEZ0lnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTY6MTggUE0maGFzaF92YWx1ZT1MQWdlUlNRbVU5aXE0djB0YitEZ0lnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Fox",Fox Premium 2
-https://d2mzfskehttrlf.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTU6MTkgUE0maGFzaF92YWx1ZT1JbGxyNlVZTlIrTXB4aVZUbm1va0RBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTU6MTkgUE0maGFzaF92YWx1ZT1JbGxyNlVZTlIrTXB4aVZUbm1va0RBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
 #EXTINF:-1 tvg-logo="" group-title="HBO",HBO
-https://d2mzfskehttrlf.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDE5IDE6MjE6NTIgQU0maGFzaF92YWx1ZT1pM2IwMjJKOGZLWFdMTlJjUm16WTZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDE5IDE6MjE6NTIgQU0maGFzaF92YWx1ZT1pM2IwMjJKOGZLWFdMTlJjUm16WTZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="HBO",HBO 2
-https://d2mzfskehttrlf.cloudfront.net/hls1/hbo2.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MTE6NTEgQU0maGFzaF92YWx1ZT03U1F1NXRnOXZBWmpCUER4dW9nMTNRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/hbo2.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MTE6NTEgQU0maGFzaF92YWx1ZT03U1F1NXRnOXZBWmpCUER4dW9nMTNRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="HBO",HBO Signature
-https://d2mzfskehttrlf.cloudfront.net/hls1/hbosignature.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MTI6NTggQU0maGFzaF92YWx1ZT1STU5HaWRIN0Jpb2J6bE16YzdOb0lnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/hbosignature.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MTI6NTggQU0maGFzaF92YWx1ZT1STU5HaWRIN0Jpb2J6bE16YzdOb0lnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="HBO",HBO Plus
-https://d2mzfskehttrlf.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTM6MTYgUE0maGFzaF92YWx1ZT1DZDZpTEZIN1lDT2VqV2ZuUU5HdGd3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTM6MTYgUE0maGFzaF92YWx1ZT1DZDZpTEZIN1lDT2VqV2ZuUU5HdGd3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="HBO",HBO Family
-https://d2mzfskehttrlf.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTk6MTEgUE0maGFzaF92YWx1ZT1WbDlpbTNweEhVaU55Vkx1a3lRYkh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTk6MTEgUE0maGFzaF92YWx1ZT1WbDlpbTNweEhVaU55Vkx1a3lRYkh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="" group-title="Cinemax",Cinemax
-https://d2mzfskehttrlf.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTQ6MzAgUE0maGFzaF92YWx1ZT1mMHptRWxLcG1JKzdlTktuS1J5RWZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTQ6MzAgUE0maGFzaF92YWx1ZT1mMHptRWxLcG1JKzdlTktuS1J5RWZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Cinemax",Max
-https://d2mzfskehttrlf.cloudfront.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDc6MDAgUE0maGFzaF92YWx1ZT1PSWNaQjJ0cUFvUUdCZ1Y5WmkrVTJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDc6MDAgUE0maGFzaF92YWx1ZT1PSWNaQjJ0cUFvUUdCZ1Y5WmkrVTJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Cinemax",Max Up
-https://d2mzfskehttrlf.cloudfront.net/hls1/maxup.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDM6MzcgUE0maGFzaF92YWx1ZT1Fb3hPTUdFVHFzL2xsaWFTenJLcUVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/maxup.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDM6MzcgUE0maGFzaF92YWx1ZT1Fb3hPTUdFVHFzL2xsaWFTenJLcUVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Cinemax",Max Prime
-https://d2mzfskehttrlf.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDY6MTQgUE0maGFzaF92YWx1ZT0wYUx5Q3RJWjk5MDdVVTF2Yzg3SXhnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDY6MTQgUE0maGFzaF92YWx1ZT0wYUx5Q3RJWjk5MDdVVTF2Yzg3SXhnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
 #EXTINF:-1 tvg-logo="" group-title="Telecine",Telecine Premium
-https://d2mzfskehttrlf.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1Mjo0NCBQTSZoYXNoX3ZhbHVlPXhtWXRqUjgycjlGOWNuUDFTb0l0R2c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://d3s5hk5snqct33.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1Mjo0NCBQTSZoYXNoX3ZhbHVlPXhtWXRqUjgycjlGOWNuUDFTb0l0R2c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Telecine",Telecine Action
-https://d2mzfskehttrlf.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTE6NTkgUE0maGFzaF92YWx1ZT1KWFRWVExnUytWWjJRWmVHeURhK0N3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTE6NTkgUE0maGFzaF92YWx1ZT1KWFRWVExnUytWWjJRWmVHeURhK0N3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Telecine",Telecine Cult
-https://d2mzfskehttrlf.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6Mzg6MDAgUE0maGFzaF92YWx1ZT1uK2FMeHF0UVdwQ1VVNjVzQ3pYNThBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6Mzg6MDAgUE0maGFzaF92YWx1ZT1uK2FMeHF0UVdwQ1VVNjVzQ3pYNThBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Telecine",Telecine Touch
-https://d2mzfskehttrlf.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTE6MjQgUE0maGFzaF92YWx1ZT1iTnhIZ3NXdWN4QTNNWjYzN0FxYlpRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTE6MjQgUE0maGFzaF92YWx1ZT1iTnhIZ3NXdWN4QTNNWjYzN0FxYlpRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Telecine",Telecine Fun
-https://d2mzfskehttrlf.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTA6NTMgUE0maGFzaF92YWx1ZT1KRmdjVVB1TE82bFpNVVptUVYrVzd3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTA6NTMgUE0maGFzaF92YWx1ZT1KRmdjVVB1TE82bFpNVVptUVYrVzd3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Telecine",Telecine Pipoca
-https://d2mzfskehttrlf.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTA6MjEgUE0maGFzaF92YWx1ZT0zRmdOajc3QmhrZEFMQUc0ZXRMN2R3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTA6MjEgUE0maGFzaF92YWx1ZT0zRmdOajc3QmhrZEFMQUc0ZXRMN2R3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
 
@@ -136,45 +140,45 @@ https://d2mzfskehttrlf.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2Vyd
 
 
 #EXTINF:-1 tvg-logo="" group-title="Artes",Curta!
-https://d2mzfskehttrlf.cloudfront.net/hls1/curta.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOToxODozNiBQTSZoYXNoX3ZhbHVlPUx4dlJCSFhTYS9hUzZxTXhpYjhPYVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://d3s5hk5snqct33.cloudfront.net/hls1/curta.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOToxODozNiBQTSZoYXNoX3ZhbHVlPUx4dlJCSFhTYS9hUzZxTXhpYjhPYVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Artes",Arte 1
-https://d2mzfskehttrlf.cloudfront.net/hls1/arte1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOToyMjo0OSBQTSZoYXNoX3ZhbHVlPVdxakNMTkc2TEJ0S1Q3VndWSkk0UUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://d3s5hk5snqct33.cloudfront.net/hls1/arte1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOToyMjo0OSBQTSZoYXNoX3ZhbHVlPVdxakNMTkc2TEJ0S1Q3VndWSkk0UUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 
 #EXTINF:-1 tvg-logo="" group-title="Documentários",History
-https://d2mzfskehttrlf.cloudfront.net/hls1/history.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaW
+https://d3s5hk5snqct33.cloudfront.net/hls1/history.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaW
 #EXTINF:-1 tvg-logo="" group-title="Documentários",H2
-https://d2mzfskehttrlf.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaW
+https://d3s5hk5snqct33.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaW
 #EXTINF:-1 tvg-logo="" group-title="Documentários",NatGeo
-https://d2mzfskehttrlf.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MjU6NDggUE0maGFzaF92YWx1ZT11OGowTlUzdGtDemdNM1hLdWZnYnBRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MjU6NDggUE0maGFzaF92YWx1ZT11OGowTlUzdGtDemdNM1hLdWZnYnBRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Documentários",Discovery Channel
-https://d2mzfskehttrlf.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MjM6MTAgUE0maGFzaF92YWx1ZT1oWlJ5K3ZoYlpVWWs1V3E1QWk3UnB3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MjM6MTAgUE0maGFzaF92YWx1ZT1oWlJ5K3ZoYlpVWWs1V3E1QWk3UnB3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Documentários",Discovery Science
-https://d2mzfskehttrlf.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzU6MjQgUE0maGFzaF92YWx1ZT1MbjhSNVpnQTBreXlvb2I1K296WWNnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzU6MjQgUE0maGFzaF92YWx1ZT1MbjhSNVpnQTBreXlvb2I1K296WWNnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Documentários",Discovery Civilization
-https://d2mzfskehttrlf.cloudfront.net/hls1/discoverycivilization.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzY6NDggUE0maGFzaF92YWx1ZT0vaXJYWCtGSFoxaGFmVmxZelVncnpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/discoverycivilization.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzY6NDggUE0maGFzaF92YWx1ZT0vaXJYWCtGSFoxaGFmVmxZelVncnpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Multishow
-https://d2mzfskehttrlf.cloudfront.net/hls1/multishow.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MDM6MTAgQU0maGFzaF92YWx1ZT02YkJpK0dOcm5uUTBOdHFPbjhYMjV3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/multishow.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MDM6MTAgQU0maGFzaF92YWx1ZT02YkJpK0dOcm5uUTBOdHFPbjhYMjV3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Comedy Central
-https://d2mzfskehttrlf.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTI6MDQgUE0maGFzaF92YWx1ZT1KdVZvcmIwVXU3cHZMcjQ5UTZjT2NRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTI6MDQgUE0maGFzaF92YWx1ZT1KdVZvcmIwVXU3cHZMcjQ5UTZjT2NRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Discovery Home & Health
-https://d2mzfskehttrlf.cloudfront.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTM6MzYgUE0maGFzaF92YWx1ZT1vZkk1KzlVVXdJM1h0T3dNbHB4VFJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTM6MzYgUE0maGFzaF92YWx1ZT1vZkk1KzlVVXdJM1h0T3dNbHB4VFJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",TLC
-https://d2mzfskehttrlf.cloudfront.net/hls1/tlc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTY6MDIgUE0maGFzaF92YWx1ZT1jRW96dDFuNmhRR0hCRnhwU0IrRGFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/tlc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTY6MDIgUE0maGFzaF92YWx1ZT1jRW96dDFuNmhRR0hCRnhwU0IrRGFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Viva
-https://d2mzfskehttrlf.cloudfront.net/hls1/viva.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTI6NTEgUE0maGFzaF92YWx1ZT03dzJKRW11UTdoTkg4VzNkZE1ZMTZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/viva.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTI6NTEgUE0maGFzaF92YWx1ZT03dzJKRW11UTdoTkg4VzNkZE1ZMTZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Lifetime
-https://d2mzfskehttrlf.cloudfront.net/hls1/lifetime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDk6NDUgUE0maGFzaF92YWx1ZT1KN2dMWklCUlpCRVdnL1FmaXJzZUt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/lifetime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDk6NDUgUE0maGFzaF92YWx1ZT1KN2dMWklCUlpCRVdnL1FmaXJzZUt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Fox Life
-https://d2mzfskehttrlf.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTc6NDggUE0maGFzaF92YWx1ZT1HWjNXeHo2VW1tQ1FZbFJMaTlRQ0pnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTc6NDggUE0maGFzaF92YWx1ZT1HWjNXeHo2VW1tQ1FZbFJMaTlRQ0pnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Investigação Discovery
-https://d2mzfskehttrlf.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTk6NTAgUE0maGFzaF92YWx1ZT1aWEVIRVhWdFRXTDJVeWVSazVHeGtnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTk6NTAgUE0maGFzaF92YWx1ZT1aWEVIRVhWdFRXTDJVeWVSazVHeGtnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",GNT
-https://d2mzfskehttrlf.cloudfront.net/hls1/gnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDE5IDE6MTg6NTEgQU0maGFzaF92YWx1ZT1VbXZGV05PM2VwM3NUVWZiMFFnNkNBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/gnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDE5IDE6MTg6NTEgQU0maGFzaF92YWx1ZT1VbXZGV05PM2VwM3NUVWZiMFFnNkNBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Bis
-https://d2mzfskehttrlf.cloudfront.net/hls1/bis.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTI6NDEgQU0maGFzaF92YWx1ZT03Z2ZWVU1EY0t2ODEyWEZ2aHdWMHlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/bis.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTI6NDEgQU0maGFzaF92YWx1ZT03Z2ZWVU1EY0t2ODEyWEZ2aHdWMHlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",E!
-https://d2mzfskehttrlf.cloudfront.net/hls1/canale.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTM6MzQgQU0maGFzaF92YWx1ZT13cm9DTUhCbTMyWWlqYmlNNzNuZThBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/canale.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTM6MzQgQU0maGFzaF92YWx1ZT13cm9DTUhCbTMyWWlqYmlNNzNuZThBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
