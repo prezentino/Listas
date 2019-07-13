@@ -38,6 +38,18 @@ https://d3s5hk5snqct33.cloudfront.net/hls1/bandsports.m3u8?wmsAuthSign=c2VydmVyX
 https://d3s5hk5snqct33.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDEwOjEyOjA1IFBNJmhhc2hfdmFsdWU9a2haa2xjc3FCT2lxMDV5NU82d2Vudz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere Clubes
 https://d3s5hk5snqct33.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDU6NTg6MDUgUE0maGFzaF92YWx1ZT0vRjAxYmVRTHZRQUJWSWRMWXpRYzZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 2
+https://d3s5hk5snqct33.cloudfront.net/hls1/premiere2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDM6MzIgUE0maGFzaF92YWx1ZT02Wkszbk1wWjNOTG5qeEJmMzdNNXp3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 3
+https://d3s5hk5snqct33.cloudfront.net/hls1/premiere3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDQ6NDcgUE0maGFzaF92YWx1ZT13UENoL244SFFRbmZjMG9CcnlSQUR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 4
+https://d3s5hk5snqct33.cloudfront.net/hls1/premiere4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDU6NDAgUE0maGFzaF92YWx1ZT1Ic1llbi9scDBjam4zVGpwNTJaNHZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 5
+https://d3s5hk5snqct33.cloudfront.net/hls1/premiere5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDU6NTkgUE0maGFzaF92YWx1ZT1YemFHOXJBMFRNK2RpbkZDMlFOZnFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 6
+https://d3s5hk5snqct33.cloudfront.net/hls1/premiere6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDY6MTYgUE0maGFzaF92YWx1ZT0yRHpGcHVEQ3BzczNkb2RzQUt6MlZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 7
+https://d3s5hk5snqct33.cloudfront.net/hls1/premiere7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDY6MzUgUE0maGFzaF92YWx1ZT0zU0dmYUl5czhQOWpUbm1vbDlHQzJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Boomerang
 https://d3s5hk5snqct33.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDg6MjQgUE0maGFzaF92YWx1ZT1WOG1VenpqK3N0S1R6TXN6M2Y4d2tBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
