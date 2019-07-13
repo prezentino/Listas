@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Minúsculos 2 (2019)
-http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/MINSCLSO2FLM.mp4?attachment=true
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/UeNWUoEC9q4-EXb-RNuLgCAjrXI=/fit-in/290x478/smart/media/movies/covers/2019/02/xfdfghdg.jpg" group-title="ÚLTIMOS ADICIONADOS",Minúsculos 2 (2019)
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/MINSCLSO2FLM.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/planetalan.com.br/wp-content/uploads/2019/06/O-Show-da-Luna-Bichos-na-Fazenda.jpg" group-title="ÚLTIMOS ADICIONADOS",O Show da Luna: Bichos na Fazenda (2019)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/OSHWDLNBHSNFZNDA.mp4
 #EXTINF:-1 tvg-logo="https://web.waploaded.com/videos/uploads/img/2019/04/jumbo-2019-official-trailer.jpg" group-title="ÚLTIMOS ADICIONADOS",Jumbo (2019)
@@ -29,8 +29,7 @@ https://globalc2.global.ssl.fastly.net/RedeCanais/RCFServer2/ondemand/CARCDODRGA
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/ALNDADSGRDOES.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/03/Zombillenium.jpg" group-title="ÚLTIMOS ADICIONADOS",Zumbilênio: O Parque dos Monstros (2017)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/ZMBLNIOPRQDSMNSTRS.mp4
-#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/images-3.jpg" group-title="ÚLTIMOS ADICIONADOS",WiFi Ralph: Quebrando a Internet (2018)
-http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/WIFIRLPHQBRNDOAINTNET.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Encantado.jpg" group-title="ÚLTIMOS ADICIONADOS",Encantado (2018)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/ENCTDO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Grinch.jpg" group-title="ÚLTIMOS ADICIONADOS",O Grinch (2018)
@@ -165,6 +164,8 @@ http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer3/ondemand/ARSTGTS.mp4
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer4/ondemand/ADMAEOVAGNDO.mp4
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8713703/s592/o-caldeirao-magico" group-title="Disney",O Caldeirão Mágico (1985)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/OCLDRAOMGCO.mp4
+#EXTINF:-1 tvg-logo="https://www.planocritico.com/wp-content/uploads/2018/06/pc_ratinho_detetive-600x400.jpg" group-title="Disney",As Peripécias de um Ratinho Detetive (1986)
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/ASPRPCSDUMRTNHODTVE.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/17/03/20/14/01/037368.jpg" group-title="Disney",A PEQUENA SEREIA (1989)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer1/ondemand/APQNSRAFILME01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pz9C5QPw1lF7A391ZYxMq4up2FC.jpg" group-title="Disney",A BELA E A FERA (1991)
@@ -227,8 +228,12 @@ http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer3/ondemand/APQNSREIAHS
 http://u8080.azureedge.net/RedeCanais/RCFServer4/ondemand/CNDRLAIII.mp4
 #EXTINF:-1 tvg-logo="https://www.98fmcuritiba.com.br/wp-content/uploads/2018/09/25100242/Screenshot_923-840x570.jpg" group-title="Disney",A Princesa e O Sapo (2009)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer3/ondemand/APRNCSEOSPO.mp4
+#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2016/06/alx_entretenimento-filmes-mais-caros-enrolados-20131210-001_original.jpeg" group-title="Disney",Enrolados (2011)
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/ENRLDS.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/h_oB919hg7s/maxresdefault.jpg" group-title="Disney",A Guarda do Leão: Um Novo Rugido (2016)
 http://u8080.azureedge.net/RedeCanais/RCFServer4/ondemand/AGRDALEO.mp4
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZGcuevXnyC4/WMoIE_MzuZI/AAAAAAAAA6c/gzM3c6wcp1spxmm8uaHA6tAb5bKrcJergCLcB/s1600/100000x100000-999.jpg" group-title="Disney",Elena e o Segredo de Avalor (2016)
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/ELNAEOSGRDAVLR.mp4
 
 #EXTINF:-1 tvg-logo="https://images7.alphacoders.com/342/342369.jpg" group-title="Pixar",TOY STORY: UM MUNDO DE AVENTURAS (1995)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer1/ondemand/TYSTRY1.mp4
@@ -278,6 +283,8 @@ http://u8080.azureedge.net/RedeCanais/RCFServer4/ondemand/CRS3.mp4
 http://u8080.azureedge.net/RedeCanais/RCFServer4/ondemand/OLFEMUNVAVNTRCGLNT.mp4
 #EXTINF:-1 tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2018/01/viva-a-vida-e-uma-festa-critica-1-760x428.jpg" group-title="Pixar",VIVA: A VIDA É UMA FESTA (2018)
 http://u8080.azureedge.net/RedeCanais/RCFServer4/ondemand/VIVAAVDEUMFST.mp4
+#EXTINF:-1 tvg-logo="https://ogimg.infoglobo.com.br/in/23340647-c3c-6fb/FT1086A/652/xwifi-ralph-critica-760x428.png.pagespeed.ic.C973Nv1aJw.jpg" group-title="Pixar",WiFi Ralph: Quebrando a Internet (2018)
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer2/ondemand/WIFIRLPHQBRNDOAINTNET.mp4
 #EXTINF:-1 tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2018/06/os-incriveis-760x428.jpg" group-title="Pixar",Os Incríveis 2 (2018)
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCFServer3/ondemand/OSINCRVS2.mp4
 
@@ -3416,8 +3423,140 @@ http://u8080.azureedge.net/RedeCanais/RCServer01/videos/853956f0.mp4
 http://u8080.azureedge.net/RedeCanais/RCServer01/videos/7bacb749.mp4
 
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E01
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E02
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E03
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E04
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E05
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E06
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E07
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E08
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E09
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E10
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E11
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP11.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E12
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP12.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E13
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP13.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E14
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP14.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E15
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP15.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E16
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP16.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E17
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP17.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E18
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP18.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E19
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP19.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E20
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP20.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E21
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP21.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E22
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP22.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E23
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP23.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E24
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP24.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E25
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP25.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S01E26
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT01EP26.mp4
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E01
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E02
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E03
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E04
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E05
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E06
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E07
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E08
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E09
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E10
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP10.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E11
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP11.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E12
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP12.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E13
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP13.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E14
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP14.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E15
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP15.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E16
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP16.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E17
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP17.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E18
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP18.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E19
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP19.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E20
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP20.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E21
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP21.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E22
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP22.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E23
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP23.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E24
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP24.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E25
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP25.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S02E26
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT02EP26.mp4
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S03E01
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT03EP01.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S03E02
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT03EP02.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S03E03
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT03EP03.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S03E04
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT03EP04.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S03E05
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT03EP05.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S03E06
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT03EP06.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S03E07
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT03EP07.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S03E08
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT03EP08.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S03E09
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT03EP09.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S03E10
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT03EP10.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S03E11
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT03EP11.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S03E12
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT03EP12.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S03E13
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT03EP13.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg" group-title="O Irmão Do Jorel",O Irmão Do Jorel S03E14
+http://u8080.azureedge.net/RedeCanais/RedeCanais/RCServer03/ondemand/IRMDJRLT03EP14.mp4
 
 
 #EXTINF:-1 tvg-logo="http://absolutamentelendarios.files.wordpress.com/2016/02/tumblr_m6z485upeo1qbbw9to1_1341972051_cover-png.jpg" group-title="O Maskara",O Maskara T01E01
@@ -3754,231 +3893,210 @@ http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/samuraij/05leg/1
 
 
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels1.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E01
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/01/28/11/55/278616.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E01
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST01EP01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels1.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E02
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/01/28/11/55/278616.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E02
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST01EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels1.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E03
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/01/28/11/55/278616.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E03
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST01EP03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels1.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E04
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/01/28/11/55/278616.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E04
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST01EP04.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels1.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E05
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/01/28/11/55/278616.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E05
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST01EP05.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels1.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E06
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/01/28/11/55/278616.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E06
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST01EP06.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels1.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E07
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/01/28/11/55/278616.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E07
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST01EP07.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels1.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E08
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/01/28/11/55/278616.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E08
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST01EP08.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels1.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E09
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/01/28/11/55/278616.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E09
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST01EP09.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels1.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E10
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/01/28/11/55/278616.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E10
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST01EP10.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels1.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E11
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/01/28/11/55/278616.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E11
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST01EP11.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels1.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E12
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/01/28/11/55/278616.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E12
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST01EP12.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels1.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E13
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/01/28/11/55/278616.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E13
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST01EP13.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels1.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E14
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/01/28/11/55/278616.jpg" group-title="Star Wars Rebels",Star Wars Rebels T01E14
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST01EP14.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E01
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E01
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E02
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E02
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E03
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E03
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E04
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E04
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP04.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E05
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E05
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP05.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E06
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E06
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP06.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E07
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E07
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP07.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E08
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E08
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP08.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E09
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E09
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP09.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E10
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E10
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP10.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E11
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E11
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP11.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E12
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E12
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP12.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E13
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E13
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP13.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E14
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E14
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP14.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E15
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E15
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP15.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E16
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E16
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRERSRBLST02EP16.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E17
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E17
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST02EP17.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E18
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E18
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST02EP18.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E19
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E19
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST02EP19.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels2.jpg" group-title="Star Wars Rebels",Star Wars Rebels T02E20
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LLq9AmXIUDk/VzXh4POSmUI/AAAAAAAAJzU/wV4Uho7JclcbWbKr40-figJs4KJEdFwAACLcB/s1600/143120-star-wars-reb" group-title="Star Wars Rebels",Star Wars Rebels T02E20
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST02EP20.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E01
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E01
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST03EP01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E02
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E02
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST03EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E03
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E03
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST03EP03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E04
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E04
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST03EP04.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E05
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E05
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST03EP05.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E06
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E06
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST03EP06.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E07
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E07
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST03EP07.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E08
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E08
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST03EP08.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E09
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E09
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST03EP09.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E10
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E10
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST03EP10.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E11
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E11
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST03EP11.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E12
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E12
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST03EP12.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E13
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E13
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST03EP13.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E14
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E14
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST03EP14.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E15
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E15
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST03EP15.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E16
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E16
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST03EP16.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E17
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E17
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST03EP17.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E18
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E18
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST03EP18.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E19
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E19
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST03EP19.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E20
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E20
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST03EP20.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20Rebels3.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E21
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.uol.com.br/wp-content/uploads/star-wars-rebels-3-temporada.jpg" group-title="Star Wars Rebels",Star Wars Rebels T03E21
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST03EP21.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E01
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E01
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E02
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E02
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E03
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E03
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E04
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E04
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP04.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E05
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E05
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP05.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E06
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E06
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP06.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E07
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E07
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP07.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E08
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E08
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP08.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E09
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E09
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP09.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E10
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E10
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP10.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E11
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E11
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP11.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E12
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E12
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP12.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E13
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E13
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP13.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E14
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E14
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP14.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20Rebels4.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E15
+#EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/star-wars-rebels-season-4-poster-1023750-640x320.jpg" group-title="Star Wars Rebels",Star Wars Rebels T04E15
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRERSRBLST04EP15.mp4
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E01 Areias de Jakku
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E01 Areias de Jakku
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E02 Ladrões de BB-8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E02 Ladrões de BB-8
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E03 Fuga Ewok
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E03 Fuga Ewok
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E04 O Caminho da Padawan
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E04 O Caminho da Padawan
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP04.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E05
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E05
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP05.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E06
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E06
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP06.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E07
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E07
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP07.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E08
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E08
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP08.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E09
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E09
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP09.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E10
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E10
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP10.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E11
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E11
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP11.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E12
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E12
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP12.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E13
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E13
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP13.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E14
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E14
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP14.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E15
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E15
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP15.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E16
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cl07eoT6bdM/maxresdefault.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E16
 http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP16.mp4
 
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Star%20Wars%20-%20A%20Resist%C3%AAncia%201.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E01 O Recruta
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/star-wars-resistence-disney.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E01 O Recruta
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Star%20Wars%20-%20A%20Resist%C3%AAncia%201.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E02 A Sombra Tripla
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/star-wars-resistence-disney.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E02 A Sombra Tripla
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Star%20Wars%20-%20A%20Resist%C3%AAncia%201.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E03 Combustível Para o Fogo
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/star-wars-resistence-disney.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E03 Combustível Para o Fogo
 http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP03.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E01 Areias de Jakku
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E02 Ladrões de BB-8
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E03 Fuga Ewok
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP03.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E04 O Caminho da Padawan
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP04.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E05
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP05.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E06
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP06.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E07
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP07.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E08
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP08.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E09
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP09.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E10
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP10.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E11
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP11.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E12
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP12.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E13
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP13.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E14
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP14.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E15
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP15.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20For%C3%A7as%20do%20Destino1.jpg" group-title="Star Wars Forças do Destino",Star Wars: Forças do Destino S01E16
-http://u8080.azureedge.net/RedeCanais/RCServer13/ondemand/STRWRSFRDSTNT01EP16.mp4
-
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Star%20Wars%20-%20A%20Resist%C3%AAncia%201.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E01 O Recruta
-http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP01.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Star%20Wars%20-%20A%20Resist%C3%AAncia%201.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E02 A Sombra Tripla
-http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Star%20Wars%20-%20A%20Resist%C3%AAncia%201.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E03 Combustível Para o Fogo
-http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/star-wars-resistence-disney.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E04
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/star-wars-resistence-disney.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E05
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/star-wars-resistence-disney.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E06
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/star-wars-resistence-disney.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E07
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/star-wars-resistence-disney.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E08
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/star-wars-resistence-disney.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E09
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP09.mp4
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/star-wars-resistence-disney.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E10
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/star-wars-resistence-disney.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E11
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP11.mp4
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/star-wars-resistence-disney.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E12
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP12.mp4
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/star-wars-resistence-disney.jpg" group-title="Star Wars A Resistência",Star Wars: A Resistência S01E13
+http://u8081.azureedge.net/RedeCanais/RedeCanais/RCServer10/ondemand/STRWRSRSTCT01EP13.mp4
 
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xCyaem8nU2Q/VYHX9xPzewI/AAAAAAAAAU0/sjcOv3wRbYs/s1600/superpatos.jpg" group-title="Super Patos",Super Patos Ep 01-02
