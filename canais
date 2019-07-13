@@ -182,6 +182,8 @@ https://d3s5hk5snqct33.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign=c2VydmVyX3Rp
 https://d3s5hk5snqct33.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTk6NTAgUE0maGFzaF92YWx1ZT1aWEVIRVhWdFRXTDJVeWVSazVHeGtnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",GNT
 https://d3s5hk5snqct33.cloudfront.net/hls1/gnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDE5IDE6MTg6NTEgQU0maGFzaF92YWx1ZT1VbXZGV05PM2VwM3NUVWZiMFFnNkNBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Variedades",MTV
+https://d3s5hk5snqct33.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6Mjk6MjQgUE0maGFzaF92YWx1ZT1oOEFLK0JQMUdRMXE1Tm5KVWRtTVZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Bis
 https://d3s5hk5snqct33.cloudfront.net/hls1/bis.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTI6NDEgQU0maGFzaF92YWx1ZT03Z2ZWVU1EY0t2ODEyWEZ2aHdWMHlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",E!
