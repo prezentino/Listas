@@ -62,7 +62,7 @@ https://d3s5hk5snqct33.cloudfront.net/hls1/playkids.m3u8?wmsAuthSign=c2VydmVyX3R
 
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Warner
-https://d3s5hk5snqct33.cloudfront.net/hls1/warner.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDQ6MDU6MjggUE0maGFzaF92YWx1ZT1ZbFpjOVQ3eCtSUGdwSGVjSnN5SXpBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDU6NDA6NTggUE0maGFzaF92YWx1ZT1mNVp4YmVOYVIwM2tUcVB6MlJKbVZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Sony
 https://d3s5hk5snqct33.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1ODoxNyBQTSZoYXNoX3ZhbHVlPUg0bHZFQ3FodUdBN2FqOE1ydElDRVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TNT
