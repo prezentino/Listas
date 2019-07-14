@@ -15,7 +15,7 @@ https://d3s5hk5snqct33.cloudfront.net/hls1/bandnews.m3u8?wmsAuthSign=c2VydmVyX3R
 
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Espn Brasil
-https://d3s5hk5snqct33.cloudfront.net/hls1/espnbrasil.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6NTI6NDAgUE0maGFzaF92YWx1ZT1oOVBCMktrWTVjQWhGejhVQzlkYS93PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDEwOjM0OjExIFBNJmhhc2hfdmFsdWU9SENuUmFHcjVxQ0ZCSWhVNlptcmtWZz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Espn
 https://d3s5hk5snqct33.cloudfront.net/hls1/espn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Espn 2
@@ -32,8 +32,24 @@ https://d3s5hk5snqct33.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3Rp
 https://d3s5hk5snqct33.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo0NzoyMCBQTSZoYXNoX3ZhbHVlPVhMWWxMWVVhOTRyL3c3dms0dlRqWUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Fox Sports 2
 https://d3s5hk5snqct33.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTM6NDAgUE0maGFzaF92YWx1ZT1zVUUxamdMWG9JcFZvbUQ5a2xOZTRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Band Sports
+https://d3s5hk5snqct33.cloudfront.net/hls1/bandsports.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDU6NTk6MjUgUE0maGFzaF92YWx1ZT1VR0FhMGVRZ0x6STZNZ0tWejJIcGNnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Combate
 https://d3s5hk5snqct33.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDEwOjEyOjA1IFBNJmhhc2hfdmFsdWU9a2haa2xjc3FCT2lxMDV5NU82d2Vudz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere Clubes
+https://d3s5hk5snqct33.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDU6NTg6MDUgUE0maGFzaF92YWx1ZT0vRjAxYmVRTHZRQUJWSWRMWXpRYzZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 2
+https://d3s5hk5snqct33.cloudfront.net/hls1/premiere2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDM6MzIgUE0maGFzaF92YWx1ZT02Wkszbk1wWjNOTG5qeEJmMzdNNXp3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 3
+https://d3s5hk5snqct33.cloudfront.net/hls1/premiere3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDQ6NDcgUE0maGFzaF92YWx1ZT13UENoL244SFFRbmZjMG9CcnlSQUR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 4
+https://d3s5hk5snqct33.cloudfront.net/hls1/premiere4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDU6NDAgUE0maGFzaF92YWx1ZT1Ic1llbi9scDBjam4zVGpwNTJaNHZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 5
+https://d3s5hk5snqct33.cloudfront.net/hls1/premiere5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDU6NTkgUE0maGFzaF92YWx1ZT1YemFHOXJBMFRNK2RpbkZDMlFOZnFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 6
+https://d3s5hk5snqct33.cloudfront.net/hls1/premiere6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDY6MTYgUE0maGFzaF92YWx1ZT0yRHpGcHVEQ3BzczNkb2RzQUt6MlZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 7
+https://d3s5hk5snqct33.cloudfront.net/hls1/premiere7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDY6MzUgUE0maGFzaF92YWx1ZT0zU0dmYUl5czhQOWpUbm1vbDlHQzJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Boomerang
 https://d3s5hk5snqct33.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDg6MjQgUE0maGFzaF92YWx1ZT1WOG1VenpqK3N0S1R6TXN6M2Y4d2tBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
@@ -44,9 +60,11 @@ https://d3s5hk5snqct33.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Discovery Kids
 https://d3s5hk5snqct33.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDQ6NTUgUE0maGFzaF92YWx1ZT1pbnVrZTg1WmRER0FlaUtQd2Q2TklRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Disney Channel
-https://d3s5hk5snqct33.cloudfront.net/hls1/disneyxd.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6Mzg6NDAgUE0maGFzaF92YWx1ZT0vWUhxTzlOejgwYS8yL0I3RjFaS2VRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/disney.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjAwOjQ5IEFNJmhhc2hfdmFsdWU9MXFSOE1JUGwrUS9JYjJzek5wbXJjZz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Disney Junior
 https://d3s5hk5snqct33.cloudfront.net/hls1/disneyjunior.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDI6NDUgUE0maGFzaF92YWx1ZT13UXlYMVJJeWVQcVpXb2JwOEpzV1hBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Disney XD
+https://d3s5hk5snqct33.cloudfront.net/hls1/disneyxd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjAwOjMwIEFNJmhhc2hfdmFsdWU9VTMrejdJUVlSR1JVbmJxOXoyeGFkdz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Nick
 https://d3s5hk5snqct33.cloudfront.net/hls1/nick.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDM6NDAgUE0maGFzaF92YWx1ZT0yR1Rmc3hhbTY0VFFyeEgwVVIzRUh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Nick Jr
@@ -62,7 +80,7 @@ https://d3s5hk5snqct33.cloudfront.net/hls1/playkids.m3u8?wmsAuthSign=c2VydmVyX3R
 
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Warner
-https://d3s5hk5snqct33.cloudfront.net/hls1/warner.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDQ6MDU6MjggUE0maGFzaF92YWx1ZT1ZbFpjOVQ3eCtSUGdwSGVjSnN5SXpBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDU6NDA6NTggUE0maGFzaF92YWx1ZT1mNVp4YmVOYVIwM2tUcVB6MlJKbVZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Sony
 https://d3s5hk5snqct33.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1ODoxNyBQTSZoYXNoX3ZhbHVlPUg0bHZFQ3FodUdBN2FqOE1ydElDRVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TNT
@@ -101,7 +119,7 @@ https://d3s5hk5snqct33.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=c2VydmVy
 
 
 #EXTINF:-1 tvg-logo="" group-title="HBO",HBO
-https://d3s5hk5snqct33.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDE5IDE6MjE6NTIgQU0maGFzaF92YWx1ZT1pM2IwMjJKOGZLWFdMTlJjUm16WTZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6MDE6NDEgUE0maGFzaF92YWx1ZT1sZ0dKWlRDc1RITnVlY1FnN2VxdVh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="HBO",HBO 2
 https://d3s5hk5snqct33.cloudfront.net/hls1/hbo2.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MTE6NTEgQU0maGFzaF92YWx1ZT03U1F1NXRnOXZBWmpCUER4dW9nMTNRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="HBO",HBO Signature
@@ -176,9 +194,20 @@ https://d3s5hk5snqct33.cloudfront.net/hls1/lifetime.m3u8?wmsAuthSign=c2VydmVyX3R
 https://d3s5hk5snqct33.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTc6NDggUE0maGFzaF92YWx1ZT1HWjNXeHo2VW1tQ1FZbFJMaTlRQ0pnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Investigação Discovery
 https://d3s5hk5snqct33.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTk6NTAgUE0maGFzaF92YWx1ZT1aWEVIRVhWdFRXTDJVeWVSazVHeGtnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Discovery World
+https://d3s5hk5snqct33.cloudfront.net/hls1/discoveryworld.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjAzOjQ0IEFNJmhhc2hfdmFsdWU9ay9JMkdJR3hFS2hidkVvVG5BdUpnQT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-logo="" group-title="Variedades",GNT
 https://d3s5hk5snqct33.cloudfront.net/hls1/gnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDE5IDE6MTg6NTEgQU0maGFzaF92YWx1ZT1VbXZGV05PM2VwM3NUVWZiMFFnNkNBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Mais Globosat
+https://d3s5hk5snqct33.cloudfront.net/hls1/maisbobosat.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjAzOjAwIEFNJmhhc2hfdmFsdWU9Z09kWEMvK1Y1ME1xRmlKVnBHTnNxUT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-logo="" group-title="Variedades",MTV
+https://d3s5hk5snqct33.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6Mjk6MjQgUE0maGFzaF92YWx1ZT1oOEFLK0JQMUdRMXE1Tm5KVWRtTVZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Bis
 https://d3s5hk5snqct33.cloudfront.net/hls1/bis.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTI6NDEgQU0maGFzaF92YWx1ZT03Z2ZWVU1EY0t2ODEyWEZ2aHdWMHlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",E!
 https://d3s5hk5snqct33.cloudfront.net/hls1/canale.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTM6MzQgQU0maGFzaF92YWx1ZT13cm9DTUhCbTMyWWlqYmlNNzNuZThBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Canal Off
+https://d3s5hk5snqct33.cloudfront.net/hls1/off.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDU6NTQ6MzYgUE0maGFzaF92YWx1ZT1vNTVPcVBwS2JEY05lei8yL1NaTXVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Fish TV
+https://d3s5hk5snqct33.cloudfront.net/hls1/fishtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjA0OjAyIEFNJmhhc2hfdmFsdWU9dzhaeE5yeDEwVVFYem01d1N3bFBwQT09JnZhbGlkbWludXRlcz02MCZpZD01
