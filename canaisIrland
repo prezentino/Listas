@@ -169,6 +169,8 @@ https://d3s5hk5snqct33.cloudfront.net/hls1/history.m3u8?wmsAuthSign=c2VydmVyX3Rp
 https://d3s5hk5snqct33.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaW
 #EXTINF:-1 tvg-logo="" group-title="Documentários",NatGeo
 https://d3s5hk5snqct33.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MjU6NDggUE0maGFzaF92YWx1ZT11OGowTlUzdGtDemdNM1hLdWZnYnBRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Documentários",NatGeo Wild
+https://d3s5hk5snqct33.cloudfront.net/hls1/natgeowild.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjExOjE4IEFNJmhhc2hfdmFsdWU9citFWk1sQUlKREFxeE5Ud2g2SDRoQT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-logo="" group-title="Documentários",Discovery Channel
 https://d3s5hk5snqct33.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MjM6MTAgUE0maGFzaF92YWx1ZT1oWlJ5K3ZoYlpVWWs1V3E1QWk3UnB3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Documentários",Discovery Science
