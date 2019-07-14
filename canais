@@ -15,7 +15,7 @@ https://d3s5hk5snqct33.cloudfront.net/hls1/bandnews.m3u8?wmsAuthSign=c2VydmVyX3R
 
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Espn Brasil
-https://d3s5hk5snqct33.cloudfront.net/hls1/espnbrasil.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6NTI6NDAgUE0maGFzaF92YWx1ZT1oOVBCMktrWTVjQWhGejhVQzlkYS93PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDEwOjM0OjExIFBNJmhhc2hfdmFsdWU9SENuUmFHcjVxQ0ZCSWhVNlptcmtWZz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Espn
 https://d3s5hk5snqct33.cloudfront.net/hls1/espn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Espn 2
@@ -60,9 +60,11 @@ https://d3s5hk5snqct33.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Discovery Kids
 https://d3s5hk5snqct33.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDQ6NTUgUE0maGFzaF92YWx1ZT1pbnVrZTg1WmRER0FlaUtQd2Q2TklRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Disney Channel
-https://d3s5hk5snqct33.cloudfront.net/hls1/disneyxd.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6Mzg6NDAgUE0maGFzaF92YWx1ZT0vWUhxTzlOejgwYS8yL0I3RjFaS2VRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+https://d3s5hk5snqct33.cloudfront.net/hls1/disney.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjAwOjQ5IEFNJmhhc2hfdmFsdWU9MXFSOE1JUGwrUS9JYjJzek5wbXJjZz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Disney Junior
 https://d3s5hk5snqct33.cloudfront.net/hls1/disneyjunior.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDI6NDUgUE0maGFzaF92YWx1ZT13UXlYMVJJeWVQcVpXb2JwOEpzV1hBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Disney XD
+https://d3s5hk5snqct33.cloudfront.net/hls1/disneyxd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjAwOjMwIEFNJmhhc2hfdmFsdWU9VTMrejdJUVlSR1JVbmJxOXoyeGFkdz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Nick
 https://d3s5hk5snqct33.cloudfront.net/hls1/nick.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDM6NDAgUE0maGFzaF92YWx1ZT0yR1Rmc3hhbTY0VFFyeEgwVVIzRUh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Nick Jr
@@ -192,8 +194,12 @@ https://d3s5hk5snqct33.cloudfront.net/hls1/lifetime.m3u8?wmsAuthSign=c2VydmVyX3R
 https://d3s5hk5snqct33.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTc6NDggUE0maGFzaF92YWx1ZT1HWjNXeHo2VW1tQ1FZbFJMaTlRQ0pnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Investigação Discovery
 https://d3s5hk5snqct33.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTk6NTAgUE0maGFzaF92YWx1ZT1aWEVIRVhWdFRXTDJVeWVSazVHeGtnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Discovery World
+https://d3s5hk5snqct33.cloudfront.net/hls1/discoveryworld.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjAzOjQ0IEFNJmhhc2hfdmFsdWU9ay9JMkdJR3hFS2hidkVvVG5BdUpnQT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-logo="" group-title="Variedades",GNT
 https://d3s5hk5snqct33.cloudfront.net/hls1/gnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDE5IDE6MTg6NTEgQU0maGFzaF92YWx1ZT1VbXZGV05PM2VwM3NUVWZiMFFnNkNBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Mais Globosat
+https://d3s5hk5snqct33.cloudfront.net/hls1/maisbobosat.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjAzOjAwIEFNJmhhc2hfdmFsdWU9Z09kWEMvK1Y1ME1xRmlKVnBHTnNxUT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-logo="" group-title="Variedades",MTV
 https://d3s5hk5snqct33.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6Mjk6MjQgUE0maGFzaF92YWx1ZT1oOEFLK0JQMUdRMXE1Tm5KVWRtTVZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Bis
@@ -203,3 +209,5 @@ https://d3s5hk5snqct33.cloudfront.net/hls1/canale.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Canal Off
 https://d3s5hk5snqct33.cloudfront.net/hls1/off.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDU6NTQ6MzYgUE0maGFzaF92YWx1ZT1vNTVPcVBwS2JEY05lei8yL1NaTXVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Fish TV
+https://d3s5hk5snqct33.cloudfront.net/hls1/fishtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjA0OjAyIEFNJmhhc2hfdmFsdWU9dzhaeE5yeDEwVVFYem01d1N3bFBwQT09JnZhbGlkbWludXRlcz02MCZpZD01
