@@ -95,16 +95,14 @@ http://dlgkb76tmjod9.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/JO
 http://dlgkb76tmjod9.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/AFGADSGLHNS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/80/04/19961677.jpg" group-title="ÚLTIMOS ADICIONADOS",O GALINHO CHICKEN LITTLE (2005)
 http://d2bpwhwqi533f4.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/OGLNHCHKNLT.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Deu%20a%20Louca%20na%20Chapeuzinho.jpg" group-title="ÚLTIMOS ADICIONADOS",Deu a Louca na Chapeuzinho (2005)
-http://dlgkb76tmjod9.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/DEUALCNCHPUZNH1.mp4
+
 #EXTINF:-1 tvg-logo="http://goo.gl/SSVf6E" group-title="ÚLTIMOS ADICIONADOS",A NOIVA CADÁVER (2005)
 http://d2bpwhwqi533f4.cloudfront.net/RedeCanais/RedeCanais/RCFServer2/ondemand/ANOIVCDVER.mp4
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-KUpMwH81COg/WG7tXnT9KyI/AAAAAAAABO4/fccQrVt7-9gTbYgPmbK6uCF1Q6auFch9gCLcB/s1600/9ASALVACAO.jpg" group-title="ÚLTIMOS ADICIONADOS",9 A SALVAÇÃO (2006)
 http://d2bpwhwqi533f4.cloudfront.net/RedeCanais/RedeCanais/RCFServer1/ondemand/ASLVCAO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bolt%20-%20Superc%C3%A3o.jpg" group-title="ÚLTIMOS ADICIONADOS",BOLT: SUPERCÃO (2009)
 http://d2bpwhwqi533f4.cloudfront.net/RedeCanais/RedeCanais/RCFServer3/ondemand/BLTSPRCAO.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Deu%20a%20Louca%20na%20Chapeuzinho%202.jpg" group-title="ÚLTIMOS ADICIONADOS",Deu a Louca na Chapeuzinho 2 (2011)
-http://dlgkb76tmjod9.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/DEUALCNCHPUZNH2.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bolt%20e%20Blip%20-%20Dois%20Rob%C3%B4s%20Pirados.jpg" group-title="ÚLTIMOS ADICIONADOS",Bolt & Blip: Dois Robôs Pirados (2012)
 http://d2bpwhwqi533f4.cloudfront.net/RedeCanais/RedeCanais/RCFServer3/ondemand/BLTEBLPDOSRBSPRDS.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JsSYV5m5vOg/VQkT3bksd4I/AAAAAAAAVhc/1RvmQ5FhNBQ/s1600/irmaos-urso-a-viagem-de-volta-para-casa-filmesonline10.jpg" group-title="ÚLTIMOS ADICIONADOS",Irmãos Urso: A Viagem de Volta Para Casa (2013)
@@ -116,7 +114,7 @@ http://d2bpwhwqi533f4.cloudfront.net/RedeCanais/RedeCanais/RCFServer1/ondemand/O
 #EXTINF:-1 tvg-logo="http://goo.gl/cfTMr9" group-title="ÚLTIMOS ADICIONADOS",O PEQUENO PRÍNCIPE (2015)
 http://d2bpwhwqi533f4.cloudfront.net/RedeCanais/RedeCanais/RCFServer2/ondemand/OPQNPRNCP.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/16/11/10/18/59/152563.jpg" group-title="ÚLTIMOS ADICIONADOS",Masha e o Urso (2016)
-http://d2bpwhwqi533f4.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/MSHEOURSOFLM.mp4
+http://dlgkb76tmjod9.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/MSHEOURSOFLM.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/k9Vqns" group-title="ÚLTIMOS ADICIONADOS",A BAILARINA (2016)
 http://d2bpwhwqi533f4.cloudfront.net/RedeCanais/RedeCanais/RCFServer3/ondemand/ABLRN.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/upxOtgk.jpg" group-title="ÚLTIMOS ADICIONADOS",Cegonhas: A História que Não te Contaram (2016)
@@ -409,7 +407,14 @@ http://dlgkb76tmjod9.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/OT
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jtO2KOEkTco/hqdefault.jpg" group-title="Deu A Louca",Deu a Louca na Chapeuzinho (2005)
+http://dlgkb76tmjod9.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/DEUALCNCHPUZNH1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_w6-2yL4o1r8/TDN2L8Km2yI/AAAAAAAABos/_vtDR6JtJA4/s1600/hnea1-800x600.jpg" group-title="Deu A Louca",Deu a Louca na Cinderela (2007)
+http://dlgkb76tmjod9.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/DEUALCANCIND.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pSmPeXp5hw0/maxresdefault.jpg" group-title="Deu A Louca",Deu a Louca na Branca de Neve (2009)
+http://dlgkb76tmjod9.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/DEUALCANBRNCDNVE.mp4
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l_c6OZ6lGfE/TmF1uxRpb3I/AAAAAAAAAUo/kD1mNBum3U0/w1200-h630-p-k-no-nu/deu_a_louca_na_chapeuzinho_2.jpg" group-title="Deu A Louca",Deu a Louca na Chapeuzinho 2 (2011)
+http://dlgkb76tmjod9.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/DEUALCNCHPUZNH2.mp4
 
 
 
