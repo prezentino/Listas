@@ -22,11 +22,9 @@ http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Abertos",Rede Brasil SP
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Abertos",Futura
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Abertos",Futura
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hbpsGWw.png" group-title="Abertos",TV Escola
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hbpsGWw.png" group-title="Abertos",TV Câmara
+#EXTINF:-1 tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="Abertos",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Boomerang
