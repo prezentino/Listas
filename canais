@@ -21,23 +21,22 @@ https://roda1.azureedge.net/hls1/band.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yM
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta RN
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="Abertos",TV Gazeta RN
 
 http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta MA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="Abertos",TV Gazeta MA
 
 http://stmv3.pagehost.com.br:1935/wagner7534/wagner7534/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Abertos",Rede Tv!
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="REDE BRASIL" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV Aberta",Rede Brasil
-http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV Aberta",Rede Brasil DE
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Abertos",Rede Brasil DE
 
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV Aberta",Rede Brasil PA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Abertos",Rede Brasil PA
 
 http://video01.tvdigitalhd.org:1935/tv31966/tv31966/playlist.m3u8
 
