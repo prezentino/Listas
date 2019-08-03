@@ -175,7 +175,7 @@ https://roda1.azureedge.net/hls1/foxpremium1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Fox Premium 2
 https://roda1.azureedge.net/hls1/foxpremium2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTU6MTkgUE0maGFzaF92YWx1ZT1JbGxyNlVZTlIrTXB4aVZUbm1va0RBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Warner
-https://roda1.azureedge.net/hls1/warner.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDE5IDExOjAyOjUwIFBNJmhhc2hfdmFsdWU9Y1NQRjRLQ2dIMkpXVThjbkY5MXZxZz09JnZhbGlkbWludXRlcz02MCZpZD01
+https://roda1.azureedge.net/hls1/warner.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTkgMjoyMjo1NiBQTSZoYXNoX3ZhbHVlPVhBczlPdkMrdkUvaXlMK0F3MmZRVkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Sony
 https://roda1.azureedge.net/hls1/sony.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1ODoxNyBQTSZoYXNoX3ZhbHVlPUg0bHZFQ3FodUdBN2FqOE1ydElDRVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TNT
