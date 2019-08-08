@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/04/26/17/30/2428965.jpg" group-title="ADICIONADOS RECENTEMENTE",Vingadores: Ultimato (2019)
 http://riscks8081.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4
-http://riscks8081.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4?attachment=true
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/04/26/17/30/2428965.jpg" group-title="ADICIONADOS RECENTEMENTE",Vingadores: Ultimato Leg (2019)
 http://riscks8081.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTOLEG.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5dhv5b4XeY8/maxresdefault.jpg" group-title="ADICIONADOS RECENTEMENTE",O Homem que Matou Dom Quixote (2019)
@@ -16,7 +15,7 @@ http://riscks8081.azureedge.net/RCFServer2/ondemand/NELARMTNDAVDRHSTRA.mp4
 http://riscks8081.azureedge.net/RCFServer1/ondemand/AMLDCAODCHRNA.mp4
 #EXTINF:-1 tvg-logo="https://torrentfilmes.biz/wp-content/uploads/2019/07/Salvando-Leningrado-capa-500x330.jpg" group-title="ADICIONADOS RECENTEMENTE",Salvando Leningrado (2019)
 http://riscks8081.azureedge.net/RCFServer2/ondemand/SLVNDLNGRDO.mp4
-#EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2019/07/0977319.jpg" group-title="ADICIONADOS RECENTEMENTE",John Wick 3: Parabellum
+#EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2019/07/0977319.jpg" group-title="ADICIONADOS RECENTEMENTE",John Wick 3: Parabellum Leg (2019)
 http://riscks8081.azureedge.net/RCFServer2/ondemand/JHNWCK3LEG.mp4
 #EXTINF:-1 tvg-logo="https://www.meridionalfm.com.br/file/2019/05/20190515-rota-de-fuga-3-1200x675.jpg" group-title="ADICIONADOS RECENTEMENTE",Rota De Fuga 3: O Resgate (2019)
 http://riscks8081.azureedge.net/RCFServer2/ondemand/RTADFGA3.mp4
@@ -879,9 +878,9 @@ http://riscks8081.azureedge.net/RCFServer1/ondemand/RCKY1.mp4
 
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jornada%20nas%20Estrelas%20-%20O%20Filme.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS: O FILME (1980)
-http://riscks8081.azureedge.net/RCFServer3/ondemand/STRTRK01.mp4
+http://riscks8081.azureedge.net/RCFServer3/ondemand/JORNDMSESTRLS01.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jornada%20nas%20Estrelas%20II%20-%20A%20Ira%20de%20Khan.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS II: A IRA DE KHAN (1982)
-http://riscks8081.azureedge.net/RCFServer3/ondemand/STRTRK02.mp4
+http://riscks8081.azureedge.net/RCFServer3/ondemand/JORNDMSESTRLS02.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jornada%20nas%20Estrelas%20III%20-%20%C3%80%20Procura%20de%20Spock.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS III: À PROCURA DE SPOCK (1984)
 http://riscks8081.azureedge.net/RCFServer3/ondemand/STRTRK03.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Jornada%20nas%20Estrelas%20IV%20-%20A%20Volta%20para%20Casa.jpg" group-title="STAR TREK",JORNADA NAS ESTRELAS IV: A VOLTA PARA CASA (1987)
@@ -1026,8 +1025,7 @@ http://riscks8080.azureedge.net/RCFServer4/ondemand/BNECLYDUMRJDADBLS.mp4
 http://riscks8080.azureedge.net/RCFServer4/ondemand/BOGENGHTSPRZSMLMTS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Ca%C3%A7a%20aos%20G%C3%A2ngsteres.jpg" group-title="ÚLTIMOS REDECANAIS",CAÇA AOS GANGSTERES (2013)
 http://riscks8080.azureedge.net/RCFServer4/ondemand/CACAPSGANGSTRS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Cidade%20dos%20Sonhos.jpg" group-title="ÚLTIMOS REDECANAIS",CIDADE DOS SONHOS (2002)
-http://riscks8080.azureedge.net/RCFServer4/ondemand/CIDDSNHS.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/C%C3%ADrculo%20de%20Fogo%20-%20A%20Revolta.jpg" group-title="ÚLTIMOS REDECANAIS",CÍRCULO DE FOGO: A REVOLTA (2018)
 http://riscks8080.azureedge.net/RCFServer4/ondemand/CRLODEFGOARVLTA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Cocoon%202%20-%20O%20Regresso.jpg" group-title="ÚLTIMOS REDECANAIS",Cocoon 2: O Regresso (1988)
@@ -1575,6 +1573,8 @@ http://riscks8081.azureedge.net/RCFServer1/ondemand/OPRFSNAL.mp4
 http://riscks8080.azureedge.net/RCFServer4/ondemand/TRNSPTSMLMTS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Clube%20da%20Luta.jpg" group-title="CULT",Clube da Luta (1999)
 http://riscks8081.azureedge.net/RCFServer1/ondemand/CLBDLT.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Cidade%20dos%20Sonhos.jpg" group-title="CULT",CIDADE DOS SONHOS (2002)
+http://riscks8080.azureedge.net/RCFServer4/ondemand/CIDDSNHS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Em%20Ritmo%20De%20Fuga.jpg" group-title="CULT",Em Ritmo de Fuga (2017)
 http://riscks8080.azureedge.net/RCFServer4/ondemand/EMRTMDFG.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Banquete.jpg" group-title="CULT",O Banquete (2018)
@@ -1698,6 +1698,8 @@ http://riscks8080.azureedge.net/RCFServer4/ondemand/UMDIDFRIA.mp4
 http://riscks8080.azureedge.net/RCFServer4/ondemand/UMSNHDKBRDA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Capit%C3%A3o%20Fant%C3%A1stico.jpg" group-title="DRAMA|COMÉDIA",CAPITÃO FANTÁSTICO (2016)
 http://riscks8081.azureedge.net/RCFServer3/ondemand/CPTFNTSC.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Desobedi%C3%AAncia.jpg" group-title="DRAMA|COMÉDIA",Desobediência (2018)
+http://ricks8080.azureedge.net/RCFServer4/ondemand/DESBDIENCA.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Apollo%2013%20-%20Do%20Desastre%20Ao%20Triunfo.jpg" group-title="DRAMAS HISTÓRICOS",Apollo 13: Do Desastre ao Triunfo (1995)
 http://riscks8081.azureedge.net/RCFServer3/ondemand/APLO13DSTRAOTRFO.mp4
@@ -1816,7 +1818,8 @@ http://riscks8080.azureedge.net/RCFServer3/ondemand/TRQDMSTR.mp4
 http://riscks8080.azureedge.net/RCFServer3/ondemand/TRQDMSTR2.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/1WUZuTj" group-title="POLICIAL",Wild Card: Jogo Duro (2015)
 http://lh3.googleusercontent.com/tOHHOKk19yMSR1O8-kE7nIVHwMzR9pYxr5uXut4wwwbR9mu5ptZdoqiZbnEuHzTZx41HXcjamQ=m22
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Sans%C3%A3o%20e%20Dalila.jpg" group-title="RELIGIOSOS",SANSÃO E DALILA (1951)
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Sans%C3%A3o%20e%20Dalila.jpg" group-title="RELIGIOSO",SANSÃO E DALILA (1951)
 http://riscks8081.azureedge.net/RCFServer3/ondemand/SNSOEDLA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/12/21/17/47/5445593.jpg" group-title="RELIGIOSO",MARIA MADALENA (2018)
 http://riscks8080.azureedge.net/RCFServer4/ondemand/MARMDLNA.mp4
@@ -7700,8 +7703,7 @@ http://riscks8081.azureedge.net/RCFServer2/ondemand/TLNTEFWODLWN.mp4
 https://goo.gl/qvsRBe
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/z6/wuvlf_tnl_210x118.jpg?ts=20140406101230" group-title="LETRA X",XXX2 Estado de Emergencia Ação Dublado
 http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/agqcx3x.jpg" group-title="LETRA Y",Yellowbird: O Pequeno Herói
-https://goo.gl/JhnDPs
+
 #EXTINF:-1 tvg-logo="http://goo.gl/if6Byx" group-title="LETRA Z",Z: A CIDADE PERDIDA (2017)
 http://riscks8080.azureedge.net/RCFServer4/ondemand/ZCDSPRDA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/FyTpYM" group-title="LETRA Z",Zaytoun
