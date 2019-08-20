@@ -289,6 +289,8 @@ http://raull3.azureedge.net/RCFServer3/ondemand/CAPTAMRC3.mp4
 http://raull3.azureedge.net/RCFServer3/ondemand/DRESTNHO.mp4
 #EXTINF:-1 tvg-logo="https://www.deveserisso.com.br/blog/wp-content/uploads/2017/04/guardioes-da-galaxia-vol2.jpg" group-title="Universo Marvel",GUARDIÕES DA GALÁXIA VOL. 2 (2017)
 http://raull2.azureedge.net/RCFServer4/ondemand/GRDOESDGLXIAVL2.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2iTY9zv" group-title="Universo Marvel",Guardiões da Galáxia 2 (2017)
+https://goo.gl/2eX9pB
 #EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2017/07/Cinematico-wide.jpg" group-title="Universo Marvel",HOMEM-ARANHA: DE VOLTA AO LAR (2017)
 http://raull2.azureedge.net/RCFServer4/ondemand/HOMARNHDVLTALR.mp4
 #EXTINF:-1 tvg-logo="http://leituraverso.com.br/wp-content/uploads/2018/04/thor-ragnarok-660x330.jpeg" group-title="Universo Marvel",THOR RAGNAROK (2017)
@@ -4251,8 +4253,7 @@ http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4
 https://goo.gl/5Tuhre
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FR6FbJj.png" group-title="LETRA G",GRITOS MORTAIS (2007)
 http://raull3.azureedge.net/RCFServer2/ondemand/GRTSMORTS.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2iTY9zv" group-title="LETRA G",Guardiões da Galáxia 2 
-https://goo.gl/2eX9pB
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jXiwtol.jpg" group-title="LETRA G",Guerra ao Terror
 https://goo.gl/XUQW8L
 #EXTINF:-1 tvg-logo="" group-title="LETRA G",GUERRA AO TERROR (2010)
