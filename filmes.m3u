@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dt5g5_1cKVk/maxresdefault.jpg" group-title="ADICIONADOS RECENTEMENTE",Hellboy (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HLBOY.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-2dDoYKbKhjU/WSWX7A16Y0I/AAAAAAAAL7I/I9V4N5tzcqIi6_yCE0PjDPcOVoOy0gECwCLcB/s1600/jackshining.jpg" group-title="ADICIONADOS RECENTEMENTE",O Iluminado (1980)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OILMDO.mp4
+#EXTINF:-1 tvg-logo="https://vivariomarrecife.com.br/wp-content/uploads/2019/06/mibestreiacinemark.jpg" group-title="ADICIONADOS RECENTEMENTE",MIB: Homens de Preto: Internacional Legendado (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MIBHMDPRTINTERLEG.mp4
+#EXTINF:-1 tvg-logo="https://espirito.org.br/wp-content/uploads/2019/04/KARDEC_300x250-GRUPO-1024x853-800x559.jpg" group-title="ADICIONADOS RECENTEMENTE",Kardec: A História por Trás do Nome (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/KRDCAHSTPRTRSDNME.mp4
+#EXTINF:-1 tvg-logo="https://www.baixedetudo.net/imagem/Duendes-e-Dragoes-Poster.jpg" group-title="ADICIONADOS RECENTEMENTE",Duendes e Dragões (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/DNDSEDRGOS.mp4
 #EXTINF:-1 tvg-logo="http://dalenogare.com/wp-content/uploads/2019/05/Godzilla.jpg" group-title="ADICIONADOS RECENTEMENTE",Godzilla II: Rei dos Monstros (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/GDZLAOREDSMNSTS.mp4
 #EXTINF:-1 tvg-logo="http://fw.atarde.com.br/2019/08/750_whindersson-nunes-standup-cultura_2019815165224689.jpg" group-title="ADICIONADOS RECENTEMENTE",Whindersson Nunes: Adulto (2019)
@@ -97,8 +107,7 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/SLVNDLNGRDO.mp4
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/JHNWCK3LEG.mp4
 #EXTINF:-1 tvg-logo="https://www.meridionalfm.com.br/file/2019/05/20190515-rota-de-fuga-3-1200x675.jpg" group-title="ADICIONADOS RECENTEMENTE",Rota De Fuga 3: O Resgate (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/RTADFGA3.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dt5g5_1cKVk/maxresdefault.jpg" group-title="ADICIONADOS RECENTEMENTE",Hellboy (2019)
-http://cdnfe3.azureedge.net/RCFServer2/ondemand/HLBOYLEG.mp4
+
 #EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2019/01/alita-1-750x380.jpg" group-title="ADICIONADOS RECENTEMENTE",Alita: Anjo de Combate (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ALITANGDCMBT.mp4
 #EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2019/05/MV5BNGJlZGQ3ZWEtYWNkZi00ZTU0LTg0MGYtMDU5MTBiNjg3NGQyXkEyXkFqcGdeQXVyNTM2NTY4NzU@._V1_SY1000_CR007521000_AL_.jpg" group-title="ADICIONADOS RECENTEMENTE",Shazan (2019)
@@ -328,15 +337,15 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/OSNHRDSANES.mp4
 http://cdn2.netcine.us/html/content/conteudolb/filmes2018/THERETURNOFTHEKINGLEG-ALTO.mp4?token=CU1bbKVhTSmH0p79KS6Jjg&expires=1562913682
 
 
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Hobbit%20-%20Uma%20Jornada%20Inesperada.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: UMA JORNADA INESPERADA (2012)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ZHJ5rj6sL.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: UMA JORNADA INESPERADA (2012)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OHBTUJRNINSPRD.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/06/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_UX182_CR00182268_AL_.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: UMA JORNADA INESPERADA (2012)
 http://cdn2.netcine.us/html/content/delivery/filmes2018/HOBBIT1DUB-ALTO.mp4?token=Gpr2CQWTdzrbKsY033UYjg&expires=1562913811
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Hobbit%20-%20A%20Desola%C3%A7%C3%A3o%20de%20Smaug.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A DESOLAÇÃO DE SMAUG (2013)
+#EXTINF:-1 tvg-logo="https://static.tribunadoceara.com.br/wp-content/uploads/sites/5/2013/12/hobbit-21.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A DESOLAÇÃO DE SMAUG (2013)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OHBTADSLCDSMG.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/06/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_UX182_CR00182268_AL_.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A DESOLAÇÃO DE SMAUG (2013)
 http://cdn2.netcine.us/html/content/delivery/filmes2018/HOBBIT2DUB-ALTO.mp4?token=J8MiPJk4oz_fA6oRv1uSZQ&expires=1562913909
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Hobbit%20-%20A%20Batalha%20dos%20Cinco%20Ex%C3%A9rcitos.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A BATALHA DOS CINCO EXÉRCITOS (2014)
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-fxmPrHz5jG0/VJr2BU30ZsI/AAAAAAAAHlI/xXSngJ1yn_8/s1600/the_hobbit_the_battle_of_the_five_armies_2-t2.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A BATALHA DOS CINCO EXÉRCITOS (2014)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OHBTABTLHDSCNCEXRCTS.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/06/MV5BODAzMDgxMDc1MF5BMl5BanBnXkFtZTgwMTI0OTAzMjE@._V1_UX182_CR00182268_AL_.jpg" group-title="O Hobbit & O Senhor dos Anéis",O HOBBIT: A BATALHA DOS CINCO EXÉRCITOS (2014)
 http://cdn2.netcine.us/html/content/delivery/filmes2018/HOBBIT3DUB-ALTO.mp4?token=2kQTEAmJ8ggqE9C_tksWNw&expires=1562913956
@@ -1651,6 +1660,8 @@ http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OPRFSNAL.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/96/93/18/20497001.jpg" group-title="CULT",TRAINSPOTTING (1996)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/TRNSPTSMLMTS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Outra%20Hist%C3%B3ria%20Americana.jpg" group-title="CULT",A Outra História Americana (1999)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/AOUTRHSTIA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Clube%20da%20Luta.jpg" group-title="CULT",Clube da Luta (1999)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/CLBDLT.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Cidade%20dos%20Sonhos.jpg" group-title="CULT",CIDADE DOS SONHOS (2002)
@@ -1659,6 +1670,8 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/CIDDSNHS.mp4
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/EMRTMDFG.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Banquete.jpg" group-title="CULT",O Banquete (2018)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/OBNQTE.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Capit%C3%A3o%20Fant%C3%A1stico.jpg" group-title="CULT",CAPITÃO FANTÁSTICO (2016)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/CPTFNTSC.mp4
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/AlszA7q.jpg" group-title="DOCUMENTÁRIO",A GUERRA DO VIETNÃ- PARTE 1
@@ -1715,8 +1728,6 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/OPRCESO.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="DRAMA",A Beira Mar (2016)
 http://lh3.googleusercontent.com/0GvVqHFaEO5OwIFTH53bJ7Askt_Lx0KwR3BXWVD79BS-7bHQwEy42Smpv9LxkTkL4PY975NZ=m22
-
-
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Gran%20Torino.jpg" group-title="DRAMA",Gran Torino (2009)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/GRNTRNO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Mestre.jpg" group-title="DRAMA",O Mestre (2007)
@@ -1727,8 +1738,7 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/OMSTRDLBLA.mp4
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/AMENIAINDGO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Menina%20que%20Roubava%20Livros.jpg" group-title="DRAMA",A Menina que Roubava Livros (2014)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/AMNAQRBVLVRS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Outra%20Hist%C3%B3ria%20Americana.jpg" group-title="DRAMA",A Outra História Americana (1999)
-http://cdnfe3.azureedge.net/RCFServer3/ondemand/AOUTRHSTIA.mp4
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="DRAMA",Boa Sorte (2014)
 http://lh3.googleusercontent.com/IfESROafKmdIwS26nrmI0uI5HI6uCMh16BOauBfrUZqtzF1I6rKUCsVLPtjWncBnkME=m18
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3o%20Phillips.jpg" group-title="DRAMA",Capitão Phillips (2013)
@@ -1776,17 +1786,19 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/TRFK.mp4
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/UMDIDFRIA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/16/48/20083748.jpg" group-title="DRAMA",UM SONHO DE LIBERDADE (1995)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/UMSNHDKBRDA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Capit%C3%A3o%20Fant%C3%A1stico.jpg" group-title="DRAMA|COMÉDIA",CAPITÃO FANTÁSTICO (2016)
-http://cdnfe3.azureedge.net/RCFServer3/ondemand/CPTFNTSC.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Desobedi%C3%AAncia.jpg" group-title="DRAMA|COMÉDIA",Desobediência (2018)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Desobedi%C3%AAncia.jpg" group-title="DRAMA",Desobediência (2018)
 http://ricks8080.azureedge.net/RCFServer4/ondemand/DESBDIENCA.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Apollo%2013%20-%20Do%20Desastre%20Ao%20Triunfo.jpg" group-title="DRAMAS HISTÓRICOS",Apollo 13: Do Desastre ao Triunfo (1995)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/APLO13DSTRAOTRFO.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Queda%20-%20As%20%C3%9Altimas%20Horas%20de%20Hitler.jpg" group-title="DRAMAS HISTÓRICOS",A QUEDA: AS ÚLTIMAS HORAS DE HITLER (2005)
-http://cdnfe2.azureedge.net/RCFServer4/ondemand/AQDAASULTMSHRSDHTLR.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Amistad.jpg" group-title="DRAMAS HISTÓRICOS",AMISTAD (1998)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/AMSTAD.mp4
+#EXTINF:-1 tvg-logo="http://www.eovideolevou.com.br/imgProduto/32105_f3.jpg" group-title="DRAMAS HISTÓRICOS",Círculo de Fogo (2001)
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/CIRCLODFG2001.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Queda%20-%20As%20%C3%9Altimas%20Horas%20de%20Hitler.jpg" group-title="DRAMAS HISTÓRICOS",A QUEDA: AS ÚLTIMAS HORAS DE HITLER (2005)
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/AQDAASULTMSHRSDHTLR.mp4
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="DRAMAS HISTÓRICOS",Getúlio (2014)
 http://lh3.googleusercontent.com/jwBDLklOWqsMDIUzYuMaTOLg46k8lzHOa54pzAfEcAyQRwwAexeoeHKLhbbxJTEyTcE=m18
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="DRAMAS HISTÓRICOS",Irmã Dulce
