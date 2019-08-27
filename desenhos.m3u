@@ -1,14 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocasclub.com.br/wp-content/uploads/2019/04/patrulha-canina-filme.jpg" group-title="ÚLTIMOS ADICIONADOS",Patrulha Canina: Super Filhotes (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/PTRLHCNASPRFLHTS.mp4
+#EXTINF:-1 tvg-logo="https://i2.wp.com/aftercredits.com/wp-content/uploads/2019/05/UglyDollsFeat.jpg" group-title="ÚLTIMOS ADICIONADOS",UglyDolls (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/UGLSDLS.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/quFw9JKBKSw/maxresdefault.jpg" group-title="ÚLTIMOS ADICIONADOS",Em Busca do Vale Encantado (1988)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/EMBSCDVLENCTDO.mp4
+#EXTINF:-1 tvg-logo="https://www.nerdssauros.com.br/wp-content/uploads/2019/08/maxresdefault-1.jpg" group-title="ÚLTIMOS ADICIONADOS",A Vida Moderna de Rocko: Volta ao Lar (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/AVDMRDNDRCKVLTAOLR.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/azaflix.com/wp-content/uploads/2019/08/6WU5ORvayBF1Cep3FYyo17KYGDG.jpg" group-title="ÚLTIMOS ADICIONADOS",A Princesa Encantada: O Reino da Música (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/APRNCSENCTDAORNDMSCA.mp4
+#EXTINF:-1 tvg-logo="https://static3.srcdn.com/wordpress/wp-content/uploads/2019/04/Missing-Link-2019-poster.jpg" group-title="ÚLTIMOS ADICIONADOS",Missing Link (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MSNGLNK.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/p7cH_ngyX4E/maxresdefault.jpg" group-title="ÚLTIMOS ADICIONADOS",O Show da Luna:Das Ilhas ao Continente (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OSHWDLNDSILHSAOCNTNE.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3o_n4H5xSXU/maxresdefault.jpg" group-title="ÚLTIMOS ADICIONADOS",O Show da Luna: Bichos na Fazenda (2019)
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/OSHWDLNBHSNFZNDA.mp4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/UeNWUoEC9q4-EXb-RNuLgCAjrXI=/fit-in/290x478/smart/media/movies/covers/2019/02/xfdfghdg.jpg" group-title="ÚLTIMOS ADICIONADOS",Minúsculos 2 (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/MINSCLSO2FLM.mp4
-#EXTINF:-1 tvg-logo="https://i1.wp.com/planetalan.com.br/wp-content/uploads/2019/06/O-Show-da-Luna-Bichos-na-Fazenda.jpg" group-title="ÚLTIMOS ADICIONADOS",O Show da Luna: Bichos na Fazenda (2019)
-http://cdnfe3.azureedge.net/RCFServer2/ondemand/OSHWDLNBHSNFZNDA.mp4
 #EXTINF:-1 tvg-logo="https://web.waploaded.com/videos/uploads/img/2019/04/jumbo-2019-official-trailer.jpg" group-title="ÚLTIMOS ADICIONADOS",Jumbo (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/JMBO.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9p3Y8OJQSwo/maxresdefault.jpg" group-title="ÚLTIMOS ADICIONADOS",Pachamama: Uma Aventura Nos Andes (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/PCHMAUANA.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/cloud.estacaonerd.com/wp-content/uploads/2019/03/14124110/S3.jpg" group-title="ÚLTIMOS ADICIONADOS",Parque dos Sonhos (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/OPRQDSNHS.mp4
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.nerdsite.com.br/wp-content/uploads/2019/08/luccas-neto-netflix.jpg" group-title="ÚLTIMOS ADICIONADOS",Luccas Neto em Uma Baba Muito Esquisita (2019)
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/LUCSNTOEMUMBABMTESQCDA.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RsDuSkaJUKc/maxresdefault.jpg" group-title="ÚLTIMOS ADICIONADOS",Luccas Neto: Perdidos Na Noite De Natal (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/LCSNTOEMPRSNTL.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/11/13/12/10/5661398.jpg" group-title="ÚLTIMOS ADICIONADOS",Como Treinar Seu Dragão 3 Leg (2019)
@@ -162,7 +179,7 @@ http://cdnfe3.azureedge.net/RCFServer4/ondemand/MGLIOMENIOLBO.mp4
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ARSTGTS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/94/05/35/20299477.jpg" group-title="Disney",A DAMA E O VAGABUNDO (1975)
 http://cdnfe3.azureedge.net/RCFServer4/ondemand/ADMAEOVAGNDO.mp4
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8713703/s592/o-caldeirao-magico" group-title="Disney",O Caldeirão Mágico (1985)
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8713703/s592/o-caldeirao-magico.jpg" group-title="Disney",O Caldeirão Mágico (1985)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/OCLDRAOMGCO.mp4
 #EXTINF:-1 tvg-logo="https://www.planocritico.com/wp-content/uploads/2018/06/pc_ratinho_detetive-600x400.jpg" group-title="Disney",As Peripécias de um Ratinho Detetive (1986)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ASPRPCSDUMRTNHODTVE.mp4
