@@ -26,7 +26,7 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/SCBYDOEBTMNOSBVSEDSTMDS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Batman%20e%20Arlequina%20-%20Pancadas%20e%20Risadas.jpg" group-title="DC Animações",BATMAN & ARLEQUINA: PANCADAS E RISADAS (2017)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/BATMEALRQNPNCDSERSDS.mp4
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2017/05/PEEFIL.png" group-title="DC Animações",Vixen: O Filme (2017)
-http://cdn2.netcine.us/html/content/httpdelivery/filmes2017/VIXEN2017LEG-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn2.netcine.us/html/content/httpdelivery/filmes2017/VIXEN2017LEG-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/04/1-1.jpg" group-title="DC Animações",Os Jovens Titãs: O Contrato de Judas (2017)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/JVNSTSOCTRTDJDS.mp4
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/marvel_dc/images/a/aa/Justice_League_Dark_box_art.jpg" group-title="DC Animações",Liga da Justiça Sombria (2017)
@@ -40,7 +40,7 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/LIGDJSTVSTNTITNSUEA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Batman%20-%20Sangue%20Ruim.jpg" group-title="DC Animações",Batman: Sangue Ruim (2016)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/BTMNSNGRUIM.mp4
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/marvel_dc/images/c/c1/Batman_Unlimited_Mechs_vs._Mutants.jpg" group-title="DC Animações",Batman Sem Limites: Mechas vs Mutantes (2016)
-http://cdn2.netcine.us/html/content/sobdemanda/netcine-bucket/filmes2016/animacoes/MECHADUB-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn2.netcine.us/html/content/sobdemanda/netcine-bucket/filmes2016/animacoes/MECHADUB-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Liga%20da%20Justi%C3%A7a%20-%20Deuses%20e%20Monstros.jpg" group-title="DC Animações"f,Liga da Justica: Deuses e Monstros (2015)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/LIGDJSTDEUSEMNSTRS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Liga%20da%20Justi%C3%A7a%20-%20O%20Trono%20de%20Atlantis.jpg" group-title="DC Animações",Liga da Justiça: O Trono de Atlantis (2015)
@@ -120,8 +120,7 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/BATMAMSCRDFNTSM.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8hucG5jMd1Y/hqdefault.jpg" group-title="LEGO DC Animações",Lego Batman e a Liga da Justiça
-http://cdnfe3.azureedge.net/RCFServer3/ondemand/BATMLGOFLMSPRHRSUN.mp4
+
 #EXTINF:-1 tvg-logo="http://eovideolevou.com.br/imgProduto/72872_f3.jpg" group-title="LEGO DC Animações",Batman Lego: Super Heróis Se Unem (2013)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/BATMLGOFLMSPRHRSUN.mp4
 #EXTINF:-1 tvg-logo="http://www.downloadlivre.net/wp-content/uploads/2016/02/Liga-da-Justi%C3%A7a-Lego-Combate-C%C3%B3smico-Dublado.jpg" group-title="LEGO DC Animações",Liga da Justiça Lego: Combate Cósmico (2016)
@@ -134,6 +133,8 @@ http://livevod.cf/stream/1080/2b4f9e548df404b717aa84625e1db33e/
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/LEGDCCMSSPRHRTHFLSH.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/LEGO%20DC%20Comics%20Super%20Her%C3%B3is%20-%20Aquaman%20A%20F%C3%BAria%20de%20Atl%C3%A2ntida.jpg" group-title="LEGO DC Animações",Lego DC Comics Super Heróis: Aquaman: A Fúria de Atlântida (2018)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/LGODCAQMNAFRDATLNDA.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sP0ELxnuwPlqq67iQAJaJ7zjJpw.jpg" group-title="LEGO DC Animações",LEGO DC: Batman: Assuntos de Família (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/LGODCBTMNASNTSDFMLA.mp4
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video62/v4/89/ee/ef/89eeefdd-3559-2400-980b-ccf4d096f372/pr_source.lsr/268x0w.png" group-title="DC Super Hero Girls",DC Super Hero Girls: Heroínas do Ano (2016)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/DCSPRHROGRLSHRNSDANO.mp4
@@ -851,31 +852,31 @@ http://cdnfe2.azureedge.net/RCServer09/ondemand/JUSJVMEP45.mp4
 http://cdnfe2.azureedge.net/RCServer09/ondemand/JUSJVMEP46.mp4
 
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/01/legendas_tv_20190104215407.jpg" group-title="Justiça Jovem",Justiça Jovem T03E01
-http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/01-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/01-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/01/legendas_tv_20190104215407.jpg" group-title="Justiça Jovem",Justiça Jovem T03E02
-http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/02-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/02-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/01/legendas_tv_20190104215407.jpg" group-title="Justiça Jovem",Justiça Jovem T03E03
-http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/03-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/03-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/01/legendas_tv_20190104215407.jpg" group-title="Justiça Jovem",Justiça Jovem T03E04
-http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/04-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/04-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/01/legendas_tv_20190104215407.jpg" group-title="Justiça Jovem",Justiça Jovem T03E05
-http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/05-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/05-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/01/legendas_tv_20190104215407.jpg" group-title="Justiça Jovem",Justiça Jovem T03E06
-http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/06-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/06-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/01/legendas_tv_20190104215407.jpg" group-title="Justiça Jovem",Justiça Jovem T03E07
-http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/07-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/07-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/01/legendas_tv_20190104215407.jpg" group-title="Justiça Jovem",Justiça Jovem T03E08
-http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/08-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/08-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/01/legendas_tv_20190104215407.jpg" group-title="Justiça Jovem",Justiça Jovem T03E09
-http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/09-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/09-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/01/legendas_tv_20190104215407.jpg" group-title="Justiça Jovem",Justiça Jovem T03E10
-http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/10-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/10-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/01/legendas_tv_20190104215407.jpg" group-title="Justiça Jovem",Justiça Jovem T03E11
-http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/11-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/11-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/01/legendas_tv_20190104215407.jpg" group-title="Justiça Jovem",Justiça Jovem T03E12
-http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/12-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/12-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/01/legendas_tv_20190104215407.jpg" group-title="Justiça Jovem",Justiça Jovem T03E13
-http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/13-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdnr8-2.netcine.us/html/content/conteudolb2/youngjustice/03leg/13-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Os%20Jovens%20Tit%C3%A3s3.jpg" group-title="Os Jovens Titãs",Os Jovens Titans E01
 http://cdnfe3.azureedge.net/RCServer10/ondemand/OSJVNSTASEP01.mp4
@@ -1963,27 +1964,27 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/ASMBRDBTMNEP26.mp4
 
 
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/08/medium-cover-16.jpg" group-title="Vixen",Vixen S01E01
-http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/01leg/01-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/01leg/01-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/08/medium-cover-16.jpg" group-title="Vixen",Vixen S01E02
-http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/01leg/02-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/01leg/02-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/08/medium-cover-16.jpg" group-title="Vixen",Vixen S01E03
-http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/01leg/03-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/01leg/03-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/08/medium-cover-16.jpg" group-title="Vixen",Vixen S01E04
-http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/01leg/04-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/01leg/04-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/08/medium-cover-16.jpg" group-title="Vixen",Vixen S01E05
-http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/01leg/05-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/01leg/05-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/08/medium-cover-16.jpg" group-title="Vixen",Vixen S01E06
-http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/01leg/06-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/01leg/06-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/08/medium-cover-16.jpg" group-title="Vixen",Vixen S02E01
-http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/02leg/001-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/02leg/001-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/08/medium-cover-16.jpg" group-title="Vixen",Vixen S02E02
-http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/02leg/02-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/02leg/02-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/08/medium-cover-16.jpg" group-title="Vixen",Vixen S02E03
-http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/02leg/03-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/02leg/03-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/08/medium-cover-16.jpg" group-title="Vixen",Vixen S02E04
-http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/02leg/04-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/02leg/04-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 #EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2016/08/medium-cover-16.jpg" group-title="Vixen",Vixen S02E05
-http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/02leg/05-ALTO.mp4?token=B6fd1ONY9KJkUBzy1YVTlw&expires=1562907143
+http://cdn1.netcine.us/html/content/sobdemanda26/netcine-bucket/vixen/02leg/05-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Desenhos/Constantine%20-%20City%20of%20Demons%201.jpg" group-title="Constantine: Cidade dos Demônios",Constantine: Cidade dos Demônios S01E01
 http://cdnfe3.azureedge.net/RCServer07/ondemand/CNSTNCTYDMNS01EP01.mp4
@@ -2033,7 +2034,8 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/HLKONDOSMNSTRHTBM.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Marvel%20Rising%20-%20Guerreiros%20Secretos.jpg" group-title="Marvel Animações",Marvel Rising: Guerreiros Secretos (2018)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/MRVLRSNGGRSCRTS.mp4
-
+#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/02/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SY1000_CR006741000_AL_.jpg" group-title="Marvel Animações",Homem-Aranha: No Aranhaverso (2019)
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/HOMARNHNARNVRSO.mp4
 
 
 #EXTINF:-1 tvg-logo="http://www.tvsinopse.kinghost.net/h/homem-aranha2_arquivos/tvsinopse1070.jpg" group-title="Homem-Aranha Clássico",Homem-Aranha Clássico E01
