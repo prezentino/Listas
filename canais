@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Abertos",TV Cultura PA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Abertos",TV Cultura
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Abertos",TV Cultura PB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Abertos",TV Cultura
 http://stream.tvitarare.com.br/hls/site/site_hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Abertos",TV Cultura PR
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Abertos",TV Cultura
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="Abertos",TVE
 http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
@@ -248,7 +248,7 @@ https://cdnfe1.azureedge.net/hls1/foxlife.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83L
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Investigação Discovery
 https://cdnfe1.azureedge.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTk6NTAgUE0maGFzaF92YWx1ZT1aWEVIRVhWdFRXTDJVeWVSazVHeGtnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Discovery World
-https://cdnfe1.azureedge.net/hls1/discoveryworld.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjAzOjQ0IEFNJmhhc2hfdmFsdWU9ay9JMkdJR3hFS2hidkVvVG5BdUpnQT09JnZhbGlkbWludXRlcz02MCZpZD01
+https://cdnfe1.azureedge.net/hls1/discoveryworld.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",GNT
 https://cdnfe1.azureedge.net/hls1/gnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDE5IDE6MTg6NTEgQU0maGFzaF92YWx1ZT1VbXZGV05PM2VwM3NUVWZiMFFnNkNBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Mais Globosat
