@@ -23,7 +23,6 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/JMBO.mp4
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/PCHMAUANA.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/cloud.estacaonerd.com/wp-content/uploads/2019/03/14124110/S3.jpg" group-title="ÚLTIMOS ADICIONADOS",Parque dos Sonhos (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/OPRQDSNHS.mp4
-
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.nerdsite.com.br/wp-content/uploads/2019/08/luccas-neto-netflix.jpg" group-title="ÚLTIMOS ADICIONADOS",Luccas Neto em Uma Baba Muito Esquisita (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/LUCSNTOEMUMBABMTESQCDA.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RsDuSkaJUKc/maxresdefault.jpg" group-title="ÚLTIMOS ADICIONADOS",Luccas Neto: Perdidos Na Noite De Natal (2019)
@@ -44,9 +43,8 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/MINSAJNDTDPANL.mp4
 https://globalc2.global.ssl.fastly.net/RedeCanais/RCFServer2/ondemand/CARCDODRGAO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/90/70/20028698.jpg" group-title="ÚLTIMOS ADICIONADOS",A Lenda dos Guardiões (2010)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ALNDADSGRDOES.mp4
-#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/03/Zombillenium.jpg" group-title="ÚLTIMOS ADICIONADOS",Zumbilênio: O Parque dos Monstros (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/tosPSPWm8Hrc7upYX3YUl1tUI5M.jpg" group-title="ÚLTIMOS ADICIONADOS",Zumbilênio: O Parque dos Monstros (2017)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ZMBLNIOPRQDSMNSTRS.mp4
-
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Encantado.jpg" group-title="ÚLTIMOS ADICIONADOS",Encantado (2018)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ENCTDO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Grinch.jpg" group-title="ÚLTIMOS ADICIONADOS",O Grinch (2018)
@@ -93,57 +91,60 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/SHRLCKGNMSEOMSTRODJRDM.mp4
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ASAVNTRSDOZY.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/11/06/20/22/0021404.jpg" group-title="ÚLTIMOS ADICIONADOS",DUDA E OS GNOMOS (2018)	
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/DUDEOSGNMS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/12/11/15/27/039582.jpg" group-title="ÚLTIMOS ADICIONADOS",MINÚSCULOS: O FILME (2015)
-http://cdnfe2.azureedge.net/RCFServer4/ondemand/MINSCLSOFLM.mp4
 
-#EXTINF:-1 tvg-logo="http://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2017/07/my_little_pony_the_movie-800x535.jpg" group-title="ÚLTIMOS ADICIONADOS",MY LITTLE PONEY (2017)
-http://cdnfe2.azureedge.net/RCFServer4/ondemand/MYLTLEPNYOFLM.mp4
-#EXTINF:-1 tvg-logo="http://occ-0-2433-1001.1.nflxso.net/art/efa47/9be9bda8e026c6ff062e7805c6869a1d287efa47.jpg" group-title="ÚLTIMOS ADICIONADOS",NATAL COM OS STORYBOTS (2017)
-http://cdnfe2.azureedge.net/RCFServer4/ondemand/NATLCMSTRBTS.mp4
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LUC_tBjHy74/maxresdefault.jpg" group-title="ÚLTIMOS ADICIONADOS",MONSTER ISLAND (2017)
-http://cdnfe2.azureedge.net/RCFServer4/ondemand/MONSTRISLND.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Dora%20A%20Aventureira%20-%20Party%20Super%20Divertida!.jpg" group-title="ÚLTIMOS ADICIONADOS",Dora A Aventureira: Party Super Divertida! (2018)
-http://cdnfe3.azureedge.net/RCFServer3/ondemand/DORAVNTRPRTSPRDVRTDA.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/%C3%89%20Natal%20De%20Novo%20Charlie%20Brown.jpg" group-title="ÚLTIMOS ADICIONADOS",É Natal De Novo Charlie Brown (1992) - Snoopy
+
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/%C3%89%20Natal%20De%20Novo%20Charlie%20Brown.jpg" group-title="Animações",Snoopy: É Natal De Novo Charlie Brown (1992)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ENTLDNVCRLBRWN.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Jos%C3%A9%20-%20O%20Rei%20dos%20Sonhos.jpg" group-title="ÚLTIMOS ADICIONADOS",JOSÉ: O REI DOS SONHOS (2000)
-http://cdnfe2.azureedge.net/RCFServer4/ondemand/JOSORIDSNHS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/A%20Fuga%20das%20Galinhas.jpg" group-title="ÚLTIMOS ADICIONADOS",A FUGA DAS GALINHAS (2000)
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/A%20Fuga%20das%20Galinhas.jpg" group-title="Animações",A FUGA DAS GALINHAS (2000)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/AFGADSGLHNS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/80/04/19961677.jpg" group-title="ÚLTIMOS ADICIONADOS",O GALINHO CHICKEN LITTLE (2005)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/80/04/19961677.jpg" group-title="Animações",O GALINHO CHICKEN LITTLE (2005)
 http://cdnfe3.azureedge.net/RCFServer4/ondemand/OGLNHCHKNLT.mp4
-
-#EXTINF:-1 tvg-logo="http://goo.gl/SSVf6E" group-title="ÚLTIMOS ADICIONADOS",A NOIVA CADÁVER (2005)
+#EXTINF:-1 tvg-logo="http://goo.gl/SSVf6E" group-title="Animações",A NOIVA CADÁVER (2005)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ANOIVCDVER.mp4
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-KUpMwH81COg/WG7tXnT9KyI/AAAAAAAABO4/fccQrVt7-9gTbYgPmbK6uCF1Q6auFch9gCLcB/s1600/9ASALVACAO.jpg" group-title="ÚLTIMOS ADICIONADOS",9 A SALVAÇÃO (2006)
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-KUpMwH81COg/WG7tXnT9KyI/AAAAAAAABO4/fccQrVt7-9gTbYgPmbK6uCF1Q6auFch9gCLcB/s1600/9ASALVACAO.jpg" group-title="Animações",9 A SALVAÇÃO (2006)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ASLVCAO.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bolt%20-%20Superc%C3%A3o.jpg" group-title="ÚLTIMOS ADICIONADOS",BOLT: SUPERCÃO (2009)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bolt%20-%20Superc%C3%A3o.jpg" group-title="Animações",BOLT: SUPERCÃO (2009)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/BLTSPRCAO.mp4
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bolt%20e%20Blip%20-%20Dois%20Rob%C3%B4s%20Pirados.jpg" group-title="ÚLTIMOS ADICIONADOS",Bolt & Blip: Dois Robôs Pirados (2012)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Bolt%20e%20Blip%20-%20Dois%20Rob%C3%B4s%20Pirados.jpg" group-title="Animações",Bolt & Blip: Dois Robôs Pirados (2012)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/BLTEBLPDOSRBSPRDS.mp4
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JsSYV5m5vOg/VQkT3bksd4I/AAAAAAAAVhc/1RvmQ5FhNBQ/s1600/irmaos-urso-a-viagem-de-volta-para-casa-filmesonline10.jpg" group-title="ÚLTIMOS ADICIONADOS",Irmãos Urso: A Viagem de Volta Para Casa (2013)
-https://goo.gl/an2i95
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Festa%20no%20C%C3%A9u.jpg" group-title="ÚLTIMOS ADICIONADOS",FESTA NO CÉU (2014)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Festa%20no%20C%C3%A9u.jpg" group-title="Animações",FESTA NO CÉU (2014)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/FSTNOCEU.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ecrYWzV.jpg" group-title="ÚLTIMOS ADICIONADOS",O QUE SERÁ DE NOZES? (2014)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ecrYWzV.jpg" group-title="Animações",O QUE SERÁ DE NOZES? (2014)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OQUSRDNZS.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/cfTMr9" group-title="ÚLTIMOS ADICIONADOS",O PEQUENO PRÍNCIPE (2015)
-http://cdnfe3.azureedge.net/RCFServer2/ondemand/OPQNPRNCP.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/16/11/10/18/59/152563.jpg" group-title="ÚLTIMOS ADICIONADOS",Masha e o Urso (2016)
-http://cdnfe2.azureedge.net/RCFServer4/ondemand/MSHEOURSOFLM.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/k9Vqns" group-title="ÚLTIMOS ADICIONADOS",A BAILARINA (2016)
-http://cdnfe3.azureedge.net/RCFServer3/ondemand/ABLRN.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/upxOtgk.jpg" group-title="ÚLTIMOS ADICIONADOS",Cegonhas: A História que Não te Contaram (2016)
-http://cdnfe3.azureedge.net/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Kubo%20e%20as%20Cordas%20M%C3%A1gicas.jpg" group-title="ÚLTIMOS ADICIONADOS",Kubo e As Cordas Mágicas (2016)
-http://cdnfe3.azureedge.net/RCFServer4/ondemand/KUBEASCRDSMGCS.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Aventuras%20de%20Robinson%20Cruso%C3%A9.jpg" group-title="ÚLTIMOS ADICIONADOS",As Aventuras de Robinson Crusoé (2016)
-http://cdnfe2.azureedge.net/RCFServer4/ondemand/ASAVNTRSDRBNSCRSOE.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/06/23/19/41/320742.jpg" group-title="ÚLTIMOS ADICIONADOS",CONDORITO: O FILME (2017)
-http://cdnfe2.azureedge.net/RCFServer4/ondemand/CONDRTOFLM.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/agqcx3x.jpg" group-title="ÚLTIMOS ADICIONADOS",Yellowbird: O Pequeno Herói (2014)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/agqcx3x.jpg" group-title="Animações",Yellowbird: O Pequeno Herói (2014)
 https://goo.gl/JhnDPs
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3pGzUN4.jpg" group-title="Animações",As Aventuras dos 7 Anões (2014)
+https://goo.gl/yAYTFk
+#EXTINF:-1 tvg-logo="http://goo.gl/cfTMr9" group-title="Animações",O PEQUENO PRÍNCIPE (2015)
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/OPQNPRNCP.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/12/11/15/27/039582.jpg" group-title="Animações",MINÚSCULOS: O FILME (2015)
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/MINSCLSOFLM.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/16/11/10/18/59/152563.jpg" group-title="Animações",Masha e o Urso (2016)
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/MSHEOURSOFLM.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/k9Vqns" group-title="Animações",A BAILARINA (2016)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ABLRN.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/upxOtgk.jpg" group-title="Animações",Cegonhas: A História que Não te Contaram (2016)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Kubo%20e%20as%20Cordas%20M%C3%A1gicas.jpg" group-title="Animações",Kubo e As Cordas Mágicas (2016)
+http://cdnfe3.azureedge.net/RCFServer4/ondemand/KUBEASCRDSMGCS.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Aventuras%20de%20Robinson%20Cruso%C3%A9.jpg" group-title="Animações",As Aventuras de Robinson Crusoé (2016)
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/ASAVNTRSDRBNSCRSOE.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/06/23/19/41/320742.jpg" group-title="Animações",CONDORITO: O FILME (2017)
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/CONDRTOFLM.mp4
+#EXTINF:-1 tvg-logo="http://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2017/07/my_little_pony_the_movie-800x535.jpg" group-title="Animações",MY LITTLE PONEY (2017)
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/MYLTLEPNYOFLM.mp4
+#EXTINF:-1 tvg-logo="http://occ-0-2433-1001.1.nflxso.net/art/efa47/9be9bda8e026c6ff062e7805c6869a1d287efa47.jpg" group-title="Animações",NATAL COM OS STORYBOTS (2017)
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/NATLCMSTRBTS.mp4
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LUC_tBjHy74/maxresdefault.jpg" group-title="Animações",MONSTER ISLAND (2017)
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/MONSTRISLND.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Dora%20A%20Aventureira%20-%20Party%20Super%20Divertida!.jpg" group-title="Animações",Dora A Aventureira: Party Super Divertida! (2018)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/DORAVNTRPRTSPRDVRTDA.mp4
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/03/05/19/05/058446.jpg" group-title="Disney",BRANCA DE NEVE E OS SETE ANÕES (1938)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/BRNCDNVEOSTSANS.mp4
@@ -247,6 +248,10 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/CNDRLAIII.mp4
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/APRNCSEOSPO.mp4
 #EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2016/06/alx_entretenimento-filmes-mais-caros-enrolados-20131210-001_original.jpeg" group-title="Disney",Enrolados (2011)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ENRLDS.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Hd6y1TrLSuI/VL8X8tmx1OI/AAAAAAAADq8/KiagWqN7tog/s1600/brave.jpeg" group-title="Disney",Valente (2012)
+https://goo.gl/ubNccM
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JsSYV5m5vOg/VQkT3bksd4I/AAAAAAAAVhc/1RvmQ5FhNBQ/s1600/irmaos-urso-a-viagem-de-volta-para-casa-filmesonline10.jpg" group-title="Disney",Irmãos Urso: A Viagem de Volta Para Casa (2013)
+https://goo.gl/an2i95
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/h_oB919hg7s/maxresdefault.jpg" group-title="Disney",A Guarda do Leão: Um Novo Rugido (2016)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/AGRDALEO.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZGcuevXnyC4/WMoIE_MzuZI/AAAAAAAAA6c/gzM3c6wcp1spxmm8uaHA6tAb5bKrcJergCLcB/s1600/100000x100000-999.jpg" group-title="Disney",Elena e o Segredo de Avalor (2016)
@@ -476,11 +481,13 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/LGOJRSCWRLDAEXPSCRTAPT2.mp4
 
 
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-kQ6_1fDM3NM/TkngA22Q9NI/AAAAAAAADwM/bwvgX8fJoL4/s1600/12b.jpg" group-title="DESENHOS BIBLICOS",DESENHOS BIBLICOS GENESIS O INICIO DA CRIAÇÃO
-http://ia601503.us.archive.org/16/items/DESENHOSBIBLICOSGENESISOINICIODACRIACAO/DESENHOS%20BIBLICOS%20-%20GENESIS%20O%20INICIO%20DA%20CRIAC%C3%83O.mp4?AndreOid
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-kQ6_1fDM3NM/TkngA22Q9NI/AAAAAAAADwM/bwvgX8fJoL4/s1600/12b.jpg" group-title="Religiosos",Gênesis: O Início da Criação
+http://ia601503.us.archive.org/16/items/DESENHOSBIBLICOSGENESISOINICIODACRIACAO/DESENHOS%20BIBLICOS%20-%20GENESIS%20O%20INICIO%20DA%20CRIAC%C3%83O.mp4
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_ecZQeLVp5c0/TC_TUNt5GgI/AAAAAAAAByU/_ixJdTzMTEE/s1600/c13.png" group-title="DESENHOS BIBLICOS",COLETANEA DESENHOS biblicos
-http://ia601500.us.archive.org/6/items/COLETANEADESENHOSDABIBLIA/COLETANEA%20DESENHOS%20DA%20BIBLIA.mp4?AndreOid
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_ecZQeLVp5c0/TC_TUNt5GgI/AAAAAAAAByU/_ixJdTzMTEE/s1600/c13.png" group-title="Religiosos",Gênesis: Abraão 
+http://ia601500.us.archive.org/6/items/COLETANEADESENHOSDABIBLIA/COLETANEA%20DESENHOS%20DA%20BIBLIA.mp4
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Jos%C3%A9%20-%20O%20Rei%20dos%20Sonhos.jpg" group-title="Religiosos",JOSÉ: O REI DOS SONHOS (2000)
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/JOSORIDSNHS.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/76/26/19961287.jpg" group-title="Asterix",Asterix, O Gaulês (1968)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ASTRXOGLS.mp4
