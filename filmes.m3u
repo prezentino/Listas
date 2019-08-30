@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://fw.atarde.com.br/2019/06/750_turma-da-monica-lacos-filme-ingressos_201962672546772.jpg" group-title="ADICIONADOS RECENTEMENTE",Turma da Mônica: Laços (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/TRMDMNCLCS.mp4
+#EXTINF:-1 tvg-logo="https://abrilexame.files.wordpress.com/2017/03/homem-bicentenacc81rio-filme-2000.png" group-title="ADICIONADOS RECENTEMENTE",O Homem Bicentenário (2000)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OHOMBCNTNRIO.mp4
+#EXTINF:-1 tvg-logo="http://clubedaspipocas.com.br/wp-content/uploads//2016/07/cms-image-000436534.jpg" group-title="ADICIONADOS RECENTEMENTE",A.I. Inteligencia Artificial (2011)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/AINTLGNCARTFCL.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/5Z2uAUDQkLzewZ6CpWDPn4q9990.jpg" group-title="ADICIONADOS RECENTEMENTE",Marvel Rising: Coração de Ferro (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MRVLRSNGCRCAODFERO.mp4
+#EXTINF:-1 tvg-logo="https://falange.net/wp-content/uploads/2018/07/As-Incr%C3%ADveis-Aventuras-de-Fujiwara-Manchester.jpg" group-title="ADICIONADOS RECENTEMENTE",As Aventuras de Fujiwara Manchester: O Filme (2018)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ASAVNTRSDFJWRMSCHSTOFLME.mp4
 #EXTINF:-1 tvg-logo="https://i2.wp.com/sitedosgeeks.com/wp-content/uploads/2019/03/mussum.jpg" group-title="ADICIONADOS RECENTEMENTE",Mussum: Um Filme do Cacildis (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MSUMFLMDCACLDS.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dt5g5_1cKVk/maxresdefault.jpg" group-title="ADICIONADOS RECENTEMENTE",Hellboy (2019)
@@ -1807,6 +1817,8 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/SLVNDLNGRDO.mp4
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/BENHUR.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/62/76/20105399.jpg" group-title="ÉPICO",CORAÇÃO VALENTE (1995)
 http://cdn7.netcine.us/html/content/httpdelivery-auth024846/filmes2018/CORACAOVALENTEDUB-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wKRGASx.jpg" group-title="ÉPICO",CORAÇÃO VALENTE (1995)
+https://goo.gl/fdjZdr
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Gladiador.jpg" group-title="ÉPICO",GLADIADOR (2000)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/GLADR.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_SY1000_CR006771000_AL_.jpg" group-title="ÉPICO",TRÓIA (2004)
@@ -2929,8 +2941,7 @@ https://goo.gl/Zc1dJg
 #EXTINF:-1 tvg-logo="https://goo.gl/h5AmKJ" group-title="LETRA A",As Aventuras de Tadeo 2 O Segredo do Rei Midas 2018 
 https://goo.gl/it8rHh
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3pGzUN4.jpg" group-title="LETRA A",As Aventuras dos 7 Anões
-https://goo.gl/yAYTFk
+
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-nO1vJW4E0c4/UBbRzdaSbwI/AAAAAAAAAfk/hdRvfZPLwQs/s1600/as%2Bbranquelas....jpg" group-title="LETRA A",AS BRANQUELAS (2004)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ASBRNQLS.mp4
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/v/96/931lf_tnl_210x118.jpg?ts=20150225004527" group-title="LETRA A",As Branquelas Comédia Dublado
@@ -3542,8 +3553,7 @@ https://goo.gl/qSp9ry
 https://goo.gl/H4unVn
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lp12IlP.jpg" group-title="LETRA C",Coração do Ártico
 https://goo.gl/yWs8na
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wKRGASx.jpg" group-title="LETRA C",Coração Valente
-https://goo.gl/fdjZdr
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7aenyLv.jpg" group-title="LETRA C",Corações de Ferro
 https://goo.gl/eMNZna
 
@@ -7622,8 +7632,7 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/VAIQCLOFILME.mp4
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/VQDRCRT.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8Jjh8Pu.jpg" group-title="LETRA V",VAI QUE DÁ CERTO 2 (2016)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/VQDRCRT2.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7Kcdjil.jpg" group-title="LETRA V",Valente
-https://goo.gl/ubNccM
+
 #EXTINF:-1 tvg-logo="http://goo.gl/YpsR2d" group-title="LETRA V",VALERIAN E A CIDADE DOS MIL PLANETAS (2017)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/VLRIANEACDEDSMLPLNT.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/25/20/19873566.jpg" group-title="LETRA V",Vamos Nessa Comédia Dublado
