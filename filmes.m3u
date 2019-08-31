@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/06/cropped-x-men-fenix-negra.jpg" group-title="ADICIONADOS RECENTEMENTE",X-Men: Fênix Negra (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/XMENFNXNGRALEG.mp4
+#EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2019/07/0977319.jpg" group-title="ADICIONADOS RECENTEMENTE",John Wick 3: Parabellum (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/JHNWCK3.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XQYv6qIZnfw/maxresdefault.jpg" group-title="ADICIONADOS RECENTEMENTE",Aladdin (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ALDN.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/Ggu_CKR508NFBxEpV6CybvYIlRw=/fit-in/290x478/smart/media/movies/covers/2012/01/1af60cc58f6aace71dd8b4778bf1efa8.jpg" group-title="ADICIONADOS RECENTEMENTE",Os Safados (1989)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OSFADS.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/05/22/22/01/360531.jpg" group-title="ADICIONADOS RECENTEMENTE",O Tiro Que Não Saiu pela Culatra (1990)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OTROQSAPLCLTRA.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/103/21010362_20130604213044805.jpg" group-title="ADICIONADOS RECENTEMENTE",O Panaca (1979)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OPNCA.mp4
 #EXTINF:-1 tvg-logo="http://fw.atarde.com.br/2019/06/750_turma-da-monica-lacos-filme-ingressos_201962672546772.jpg" group-title="ADICIONADOS RECENTEMENTE",Turma da Mônica: Laços (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/TRMDMNCLCS.mp4
 #EXTINF:-1 tvg-logo="https://abrilexame.files.wordpress.com/2017/03/homem-bicentenacc81rio-filme-2000.png" group-title="ADICIONADOS RECENTEMENTE",O Homem Bicentenário (2000)
@@ -50,8 +62,7 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/CNDZDOMSDASY.mp4
 #EXTINF:-1 tvg-logo="https://cdn.mensagenscomamor.com/content/images/m000252661.jpg" group-title="ADICIONADOS RECENTEMENTE",A Lenda do Cavaleiro Sem Cabeça (2000)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ALNDOCVLROSMCABCA.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XQYv6qIZnfw/maxresdefault.jpg" group-title="ADICIONADOS RECENTEMENTE",Aladdin Legendado (2019)
-http://cdnfe3.azureedge.net/RCFServer1/ondemand/ALDNLEG.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2018/07/chorarderir_2-750x380.jpg" group-title="ADICIONADOS RECENTEMENTE",Chorar de Rir (2019)
@@ -93,8 +104,7 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/AESPVRMLHA.mp4
 #EXTINF:-1 tvg-logo="http://www.hastelavista.com.br/wp-content/uploads/2019/04/1920x1080_DATA-1024x576.jpg" group-title="ADICIONADOS RECENTEMENTE",A Maldição da Chorona (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/AMLDCAODCHRNA.mp4
 
-#EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2019/07/0977319.jpg" group-title="ADICIONADOS RECENTEMENTE",John Wick 3: Parabellum Leg (2019)
-http://cdnfe3.azureedge.net/RCFServer2/ondemand/JHNWCK3LEG.mp4
+
 #EXTINF:-1 tvg-logo="https://www.meridionalfm.com.br/file/2019/05/20190515-rota-de-fuga-3-1200x675.jpg" group-title="ADICIONADOS RECENTEMENTE",Rota De Fuga 3: O Resgate (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/RTADFGA3.mp4
 
@@ -2289,7 +2299,7 @@ http://www.youtube.com/watch?v=waYtdg-_M6U
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/AESTD47.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/On5MKWU.jpg" group-title="LETRA A",A Estrada Interior
 https://goo.gl/csCk5m
-#EXTINF:-1 tvg-logo="https://goo.gl/WK5PWD" group-title="LETRA A",A Estrela de Belem 2018 
+#EXTINF:-1 tvg-logo="https://goo.gl/WK5PWD" group-title="LETRA A",A Estrela de Belem (2018)
 https://goo.gl/GVdGXt
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YXH9O8W.jpg" group-title="LETRA A",A Eterna Namorada
 https://goo.gl/oB8LrW
