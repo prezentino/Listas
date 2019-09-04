@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Turbo (2013)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/TRBO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",O Caminho para El Dorado (2000)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OCMNHPRELDORDO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Horton e o Mundo dos Quem (2008)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HRTONEOMNDODQUM.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Bons de Bico (2013)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/BNSDBICO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Peppa Pig: George O Gigante (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/PEPAPGGRGOGNTE.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Pé Grande vs. Papai Noel (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/PEGRNDVSPANEL.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/pipocasclub.com.br/wp-content/uploads/2019/04/patrulha-canina-filme.jpg" group-title="ÚLTIMOS ADICIONADOS",Patrulha Canina: Super Filhotes (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/PTRLHCNASPRFLHTS.mp4
 #EXTINF:-1 tvg-logo="https://i2.wp.com/aftercredits.com/wp-content/uploads/2019/05/UglyDollsFeat.jpg" group-title="ÚLTIMOS ADICIONADOS",UglyDolls (2019)
