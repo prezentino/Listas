@@ -1,16 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Turbo (2013)
+#EXTINF:-1 tvg-logo="https://www.10wallpaper.com/wallpaper/1366x768/1307/Turbo_2013_Movie_HD_Wallpapers_1366x768.jpg" group-title="ÚLTIMOS ADICIONADOS",Turbo (2013)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/TRBO.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",O Caminho para El Dorado (2000)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/11/10/12/47/559996.jpg" group-title="ÚLTIMOS ADICIONADOS",O Caminho para El Dorado (2000)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OCMNHPRELDORDO.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Horton e o Mundo dos Quem (2008)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/87/80/67/19968673.jpg" group-title="ÚLTIMOS ADICIONADOS",Horton e o Mundo dos Quem (2008)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/HRTONEOMNDODQUM.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Bons de Bico (2013)
+#EXTINF:-1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2013/11/97478/original/bons-de-bico-destaque.jpg" group-title="ÚLTIMOS ADICIONADOS",Bons de Bico (2013)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/BNSDBICO.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Peppa Pig: George O Gigante (2019)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cAfesc31vY4/maxresdefault.jpg" group-title="ÚLTIMOS ADICIONADOS",Peppa Pig: George O Gigante (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/PEPAPGGRGOGNTE.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Pé Grande vs. Papai Noel (2019)
+#EXTINF:-1 tvg-logo="https://series-online.info/wp-content/uploads/2019/08/pe-grande-vs-papai-noel-7360-backdrop.jpg" group-title="ÚLTIMOS ADICIONADOS",Pé Grande vs. Papai Noel (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/PEGRNDVSPANEL.mp4
+#EXTINF:-1 tvg-logo="https://degracaeuvou.files.wordpress.com/2019/02/tito-e-os-pc3a1ssaros.jpg" group-title="ÚLTIMOS REDECANAIS",Tito e os Pássaros (2019)
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/TTOEOSPSRS.mp4
+#EXTINF:-1 tvg-logo="https://u6g7j8n5.stackpathcdn.com/wp-content/uploads/2015/10/A-Fuga-do-Planeta-Terra-2013-2.jpg" group-title="ÚLTIMOS REDECANAIS",A Fuga do Planeta Terra (2013)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/AFGADPLNTRA.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/pipocasclub.com.br/wp-content/uploads/2019/04/patrulha-canina-filme.jpg" group-title="ÚLTIMOS ADICIONADOS",Patrulha Canina: Super Filhotes (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/PTRLHCNASPRFLHTS.mp4
 #EXTINF:-1 tvg-logo="https://i2.wp.com/aftercredits.com/wp-content/uploads/2019/05/UglyDollsFeat.jpg" group-title="ÚLTIMOS ADICIONADOS",UglyDolls (2019)
