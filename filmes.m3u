@@ -350,20 +350,39 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/STRWRSI.mp4
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/STRWRSII.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars3.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO III: A VINGANÇA DOS SITH (2005)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/STRWRSIII.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mK9V3co.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO III: A VINGANÇA DOS SITH (2005)
+https://goo.gl/9eUhMK
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars4.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO IV: UMA NOVA ESPERANÇA (1978)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/STRWRSIV.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars5.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO V: O IMPÉRIO CONTRA-ATACA (1980)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/STRWRSV.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GKAThRp.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO V: O IMPÉRIO CONTRA-ATACA (1980)
+https://goo.gl/b5WXmu
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars6.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO VI: O RETORNO DE JEDI (1983)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/STRWRSVI.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YrEJAxl.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO VI: O RETORNO DE JEDI (1983)
+https://goo.gl/cy6WbS
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Star%20Wars%20-%20O%20Despertar%20da%20For%C3%A7a.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO VII: O DESPERTAR DA FORÇA (2015)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/STRWRSVII.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Xqjs1uV.jpg" group-title="STAR WARS",STAR WARS EPISÓDIO VII: O DESPERTAR DA FORÇA (2015)
+https://goo.gl/FGn3GF
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Rogue%20One%20-%20Uma%20Hist%C3%B3ria%20Star%20Wars.jpg" group-title="STAR WARS",STAR WARS: ROGUE ONE (2016)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/RGONUHSTRWRS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Star%20Wars%20-%20Os%20%C3%9Altimos%20Jedi.jpg"  group-title="STAR WARS",STAR WARS EPISÓDIO VIII: OS ÚLTIMOS JEDI (2017)
-http://cdnfe3.azureedge.net/RCFServer4/ondemand/STRWRSOSULTMSJD.mp4
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/STRWRSOSULTMSJD.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KFskEh" group-title="STAR WARS",STAR WARS EPISÓDIO VIII: OS ÚLTIMOS JEDI (2017)
+https://goo.gl/B96N9b
+#EXTINF:-1 tvg-logo="https://goo.gl/AeF3mR" group-title="STAR WARS",STAR WARS EPISÓDIO VIII: OS ÚLTIMOS JEDI (2017)
+https://goo.gl/XS4c9s
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Han%20Solo%20-%20Uma%20Hist%C3%B3ria%20Star%20Wars.jpg" group-title="STAR WARS",HAN SOLO: UMA HISTÓRIA STAR WARS (2018)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/HANSLOUHSTSTRWRS.mp4
+
+
+
+
+
+
+
 
 
 
@@ -1548,6 +1567,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/UMNTDAVNTS.mp4
 https://goo.gl/FfZX44
 #EXTINF:-1  tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Predador.jpg" group-title="ANOS 80",O PREDADOR (1987)
 http://cdnfe3.azureedge.net/RCFServer4/ondemand/OPRDR.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6LBR7t7.jpg" group-title="ANOS 80",STALLONE COBRA (1986)
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/STLNECBR.mp4
+
 #EXTINF:-1 tvg-logo="https://blogactionnews.files.wordpress.com/2018/05/bscap0514.jpg" group-title="ANOS 80",Inferno Vermelho (1988)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/INFRNVRMLH.mp4
 #EXTINF:-1  tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Tango%20E%20Cash.jpg" group-title="ANOS 80",Tango e Cash (1989)
@@ -4498,8 +4520,7 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/HELRISR09.mp4
 https://goo.gl/pHo3U7
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ycAZAb6.jpg" group-title="LETRA H",HÉRCULES (2014)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/HERCLS.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/xdNmw5" group-title="LETRA H",Heróis da Galáxia: Ratchet e Clank
-https://goo.gl/CcvtpN
+
 #EXTINF:-1 tvg-logo="http://goo.gl/ceNZpl" group-title="LETRA H",HERÓIS DE RESSACA (2013)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/HRSDRSCA.mp4
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/g/wl/3ecyb_tnl_210x118.jpg?ts=20140407010437" group-title="LETRA H",Herois Dublado Ficção
@@ -7170,20 +7191,7 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/SRSHRLCKHLMS.mp4
 https://goo.gl/vK1qVx
 #EXTINF:-1 tvg-logo="https://goo.gl/NnsJub" group-title="LETRA S",Stake Land 
 https://goo.gl/3PiJDc
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6LBR7t7.jpg" group-title="LETRA S",STALLONE COBRA (1986)
-http://cdnfe3.azureedge.net/RCFServer2/ondemand/STLNECBR.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/KFskEh" group-title="LETRA S",Star Wars Os Últimos Jedi 
-https://goo.gl/B96N9b
-#EXTINF:-1 tvg-logo="https://goo.gl/AeF3mR" group-title="LETRA S",Star Wars Os Últimos Jedi 2018
-https://goo.gl/XS4c9s
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mK9V3co.jpg" group-title="LETRA S",Star Wars: Episode III – Revenge of the Sith
-https://goo.gl/9eUhMK
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GKAThRp.jpg" group-title="LETRA S",Star Wars: Episode V – The Empire Strikes Back
-https://goo.gl/b5WXmu
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YrEJAxl.jpg" group-title="LETRA S",Star Wars: Episode VI – Return of the Jedi
-https://goo.gl/cy6WbS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Xqjs1uV.jpg" group-title="LETRA S",Star Wars: O Despertar da Força
-https://goo.gl/FGn3GF
+
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/e/r6/tbvlf_tnl_210x118.jpg?ts=20140406004625" group-title="LETRA S",Starman O Homem das Estrelas Dublado Ficção
 http://media-br-am.crackle.com/1/e/r6/tbvlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/uqhePF" group-title="LETRA S",Steel Rain 2018
