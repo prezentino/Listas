@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Feliz Dia da Morsa (2014)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/FLZDIADMRSA.mp4?attachment=true
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Atlantis: O Retorno de Milo (2003)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ATNDOAOHTLTJMHL.mp4?attachment=true
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Atlantis: O Reino Perdido (2001)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ATNTSORNOPRDO.mp4?attachment=true
 #EXTINF:-1 tvg-logo="https://www.10wallpaper.com/wallpaper/1366x768/1307/Turbo_2013_Movie_HD_Wallpapers_1366x768.jpg" group-title="ÚLTIMOS ADICIONADOS",Turbo (2013)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/TRBO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/11/10/12/47/559996.jpg" group-title="ÚLTIMOS ADICIONADOS",O Caminho para El Dorado (2000)
@@ -71,7 +77,8 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/AMGSALENGNA.mp4
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ONTLDANGLA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Ca%C3%A7adores%20de%20Drag%C3%B5es.jpg" group-title="ÚLTIMOS ADICIONADOS",Caçadores de Dragões (2008)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/CACDRSDRGS.mp4
-
+#EXTINF:-1 tvg-logo="https://goo.gl/xdNmw5" group-title="ÚLTIMOS ADICIONADOS",Heróis da Galáxia: Ratchet e Clank (2016)
+https://goo.gl/CcvtpN
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3o%20Sharky%20o%20Pequeno%20Pirata.jpg" group-title="ÚLTIMOS ADICIONADOS",Capitao Sharky O Pequeno Pirata (2018)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/CPTSHRKYOPQNPRTA.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Leo%20Da%20Vinci%20-%20Miss%C3%A3o%20Mona%20Lisa.jpg" group-title="ÚLTIMOS ADICIONADOS",Leo Da Vinci: Missão Mona Lisa (2018)
