@@ -1,10 +1,44 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/06/cropped-x-men-fenix-negra.jpg" group-title="ADICIONADOS RECENTEMENTE",X-Men: Fênix Negra (2019)
-http://cdnfe3.azureedge.net/RCFServer1/ondemand/XMENFNXNGRALEG.mp4
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/XMENFNXNGRA.mp4
 #EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2019/07/0977319.jpg" group-title="ADICIONADOS RECENTEMENTE",John Wick 3: Parabellum (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/JHNWCK3.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XQYv6qIZnfw/maxresdefault.jpg" group-title="ADICIONADOS RECENTEMENTE",Aladdin (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ALDN.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Um Lobisomem Americano em Londres (1981)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/UMLBSMAMRCNEMLNDRS.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Spaceballs: S.O.S. Tem Um Louco Solto No Espaço (1987)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/SPCBLSOSTMULCOSLTNESPC.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",S.O.S.: Submarino Nuclear (1978)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/SOSBMRDNCLR.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Querido Menino (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/QRDOMENO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Sexto Sentido (1999)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OSXTSNTDO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Trem do Inferno (1976)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OTRMDINFRNO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Internato (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OINTRNTO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Grande Dragão Branco (1988)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OGRNDRGBRNCO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Doutrinador (2018)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ODUTRNDR.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Não Vai Ter Golpe (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/NVATRGLPE.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Ma (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Jamaica Abaixo de Zero (1993)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/JMCABXDZRO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Férias Frustradas em Las Vegas (1996)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/FRSFRSTDAEMLSVGS.mp4?attachment=true
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Férias Frustradas na Europa (1995)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/FRSFRSTDANAEURPA.mp4?attachment=true
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Férias Frustradas de Natal (1989)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/FRSFRSTDADNTL.mp4?attachment=true
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",A Pele Que Habito (2011)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/APLEQHBTO.mp4?attachment=true
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",A Lenda de Golem (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ALNDOGLM.mp4?attachment=true
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/210/429/21042930_20130923120416897.jpg" group-title="ADICIONADOS RECENTEMENTE",Tudo por Justiça (2014)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/TDPRJSTCA.mp4
 #EXTINF:-1 tvg-logo="https://coisadecinefilo.com.br/wp-content/uploads/2019/02/350230.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="ADICIONADOS RECENTEMENTE",Crimes Obscuros (2019)
@@ -106,7 +140,7 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/RTADFGA3.mp4
 #EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2019/01/alita-1-750x380.jpg" group-title="ADICIONADOS RECENTEMENTE",Alita: Anjo de Combate (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ALITANGDCMBT.mp4
 
-#EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2019/06/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SY1000_CR006741000_AL_.jpg" group-title="ADICIONADOS RECENTEMENTE",Pokemon: Detetive Pikachu Leg (2019)
+#EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2019/06/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SY1000_CR006741000_AL_.jpg" group-title="ADICIONADOS RECENTEMENTE",Pokemon: Detetive Pikachu (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/PKMNDTCTVPKCH.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/07YF4C3Bz2Q/maxresdefault.jpg" group-title="ADICIONADOS RECENTEMENTE",O Pequeno Órfão (2018)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/OPQNORFAO.mp4
@@ -132,7 +166,7 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/ETOEXTRSTR.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://www.blogdehollywood.com.br/wp-content/uploads/2019/02/serenity-title-1024x576.jpg" group-title="ÚLTIMOS ADICIONADOS",Calmaria (2019)
+#EXTINF:-1 tvg-logo="https://www.blogdehollywood.com.br/wp-content/uploads/2019/02/serenity-title-1024x576.jpg" group-title="ADICIONADOS RECENTEMENTE",Calmaria (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/CLMARIA.mp4
 
 #EXTINF:-1 tvg-logo="http://www.contracampo.com.br/48/tresreis.jpg" group-title="ADICIONADOS RECENTEMENTE",Três Reis (2019)
@@ -575,7 +609,7 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/BTMN06.mp4
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/BTMN07.mp4
 
 
-#EXTINF:-1 tvg-logo="http://terrormania42.files.wordpress.com/2016/11/blade_ver1_xlg.jpg" group-title="BLADE",BLADE: O CAÇADOR DE VAMPIROS (1998)
+#EXTINF:-1 tvg-logo="http://modomeu.com/wp-content/uploads/2015/07/Wesley_Snipes_Blade_o_ca%C3%A7ador_de_vampiros_01.png" group-title="BLADE",BLADE: O CAÇADOR DE VAMPIROS (1998)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/BLADE1.mp4
 #EXTINF:-1 tvg-logo="http://www.grcmc.org/images/events/evnt54b70950eed8f.jpg" group-title="BLADE",BLADE 2 (2002)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/BLADE2.mp4
@@ -967,7 +1001,7 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/RMBO1.mp4
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6hrlpiG.jpg" group-title="ROBOCOP",ROBOCOP: O POLICIAL DO FUTURO (1987)
+#EXTINF:-1 tvg-logo="https://rollingstone.uol.com.br/media/_versions/robotop_divulgacao_widelg.jpg" group-title="ROBOCOP",ROBOCOP: O POLICIAL DO FUTURO (1987)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/RBCP1.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qbKc8la.jpg" group-title="ROBOCOP",ROBOCOP 2 (1990)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/RBCP2.mp4
@@ -1305,7 +1339,7 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/DMCRCEMVRTGM.mp4
 #EXTINF:-1 tvg-logo="https://catracalivre.com.br/wp-content/uploads/2019/08/privacidade-hacjkeada-450x338.jpg" group-title="DOCUMENTÁRIOS",Privacidade Hackeada (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/PRVCDHCKADA.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="DRAMA",A Beira Mar (2016)
+#EXTINF:-1 tvg-logo="https://www.fasdapsicanalise.com.br/content/uploads/2016/10/pequenass.jpg" group-title="DRAMA",A Beira Mar (2016)
 http://lh3.googleusercontent.com/0GvVqHFaEO5OwIFTH53bJ7Askt_Lx0KwR3BXWVD79BS-7bHQwEy42Smpv9LxkTkL4PY975NZ=m22
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Gran%20Torino.jpg" group-title="DRAMA",Gran Torino (2009)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/GRNTRNO.mp4
@@ -1324,7 +1358,7 @@ http://lh3.googleusercontent.com/IfESROafKmdIwS26nrmI0uI5HI6uCMh16BOauBfrUZqtzF1
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/CPTPHLS.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Contra%20a%20Parede.jpg" group-title="DRAMA",Contra a Parede (2018)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/CNTRAPRDE.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="DRAMA",Depois de Tudo (2015)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/09/30/20/49/458570.jpg" group-title="DRAMA",Depois de Tudo (2016)
 http://lh3.googleusercontent.com/XFfEi-UtaGbUmD-Jl0oxwqmMiV4fOyNYli-9teABpLVYo2p__aDwWQU7mOh-F09WHbrGBJCz=m22
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/03/16/20/32/2365102.jpg" group-title="DRAMA",ELLA E JOHN (2018)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ELEJHN.mp4
@@ -1398,6 +1432,8 @@ http://lh3.googleusercontent.com/07HSJBrIavzF3L-awJ_LkAJrXuzUWNS2uS65E70Nah50Ofz
 http://lh3.googleusercontent.com/GZTscfvesKyDwHQUJlgwLBFcFbfG8FDN16ly_nWm4S57kiz1l-Sybwo1sgF_iGZiacwdjbyrXg=m22
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Cora%C3%A7%C3%B5es%20de%20Ferro.jpg" group-title="DRAMAS HISTÓRICOS",CORAÇÕES DE FERRO (2014)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/CRCAODFRRO.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/14kmdB" group-title="DRAMAS HISTÓRICOS",DUNKIRK (2017)
+http://cdnfe3.azureedge.net/RCFServer4/ondemand/DUKRK.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rj-JKfEu12k/maxresdefault.jpg" group-title="DRAMAS HISTÓRICOS",A Batalha das Ardenas: A Última Ofensiva de Hitler (2018)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ABTLHDSARDNS.mp4
 #EXTINF:-1 tvg-logo="https://torrentfilmes.biz/wp-content/uploads/2019/07/Salvando-Leningrado-capa-500x330.jpg" group-title="DRAMAS HISTÓRICOS",Salvando Leningrado (2019)
@@ -3988,9 +4024,8 @@ https://goo.gl/aJs5Vd
 https://goo.gl/12uK9i
 #EXTINF:-1 tvg-logo="https://goo.gl/zVR5Aa" group-title="LETRA D",Duelo de Cordas 2017 
 https://goo.gl/ekjUfC
-#EXTINF:-1 tvg-logo="http://goo.gl/14kmdB" group-title="LETRA D",DUNKIRK (2017)
-http://cdnfe3.azureedge.net/RCFServer4/ondemand/DUKRK.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA E",E aí,comeu?
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/90/31/42/20200707.jpg" group-title="LETRA E",E aí,comeu?
 http://www.youtube.com/watch?v=wXzlszZMJGc
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA E",É o Fim
 http://www.youtube.com/watch?v=q0KNFU9upKQ
