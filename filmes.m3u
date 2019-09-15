@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2019/05/spider-man-far-from-home-og-size-image-1280x720.jpg" group-title="ADICIONADOS RECENTEMENTE",Homem-Aranha: Longe de Casa (2019)
-http://cdn2.netcine.us/html/content/conteudolb4/filmes2019/SPIDERMANFARFROMCASALEG-ALTO.mp4?token=G817zIuFDu3ogVmMGP-tBA&expires=1568451206
+#EXTINF:-1 tvg-logo="https://vivariomarrecife.com.br/wp-content/uploads/2019/06/mibestreiacinemark.jpg" group-title="ADICIONADOS RECENTEMENTE",MIB: Homens de Preto: Internacional (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MIBHMDPRTINTER.mp4?attachment=true
+#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2019/05/spider-man-far-from-home-og-size-image-1280x720.jpg" group-title="ADICIONADOS RECENTEMENTE",Homem-Aranha: Longe de Casa Legendado (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMEMARNHLNGDCSALEG.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_640_360/newsv7/19/02/06/14/20/1772351.jpg" group-title="ADICIONADOS RECENTEMENTE",Brinquedo Assassino Legendado (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/BRNQDASASNOLEG.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Bw8c5TXuTLM/UPy8KD8LvxI/AAAAAAAAJ6k/TQORkhbeV14/s320/Xingu_O_Filme.jpg" group-title="ADICIONADOS RECENTEMENTE",Xingu (2012)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/XNGU.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cineresenhas.com.br/wp-content/uploads/2007/03/N%C3%BAmero-23-The-Number-23.jpg" group-title="ADICIONADOS RECENTEMENTE",Número 23 (2007)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/NUMR23.mp4
 #EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/06/cropped-x-men-fenix-negra.jpg" group-title="ADICIONADOS RECENTEMENTE",X-Men: Fênix Negra (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/XMENFNXNGRA.mp4
 #EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2019/07/0977319.jpg" group-title="ADICIONADOS RECENTEMENTE",John Wick 3: Parabellum (2019)
@@ -65,8 +73,6 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/ASAVNTRSDFJWRMSCHSTOFLME.mp4
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MSUMFLMDCACLDS.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dt5g5_1cKVk/maxresdefault.jpg" group-title="ADICIONADOS RECENTEMENTE",Hellboy (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/HLBOY.mp4
-#EXTINF:-1 tvg-logo="https://vivariomarrecife.com.br/wp-content/uploads/2019/06/mibestreiacinemark.jpg" group-title="ADICIONADOS RECENTEMENTE",MIB: Homens de Preto: Internacional Legendado (2019)
-http://cdnfe3.azureedge.net/RCFServer1/ondemand/MIBHMDPRTINTERLEG.mp4
 #EXTINF:-1 tvg-logo="https://espirito.org.br/wp-content/uploads/2019/04/KARDEC_300x250-GRUPO-1024x853-800x559.jpg" group-title="ADICIONADOS RECENTEMENTE",Kardec: A História por Trás do Nome (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/KRDCAHSTPRTRSDNME.mp4
 #EXTINF:-1 tvg-logo="https://www.baixedetudo.net/imagem/Duendes-e-Dragoes-Poster.jpg" group-title="ADICIONADOS RECENTEMENTE",Duendes e Dragões (2019)
