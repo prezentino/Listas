@@ -4071,6 +4071,22 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/ORBYST01EP09.mp4
 #EXTINF:-1 tvg-logo="https://www.hbo.com/content/dam/hbodata/series/our-boys/our-boys-ka-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg" group-title="Our Boys",S01E10
 http://cdnfe2.azureedge.net/RCServer06/ondemand/ORBYST01EP10.mp4
 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/19/07/15/18/38/1475148.jpg" group-title="O Doutrinador",S01E01
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ODTRNDRASERT01EP01.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/19/07/15/18/38/1475148.jpg" group-title="O Doutrinador",S01E02
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ODTRNDRASERT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/19/07/15/18/38/1475148.jpg" group-title="O Doutrinador",S01E03
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ODTRNDRASERT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/19/07/15/18/38/1475148.jpg" group-title="O Doutrinador",S01E04
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ODTRNDRASERT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/19/07/15/18/38/1475148.jpg" group-title="O Doutrinador",S01E05
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ODTRNDRASERT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/19/07/15/18/38/1475148.jpg" group-title="O Doutrinador",S01E06
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ODTRNDRASERT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/19/07/15/18/38/1475148.jpg" group-title="O Doutrinador",S01E07
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ODTRNDRASERT01EP07.mp4
+
+
 #EXTINF:-1 tvg-logo="https://entreterse.com.br/wp-content/uploads/2019/06/O-Homem-do-Castelo-Alto.jpg" group-title="O Homem do Castelo Alto",S01E01
 http://cdnfe3.azureedge.net/RCServer08/ondemand/OHMEMDCSTLALTOT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://entreterse.com.br/wp-content/uploads/2019/06/O-Homem-do-Castelo-Alto.jpg" group-title="O Homem do Castelo Alto",S01E02
