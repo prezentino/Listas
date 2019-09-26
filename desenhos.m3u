@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Feliz Dia da Morsa (2014)
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Hd6y1TrLSuI/VL8X8tmx1OI/AAAAAAAADq8/KiagWqN7tog/s1600/brave.jpeg" group-title="ÚLTIMOS ADICIONADOS",Valente (2012)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/VLNTE.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/1VXbjcCfHtk04XGaCs8yqcJ6dx4=/fit-in/640x480/smart/media/movies/photos/2015/03/feliz-dia-da-morsa_t120017_ZwVcMxB.jpg" group-title="ÚLTIMOS ADICIONADOS",Feliz Dia da Morsa (2014)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/FLZDIADMRSA.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Atlantis: O Retorno de Milo (2003)
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-g928blFKbH8/XFdt3MnsmTI/AAAAAAAAFZY/xs-1DGdxr0cuXAfJJLQsCCSs5gWWPbBTACLcBGAs/s1600/Filme%2BAtlantis%2BO%2BRetorno%2Bde%2BMilo%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg" group-title="ÚLTIMOS ADICIONADOS",Atlantis: O Retorno de Milo (2003)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ATNDOAOHTLTJMHL.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Atlantis: O Reino Perdido (2001)
+#EXTINF:-1 tvg-logo="https://oespectadorrabugentoblog.files.wordpress.com/2018/09/476002-r_1280_720-f_jpg-q_x-xxyxx.jpg" group-title="ÚLTIMOS ADICIONADOS",Atlantis: O Reino Perdido (2001)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ATNTSORNOPRDO.mp4
 #EXTINF:-1 tvg-logo="https://www.10wallpaper.com/wallpaper/1366x768/1307/Turbo_2013_Movie_HD_Wallpapers_1366x768.jpg" group-title="ÚLTIMOS ADICIONADOS",Turbo (2013)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/TRBO.mp4
@@ -272,6 +274,8 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/APRNCSEOSPO.mp4
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ENRLDS.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Hd6y1TrLSuI/VL8X8tmx1OI/AAAAAAAADq8/KiagWqN7tog/s1600/brave.jpeg" group-title="Disney",Valente (2012)
 https://goo.gl/ubNccM
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Hd6y1TrLSuI/VL8X8tmx1OI/AAAAAAAADq8/KiagWqN7tog/s1600/brave.jpeg" group-title="Disney",Valente (2012)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/VLNTE.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JsSYV5m5vOg/VQkT3bksd4I/AAAAAAAAVhc/1RvmQ5FhNBQ/s1600/irmaos-urso-a-viagem-de-volta-para-casa-filmesonline10.jpg" group-title="Disney",Irmãos Urso: A Viagem de Volta Para Casa (2013)
 https://goo.gl/an2i95
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/h_oB919hg7s/maxresdefault.jpg" group-title="Disney",A Guarda do Leão: Um Novo Rugido (2016)
@@ -3458,6 +3462,199 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/HTLTRNSLVNT01EP17.mp4
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-43vkOIPD7Wk/Wr1-upccC9I/AAAAAAAAYeU/V8cOYZWL4f4xzKueVZCYHyW4h3YhhMmYwCEwYBhgL/s320/100000x100000-999.jpg" group-title="HOTEL TRANSYLVÂNIA",HOTEL TRANSYLVÂNIA S01EP18
 http://cdnfe2.azureedge.net/RCServer13/ondemand/HTLTRNSLVNT01EP18.mp4
 
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S01E01
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S01E02
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S01E03
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S01E04
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S01E05
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S01E06
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S01E07
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S01E08
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S01E09
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S01E10
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT01EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E01
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E02
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E03
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E04
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E05
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E06
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E07
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E08
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E09
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E10
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP10.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E11
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP11.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E12
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP12.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E13
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP13.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E14
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP14.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E15
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP15.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E16
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP16.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E17
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP17.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E18
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP18.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E19
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP19.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E20
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP20.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E21
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP21.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E22
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP22.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E23
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP23.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E24
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP24.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S02E25
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT02EP25.mp4
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E01
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP01.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E02
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP02.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E03
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP03.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E04
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP04.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E05
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP05.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E06
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP06.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E07
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP07.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E08
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP08.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E09
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP09.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E10
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP10.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E11
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP11.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E12
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP12.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E13
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP13.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E14
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP14.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E15
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP15.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E16
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP16.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E17
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP17.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E18
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP18.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E19
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP19.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E20
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP20.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E21
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP21.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E22
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP22.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E23
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP23.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E24
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP24.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E25
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP25.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E26
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP26.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E27
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP27.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E28
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP28.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E29
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP29.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E30
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP30.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E31
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP31.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E32
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP32.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E33
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP33.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E34
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP34.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S03E35
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT03EP35.mp4
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S04E01
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT04EP01.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S04E02
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT04EP02.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S04E03
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT04EP03.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S04E04
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT04EP04.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S04E05
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT04EP05.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S04E06
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT04EP06.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S04E07
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT04EP07.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S04E08
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT04EP08.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo",S04E09
+http://cdnfe2.azureedge.net/RCServer02/ondemand/JOHNYBRVOT04EP09.mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid"S1E01
+http://media-br-am.crackle.com/1/m/r6/scvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid"S1E02
+http://media-br-am.crackle.com/1/m/r6/rcvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid"S1E03
+http://media-br-am.crackle.com/1/m/r6/qcvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid"S1E04
+http://media-br-am.crackle.com/1/m/r6/pcvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid"S1E05
+http://media-br-am.crackle.com/1/l/r6/ocvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid"S1E06
+http://media-br-am.crackle.com/1/l/r6/ncvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid"S1E07
+http://media-br-am.crackle.com/1/l/r6/mcvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid"S1E08
+http://media-br-am.crackle.com/1/l/r6/lcvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid"S1E09
+http://media-br-am.crackle.com/1/k/r6/kcvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid"S1E10
+http://media-br-am.crackle.com/1/k/r6/jcvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid"S1E11
+http://media-br-am.crackle.com/1/k/r6/icvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid"S1E12
+http://media-br-am.crackle.com/1/k/r6/hcvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid"S1E13
+http://media-br-am.crackle.com/1/j/r6/gcvlf_480p.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_DSZCPkJd28/maxresdefault.jpg" group-title="Ladybug",Ladybug S01E01
 http://cdnfe2.azureedge.net/RCServer03/ondemand/MRCLSLDBGT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_DSZCPkJd28/maxresdefault.jpg" group-title="Ladybug",Ladybug S01E02
@@ -3568,32 +3765,6 @@ http://cdnfe2.azureedge.net/RCServer03/ondemand/MRCLSLDBGT02EP26.mp4
 http://cdnfe2.azureedge.net/RCServer03/ondemand/MRCLSLDBGT03EP01.mp4
 
 
-#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid",Karate Kid S1E01
-http://media-br-am.crackle.com/1/m/r6/scvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid",Karate Kid S1E02
-http://media-br-am.crackle.com/1/m/r6/rcvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid",Karate Kid S1E03
-http://media-br-am.crackle.com/1/m/r6/qcvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid",Karate Kid S1E04
-http://media-br-am.crackle.com/1/m/r6/pcvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid",Karate Kid S1E05
-http://media-br-am.crackle.com/1/l/r6/ocvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid",Karate Kid S1E06
-http://media-br-am.crackle.com/1/l/r6/ncvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid",Karate Kid S1E07
-http://media-br-am.crackle.com/1/l/r6/mcvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid",Karate Kid S1E08
-http://media-br-am.crackle.com/1/l/r6/lcvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid",Karate Kid S1E09
-http://media-br-am.crackle.com/1/k/r6/kcvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid",Karate Kid S1E10
-http://media-br-am.crackle.com/1/k/r6/jcvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid",Karate Kid S1E11
-http://media-br-am.crackle.com/1/k/r6/icvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid",Karate Kid S1E12
-http://media-br-am.crackle.com/1/k/r6/hcvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://www.acervoclube.com/images/karatekid_desenho_01.jpg" group-title="Karatê Kid",Karate Kid S1E13
-http://media-br-am.crackle.com/1/j/r6/gcvlf_480p.mp4
 
 
 #EXTINF:-1 tvg-logo="http://goo.gl/LwH2HI" group-title="Mortal Kombat: Defensores da Terra",01 Mortal Kombat: Defensores da Terra
