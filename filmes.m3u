@@ -1,10 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2019/05/spider-man-far-from-home-og-size-image-1280x720.jpg" group-title="ADICIONADOS RECENTEMENTE",Homem-Aranha: Longe de Casa (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMEMARNHLNGDCSA.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGyiIQ2A_qA8H9TiYS-gdQ5Ukb0MCsIQuz3iboljnW4Ft1UmWt" group-title="ADICIONADOS RECENTEMENTE",Ponte para Terabítia (2007)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/PNTPRTRBTIA.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Hi5QEWcFaDA/maxresdefault.jpg" group-title="ADICIONADOS RECENTEMENTE",Annabelle 3: De Volta para Casa (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ANBL3DVLTPCSA.mp4
 #EXTINF:-1 tvg-logo="https://vivariomarrecife.com.br/wp-content/uploads/2019/06/mibestreiacinemark.jpg" group-title="ADICIONADOS RECENTEMENTE",MIB: Homens de Preto: Internacional (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MIBHMDPRTINTER.mp4
-#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2019/05/spider-man-far-from-home-og-size-image-1280x720.jpg" group-title="ADICIONADOS RECENTEMENTE",Homem-Aranha: Longe de Casa Legendado (2019)
-http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMEMARNHLNGDCSALEG.mp4
+#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2019/05/spider-man-far-from-home-og-size-image-1280x720.jpg" group-title="ADICIONADOS RECENTEMENTE",Homem-Aranha: Longe de Casa (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMEMARNHLNGDCSA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_640_360/newsv7/19/02/06/14/20/1772351.jpg" group-title="ADICIONADOS RECENTEMENTE",Brinquedo Assassino Legendado (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/BRNQDASASNOLEG.mp4
 #EXTINF:-1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2017/07/20170713-jerry-maguire-papo-de-cinema.jpg" group-title="ADICIONADOS RECENTEMENTE",Jerry Maguire: A Grande Virada (1997)
@@ -345,6 +349,8 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/HMNFRMGEVSPA.mp4
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/CPTMRVLLEG.mp4
 #EXTINF:-1 tvg-logo="https://ibahia-cdn3.cworks.cloud/fileadmin/user_upload/ibahia/2019/maio/06/vingadores.jpg" group-title="Universo Marvel",Vingadores: Ultimato (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4
+#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2019/05/spider-man-far-from-home-og-size-image-1280x720.jpg" group-title="Universo Marvel",Homem-Aranha: Longe de Casa (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMEMARNHLNGDCSA.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/057/21005782_20130514172205617.jpg" group-title="Universo DC",O HOMEM DE AÇO (2013)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OHMNDACO.mp4
@@ -4856,7 +4862,7 @@ https://goo.gl/acRHxS
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/JUVTNDROBDS.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/28N2sbe" group-title="LETRA K",Kalifornia Uma Viagem ao Inferno Terror Dublado
 http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/imUqoq" group-title="LETRA K",Karate Kid 3 O Desafio Final Filme Ação Dublado
+#EXTINF:-1 tvg-logo="http://goo.gl/imUqoq" group-title="LETRA K"3 O Desafio Final Filme Ação Dublado
 http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/FPDnzT" group-title="LETRA K",Keanu 
 https://goo.gl/naD3qD
