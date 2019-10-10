@@ -1,11 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.planoaberto.com.br/wp-content/uploads/2018/08/VNERA-capa.jpg" group-title="ADICIONADOS RECENTEMENTE",Você Nunca Esteve Realmente Aqui (2018)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/VCNUCESTVRELMTAKI.mp4
 #EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2019/05/spider-man-far-from-home-og-size-image-1280x720.jpg" group-title="ADICIONADOS RECENTEMENTE",Homem-Aranha: Longe de Casa (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMEMARNHLNGDCSA.mp4
-#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Diário de Anne Frank (2016)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/11/25/10/47/461737.jpg" group-title="ADICIONADOS RECENTEMENTE",O Diário de Anne Frank (2016)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ODIARODANEFRNK.mp4
-#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Âncora: A Lenda de Ron Burgundy (2004)
+#EXTINF:-1 tvg-logo="https://www.planocritico.com/wp-content/uploads/2014/02/anchorman1_planocritico.jpg" group-title="ADICIONADOS RECENTEMENTE",O Âncora: A Lenda de Ron Burgundy (2004)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/CODIGO.mp4
-#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Tudo Por Um Furo (2014)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/ssHx0GSOxkxLrLHh6xK3Znae56k.jpg" group-title="ADICIONADOS RECENTEMENTE",Tudo Por Um Furo (2014)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/TDPRUFRO.mp4
 #EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Sedução da Carne (2018)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/SEDCDCRNE.mp4
@@ -21,9 +23,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/QRTODGURA.mp4
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OMNODPJMA.mp4
 #EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Troco (1999)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OTRCO.mp4
-#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Coração Valente (1995)
+#EXTINF:-1 tvg-logo="https://clubedecinemapetropolis.files.wordpress.com/2016/04/braveheart.jpg" group-title="ADICIONADOS RECENTEMENTE",Coração Valente (1995)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/CRGMPRAMR.mp4
-#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",A Casa do Lago (2006)
+#EXTINF:-1 tvg-logo="https://www.planocritico.com/wp-content/uploads/2016/06/18614284.jpg-r_640_600-b_1_D6D6D6-f_jpg-q_x-xxyxx.jpg" group-title="ADICIONADOS RECENTEMENTE",A Casa do Lago (2006)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ACSADLGO.mp4
 
 
