@@ -1,13 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Toy Story 4 (2019)
-http://cdnfe3.azureedge.net/RCFServer1/ondemand/TYSTRY4LEG.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Por Água Abaixo (2006)
+#EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2019/06/pets-750x380.jpg" group-title="ÚLTIMOS ADICIONADOS",Pets: A Vida Secreta dos Bichos 2 (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/PETSAVSCDBS2.mp4
+#EXTINF:-1 tvg-logo="https://blogs.lcms.org/wp-content/uploads/2019/07/Toy-Story-4-770x404.jpg" group-title="ÚLTIMOS ADICIONADOS",Toy Story 4 (2019)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/TYSTRY4.mp4
+#EXTINF:-1 tvg-logo="https://entreterse.com.br/wp-content/uploads/2017/05/up.jpg" group-title="ÚLTIMOS ADICIONADOS",Up: Altas Aventuras (2009)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/UPALTSAVNTRS.mp4
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/237G3Ij6TIH7R1fIRSJeACK6t2Y=/s.glbimg.com/og/rg/f/original/2013/04/09/wallace-e-gromit.jpg" group-title="ÚLTIMOS ADICIONADOS",Wallace e Gromit: A Batalha dos Vegetais (2005)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/WLCEGRMTABTLGHDSVGNTS.mp4
+#EXTINF:-1 tvg-logo="http://photos1.blogger.com/x/blogger/3860/1833/320/752147/poraguaabaixo.jpg" group-title="ÚLTIMOS ADICIONADOS",Por Água Abaixo (2006)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/PRAGUABXO.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Ratatouille (2007)
+#EXTINF:-1 tvg-logo="https://falange.net/wp-content/uploads/2019/03/Retrospectiva-Pixar-8-Ratatouille-2007.jpg" group-title="ÚLTIMOS ADICIONADOS",Ratatouille (2007)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/RTATOULE.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",A Nova Onda do Imperador (2000)
+#EXTINF:-1 tvg-logo="https://blogbede.files.wordpress.com/2018/01/2000-a-nova-onda-do-imperador-mp4_snapshot_00-07-06_2018-01-23_15-13-56.jpg" group-title="ÚLTIMOS ADICIONADOS",A Nova Onda do Imperador (2000)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ANVONDOIMPRDR.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Piratas Pirados! (2012)
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I6Gznf2VsrU/VDbvv6-UgcI/AAAAAAAAc6s/-dnJKSUfAl8/s1600/johhny-bravo-bollywood-sbt.jpg" group-title="ÚLTIMOS ADICIONADOS",Johnny Bravo Vai A Bollywood (2011)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/JOHNYBRVOVAPRBLYWRD.mp4
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/w7MwcjTDGeFw72Q13ZCQFkWMXH0=/s.glbimg.com/og/rg/f/original/2015/02/25/piratas.jpg" group-title="ÚLTIMOS ADICIONADOS",Piratas Pirados! (2012)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/PRTSPRDS.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Hd6y1TrLSuI/VL8X8tmx1OI/AAAAAAAADq8/KiagWqN7tog/s1600/brave.jpeg" group-title="ÚLTIMOS ADICIONADOS",Valente (2012)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/VLNTE.mp4
