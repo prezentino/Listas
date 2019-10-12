@@ -1789,6 +1789,21 @@ http://cdnfe3.azureedge.net/RCServer01/videos/EUAPTEACT01EP02.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/gbFaPQ" group-title="EU A PATROA E AS CRIANÇAS",S01E01 Pilot
 http://cdnfe3.azureedge.net/RCServer01/videos/EUAPTEACT01EP01.mp4
 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OAubdyVpwSE/XK-aSMV68HI/AAAAAAABT3A/izrbc8Ymvv8UPp2Bkn8nLIzK1VcSHkZNgCLcBGAs/s640/Jesus-His-Life_11222018_JSM_0348.jpg" group-title="Eu Conheci Jesus",S01E01
+http://cdnfe2.azureedge.net/RCServer03/ondemand/EUCNHCJST01EP01.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OAubdyVpwSE/XK-aSMV68HI/AAAAAAABT3A/izrbc8Ymvv8UPp2Bkn8nLIzK1VcSHkZNgCLcBGAs/s640/Jesus-His-Life_11222018_JSM_0348.jpg" group-title="Eu Conheci Jesus",S01E02
+http://cdnfe2.azureedge.net/RCServer03/ondemand/EUCNHCJST01EP02.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OAubdyVpwSE/XK-aSMV68HI/AAAAAAABT3A/izrbc8Ymvv8UPp2Bkn8nLIzK1VcSHkZNgCLcBGAs/s640/Jesus-His-Life_11222018_JSM_0348.jpg" group-title="Eu Conheci Jesus",S01E03
+http://cdnfe2.azureedge.net/RCServer03/ondemand/EUCNHCJST01EP03.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OAubdyVpwSE/XK-aSMV68HI/AAAAAAABT3A/izrbc8Ymvv8UPp2Bkn8nLIzK1VcSHkZNgCLcBGAs/s640/Jesus-His-Life_11222018_JSM_0348.jpg" group-title="Eu Conheci Jesus",S01E04
+http://cdnfe2.azureedge.net/RCServer03/ondemand/EUCNHCJST01EP04.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OAubdyVpwSE/XK-aSMV68HI/AAAAAAABT3A/izrbc8Ymvv8UPp2Bkn8nLIzK1VcSHkZNgCLcBGAs/s640/Jesus-His-Life_11222018_JSM_0348.jpg" group-title="Eu Conheci Jesus",S01E05
+http://cdnfe2.azureedge.net/RCServer03/ondemand/EUCNHCJST01EP05.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OAubdyVpwSE/XK-aSMV68HI/AAAAAAABT3A/izrbc8Ymvv8UPp2Bkn8nLIzK1VcSHkZNgCLcBGAs/s640/Jesus-His-Life_11222018_JSM_0348.jpg" group-title="Eu Conheci Jesus",S01E06
+http://cdnfe2.azureedge.net/RCServer03/ondemand/EUCNHCJST01EP06.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/08/johnny-bravo.jpg" group-title="Johnny Bravo ",S04E07
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6XGnv7Zgbeg/maxresdefault.jpg" group-title="Euphoria",S01E01
 http://cdnfe2.azureedge.net/RCServer06/ondemand/EUPRIAT01EP01.mp4
@@ -3748,6 +3763,13 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/MNTEADGAS01EP08.mp4
 http://cdnfe2.azureedge.net/RCServer12/ondemand/MNTEADGAS01EP09.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="MANTO E ADAGA",MANTO E ADAGA S01E10
 http://cdnfe2.azureedge.net/RCServer12/ondemand/MNTEADGAS01EP10.mp4
+
+
+#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2019/03/maua-o-primeiro-gigante-2-747x420.jpg" group-title="Mauá: O Primeiro Gigante",S01E01
+http://cdnfe2.azureedge.net/RCServer03/ondemand/MAUAOPRMGNTET01EP01.mp4
+#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2019/03/maua-o-primeiro-gigante-2-747x420.jpg" group-title="Mauá: O Primeiro Gigante",S01E02
+http://cdnfe2.azureedge.net/RCServer03/ondemand/MAUAOPRMGNTET01EP02.mp4
+
 
 
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S01E01
