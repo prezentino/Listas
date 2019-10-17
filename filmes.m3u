@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i0.wp.com/br.nacaodamusica.com/wp-content/uploads/2019/07/O-Rei-Le%C3%A3o.jpg" group-title="ADICIONADOS RECENTEMENTE",O Rei Leão Legendado (2019)
-http://cdnfe3.azureedge.net/RCFServer3/ondemand/OREILEOLEG.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/br.nacaodamusica.com/wp-content/uploads/2019/07/O-Rei-Le%C3%A3o.jpg" group-title="ADICIONADOS RECENTEMENTE",O Rei Leão (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ORELEO.mp4
 #EXTINF:-1 tvg-logo="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2019/07/legiao_jDRn7MTS3oUKg82qHOu0xdQIVlY_tb4iJpB6ZsPv95.jpg.jpeg" group-title="ADICIONADOS RECENTEMENTE",Steven Universo: O Filme (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/STVNUNVSOFLM.mp4
+#EXTINF:-1 tvg-logo="https://identidadecinefila.files.wordpress.com/2014/09/central-do-brasil.jpg" group-title="ADICIONADOS RECENTEMENTE",Central do Brasil (1998)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/CNTRLDBR.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/19/06/04/22/17/0677485.jpg" group-title="ADICIONADOS RECENTEMENTE",Stan e Ollie: O Gordo e o Magro (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/STNEOLIEOGRDOEOMGRO.mp4
 #EXTINF:-1 tvg-logo="https://www.planoaberto.com.br/wp-content/uploads/2018/08/VNERA-capa.jpg" group-title="ADICIONADOS RECENTEMENTE",Você Nunca Esteve Realmente Aqui (2018)
