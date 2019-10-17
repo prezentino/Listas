@@ -22,6 +22,19 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/MDSTHROS.mp4
 #EXTINF:-1 tvg-logo="https://www.geekproject.com.br/wp-content/uploads/2019/07/My-Hero-Academia-2-Her%C3%B3is-1078x516.jpg" group-title="Animações Japonesas",My Hero Academia: 2 Heróis: O Filme (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MYHRACDM2HRSOFLM.mp4
 
+#EXTINF:-1 tvg-logo="" group-title="Animações Japonesas",Aquarion
+http://cdnfe3.azureedge.net/RCServer04/ondemand/AQUAFILME.mp4
+#EXTINF:-1 tvg-logo="" group-title="Animações Japonesas",Fate Stay Night Filme Unlimited Blade Shizuo
+http://cdnfe3.azureedge.net/RCServer02/ondemand/FSNUBS.mp4
+#EXTINF:-1 tvg-logo="" group-title="Animações Japonesas",Hajime no Ippo The Fighting Filme 01 Champion Road
+http://cdnfe3.azureedge.net/RCServer02/ondemand/HJMNIPTFHTMCR.mp4
+#EXTINF:-1 tvg-logo="" group-title="Animações Japonesas",Inazuma Eleven GO Filme 01 O Vínculo Perfeito do Grifo
+http://cdnfe3.azureedge.net/RCServer03/ondemand/INZMELVGOMVOVPDG.mp4
+#EXTINF:-1 tvg-logo="" group-title="Animações Japonesas",Fairy Tail Filme: Sacerdotisa da Fênix
+http://cdnfe3.azureedge.net/RCServer04/ondemand/FATLFILME01.mp4
+#EXTINF:-1 tvg-logo="" group-title="Animações Japonesas",Inazuma Eleven Filme 01 O Mais Forte do Exercito Ogro Ataca
+http://cdnfe3.azureedge.net/RCServer03/ondemand/INZMELVMOMFDEOA.mp4
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81eEcHCInXL._SL1114_.jpg" group-title="Afro Samurai",Afro Samurai: Resurrection (2009)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/AFRSMRIRSRCTION.mp4
 #EXTINF:-1 tvg-logo="http://redecanais.tv/imgs-videos/Afro%20Samurai.jpg" group-title="Afro Samurai",Afro Samurai LEG E01
@@ -5202,30 +5215,32 @@ http://cdnfe3.azureedge.net/RCServer01/videos/YUYUHKSEP02.mp4
 http://cdnfe3.azureedge.net/RCServer01/videos/YUYUHKSEP01.mp4
 
 
-#EXTINF:-1 tvg-logo="" group-title="One Piece",One Piece 01 O Grande Pirata do Ouro!
-http://cdnfe3.azureedge.net/RCServer01/videos/10edf4c9.mp4
+#EXTINF:-1 tvg-logo="https://redecanais.si/player3/imgs-videos/onepiece2.jpg" group-title="One Piece",One Piece 01 O Grande Pirata do Ouro!
+http://cdnfe2.azureedge.net/RCServer01/videos/10edf4c9.mp4
 #EXTINF:-1 tvg-logo="" group-title="One Piece",One Piece 02 Aventura na Ilha Nejimaki
-http://cdnfe3.azureedge.net/RCServer01/videos/13b9e84a.mp4
+http://cdnfe2.azureedge.net/RCServer01/videos/13b9e84a.mp4
 #EXTINF:-1 tvg-logo="" group-title="One Piece",One Piece 03 O reino de Chopper na ilha dos
-http://cdnfe3.azureedge.net/RCServer01/videos/0201cb41.mp4
+http://cdnfe2.azureedge.net/RCServer01/videos/0201cb41.mp4
 #EXTINF:-1 tvg-logo="" group-title="One Piece",One Piece 04 Aventura Mortal
-http://cdnfe3.azureedge.net/RCServer01/videos/3c4a3a73.mp4
+http://cdnfe2.azureedge.net/RCServer01/videos/3c4a3a73.mp4
 #EXTINF:-1 tvg-logo="" group-title="One Piece",One Piece 05 O Corte da Espada Sagrada
-http://cdnfe3.azureedge.net/RCServer01/videos/6daf7723.mp4
+http://cdnfe2.azureedge.net/RCServer01/videos/6daf7723.mp4
 #EXTINF:-1 tvg-logo="" group-title="One Piece",One Piece 06 Barão Omatsuri e a Ilha Secreta
-http://cdnfe3.azureedge.net/RCServer01/videos/aa82c889.mp4
+http://cdnfe2.azureedge.net/RCServer01/videos/aa82c889.mp4
 #EXTINF:-1 tvg-logo="" group-title="One Piece",One Piece 07 Os Mechas do Castelo Karakuri!
-http://cdnfe3.azureedge.net/RCServer01/videos/337534a9.mp4
+http://cdnfe2.azureedge.net/RCServer01/videos/337534a9.mp4
 #EXTINF:-1 tvg-logo="" group-title="One Piece",One Piece 08 Episódio Alabasta: A Princesa do Deserto e os Piratas
-http://cdnfe3.azureedge.net/RCServer01/videos/6594dad9.mp4
+http://cdnfe2.azureedge.net/RCServer01/videos/6594dad9.mp4
 #EXTINF:-1 tvg-logo="" group-title="One Piece",One Piece 09 Episódio Chopper Plus: Flor do Inverno, Milagre da Cerejeira
-http://cdnfe3.azureedge.net/RCServer01/videos/54142594.mp4
+http://cdnfe2.azureedge.net/RCServer01/videos/54142594.mp4
 #EXTINF:-1 tvg-logo="" group-title="One Piece",One Piece 10 Mundo Duro
-http://cdnfe3.azureedge.net/RCServer01/videos/60573c1e.mp4
+http://cdnfe2.azureedge.net/RCServer01/videos/60573c1e.mp4
 #EXTINF:-1 tvg-logo="" group-title="One Piece",One Piece 11 A busca pelo Chapéu de Palha
-http://cdnfe3.azureedge.net/RCServer01/videos/8a1a8e87.mp4
-#EXTINF:-1 tvg-logo="" group-title="One Piece",One Piece 12 One Piece Z
-http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPCFILME12.mp4
+http://cdnfe2.azureedge.net/RCServer01/videos/8a1a8e87.mp4
+#EXTINF:-1 tvg-logo="https://redecanais.si/player3/imgs-videos/RCServer08/imgs-videos/One%20Piece%20Filme12.jpg" group-title="One Piece",One Piece 12 One Piece Z
+http://cdnfe2.azureedge.net/RCServer09/ondemand/ONPCFILME12.mp4
+#EXTINF:-1 tvg-logo="https://redecanais.si/player3/imgs-videos/RCServer03/imgs-videos/One%20Piece%20Filme%20Ouro.jpg" group-title="One Piece",One Piece 13 One Piece Filme Ouro
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPCFILME13.mp4
 
 #EXTINF:-1 tvg-logo="https://theinsatiablegamer.com/wp-content/uploads/2019/07/ONE-PIECE-WORLD-SEEKER-850x478.jpg" group-title="One Piece",E001
 http://cdnfe2.azureedge.net/RCServer01/videos/ONPCEP001.mp4
@@ -7191,7 +7206,7 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/ONPCEP866.mp4
 #EXTINF:-1 tvg-logo="https://theinsatiablegamer.com/wp-content/uploads/2019/07/ONE-PIECE-WORLD-SEEKER-850x478.jpg" group-title="One Piece",E867
 http://cdnfe2.azureedge.net/RCServer13/ondemand/ONPCEP867.mp4
 #EXTINF:-1 tvg-logo="https://theinsatiablegamer.com/wp-content/uploads/2019/07/ONE-PIECE-WORLD-SEEKER-850x478.jpg" group-title="One Piece",E868
-http://cdnfe2.azureedge.net/RCServer13/ondemand/ONPCEP868.mp4
+http://cdnfe2.azureedge.net/RCServer13/ondemand/ONPCEP868.**mp4
 #EXTINF:-1 tvg-logo="https://theinsatiablegamer.com/wp-content/uploads/2019/07/ONE-PIECE-WORLD-SEEKER-850x478.jpg" group-title="One Piece",E869
 http://cdnfe2.azureedge.net/RCServer13/ondemand/ONPCEP869.mp4
 #EXTINF:-1 tvg-logo="https://theinsatiablegamer.com/wp-content/uploads/2019/07/ONE-PIECE-WORLD-SEEKER-850x478.jpg" group-title="One Piece",E870
@@ -7271,6 +7286,62 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/ONPCEP906.mp4
 #EXTINF:-1 tvg-logo="https://theinsatiablegamer.com/wp-content/uploads/2019/07/ONE-PIECE-WORLD-SEEKER-850x478.jpg" group-title="One Piece",E907
 http://cdnfe2.azureedge.net/RCServer13/ondemand/ONPCEP907.mp4
 
+
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T1EP01
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNDUBEP01.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T1EP02
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNDUBEP02.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T1EP03
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNDUBEP03.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T1EP04
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNDUBEP04.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T1EP05
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNDUBEP05.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T1EP06
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNDUBEP06.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T1EP07
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNDUBEP07.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T1EP08
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNDUBEP08.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T1EP09
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNDUBEP09.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T1EP10
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNDUBEP10.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T1EP11
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNDUBEP11.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T1EP12
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNDUBEP12.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T2EP00
+http://cdnfe2.azureedge.net/RCServer12/ondemand/ONPUCMNESPCL.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T2EP01
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ONPUCMNS02EP01.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T2EP02
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNS02EP02.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T2EP03
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNS02EP03.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T2EP04
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNS02EP04.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T2EP05
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNS02EP05.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T2EP06
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNS02EP06.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T2EP07
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNS02EP07.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T2EP08
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNS02EP08.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T2EP09
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNS02EP09.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T2EP10
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNS02EP10.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T2EP11
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNS02EP11.mp4
+EXTINF:-1 tvg-logo="https://imgur.com/zRT3Cwr.jpg" group-title="One Punch Man",T2EP12
+http://cdnfe3.azureedge.net/RCServer09/ondemand/ONPUCMNS02EP12.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Yu-Gi-OH!: Duel Monsters",Yu-Gi-OH! Filme 10th Anniversary
+http://cdnfe3.azureedge.net/RCServer01/videos/cba9c3c2.mp4
 EXTINF:-1 tvg-logo="https://imgur.com/IH5cQLn.jpg" group-title="Yu-Gi-OH!: Duel Monsters" ,T01EP001
 http://cdnfe2.azureedge.net/RCServer01/videos/YUGOHEP001.mp4
 
@@ -8447,17 +8518,281 @@ http://cdnfe2.azureedge.net/RCServer01/videos/YUGOHGXEP155.mp4
 EXTINF:-1 tvg-logo="https://imgur.com/gE2HeyW.jpg" group-title="Yu-Gi-OH! GX",T03EP156
 http://cdnfe2.azureedge.net/RCServer01/videos/YUGOHGXEP156.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="LEGENDADO",Yu-Gi-OH! Filme 10th Anniversary
-http://cdnfe3.azureedge.net/RCServer01/videos/cba9c3c2.mp4
-#EXTINF:-1 tvg-logo="" group-title="LEGENDADO",Aquarion
-http://cdnfe3.azureedge.net/RCServer04/ondemand/AQUAFILME.mp4
-#EXTINF:-1 tvg-logo="" group-title="LEGENDADO",Fate Stay Night Filme Unlimited Blade Shizuo
-http://cdnfe3.azureedge.net/RCServer02/ondemand/FSNUBS.mp4
-#EXTINF:-1 tvg-logo="" group-title="LEGENDADO",Hajime no Ippo The Fighting Filme 01 Champion Road
-http://cdnfe3.azureedge.net/RCServer02/ondemand/HJMNIPTFHTMCR.mp4
-#EXTINF:-1 tvg-logo="" group-title="LEGENDADO",Inazuma Eleven GO Filme 01 O Vínculo Perfeito do Grifo
-http://cdnfe3.azureedge.net/RCServer03/ondemand/INZMELVGOMVOVPDG.mp4
-#EXTINF:-1 tvg-logo="" group-title="LEGENDADO",Fairy Tail Filme: Sacerdotisa da Fênix
-http://cdnfe3.azureedge.net/RCServer04/ondemand/FATLFILME01.mp4
-#EXTINF:-1 tvg-logo="" group-title="LEGENDADO",Inazuma Eleven Filme 01 O Mais Forte do Exercito Ogro Ataca
-http://cdnfe3.azureedge.net/RCServer03/ondemand/INZMELVMOMFDEOA.mp4
+
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP01
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP01.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP02
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP02.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP03
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP03.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP04
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP04.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP05
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP05.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP06
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP06.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP07
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP07.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP08
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP08.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP09
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP09.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP10
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP10.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP11
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP11.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP12
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP12.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP13
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP13.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP14
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP14.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP15
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP15.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP16
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP16.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP17
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP17.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP18
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP18.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP19
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP19.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP20
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP20.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP21
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP21.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP22
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP22.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP23
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP23.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP24
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP24.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP25
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP25.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP26
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP26.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP27
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP27.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP28
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP28.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP29
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP29.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP30
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP30.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP31
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP31.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP32
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP32.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP33
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP33.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP34
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP34.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP35
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP35.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP36
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP36.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP37
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP37.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP38
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP38.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP39
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP39.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP40
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP40.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP41
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP41.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP42
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP42.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP43
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP43.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP44
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP44.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP45
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP45.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP46
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP46.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP47
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP47.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP48
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP48.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP49
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP49.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP50
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP50.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP51
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP51.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP52
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP52.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP53
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP53.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP54
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP54.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP55
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP55.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP56
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP56.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP57
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP57.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP58
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP58.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP59
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP59.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP60
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP60.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP61
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP61.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP62
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP62.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP63
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP63.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP64
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP64.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP65
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP65.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP66
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP66.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP67
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP67.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP68
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP68.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP69
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP69.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP70
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP70.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP71
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP71.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP72
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP72.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP73
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP73.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP74
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP74.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP75
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP75.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP76
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP76.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP77
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP77.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP78
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP78.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP79
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP79.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP80
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP80.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP81
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP81.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP82
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP82.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP83
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP83.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP84
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP84.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP85
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP85.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP86
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP86.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP87
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP87.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP88
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP88.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP89
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP89.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP90
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP90.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP91
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP91.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ld8T0MA.jpg" group-title="Hunter x Hunter",EP92
+http://cdnfe3.azureedge.net/RCServer09/ondemand/HNTXHNTEP92.mp4
+
