@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://links.net.br/wp-content/uploads/2019/10/luccas-neto-em-dia-das-criancas-810x540.jpg" group-title="ÚLTIMOS ADICIONADOS",Luccas Neto em Dia das Crianças (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/LCSNTOEMDIDSCRNCS.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",A Princesa e o Dragão (2019)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gmUhPvy.jpg" group-title="ÚLTIMOS ADICIONADOS",A Lenda do Pato Sol (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ALNDOPTO.mp4
+#EXTINF:-1 tvg-logo="http://www.pirate3dm.com/wp-content/uploads/2019/10/A-Princesa-e-o-Drag%C3%A3o-1.jpg" group-title="ÚLTIMOS ADICIONADOS",A Princesa e o Dragão (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/APRNCSEODRGAO.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/hYD4HpcFdmlu5h5KuwdA9NTrlOk.jpg" group-title="ÚLTIMOS ADICIONADOS",Scooby-Doo! De Volta à Ilha dos Zumbis (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/SCBYDODVLTAILHDSZMBS.mp4
@@ -89,6 +91,8 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/MINAMRLEONVOPRTO.mp4
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/MINSAJNDTDPANL.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/06/12/22/55/0504753.jpg" group-title="ÚLTIMOS ADICIONADOS",Cara Cadê o Dragão? (2018)
 https://globalc2.global.ssl.fastly.net/RedeCanais/RCFServer2/ondemand/CARCDODRGAO.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/67w9NXNbCr8/maxresdefault.jpg" group-title="ÚLTIMOS ADICIONADOS",A Lenda da Passagem Secreta (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ALNDADPASSGMSCRTA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/90/70/20028698.jpg" group-title="ÚLTIMOS ADICIONADOS",A Lenda dos Guardiões (2010)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ALNDADSGRDOES.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/tosPSPWm8Hrc7upYX3YUl1tUI5M.jpg" group-title="ÚLTIMOS ADICIONADOS",Zumbilênio: O Parque dos Monstros (2017)
@@ -597,6 +601,41 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/PDNGTN2.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_75_106/pictures/17/08/25/19/04/419991.jpg" group-title="ANIMAÇÃO E LIVE ACTION",PICA-PAU: O FILME (2018)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/PICPAU.mp4
 
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica",Versus Versus Versus
+https://www.youtube.com/watch?v=Btq3xySTcaY
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica",Dá Uma Chance
+https://www.youtube.com/watch?v=FapEtCJXVlU
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica",Presente de Grego
+https://www.youtube.com/watch?v=AswyolwoIww
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica",Meu Bolo é da Bruxa
+https://www.youtube.com/watch?v=-HYawUCKd4U
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica",Uma Senhora Faxina
+https://www.youtube.com/watch?v=vIquTfw-3Tg
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica",A Grande Final
+https://www.youtube.com/watch?v=axnRJGGDCN4
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica",Coincidências
+https://www.youtube.com/watch?v=Wfc9wVFm9qg
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica",Dono da Metade da Rua
+https://www.youtube.com/watch?v=Ho-hf-5s1TQ
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica",Reunião do Clubinho
+https://www.youtube.com/watch?v=KWc6P1x_6Rs
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica",Planos Infalíveis
+https://www.youtube.com/watch?v=pCfDHYB1Mkw
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica",Provas Comprometedoras
+https://www.youtube.com/watch?v=VQcu-97EsPQ
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica Filmes",A Princesa e o Robô
+https://www.youtube.com/watch?v=Wyz1OnqAaJg
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica Filmes",Se Liga na Turma da Mônica 1
+https://www.youtube.com/watch?v=LBKvaFuFXWo
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica Maratonas",Maratona Ep do Cascão
+https://www.youtube.com/watch?v=ddSsRVXBtZk&t=6975s
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="Turma da Mônica Maratonas",Maratona de Terror
+https://www.youtube.com/watch?v=snLXCgHq7UE
 
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Aladdin%20-%20A%20S%C3%A9rie%20Animada1.jpg" group-title="Aladdin",Aladdin T01E01
