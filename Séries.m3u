@@ -685,26 +685,48 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/ARQVXT11EP09.mp4
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Arquivo%20X11.jpg" group-title="ARQUIVO X",ARQUIVO X S11E10
 http://cdnfe2.azureedge.net/RCServer13/ondemand/ARQVXT11EP10.mp4
 
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",BAND OF BROTHERS E01
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E01
 http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP01.mp4
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",BAND OF BROTHERS E02
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E02
 http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP02.mp4
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",BAND OF BROTHERS E03
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E03
 http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP03.mp4
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",BAND OF BROTHERS E04
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E04
 http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP04.mp4
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",BAND OF BROTHERS E05
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E05
 http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP05.mp4
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",BAND OF BROTHERS E06
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E06
 http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP06.mp4
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",BAND OF BROTHERS E07
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E07
 http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP07.mp4
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",BAND OF BROTHERS E08
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E08
 http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP08.mp4
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",BAND OF BROTHERS E09
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E09
 http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP09.mp4
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",BAND OF BROTHERS E10
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E10
 http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP10.mp4
+
+EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2019/04/28/28181256331017.jpg" group-title="The Pacific",E01
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TPCFCDUBEP01.mp4
+EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2019/04/28/28181256331017.jpg" group-title="The Pacific",E02
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TPCFCDUBEP02.mp4
+EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2019/04/28/28181256331017.jpg" group-title="The Pacific",E03
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TPCFCDUBEP03.mp4
+EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2019/04/28/28181256331017.jpg" group-title="The Pacific",E04
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TPCFCDUBEP04.mp4
+EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2019/04/28/28181256331017.jpg" group-title="The Pacific",E05
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TPCFCDUBEP05.mp4
+EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2019/04/28/28181256331017.jpg" group-title="The Pacific",E06
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TPCFCDUBEP06.mp4
+EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2019/04/28/28181256331017.jpg" group-title="The Pacific",E07
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TPCFCDUBEP07.mp4
+EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2019/04/28/28181256331017.jpg" group-title="The Pacific",E08
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TPCFCDUBEP08.mp4
+EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2019/04/28/28181256331017.jpg" group-title="The Pacific",E09
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TPCFCDUBEP09.mp4
+EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2019/04/28/28181256331017.jpg" group-title="The Pacific",E10
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TPCFCDUBEP10.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Batman1.jpg" group-title="BATMAN",BATMAN S01E01
