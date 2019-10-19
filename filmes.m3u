@@ -9,6 +9,16 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/OCRODRLO.mp4
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/VIPS.mp4
 #EXTINF:-1 tvg-logo="https://identidadecinefila.files.wordpress.com/2014/09/central-do-brasil.jpg" group-title="ADICIONADOS RECENTEMENTE",Central do Brasil (1998)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/CNTRLDBR.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Lobo (1994)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/LBO1994.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Efeito Borboleta (2004)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/EFTOBRBLTA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",A Marca (2004)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/AMRCA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Que Fazemos nas Sombras Legendado (2014)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OQFZMSNSMBRSLEG.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Família do Bagulho (2013)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/FMLDBGLH.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/19/06/04/22/17/0677485.jpg" group-title="ADICIONADOS RECENTEMENTE",Stan e Ollie: O Gordo e o Magro (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/STNEOLIEOGRDOEOMGRO.mp4
 #EXTINF:-1 tvg-logo="https://www.planoaberto.com.br/wp-content/uploads/2018/08/VNERA-capa.jpg" group-title="ADICIONADOS RECENTEMENTE",Você Nunca Esteve Realmente Aqui (2018)
@@ -939,12 +949,14 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/MQNMRTFR04.mp4
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eBgou.jpg" group-title="MATRIX",MATRIX (1999)
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cfBGbCceMvQ/XRu2cjPCBTI/AAAAAAAARxo/mIWEupLMQM4pmDpTPAOakBMI3HEp5EDqACLcBGAs/s640/00.jpg" group-title="MATRIX",MATRIX (1999)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/MTRX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ky4v45F.jpg" group-title="MATRIX",MATRIX RELOADED (2003)
+#EXTINF:-1 tvg-logo="http://www.5septiembre.cu/wp-content/uploads/2017/09/The-Matrix-Reloaded.jpg" group-title="MATRIX",MATRIX RELOADED (2003)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/MTRXRLD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/76y6ZKg.jpg" group-title="MATRIX",MATRIX REVOLUTIONS (2003)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDc2YjgyZmYtOTJhNy00MGI2LTg3ZGMtOGE4NWE5ZDU0Mzc5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_CR0,45,480,270_AL_UX477_CR0,0,477,268_AL_.jpg" group-title="MATRIX",MATRIX REVOLUTIONS (2003)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/MTRXREV.mp4
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wqvYw.jpg" group-title="MIB",MIB: HOMENS DE PRETO (1997)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MIBHMDPRT01.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HQkFcXi.jpg" group-title="MIB",MIB: HOMENS DE PRETO 2 (2002)
