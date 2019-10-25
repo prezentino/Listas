@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/80/79/20428505.jpg" group-title="ADICIONADOS RECENTEMENTE",Conan: o Bárbaro (1982)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/CNANOBABRO.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-HfSD9X9FZGU/TnkG-QEZJGI/AAAAAAAAE0w/JRiDMAVJc1I/s400/Conan%2Bcartaz.jpg" group-title="ADICIONADOS RECENTEMENTE",Conan: o Bárbaro (2011)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/CNANOBABRO2011.mp4
+#EXTINF:-1 tvg-logo="https://plymouthartscentre.org/wp-content/uploads/2019/07/Yesterday-poster-e1564418345572.jpg" group-title="ADICIONADOS RECENTEMENTE",Yesterday (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/YESRTDY.mp4
+#EXTINF:-1 tvg-logo="https://www.foxmovies.com/s3/5caa75d019a2a.jpg" group-title="ADICIONADOS RECENTEMENTE",Stuber: A Corrida Maluca (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/STBRACRDAMLCA.mp4
+#EXTINF:-1 tvg-logo="https://www.aumanack.etc.br/wp-content/uploads/2016/09/unnamed-1-2.jpg" group-title="ADICIONADOS RECENTEMENTE",Últimos Dias no Deserto (2016)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ULTMSDISNDSRTO.mp4
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2018/12/scarface.jpg" group-title="ADICIONADOS RECENTEMENTE",Scarface (1984)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/SCRFCE.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Os 3 Infernais (Dublado) - 2019
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/OS3INFRNS.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",League of Legends: A Origem Legendado (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/LOLAORGMLEG.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/br.nacaodamusica.com/wp-content/uploads/2019/07/O-Rei-Le%C3%A3o.jpg" group-title="ADICIONADOS RECENTEMENTE",O Rei Leão (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ORELEO.mp4
 #EXTINF:-1 tvg-logo="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2019/07/legiao_jDRn7MTS3oUKg82qHOu0xdQIVlY_tb4iJpB6ZsPv95.jpg.jpeg" group-title="ADICIONADOS RECENTEMENTE",Steven Universo: O Filme (2019)
