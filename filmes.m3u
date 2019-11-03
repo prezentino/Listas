@@ -703,11 +703,11 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/BLADE3.mp4
 
 
 
-#EXTINF:-1 tvg-logo="http://criticosbotequim.files.wordpress.com/2011/02/spm1.jpg" group-title="HOMEM-ARANHA",HOMEM-ARANHA (2002)
+#EXTINF:-1 tvg-logo="http://criticosbotequim.files.wordpress.com/2011/02/spm1.jpg" group-title="HOMEM-ARANHA",(2002)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMNARNH01.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/210/544/21054460_2013103118041242.jpg" group-title="HOMEM-ARANHA",HOMEM-ARANHA 2 (2004)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/210/544/21054460_2013103118041242.jpg" group-title="HOMEM-ARANHA",2 (2004)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMNARNH02.mp4
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Homem-Aranha3.jpg" group-title="HOMEM-ARANHA",HOMEM-ARANHA 3 (2007)
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Homem-Aranha3.jpg" group-title="HOMEM-ARANHA",3 (2007)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMNARNH03.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/12/O-Espetacular-Homem-Aranha-poster-nacional.png" group-title="HOMEM-ARANHA",O ESPETACULAR HOMEM-ARANHA (2012)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OESPTCLHMNARNH01.mp4
@@ -800,6 +800,16 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/BRDCK.mp4
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/BRDCK2.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Braddock%203%20-%20O%20Resgate.jpg" group-title="BRADDOCK",BRADDOCK 3: O RESGATE (1988)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/BRDCK3.mp4
+
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/80/79/20428505.jpg" group-title="CONAN",Conan: o Bárbaro (1982)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/CNANOBABRO.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/80/79/20428505.jpg" group-title="CONAN",CONAN: O BÁRBARO (1982)
+https://www.youtube.com/watch?v=WYA-4J6jv1c
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/36/75/20435019.jpg" group-title="CONAN",GUERREIROS DE FOGO (1985)
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/GURSDFOG.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-HfSD9X9FZGU/TnkG-QEZJGI/AAAAAAAAE0w/JRiDMAVJc1I/s400/Conan%2Bcartaz.jpg" group-title="CONAN",Conan: o Bárbaro (2011)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/CNANOBABRO2011.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.si/player3/imgs-videos/Filmes/Crocodile%20Dundee.jpg" group-title="Crocodilo Dundee",Crocodilo Dundee (1987)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/CRDLEDNDE.mp4
@@ -1562,8 +1572,7 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/AHSTSMFM3.mp4
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/BRNCDNVEOCACDR.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Em%20Busca%20da%20Terra%20do%20Nunca.jpg" group-title="FANTASIA",Em Busca da Terra do Nunca (2005)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/EMBSCDTRNCA.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/36/75/20435019.jpg" group-title="FANTASIA",GUERREIROS DE FOGO (1985)
-http://cdnfe2.azureedge.net/RCFServer4/ondemand/GURSDFOG.mp4
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="FANTASIA",Harry Potter e o Calice de Fogo (2005)
 http://lh3.googleusercontent.com/IyKC5-eicQaIEKOYZOrz6wxxkvGKHwAtTe-uuzRTXL0ripuanHWttnWnxol9PcnXyqDeQrg-=m22
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="FANTASIA",Harry Potter e o Prisioneiro de Azkaban (2004)
@@ -1676,8 +1685,7 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/CRVNDCRGMABTLHENDR.mp4
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/CRVNDCRGMUMAVTEWK.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Clube%20dos%20Cinco.jpg" group-title="ANOS 80",Clube dos Cinco (1985)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/CLBDSCNCS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/80/79/20428505.jpg" group-title="ANOS 80",CONAN: O BÁRBARO (1982)
-https://www.youtube.com/watch?v=WYA-4J6jv1c
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Gremlins.jpg" group-title="ANOS 80",GREMLINS (1984)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/GMLNS.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/animegameshow.com.br/wp-content/uploads/2018/12/AGKOuYsh.jpg" group-title="ANOS 80",O Último Dragão (1985)
@@ -1793,8 +1801,12 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/BLYMDSNUMHRDBOBLHAO.mp4
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/TQDRCLHR.mp4
 #EXTINF:-1 tvg-logo="https://www.planocritico.com/wp-content/uploads/2014/08/abyss-2.jpg" group-title="FICÇÃO CIENTÍFICA",O Segredo do Abismo (1989)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OSGRDABSMO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZhXP7Z5.jpg" group-title="FAROESTE",ERA UMA VEZ NO OESTE (1968)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ERAUMAVZNOST.mp4
 #EXTINF:-1 tvg-logo="https://p1.storage.canalblog.com/11/68/119609/6414460.jpg" group-title="FAROESTE",Rápida e Mortal (1995)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/RPDEMRTL.mp4
+#EXTINF:-1 tvg-logo="" group-title=“FAROESTE",Sete Homens e Um Destino (2016)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/SETHMNSEUDSTNO.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0f/bc/a1/0fbca1ca35120c2fc0fd9eb92d3d174a.jpg" group-title="AVENTURA",Amazônia (2014)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/AMZNA.mp4
 
@@ -4197,8 +4209,7 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/ENTRNS.mp4
 http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/usVffrZ.jpg" group-title="LETRA E",Era Uma Vez no México Dublado
 https://goo.gl/Siq1u5
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZhXP7Z5.jpg" group-title="LETRA E",ERA UMA VEZ NO OESTE (1968)
-http://cdnfe3.azureedge.net/RCFServer1/ondemand/ERAUMAVZNOST.mp4
+
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_v42LCUO_1aQ/TL2LFXX-i3I/AAAAAAAABBA/xUJMV51UyKY/s1600/ErinBrockovich.jpeg" group-title="LETRA E",Erin Brockovich Uma Mulher de Talento Dublado Drama
 http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lACmHwO.jpg" group-title="LETRA E",Escobar Paraíso Perdido
@@ -7116,8 +7127,7 @@ https://goo.gl/eRDWqR
 https://goo.gl/otzPr7
 #EXTINF:-1 tvg-logo="https://goo.gl/bgAEvX" group-title="LETRA S",Seremos Historia 2018
 https://goo.gl/rNPMvm
-#EXTINF:-1 tvg-logo="" group-title=“LETRA S",Sete Homens e Um Destino (2016)
-http://cdnfe3.azureedge.net/RCFServer3/ondemand/SETHMNSEUDSTNO.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/ABMTGS" group-title="LETRA S",Sete Minutos Depois da Meia-Noite 2017 
 https://goo.gl/JANiHL
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LUk8qIe.jpg" group-title="LETRA S",SETE VIDAS (2008)
