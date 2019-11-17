@@ -204,9 +204,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/DORAVNTRPRTSPRDVRTDA.mp4
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/BRNCDNVEOSTSANS.mp4
 #EXTINF:-1 tvg-logo="https://images1.houstonpress.com/imager/u/745xauto/10061374/fantasia-2.jpg" group-title="Disney",FANTASIA (1940)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/FNTSIA.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RHPxfx0SfwM/maxresdefault.jpg" group-title="Disney",PINÓQUIO (1940)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/92/45/19984881.jpg" group-title="Disney",PINÓQUIO (1940)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/PNQIO.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/92/45/19984881.jpg" group-title="Disney",DUMBO (1941)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/11/Dumbo_trilha_sonora.jpg" group-title="Disney",DUMBO (1941)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/DMBO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/75/69/19963902.jpg" group-title="Disney",BAMBI (1942)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/BMBI.mp4
