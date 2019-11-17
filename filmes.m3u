@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/19/04/03/15/45/2227722.jpg" group-title="ADICIONADOS RECENTEMENTE",Coringa (2019)
-http://cdn.netcine.info/html/content/conteudolb4/filmes2019/CORINGAREV2LEG-ALTO.mp4?token=nnGeAQcbr4i04BhR-hFq5Q&expires=1573898753
+http://cdn.netcine.info/html/content/conteudolb4/filmes2019/CORINGAREV2LEG-ALTO.mp4?token=XmXlD-VXfSFPBECJr9s07w&expires=1574035225
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/80/79/20428505.jpg" group-title="ADICIONADOS RECENTEMENTE",Conan: o Bárbaro (1982)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/CNANOBABRO.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-HfSD9X9FZGU/TnkG-QEZJGI/AAAAAAAAE0w/JRiDMAVJc1I/s400/Conan%2Bcartaz.jpg" group-title="ADICIONADOS RECENTEMENTE",Conan: o Bárbaro (2011)
@@ -13,9 +13,9 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/STBRACRDAMLCA.mp4
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ULTMSDISNDSRTO.mp4
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2018/12/scarface.jpg" group-title="ADICIONADOS RECENTEMENTE",Scarface (1984)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/SCRFCE.mp4
-#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Os 3 Infernais (Dublado) - 2019
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/19/08/22/12/45/3646433.jpg" group-title="ADICIONADOS RECENTEMENTE",Os 3 Infernais (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/OS3INFRNS.mp4
-#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",League of Legends: A Origem Legendado (2019)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w780/vPK8ZCyQ7gQ34ve6Yk2EdmM0dx2.jpg" group-title="ADICIONADOS RECENTEMENTE",League of Legends: A Origem Legendado (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/LOLAORGMLEG.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/br.nacaodamusica.com/wp-content/uploads/2019/07/O-Rei-Le%C3%A3o.jpg" group-title="ADICIONADOS RECENTEMENTE",O Rei Leão (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ORELEO.mp4
@@ -104,7 +104,7 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/QRDOMENO.mp4
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OSXTSNTDO.mp4
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/br_o-trem-do-inferno-1976-1_l_m.jpg" group-title="ADICIONADOS RECENTEMENTE",O Trem do Inferno (1976)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OTRMDINFRNO.mp4
-#EXTINF:-1 tvg-logo="https://www.baixedetudo.net/imagem/o-internato-poster.jpg" group-title="ADICIONADOS RECENTEMENTE",O Internato (2019)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/19/10/11/21/35/2911715.jpg" group-title="ADICIONADOS RECENTEMENTE",O Internato (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OINTRNTO.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/procrastination.com.br/wp-content/uploads/2017/04/g20eqrphRY8756t1TuMddcyhi3I.jpg" group-title="ADICIONADOS RECENTEMENTE",O Grande Dragão Branco (1988)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OGRNDRGBRNCO.mp4
@@ -202,93 +202,66 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/OVNGDRDFTRO.mp4
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/QROFCRCMPLY.mp4
 #EXTINF:-1 tvg-logo="http://conteudo.imguol.com.br/c/entretenimento/2015/01/30/michael-oliver-como-junior-no-filme-o-pestinha-de-1990-1422634527676_956x500.jpg" group-title="ADICIONADOS RECENTEMENTE",O Pestinha (1990)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OPESTNH.mp4
-
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/09/26/19/48/360039.jpg" group-title="ADICIONADOS RECENTEMENTE",Milionário num Instante (1991)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MLNRIONMINSTE.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tXvGF8_zmxM/maxresdefault.jpg" group-title="ADICIONADOS RECENTEMENTE",Los Angeles: Cidade Proibida (1997)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/LSANGLSCDADPRBDA.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5dhv5b4XeY8/maxresdefault.jpg" group-title="ADICIONADOS RECENTEMENTE",O Homem que Matou Dom Quixote (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OHMEMQMTDNQXTE.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/38Yp_YHJDeQ/maxresdefault.jpg" group-title="ADICIONADOS RECENTEMENTE",A Espiã Vermelha (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/AESPVRMLHA.mp4
-
-
 #EXTINF:-1 tvg-logo="http://www.hastelavista.com.br/wp-content/uploads/2019/04/1920x1080_DATA-1024x576.jpg" group-title="ADICIONADOS RECENTEMENTE",A Maldição da Chorona (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/AMLDCAODCHRNA.mp4
-
-
 #EXTINF:-1 tvg-logo="https://www.meridionalfm.com.br/file/2019/05/20190515-rota-de-fuga-3-1200x675.jpg" group-title="ADICIONADOS RECENTEMENTE",Rota De Fuga 3: O Resgate (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/RTADFGA3.mp4
-
 #EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2019/01/alita-1-750x380.jpg" group-title="ADICIONADOS RECENTEMENTE",Alita: Anjo de Combate (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ALITANGDCMBT.mp4
-
 #EXTINF:-1 tvg-logo="http://cds.j2b8q7s9.hwcdn.net/wp-content/uploads/2019/06/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SY1000_CR006741000_AL_.jpg" group-title="ADICIONADOS RECENTEMENTE",Pokemon: Detetive Pikachu (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/PKMNDTCTVPKCH.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/07YF4C3Bz2Q/maxresdefault.jpg" group-title="ADICIONADOS RECENTEMENTE",O Pequeno Órfão (2018)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/OPQNORFAO.mp4
-
 #EXTINF:-1 tvg-logo="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2019/04/legiao_pGUVnqoRLSKPXM7Q8AaWh56ItDFHscZ4drEjkeJxvT.png.jpeg" group-title="ADICIONADOS RECENTEMENTE",Cemitério Maldido (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/CMTRMLDTO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/01/22/18/45/0848206.jpg" group-title="ADICIONADOS RECENTEMENTE",O Gênio e O Louco (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/OGNOEOLCO.mp4
-#EXTINF:-1 tvg-logo="https://cache-assets.flogao.com.br/photos/full/45201093.jpg" group-title="ADICIONADOS RECENTEMENTE",O Clã das Adagas Voadoras (2003)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/80/91/19968870.jpg" group-title="ADICIONADOS RECENTEMENTE",O Clã das Adagas Voadoras (2003)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/OCLDSADGSVOADRS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/06/20/17/14/2946244.jpg" group-title="ADICIONADOS RECENTEMENTE",Bem-vindos a Marwen (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/BMVNDAMRWN.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/512/21051222_20131021152701707.jpg" group-title="ADICIONADOS RECENTEMENTE",Azul É A Cor Mais Quente (2013)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/AZLEACRMSQNTLEG.mp4
-
-
 #EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/review/primary_image/reviews/the-aftermath-2019/hero_aftermath-2.jpg" group-title="ADICIONADOS RECENTEMENTE",Consequências (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/CNSQNCS.mp4
 #EXTINF:-1 tvg-logo="https://www.feiracultural.art.br/wp-content/uploads/2019/02/c%C3%B3pias-de-volta-%C3%A0-vida-001.jpg" group-title="ADICIONADOS RECENTEMENTE",Cópias: De Volta à Vida (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/CPSDVLT.mp4
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/lldrVEEG4AIa8Vz4Z-lk3ntTrz4=/e.glbimg.com/og/ed/f/original/2019/04/09/10-filmes-classicos-na-netflix-que-voce-deveria-assistir.jpg" group-title="ADICIONADOS RECENTEMENTE",ET O Extraterrestre (1982)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ETOEXTRSTR.mp4
-
-
-
 #EXTINF:-1 tvg-logo="https://www.blogdehollywood.com.br/wp-content/uploads/2019/02/serenity-title-1024x576.jpg" group-title="ADICIONADOS RECENTEMENTE",Calmaria (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/CLMARIA.mp4
-
 #EXTINF:-1 tvg-logo="http://www.contracampo.com.br/48/tresreis.jpg" group-title="ADICIONADOS RECENTEMENTE",Três Reis (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/TRSRES.mp4
-
+#EXTINF:-1 tvg-logo="https://abrilsuperinteressante.files.wordpress.com/2019/02/site_capitamarvel.png" group-title="ADICIONADOS RECENTEMENTE",Capitã Marvel Legendado (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/CPTMRVLLEG.mp4
 #EXTINF:-1 tvg-logo="http://portalcaneca.com.br/wp-content/uploads/2019/03/us-jordan-peele-1.jpg" group-title="ADICIONADOS RECENTEMENTE",Nós (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/NOS.mp4
-
 #EXTINF:-1 tvg-logo="https://nerdbreak.com.br/wp-content/uploads/2019/02/sai-de-baixo-1-768x432.jpg" group-title="ADICIONADOS RECENTEMENTE",Sai De Baixo: O Filme (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/SADBXOFLM.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/10/30/09/49/457279.jpg" group-title="ADICIONADOS RECENTEMENTE",A Senhora da Van (2015)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ASNHRDVAN.mp4f
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/24/38/19873482.jpg" group-title="ADICIONADOS RECENTEMENTE",Viagem Insólita (1985)	
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/VGMINSLTA.mp4
-
-
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/10/01/17/49/4006109.jpg" group-title="ADICIONADOS RECENTEMENTE",Holmes e Watson (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/HLMSEWTSN.mp4
-
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/08/22/22/44/279579.jpg" group-title="ADICIONADOS RECENTEMENTE",O Homem nas trevas (2016)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/OHMEMNSTRVS.mp4
-
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/11/01/23/40/0266976.jpg" group-title="ADICIONADOS RECENTEMENTE",A Mula (2019)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/AMLALEG.mp4
-
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/11/01/23/33/0266707.jpg" group-title="ADICIONADOS RECENTEMENTE",As Viúvas (2018)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ASVIUVS.mp4
-
-#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/03/images.jpg" group-title="ADICIONADOS RECENTEMENTE",Chacrinha: O Velho Guerreiro (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/18/10/03/00/13/3146982.jpg" group-title="ADICIONADOS RECENTEMENTE",Chacrinha: O Velho Guerreiro (2018)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/CHCRNHOLHGERIRO.mp4
-
-#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/robin-hood-fogo.jpg" group-title="ADICIONADOS RECENTEMENTE",Robin Hood: A Origem (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/18/11/13/14/20/1317964.jpg" group-title="ADICIONADOS RECENTEMENTE",Robin Hood: A Origem (2018)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/RBNHODAORGM.mp4
-
-
-
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Legado%20Kennedy.jpg" group-title="ADICIONADOS RECENTEMENTE",O Legado Kennedy (2018)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/OLGDOKNDY.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Halloween.jpg" group-title="ADICIONADOS RECENTEMENTE",Halloween (2018)
@@ -299,11 +272,10 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/UNCRNIO.mp4
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/CXDPASRO.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Predador.jpg" group-title="ADICIONADOS RECENTEMENTE",O Predador (2018)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/OPRDR.mp4
-#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/11/MV5BMjIxMTMyOTE2NF5BMl5BanBnXkFtZTgwMDYyNzY1NTM@._V1_SY1000_CR006741000_AL_.jpg" group-title="ADICIONADOS RECENTEMENTE",PAPILLON (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/18/07/17/16/30/1244104.jpg" group-title="ADICIONADOS RECENTEMENTE",PAPILLON (2018)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/PAPLN.mp4
-#EXTINF:-1 tvg-logo="http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/12/p15363265_v_v8_aa.jpg" group-title="ADICIONADOS RECENTEMENTE",Rei Lear (2018)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/18/09/03/12/14/0602725.jpg" group-title="ADICIONADOS RECENTEMENTE",Rei Lear (2018)
 http://cdn3.netcine.us/html/content/conteudolb2/filmes2018/KINGLEAR-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
-
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/O%20Mist%C3%A9rio%20do%20Rel%C3%B3gio%20na%20Parede.jpg" group-title="ADICIONADOS RECENTEMENTE",O Mistério do Relógio na Parede (2018)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/OMSTRDRLGIONPRDE.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Um%20Lugar%20Silencioso.jpg" group-title="ADICIONADOS RECENTEMENTE",Um Lugar Silencioso (2018)
