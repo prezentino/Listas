@@ -1,6 +1,74 @@
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/19/04/03/15/45/2227722.jpg" group-title="ADICIONADOS RECENTEMENTE",Coringa (2019)
-http://cdn.netcine.info/html/content/conteudolb4/filmes2019/CORINGAREV2LEG-ALTO.mp4?token=XmXlD-VXfSFPBECJr9s07w&expires=1574035225
+http://topclientehd.ddns.net:8080/movie/marlcelotv/123456/756.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Velozes & Furiosos: Hobbs & Shaw (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/VLZEFROSOSHBSESW.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Pesadelo (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/PSDLO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Névoa em Agosto (2016)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/NVOAEMAGSTO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",No Coração do Mundo (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/NOCRCAODMNDO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Nada a Perder 2: Não Se Pode Esconder a Verdade (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/NDAPRDR2.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Waterworld: O Segredo das Águas (1995)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/WATRWRLD.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Túnel da Morte (2005)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/OTNLDMRTE.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Mistérios Na Rádio (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/MSTRNRDIO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Medo Profundo: O Segundo Ataque Legendado (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/MDOPRFNDOSGNDOATOLEG.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Limbo: Entre o Céu e o Inferno (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/LMBOENTROCEUEOINFNO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Histórias Assustadoras para Contar no Escuro (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/HSTRSASUSTRSPRCNTRNESCR.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Elle (2016)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ELE.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Deite Comigo (2005)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/DTECMGO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Domínio: Prequela de O Exorcista (2005)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/DOMNOPRQLDOEXCRTA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Brinquedo Assassino (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/BRNQDASASNO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Crianças de Cera (2005)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/CRNCDCERA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Asilo do Medo (2018)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ASLODMDO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Mestre dos Brinquedos (1989)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/OMSTRBRQDS.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",A Forca 2: Segundo Ato (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/AFRCA2SGNDATO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Graças a Deus (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/GRCSADEUS.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",A Maldição dos Esquecidos (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/AMLDCAODESQCDS.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",A Forca (2015)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/AFRCA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Prey: Caçados Legendado (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/PRYLEG.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Inominável, o Retorno (1992)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/OINOMVLORTRNO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Eli (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ELI.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",A Abominável Criatura (1988)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/AABMNVLCRTRA.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",A Última Gargalhada (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/AULTMGRGLHDA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Meus Dias de Compaixão (2017)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MESDSDCMPXAO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Influência (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/INFLNCIA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",As Hereges (2018)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ASHRGS.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Ecos na Escuridão (2018
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ECSDESCRDAO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",The Wolf Hour Legendado (2018
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/THWLFHRLEG.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",A.I. Rising: Ederlezi Rising Legendado (2019
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/EDRLZIRSINGLEG.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",A Face Oculta (1961
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/AFCEOCLTA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/80/79/20428505.jpg" group-title="ADICIONADOS RECENTEMENTE",Conan: o Bárbaro (1982)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/CNANOBABRO.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-HfSD9X9FZGU/TnkG-QEZJGI/AAAAAAAAE0w/JRiDMAVJc1I/s400/Conan%2Bcartaz.jpg" group-title="ADICIONADOS RECENTEMENTE",Conan: o Bárbaro (2011)
