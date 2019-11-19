@@ -3724,7 +3724,10 @@ http://cdnfe2.azureedge.net/RCServer01/videos/LOSTT06EP16.mp4
 #EXTINF:-1 tvg-logo="https://i.blogs.es/c4ae5d/lost_logo/2560_3000.jpg" group-title="Lost",S06E17-18
 http://cdnfe2.azureedge.net/RCServer01/videos/LOSTT06EP17-18.mp4
 
-
+#EXTINF:-1 tvg-logo="https://cnet3.cbsistatic.com/img/O-YnJIw991KKBze1g3bUwGNH8rk=/2019/08/24/c2cd6cc3-c5bd-4a67-8f93-43aaecf020c5/mandalorian-poster-detail-crop.jpg" group-title="Mandalorian",S01E01 Piloto
+http://cdn.netcine.info/html/content/conteudolb4/mandalorian/01dub/01-ALTO.mp4?token=-1fWQRFrgesS5XQhruTSAQ&expires=1574152165
+#EXTINF:-1 tvg-logo="https://cnet3.cbsistatic.com/img/O-YnJIw991KKBze1g3bUwGNH8rk=/2019/08/24/c2cd6cc3-c5bd-4a67-8f93-43aaecf020c5/mandalorian-poster-detail-crop.jpg" group-title="Mandalorian",S01E02 A Criança
+http://cdn.netcine.info/html/content/conteudolb4/mandalorian/01dub/0002-ALTO.mp4?token=FnQIoAqtso4Uj9hqylfZMw&expires=1574152273
 
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/08/17/13/59/000161.jpg" group-title="MÁQUINA MORTÍFERA",MÁQUINA MORTÍFERA S01E01
 http://cdnr8-2.netcine.us/html/content/httpdelivery/lw/01leg/01-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
