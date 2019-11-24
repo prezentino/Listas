@@ -7,7 +7,7 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/ADMEOVGNDOLEG.mp4
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/OSFMTSDSCROGE.mp4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/09FZhqwF7P3AsYGJ0w36DaPxTi8=/640x480/smart/media/movies/photos/2015/06/el-americano-o-filme_t125199.jpg" group-title="ÚLTIMOS ADICIONADOS",O Herói Cuco: O Filme (2015)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/OHROICOOFLM.mp4
-#EXTINF:-1 tvg-logo="https://i2.wp.com/planetalan.com.br/wp-content/uploads/2019/11/Agente-00-Gato.jpg" group-title="ÚLTIMOS ADICIONADOS",Agente 00-Gato (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300//dgsYognHJg9hKdXrUZ2jqwiXYWu.jpg" group-title="ÚLTIMOS ADICIONADOS",Agente 00-Gato (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/AGNT00GTO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/19/07/11/09/52/3050133.jpg" group-title="ÚLTIMOS ADICIONADOS",Dora e a Cidade Perdida Legendado (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/DRAEACDEPRDALEG.mp4
@@ -15,11 +15,11 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/DRAEACDEPRDALEG.mp4
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/OLFEMUMNVAVNTRCNGLDFRZN.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.downloadlivre.net/wp-content/uploads/2019/11/Um-Panda-em-Apuros-Dublado.jpg" group-title="ÚLTIMOS ADICIONADOS",Um Panda em Apuros (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/UMPNDEMAPRS.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",A Lenda dos 108 (2014)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/11/24/17/37/514405.jpg" group-title="ÚLTIMOS ADICIONADOS",A Lenda dos 108 (2014)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ALNDS108.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Astro Kid (2019)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DlAnEoqV4rM/maxresdefault.jpg" group-title="ÚLTIMOS ADICIONADOS",Astro Kid (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ASTRKDS.mp4
-#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",O Gigante de Ferro (1999)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/88/11/19975807.jpg" group-title="ÚLTIMOS ADICIONADOS",O Gigante de Ferro (1999)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OGNTDFERO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/19/11/05/11/54/3232547.jpg" group-title="ÚLTIMOS ADICIONADOS",Klaus (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/KLAUS.mp4
@@ -246,16 +246,16 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/CMEBMSDVRT.mp4
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/CNDRLA1950.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/06/20/13/02/001776.jpg" group-title="Disney",ALICE NO PAÍS DAS MARAVILHAS (1951)
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/ALCNPSDSMRVLHS1951.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/07/10/14/31/099942.jpg" group-title="Disney",PETER PAN (1953)
+#EXTINF:-1 tvg-logo="https://www.planocritico.com/wp-content/uploads/2013/02/as_aventuras_de_peter_pan_1953_plano_critico-600x400.jpg" group-title="Disney",PETER PAN (1953)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/PTRPN.mp4
 #EXTINF:-1 tvg-logo="https://img1.madeiramadeira.com.br/product/images/19115990-painel-decorativo-festa-a-bela-adormecida-04-300x160sku1598v18411-405-1-800x534.jpg" group-title="Disney",A BELA ADORMECIDA (1959)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ABLADRMCDA.mp4
 #EXTINF:-1 tvg-logo="https://img.vixdata.io/pd/jpg-large/pt/sites/default/files/bbr/dalmatas-7.png" group-title="Disney",101 DÁLMATAS: A GUERRA DOS DÁLMATAS (1961)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/101DMLTS1.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/07/03/16/38/222686.jpg" group-title="Disney",A ESPADA ERA A LEI (1964)
-http://cdnfe3.azureedge.net/RCFServer4/ondemand/AESPDERALEI.mp4
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/AESPDERALEI.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/07/03/17/15/146710.jpg" group-title="Disney",MOGLI: O MENINO LOBO (1968)
-http://cdnfe3.azureedge.net/RCFServer4/ondemand/MGLIOMENIOLBO.mp4
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/MGLIOMENIOLBO.mp4
 #EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/2600/0*hRbN-I435yMcR8FE.jpg" group-title="Disney",Aristogatas (1970)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ARSTGTS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/94/05/35/20299477.jpg" group-title="Disney",A DAMA E O VAGABUNDO (1975)
