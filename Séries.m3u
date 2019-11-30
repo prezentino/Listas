@@ -3935,9 +3935,12 @@ http://cdnfe2.azureedge.net/RCServer01/videos/LOSTT06EP16.mp4
 http://cdnfe2.azureedge.net/RCServer01/videos/LOSTT06EP17-18.mp4
 
 #EXTINF:-1 tvg-logo="https://cnet3.cbsistatic.com/img/O-YnJIw991KKBze1g3bUwGNH8rk=/2019/08/24/c2cd6cc3-c5bd-4a67-8f93-43aaecf020c5/mandalorian-poster-detail-crop.jpg" group-title="Mandalorian",S01E01 Piloto
-http://cdn.netcine.info/html/content/conteudolb4/mandalorian/01dub/01-ALTO.mp4?token=-1fWQRFrgesS5XQhruTSAQ&expires=1574152165
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP01.mp4
 #EXTINF:-1 tvg-logo="https://cnet3.cbsistatic.com/img/O-YnJIw991KKBze1g3bUwGNH8rk=/2019/08/24/c2cd6cc3-c5bd-4a67-8f93-43aaecf020c5/mandalorian-poster-detail-crop.jpg" group-title="Mandalorian",S01E02 A Criança
-http://cdn.netcine.info/html/content/conteudolb4/mandalorian/01dub/0002-ALTO.mp4?token=FnQIoAqtso4Uj9hqylfZMw&expires=1574152273
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP02.mp4
+#EXTINF:-1 tvg-logo="https://cnet3.cbsistatic.com/img/O-YnJIw991KKBze1g3bUwGNH8rk=/2019/08/24/c2cd6cc3-c5bd-4a67-8f93-43aaecf020c5/mandalorian-poster-detail-crop.jpg" group-title="Mandalorian",S01E03 O Pecado
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP03.mp4
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/08/17/13/59/000161.jpg" group-title="MÁQUINA MORTÍFERA",MÁQUINA MORTÍFERA S01E01
 http://cdnr8-2.netcine.us/html/content/httpdelivery/lw/01leg/01-ALTO.mp4?token=HCVAQ6Wvp1cQERH3ObEcNQ&expires=1566728145
@@ -8279,15 +8282,15 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/WTCHMNT01EP03.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/mixdeseries.com.br/wp-content/uploads/2019/10/Watchmen-HBO.jpg" group-title="Watchmen",S01E04
 http://cdnfe2.azureedge.net/RCServer13/ondemand/WTCHMNT01EP04.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/mixdeseries.com.br/wp-content/uploads/2019/10/Watchmen-HBO.jpg" group-title="Watchmen",S01E05
-http://cdnfe2.azureedge.net/RCServer12/ondemand/WTCHMNT01EP05.mp4
+http://cdnfe2.azureedge.net/RCServer13/ondemand/WTCHMNT01EP05.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/mixdeseries.com.br/wp-content/uploads/2019/10/Watchmen-HBO.jpg" group-title="Watchmen",S01E06
-http://cdnfe2.azureedge.net/RCServer12/ondemand/WTCHMNT01EP06.mp4
+http://cdnfe2.azureedge.net/RCServer13/ondemand/WTCHMNT01EP06.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/mixdeseries.com.br/wp-content/uploads/2019/10/Watchmen-HBO.jpg" group-title="Watchmen",S01E07
-http://cdnfe2.azureedge.net/RCServer12/ondemand/WTCHMNT01EP07.mp4
+http://cdnfe2.azureedge.net/RCServer13/ondemand/WTCHMNT01EP07.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/mixdeseries.com.br/wp-content/uploads/2019/10/Watchmen-HBO.jpg" group-title="Watchmen",S01E08
-http://cdnfe2.azureedge.net/RCServer12/ondemand/WTCHMNT01EP08.mp4
+http://cdnfe2.azureedge.net/RCServer13/ondemand/WTCHMNT01EP08.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/mixdeseries.com.br/wp-content/uploads/2019/10/Watchmen-HBO.jpg" group-title="Watchmen",S01E09
-http://cdnfe2.azureedge.net/RCServer12/ondemand/WTCHMNT01EP09.mp4
+http://cdnfe2.azureedge.net/RCServer13/ondemand/WTCHMNT01EP09.mp4
 
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Westworld_title_card.jpg/260px-Westworld_title_card.jpg" group-title="WESTWORLD",WESTWORLD S01E01
