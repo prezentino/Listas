@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/18/06/28/14/27/0272126.jpg" group-title="ADICIONADOS RECENTEMENTE",Era uma Vez em... Hollywood (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ERAUMVZEMHLWOD.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Caçador de Pipas (2007)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/OCACDRDPIPS.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Mãos Talentosas: A História de Ben Carson (2009)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/MASTLTSASAHSTRBNCRSN.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Invasão ao Serviço Secreto Legendado (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/INVSAOSRVSCRTOLEG.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Tudo que Aprendemos Juntos (2015)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/TDOQAPRNDMSJNTS.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/19/08/28/11/06/0479434.jpg" group-title="ADICIONADOS RECENTEMENTE",It: Capítulo 2 (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ITCAP2.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Se a Rua Beale Falasse (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/SEARUAFLSE.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Anjo de Auschwitz (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/OANJDAUSCHWTZ.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/19/04/03/15/45/2227722.jpg" group-title="ADICIONADOS RECENTEMENTE",Coringa (2019)
 http://cdn.netcine.info/html/content/conteudolb4/filmes2019/CORINGA2019LEG2-ALTO.mp4?token=lJMnhB_ELyfVDapAHnI2Gg&expires=1574229989
@@ -54,7 +72,8 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/OINOMVLORTRNO.mp4
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ELI.mp4
 #EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",A Abominável Criatura (1988)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/AABMNVLCRTRA.mp4
-
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Meu Nome é Dolemite (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/MEUNMEDLMTE.mp4
 #EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",A Última Gargalhada (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/AULTMGRGLHDA.mp4
 #EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Meus Dias de Compaixão (2017)
@@ -702,10 +721,15 @@ http://cdnfe3.azureedge.net/RCFServer4/ondemand/SNCTYADMFTL.mp4
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Colheita%20Maldita.jpg" group-title="Stephen King",COLHEITA MALDITA (1984)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/CLHTMLDTA.mp4
+#EXTINF:-1 tvg-logo="" group-title="Stephen King",It: Uma Obra-prima do Medo Legendado (1991)
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/ITUMOBRPRMDMDLEG.mp4
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/O%20Nevoeiro.jpg" group-title="Stephen King",O NEVOEIRO (2007)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ONVOERO.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/TvRKRS" group-title="Stephen King",O Nevoeiro (2007)
 https://goo.gl/p5oCxw
+
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/A%20Torre%20Negra.jpg" group-title="Stephen King",A TORRE NEGRA (2017)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ATRENGR.mp4
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/IT%20-%20A%20Coisa.jpg" group-title="Stephen King",IT: A COISA (2017)
