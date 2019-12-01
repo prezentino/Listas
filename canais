@@ -63,7 +63,7 @@ https://cdnfe1.azureedge.net/hls1/playkids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85
 http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes",ESPN Brasil
-https://cdnfe1.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDQ6NTU6NTQgQU0maGFzaF92YWx1ZT1YajNrTENzRUFzMGxpOGRqOUxpL3hBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",ESPN
 https://cdnfe1.azureedge.net/hls1/espn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Esportes",ESPN 2
@@ -104,7 +104,6 @@ https://cdnfe1.azureedge.net/hls1/premiere7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Esportes",Real Madrid TV
-
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 
@@ -196,7 +195,7 @@ https://cdnfe1.azureedge.net/hls1/megapix.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83L
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Syfy
 https://cdnfe1.azureedge.net/hls1/syfy.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6Mjg6MTQgUE0maGFzaF92YWx1ZT1HRm5CYnJEOFoyTXRzVitmMFVWaElBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Space HD
-https://cdnfe1.azureedge.net/hls1/space.m3u8?c2VydmVyX3RpbWU9NS8xOC8yMDE5IDM6NDA6NTAgUE0maGFzaF92YWx1ZT15M2lFWDZrWUlYaitqeit2dGVqbWpRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
+http://painel.smartlista.org:8880/u7ms3t5qge/f159xg24tn/13718
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",AXN
 https://cdnfe1.azureedge.net/hls1/axn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTk6NTggUE0maGFzaF92YWx1ZT0xcFFrQlp1OEIzUVlRWnNKWko1Ny9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",AMC
@@ -211,14 +210,11 @@ https://cdnfe1.azureedge.net/hls1/universal.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Studio Universal
 https://cdnfe1.azureedge.net/hls1/studiouniversal.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MjE6NDAgUE0maGFzaF92YWx1ZT0zVFpQSTJ3Um9Vb2lZMXR6bGhLR25nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="Filmes e Séries",Cine Sky
-
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ClaFSFI.png" group-title="Filmes e Séries",Cine+
-
 https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="Filmes e Séries",Classique TV
-
 http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
 
 
