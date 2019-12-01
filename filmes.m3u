@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/18/02/19/15/24/2404513.jpg" group-title="ADICIONADOS RECENTEMENTE",Fullmetal Alchemist (2018)
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/FLMTLALCMST.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Projeto Gemni Leg (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/PRJTGMNILEG.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/18/06/28/14/27/0272126.jpg" group-title="ADICIONADOS RECENTEMENTE",Era uma Vez em... Hollywood (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ERAUMVZEMHLWOD.mp4
 #EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Caçador de Pipas (2007)
@@ -9,7 +13,7 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/MASTLTSASAHSTRBNCRSN.mp4
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/INVSAOSRVSCRTOLEG.mp4
 #EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Tudo que Aprendemos Juntos (2015)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/TDOQAPRNDMSJNTS.mp4
-#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/19/08/28/11/06/0479434.jpg" group-title="ADICIONADOS RECENTEMENTE",It: Capítulo 2 (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ITCAP2.mp4
