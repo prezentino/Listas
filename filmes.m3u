@@ -1,7 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/19/09/16/12/21/4612764.jpg" group-title="ADICIONADOS RECENTEMENTE",Rambo: Até O Fim (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/RMBOATOFMLEG.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/19/10/22/15/38/2053784.jpg" group-title="ADICIONADOS RECENTEMENTE",O Relatório (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ORLTRIO.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/19/05/06/17/23/3314259.jpg" group-title="ADICIONADOS RECENTEMENTE",Bacurau (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/BCRAU.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Todo Poderoso (2007)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/TDOPDRSO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",A Volta do Todo Poderoso (2007)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/AVLTDTDPDRSO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/18/02/19/15/24/2404513.jpg" group-title="ADICIONADOS RECENTEMENTE",Fullmetal Alchemist (2018)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/FLMTLALCMST.mp4
-#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Projeto Gemni Leg (2019)
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/19/10/02/17/38/4285514.jpg" group-title="ADICIONADOS RECENTEMENTE",Projeto Gemini Leg (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/PRJTGMNILEG.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/18/06/28/14/27/0272126.jpg" group-title="ADICIONADOS RECENTEMENTE",Era uma Vez em... Hollywood (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ERAUMVZEMHLWOD.mp4
