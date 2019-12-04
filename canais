@@ -65,11 +65,11 @@ http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",ESPN Brasil
 http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",ESPN
-https://cdnfe1.azureedge.net/hls1/espn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN/master_Layer1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",ESPN 2
-https://cdnfe1.azureedge.net/hls1/espn2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTQ6MzggUE0maGFzaF92YWx1ZT1ZRnE5c2w1a1ZSL3h6SzlaZFVzbTR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN2/master_Layer1.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="Esportes",ESPN Extra
-https://cdnfe1.azureedge.net/hls1/espnextra.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTY6MjIgUE0maGFzaF92YWx1ZT14VWVhWStWUFdaZ0RMb1djS2hIQVlBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv
 https://cdnfe1.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOToyODo0MiBQTSZoYXNoX3ZhbHVlPVQ1VFV3K1N6bVdSTG9tdEIvRC9Hb1E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv 2
