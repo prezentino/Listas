@@ -41,11 +41,11 @@ https://cdnfe1.azureedge.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83L
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Discovery Kids
 https://cdnfe1.azureedge.net/hls1/discoverykids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDQ6NTUgUE0maGFzaF92YWx1ZT1pbnVrZTg1WmRER0FlaUtQd2Q2TklRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Disney Channel
-https://cdnfe1.azureedge.net/hls1/disney.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjAwOjQ5IEFNJmhhc2hfdmFsdWU9MXFSOE1JUGwrUS9JYjJzek5wbXJjZz09JnZhbGlkbWludXRlcz02MCZpZD01
+http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyChannelBRA/master_Layer2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Disney Junior
-https://cdnfe1.azureedge.net/hls1/disneyjunior.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDI6NDUgUE0maGFzaF92YWx1ZT13UXlYMVJJeWVQcVpXb2JwOEpzV1hBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Disney XD
-https://cdnfe1.azureedge.net/hls1/disneyxd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjAwOjMwIEFNJmhhc2hfdmFsdWU9VTMrejdJUVlSR1JVbmJxOXoyeGFkdz09JnZhbGlkbWludXRlcz02MCZpZD01
+http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Nick
 https://cdnfe1.azureedge.net/hls1/nick.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDM6NDAgUE0maGFzaF92YWx1ZT0yR1Rmc3hhbTY0VFFyeEgwVVIzRUh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Nick Jr
@@ -261,3 +261,556 @@ https://cdnfe1.azureedge.net/hls1/off.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yM
 https://cdnfe1.azureedge.net/hls1/foodnetwork.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE5IDQ6MDQ6MjYgQU0maGFzaF92YWx1ZT15Zm5HbkhOa3h0blhzL09Sa0s0TDlBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Fish TV
 https://cdnfe1.azureedge.net/hls1/fishtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjA0OjAyIEFNJmhhc2hfdmFsdWU9dzhaeE5yeDEwVVFYem01d1N3bFBwQT09JnZhbGlkbWludXRlcz02MCZpZD01
+
+
+#EXTINF:-1 group-title="Temporarios",A&E HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/3
+#EXTINF:-1 group-title="Temporarios",A&E
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/4
+#EXTINF:-1 group-title="Temporarios",AMC HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/5
+#EXTINF:-1 group-title="Temporarios",AMC
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/6
+#EXTINF:-1 group-title="Temporarios",ANIMAL PLANET HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/7
+#EXTINF:-1 group-title="Temporarios",ANIMAL PLANET
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/8
+#EXTINF:-1 group-title="Temporarios",ARTE 1 HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/9
+#EXTINF:-1 group-title="Temporarios",ARTE 1
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/10
+#EXTINF:-1 group-title="Temporarios",AXN HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/11
+#EXTINF:-1 group-title="Temporarios",AXN
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/12
+#EXTINF:-1 group-title="Temporarios",BABY TV HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/13
+#EXTINF:-1 group-title="Temporarios",BABY TV
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/14
+
+#EXTINF:-1 group-title="Temporarios",BAND NEWS HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/16
+#EXTINF:-1 group-title="Temporarios",BAND NEWS
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/17
+
+#EXTINF:-1 group-title="Temporarios",BAND SPORTS HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/21
+#EXTINF:-1 group-title="Temporarios",BAND SPORTS
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/22
+#EXTINF:-1 group-title="Temporarios",BIS HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/23
+#EXTINF:-1 group-title="Temporarios",BIS
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/24
+#EXTINF:-1 group-title="Temporarios",BOOMERANG HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/25
+#EXTINF:-1 group-title="Temporarios",BOOMERANG
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/26
+#EXTINF:-1 group-title="Temporarios",CANAL BRASIL
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/27
+#EXTINF:-1 group-title="Temporarios",CARTOON NETWORK HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/28
+#EXTINF:-1 group-title="Temporarios",CARTOON NETWORK
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/29
+#EXTINF:-1 group-title="Temporarios",CINEMAX HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/30
+#EXTINF:-1 group-title="Temporarios",CINEMAX
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/31
+#EXTINF:-1 group-title="Temporarios",CNT
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/32
+#EXTINF:-1 group-title="Temporarios",COMBATE HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/33
+#EXTINF:-1 group-title="Temporarios",COMBATE
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/34
+#EXTINF:-1 group-title="Temporarios",COMEDY CENTRAL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/35
+#EXTINF:-1 group-title="Temporarios",COMEDY CENTRAL
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/36
+#EXTINF:-1 group-title="Temporarios",CULTURA HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/37
+#EXTINF:-1 group-title="Temporarios",CULTURA
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/38
+#EXTINF:-1 group-title="Temporarios",CURTA! HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/39
+#EXTINF:-1 group-title="Temporarios",CURTA!
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/40
+#EXTINF:-1 group-title="Temporarios",DAZN BRASIL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/41
+#EXTINF:-1 group-title="Temporarios",DISCOVERY CHANNEL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/42
+#EXTINF:-1 group-title="Temporarios",DISCOVERY CHANNEL
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/43
+#EXTINF:-1 group-title="Temporarios",DISCOVERY CIVILIZATION HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/44
+#EXTINF:-1 group-title="Temporarios",DISCOVERY CIVILIZATION
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/45
+#EXTINF:-1 group-title="Temporarios",DISCOVERY HOME & HEALTH HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/46
+#EXTINF:-1 group-title="Temporarios",DISCOVERY HOME & HEALTH
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/47
+#EXTINF:-1 group-title="Temporarios",DISCOVERY KIDS HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/48
+#EXTINF:-1 group-title="Temporarios",DISCOVERY KIDS
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/49
+#EXTINF:-1 group-title="Temporarios",DISCOVERY SCIENCE HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/50
+#EXTINF:-1 group-title="Temporarios",DISCOVERY SCIENCE
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/51
+#EXTINF:-1 group-title="Temporarios",DISCOVERY THEATER HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/52
+#EXTINF:-1 group-title="Temporarios",DISCOVERY THEATER
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/53
+#EXTINF:-1 group-title="Temporarios",DISCOVERY TLC HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/54
+#EXTINF:-1 group-title="Temporarios",DISCOVERY TLC
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/55
+#EXTINF:-1 group-title="Temporarios",DISCOVERY TURBO HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/56
+#EXTINF:-1 group-title="Temporarios",DISCOVERY TURBO
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/57
+#EXTINF:-1 group-title="Temporarios",DISCOVERY WORLD HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/58
+#EXTINF:-1 group-title="Temporarios",DISCOVERY WORLD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/59
+#EXTINF:-1 group-title="Temporarios",DISNEY CHANNEL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/60
+#EXTINF:-1 group-title="Temporarios",DISNEY CHANNEL
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/61
+#EXTINF:-1 group-title="Temporarios",DISNEY JR HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/62
+#EXTINF:-1 group-title="Temporarios",DISNEY JR
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/63
+#EXTINF:-1 group-title="Temporarios",DISNEY XD HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/64
+#EXTINF:-1 group-title="Temporarios",DISNEY XD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/65
+#EXTINF:-1 group-title="Temporarios",E! HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/66
+#EXTINF:-1 group-title="Temporarios",E!
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/67
+#EXTINF:-1 group-title="Temporarios",EI PLUS
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/68
+#EXTINF:-1 group-title="Temporarios",ESPN  HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/69
+#EXTINF:-1 group-title="Temporarios",ESPN 
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/70
+#EXTINF:-1 group-title="Temporarios",ESPN BRASIL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/71
+#EXTINF:-1 group-title="Temporarios",ESPN BRASIL
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/72
+#EXTINF:-1 group-title="Temporarios",ESPN HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/73
+#EXTINF:-1 group-title="Temporarios",ESPN
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/74
+#EXTINF:-1 group-title="Temporarios",FISH TV HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/75
+#EXTINF:-1 group-title="Temporarios",FISH TV
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/76
+#EXTINF:-1 group-title="Temporarios",FOOD NETWORK HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/77
+#EXTINF:-1 group-title="Temporarios",FOOD NETWORK
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/78
+#EXTINF:-1 group-title="Temporarios",FOX HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/79
+#EXTINF:-1 group-title="Temporarios",FOX LIFE HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/80
+#EXTINF:-1 group-title="Temporarios",FOX LIFE
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/81
+#EXTINF:-1 group-title="Temporarios",FOX PREMIUM 1 HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/82
+#EXTINF:-1 group-title="Temporarios",FOX PREMIUM 1
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/83
+#EXTINF:-1 group-title="Temporarios",FOX PREMIUM 2 HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/84
+#EXTINF:-1 group-title="Temporarios",FOX PREMIUM 2
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/85
+#EXTINF:-1 group-title="Temporarios",FOX
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/86
+#EXTINF:-1 group-title="Temporarios",FOX SPORTS 2 HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/87
+#EXTINF:-1 group-title="Temporarios",FOX SPORTS 2
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/88
+#EXTINF:-1 group-title="Temporarios",FOX SPORTS HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/89
+#EXTINF:-1 group-title="Temporarios",FOX SPORTS
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/90
+#EXTINF:-1 group-title="Temporarios",FUTURA HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/91
+#EXTINF:-1 group-title="Temporarios",FUTURA
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/92
+#EXTINF:-1 group-title="Temporarios",FX HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/93
+#EXTINF:-1 group-title="Temporarios",FX
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/94
+
+
+#EXTINF:-1 group-title="Temporarios",SONY HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/222
+#EXTINF:-1 group-title="Temporarios",SONY
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/223
+#EXTINF:-1 group-title="Temporarios",SPACE HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/224
+#EXTINF:-1 group-title="Temporarios",SPACE
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/225
+#EXTINF:-1 group-title="Temporarios",SPORTV 2 HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/226
+#EXTINF:-1 group-title="Temporarios",SPORTV 2
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/227
+#EXTINF:-1 group-title="Temporarios",SPORTV 3 HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/228
+#EXTINF:-1 group-title="Temporarios",SPORTV 3
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/229
+#EXTINF:-1 group-title="Temporarios",SPORTV HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/230
+#EXTINF:-1 group-title="Temporarios",SPORTV
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/231
+#EXTINF:-1 group-title="Temporarios",STUDIO UNIVERSAL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/232
+#EXTINF:-1 group-title="Temporarios",STUDIO UNIVERSAL
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/233
+#EXTINF:-1 group-title="Temporarios",SYFY HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/234
+#EXTINF:-1 group-title="Temporarios",SYFY
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/235
+#EXTINF:-1 group-title="Temporarios",TBS
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/236
+#EXTINF:-1 group-title="Temporarios",TCM
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/237
+#EXTINF:-1 group-title="Temporarios",TELECINE ACTION HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/238
+#EXTINF:-1 group-title="Temporarios",TELECINE ACTION
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/239
+#EXTINF:-1 group-title="Temporarios",TELECINE CULT HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/240
+#EXTINF:-1 group-title="Temporarios",TELECINE CULT
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/241
+#EXTINF:-1 group-title="Temporarios",TELECINE FUN HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/242
+#EXTINF:-1 group-title="Temporarios",TELECINE FUN
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/243
+#EXTINF:-1 group-title="Temporarios",TELECINE PIPOCA HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/244
+#EXTINF:-1 group-title="Temporarios",TELECINE PIPOCA
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/245
+#EXTINF:-1 group-title="Temporarios",TELECINE PREMIUM HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/246
+#EXTINF:-1 group-title="Temporarios",TELECINE PREMIUM
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/247
+#EXTINF:-1 group-title="Temporarios",TELECINE TOUCH HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/248
+#EXTINF:-1 group-title="Temporarios",TELECINE TOUCH
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/249
+#EXTINF:-1 group-title="Temporarios",TNT HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/250
+#EXTINF:-1 group-title="Temporarios",TNT SERIES
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/251
+#EXTINF:-1 group-title="Temporarios",TNT
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/252
+#EXTINF:-1 group-title="Temporarios",TNT SERIES HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/253
+#EXTINF:-1 group-title="Temporarios",TOONCAST HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/254
+#EXTINF:-1 group-title="Temporarios",TOONCAST
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/255
+#EXTINF:-1 group-title="Temporarios",TV GAZETA
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/256
+#EXTINF:-1 group-title="Temporarios",UNIVERSAL CHANNEL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/257
+#EXTINF:-1 group-title="Temporarios",UNIVERSAL CHANNEL
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/258
+#EXTINF:-1 group-title="Temporarios",VH1 HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/260
+#EXTINF:-1 group-title="Temporarios",VH1
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/261
+#EXTINF:-1 group-title="Temporarios",VIVA HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/262
+#EXTINF:-1 group-title="Temporarios",VIVA
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/263
+#EXTINF:-1 group-title="Temporarios",WARNER CHANNEL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/264
+#EXTINF:-1 group-title="Temporarios",WARNER CHANNEL
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/265
+#EXTINF:-1 group-title="Temporarios",WOOHOO HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/266
+#EXTINF:-1 group-title="Temporarios",WOOHOO
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/267
+#EXTINF:-1 group-title="Temporarios",ZOOMOO HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/268
+#EXTINF:-1 group-title="Temporarios",ZOOMOO
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/269
+#EXTINF:-1 group-title="Temporarios",ANIMAL PLANET FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/270
+#EXTINF:-1 group-title="Temporarios",AXN  FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/271
+#EXTINF:-1 group-title="Temporarios",BAND  FULL HD RP
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/272
+#EXTINF:-1 group-title="Temporarios",CULTURA FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/273
+#EXTINF:-1 group-title="Temporarios",DISCORVERY  TURBO FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/274
+#EXTINF:-1 group-title="Temporarios",DISCORVERY CHANNEL FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/275
+#EXTINF:-1 group-title="Temporarios",DISCORVERY CIVILIZATION FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/276
+#EXTINF:-1 group-title="Temporarios",DISCORVERY THEATER FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/277
+#EXTINF:-1 group-title="Temporarios",DISCOVERY KIDIS FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/278
+#EXTINF:-1 group-title="Temporarios",DISNEY CHANEL FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/279
+#EXTINF:-1 group-title="Temporarios",Eptv Ribeirao FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/280
+#EXTINF:-1 group-title="Temporarios",ESPN BRASIL FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/281
+#EXTINF:-1 group-title="Temporarios",FOX ESPORTES 2 FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/282
+#EXTINF:-1 group-title="Temporarios",FOX ESPORTES FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/283
+#EXTINF:-1 group-title="Temporarios",GLOOB FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/284
+#EXTINF:-1 group-title="Temporarios",HBO 2 FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/285
+#EXTINF:-1 group-title="Temporarios",HBO FAMILY  FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/286
+#EXTINF:-1 group-title="Temporarios",HBO FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/287
+#EXTINF:-1 group-title="Temporarios",HBO PLUS FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/288
+#EXTINF:-1 group-title="Temporarios",MAX UP FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/289
+#EXTINF:-1 group-title="Temporarios",MULTSHOW FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/290
+#EXTINF:-1 group-title="Temporarios",NATIONAL GEOGRAPHIC FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/291
+#EXTINF:-1 group-title="Temporarios",NICK JR  FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/292
+#EXTINF:-1 group-title="Temporarios",NICKELOAD FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/293
+#EXTINF:-1 group-title="Temporarios",PREMIERE 2 FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/294
+#EXTINF:-1 group-title="Temporarios",PREMIERE 3 FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/295
+#EXTINF:-1 group-title="Temporarios",PREMIERE 4 FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/296
+#EXTINF:-1 group-title="Temporarios",PREMIERE CLUBES FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/297
+#EXTINF:-1 group-title="Temporarios",RECORD NEWS FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/298
+#EXTINF:-1 group-title="Temporarios",RECORD TV INTERIOR RIBEIRAO FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/299
+#EXTINF:-1 group-title="Temporarios",SBT FULL HD RIBEIRAO
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/300
+#EXTINF:-1 group-title="Temporarios",SPORT  2 FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/301
+#EXTINF:-1 group-title="Temporarios",GLOBO INTERNACIONAL
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/102
+#EXTINF:-1 group-title="Temporarios",GLOBO INTERTV CABUGI RN
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/103
+#EXTINF:-1 group-title="Temporarios",GLOBO MINAS HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/104
+#EXTINF:-1 group-title="Temporarios",GLOBO MINAS
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/105
+#EXTINF:-1 group-title="Temporarios",GLOBO NEWS HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/106
+#EXTINF:-1 group-title="Temporarios",GLOBO NEWS
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/107
+#EXTINF:-1 group-title="Temporarios",GLOBO NORDESTE HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/108
+#EXTINF:-1 group-title="Temporarios",GLOBO NORDESTE
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/109
+#EXTINF:-1 group-title="Temporarios",GLOBO RBS PORTO ALEGRE
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/110
+#EXTINF:-1 group-title="Temporarios",GLOBO RIBEIR
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/111
+#EXTINF:-1 group-title="Temporarios",GLOBO RIO GRANDE DO NORTE
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/112
+#EXTINF:-1 group-title="Temporarios",GLOBO RJ HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/113
+#EXTINF:-1 group-title="Temporarios",GLOBO RJ
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/114
+#EXTINF:-1 group-title="Temporarios",GLOBO RPC TV HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/115
+#EXTINF:-1 group-title="Temporarios",GLOBO RPC TV
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/116
+#EXTINF:-1 group-title="Temporarios",GLOBO SP HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/117
+#EXTINF:-1 group-title="Temporarios",GLOBO SP
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/118
+#EXTINF:-1 group-title="Temporarios",GLOBO TV BAHIA
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/119
+#EXTINF:-1 group-title="Temporarios",GLOBO TV BELEM
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/120
+#EXTINF:-1 group-title="Temporarios",GLOBO TV TEM BAURU
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/121
+#EXTINF:-1 group-title="Temporarios",GLOBO TV TEM S?O JOS? DO RIO PRETO
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/122
+#EXTINF:-1 group-title="Temporarios",GLOBO TV TEM SOROCABA
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/123
+#EXTINF:-1 group-title="Temporarios",GLOBO TV TRIBUNA SANTOS
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/124
+#EXTINF:-1 group-title="Temporarios",GLOBO TV VANGUARDA S.J DOS CAMPOS
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/125
+#EXTINF:-1 group-title="Temporarios",GLOBO TV VERDES MARES FORTALEZA
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/126
+#EXTINF:-1 group-title="Temporarios",GLOBOSAT HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/127
+#EXTINF:-1 group-title="Temporarios",GLOBOSAT
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/128
+#EXTINF:-1 group-title="Temporarios",GLOOB HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/129
+#EXTINF:-1 group-title="Temporarios",GLOOB
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/130
+#EXTINF:-1 group-title="Temporarios",GNT HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/131
+#EXTINF:-1 group-title="Temporarios",GNT
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/132
+#EXTINF:-1 group-title="Temporarios",H2 HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/133
+#EXTINF:-1 group-title="Temporarios",H2
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/134
+#EXTINF:-1 group-title="Temporarios",HBO 2 HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/135
+#EXTINF:-1 group-title="Temporarios",HBO 2
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/136
+#EXTINF:-1 group-title="Temporarios",HBO FAMILY HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/137
+#EXTINF:-1 group-title="Temporarios",HBO FAMILY
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/138
+#EXTINF:-1 group-title="Temporarios",HBO HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/139
+#EXTINF:-1 group-title="Temporarios",HBO PLUS HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/140
+#EXTINF:-1 group-title="Temporarios",HBO PLUS
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/141
+#EXTINF:-1 group-title="Temporarios",HBO PLUS*E HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/142
+#EXTINF:-1 group-title="Temporarios",HBO PLUS*E
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/143
+#EXTINF:-1 group-title="Temporarios",HBO
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/144
+#EXTINF:-1 group-title="Temporarios",HBO SIGNATURE HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/145
+#EXTINF:-1 group-title="Temporarios",HBO SIGNATURE
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/146
+#EXTINF:-1 group-title="Temporarios",HISTORY CHANNEL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/147
+#EXTINF:-1 group-title="Temporarios",HISTORY CHANNEL
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/148
+#EXTINF:-1 group-title="Temporarios",ID - INVESTIGA??O DISCOVERY
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/149
+#EXTINF:-1 group-title="Temporarios",ID - INVESTIGA
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/150
+#EXTINF:-1 group-title="Temporarios",LIFETIME HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/151
+#EXTINF:-1 group-title="Temporarios",LIFETIME
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/152
+#EXTINF:-1 group-title="Temporarios",MAX HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/153
+#EXTINF:-1 group-title="Temporarios",MAX PRIME HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/154
+#EXTINF:-1 group-title="Temporarios",MAX PRIME
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/155
+#EXTINF:-1 group-title="Temporarios",MAX PRIME*E HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/156
+#EXTINF:-1 group-title="Temporarios",MAX PRIME*E
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/157
+#EXTINF:-1 group-title="Temporarios",MAX
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/158
+#EXTINF:-1 group-title="Temporarios",MAX UP HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/159
+#EXTINF:-1 group-title="Temporarios",MAX UP
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/160
+#EXTINF:-1 group-title="Temporarios",MEGAPIX HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/161
+#EXTINF:-1 group-title="Temporarios",MEGAPIX
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/162
+#EXTINF:-1 group-title="Temporarios",MTV HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/163
+#EXTINF:-1 group-title="Temporarios",MTV LIVE HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/164
+#EXTINF:-1 group-title="Temporarios",MTV
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/165
+#EXTINF:-1 group-title="Temporarios",MULTISHOW HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/166
+#EXTINF:-1 group-title="Temporarios",MULTISHOW
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/167
+#EXTINF:-1 group-title="Temporarios",MUSIC BOX BRAZIL
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/168
+#EXTINF:-1 group-title="Temporarios",NATGEO KIDS HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/169
+#EXTINF:-1 group-title="Temporarios",NATGEO KIDS
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/170
+#EXTINF:-1 group-title="Temporarios",NATGEO WILD HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/171
+#EXTINF:-1 group-title="Temporarios",NATGEO WILD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/172
+#EXTINF:-1 group-title="Temporarios",NATIONAL GEOGRAPHIC HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/173
+#EXTINF:-1 group-title="Temporarios",NATIONAL GEOGRAPHIC
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/174
+#EXTINF:-1 group-title="Temporarios",NICK JR HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/175
+#EXTINF:-1 group-title="Temporarios",NICK JR
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/176
+#EXTINF:-1 group-title="Temporarios",NICKELODEON HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/177
+#EXTINF:-1 group-title="Temporarios",NICKELODEON
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/178
+
+#EXTINF:-1 group-title="Temporarios",OFF HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/180
+#EXTINF:-1 group-title="Temporarios",OFF
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/181
+#EXTINF:-1 group-title="Temporarios",PARAMOUNT CHANNEL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/182
+#EXTINF:-1 group-title="Temporarios",PARAMOUNT CHANNEL
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/183
+#EXTINF:-1 group-title="Temporarios",PLAY TV
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/184
+#EXTINF:-1 group-title="Temporarios",PREMIERE 1
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/186
+#EXTINF:-1 group-title="Temporarios",PREMIERE 2 HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/187
+#EXTINF:-1 group-title="Temporarios",PREMIERE 2
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/188
+#EXTINF:-1 group-title="Temporarios",PREMIERE 3 HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/189
+#EXTINF:-1 group-title="Temporarios",PREMIERE 3
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/190
+#EXTINF:-1 group-title="Temporarios",PREMIERE 4 HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/191
+#EXTINF:-1 group-title="Temporarios",PREMIERE 4
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/192
+#EXTINF:-1 group-title="Temporarios",PREMIERE 5 HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/193
+#EXTINF:-1 group-title="Temporarios",PREMIERE 5
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/194
+#EXTINF:-1 group-title="Temporarios",PREMIERE 6
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/195
+#EXTINF:-1 group-title="Temporarios",PREMIERE 7
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/196
+#EXTINF:-1 group-title="Temporarios",PREMIERE 8
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/197
+#EXTINF:-1 group-title="Temporarios",PREMIERE CLUBES HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/198
+#EXTINF:-1 group-title="Temporarios",PREMIERE CLUBES
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/199
+
+
+#EXTINF:-1 group-title="Temporarios",SPORT TV 3 FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/302
+#EXTINF:-1 group-title="Temporarios",SPORTV FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/303
+#EXTINF:-1 group-title="Temporarios",TELECINE ACTION FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/304
+#EXTINF:-1 group-title="Temporarios",TELECINE FUN FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/305
+#EXTINF:-1 group-title="Temporarios",TELECINE PIPOCA FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/306
+#EXTINF:-1 group-title="Temporarios",TELECINE PREMIUM FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/307
+#EXTINF:-1 group-title="Temporarios",TELECINE TOUCH FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/308
+#EXTINF:-1 group-title="Temporarios",THE HISTORY CHANNEL FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/309
+#EXTINF:-1 group-title="Temporarios",TNT FULL HD
+http://tvnanet.xyz:25461/palmeiras2020/verdao2021/310
