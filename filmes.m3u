@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/19/09/16/12/21/4612764.jpg" group-title="ADICIONADOS RECENTEMENTE",Rambo: Até O Fim (2019)
-http://cdnfe3.azureedge.net/RCFServer3/ondemand/RMBOATOFMLEG.mp4
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/RMBOATOFM.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Quem Quer Ser Um Milionário (2009)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/QUMQRSRUMLNRIO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Uma Mente Brilhante (2002)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/UMNTRBRLHNTE.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",O Último Rei da Escócia (2007)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/OULTMREIDESCOA.mp4
+#EXTINF:-1 tvg-logo="" group-title="ADICIONADOS RECENTEMENTE",Beleza Americana (1999)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/BLZAMRCNA.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/19/10/22/15/38/2053784.jpg" group-title="ADICIONADOS RECENTEMENTE",O Relatório (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ORLTRIO.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/19/05/06/17/23/3314259.jpg" group-title="ADICIONADOS RECENTEMENTE",Bacurau (2019)
@@ -1918,6 +1926,10 @@ http://archive.org/download/RayKurzweil-Legendado/RayKurzweil-GloboNewsCinciaETe
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Bolha%20Assassina.jpg" group-title="TERROR",A BOLHA ASSASSINA (1989)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/ABLHASASNA.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/65/00/85/18820196.jpg" group-title="Terror",Stigmata (1999)
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/STGMT.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/65/00/85/18820197.jpg" group-title="Terror",Stigmata (1999)
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/85/79/19962261.jpg" group-title="TERROR",Os Outros (2001)
 http://livevod.cf/stream/1080/5d547cf5660cf94325402f9cbd3b69f3/
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/A%20Chave%20Mestra.jpg" group-title="TERROR",A Chave Mestra (2005)
@@ -1935,6 +1947,7 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/PRGOPRXMO.mp4
 
 
 
+
 #EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/2013/12/03/cena-de-como-nao-perder-essa-mulher-de-joseph-gordon-levitt-1386093362583_1920x1280.jpg" group-title="COMÉDIA ROMÂNTICA",Como Não Perder Essa Mulher (2013)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/CMNPRDRESAMLHR.mp4
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-al0KfFPao5s/Uf_5UPKQxbI/AAAAAAAAAWM/K7NnNpsqhi0/s1600/6a00e54ee7b642883301538f289652970b-500wi.png" group-title="COMÉDIA",Billy Madison: Um Herdeiro Bobalhão (1995)
@@ -1947,8 +1960,10 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/OSGRDABSMO.mp4
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ERAUMAVZNOST.mp4
 #EXTINF:-1 tvg-logo="https://p1.storage.canalblog.com/11/68/119609/6414460.jpg" group-title="FAROESTE",Rápida e Mortal (1995)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/RPDEMRTL.mp4
-#EXTINF:-1 tvg-logo="" group-title=“FAROESTE",Sete Homens e Um Destino (2016)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/04/20/12/17/481746.jpg" group-title="FAROESTE",Sete Homens e Um Destino (2016)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/SETHMNSEUDSTNO.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0f/bc/a1/0fbca1ca35120c2fc0fd9eb92d3d174a.jpg" group-title="AVENTURA",Amazônia (2014)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/AMZNA.mp4
 
@@ -1964,9 +1979,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/SNMBLS.mp4
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/REDBDANVSAODSFRNCS.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TiUoZZMTgMc/hqdefault.jpg" group-title="ÚLTIMOS REDECANAIS",Esporte Sangrento (1993)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ESPRTSGRNTO.mp4
-#EXTINF:-1 tvg-logo="https://i1.wp.com/cabinecultural.com/wp-content/uploads/2019/07/Canal-History-exibe-especial-sobre-a-chegada-do-homem-%C3%A0-Lua.jpg" group-title="ÚLTIMOS REDECANAIS",A Conquista da Lua - Parte 1: Mercury (2019)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/cabinecultural.com/wp-content/uploads/2019/07/Canal-History-exibe-especial-sobre-a-chegada-do-homem-%C3%A0-Lua.jpg" group-title="ÚLTIMOS REDECANAIS",A Conquista da Lua Parte 1: Mercury (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ACNQSTDLUAPT1.mp4
-#EXTINF:-1 tvg-logo="https://i1.wp.com/cabinecultural.com/wp-content/uploads/2019/07/Canal-History-exibe-especial-sobre-a-chegada-do-homem-%C3%A0-Lua.jpg" group-title="ÚLTIMOS REDECANAIS",A Conquista da Lua - Parte 2: Gemini e Apollo (2019)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/cabinecultural.com/wp-content/uploads/2019/07/Canal-History-exibe-especial-sobre-a-chegada-do-homem-%C3%A0-Lua.jpg" group-title="ÚLTIMOS REDECANAIS",A Conquista da Lua Parte 2: Gemini e Apollo (2019)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/ACNQSTDLUAPT2.mp4
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/mascara-negra-1996-jet-li-D_NQ_NP_740505-MLB25005927729_082016-F.jpg" group-title="ÚLTIMOS REDECANAIS",Máscara Negra (1996)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MSCRNGRA.mp4
@@ -7466,8 +7481,7 @@ https://goo.gl/xEvD1r
 https://goo.gl/AGzZdM
 #EXTINF:-1 tvg-logo="https://goo.gl/d2ycvj" group-title="LETRA S",Stickman O Pesadelo à Espreita 2018
 https://goo.gl/cA1zDZ
-#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/z/km/f7eyb_tnl_210x118.jpg?ts=20140414192627" group-title="LETRA S",Stigmata Terror Dublado
-http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/shLQH2" group-title="LETRA S",Stonewall 
 https://goo.gl/3dcJgS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oHiJ0WY.png" group-title="LETRA S",Street Fighter II 
