@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/19/01/02/15/42/1491685.jpg" group-title="ÚLTIMOS ADICIONADOS",Voando Alto (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/VONDOALT.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Vera: Sonhos de Inverno (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/VRASNHSDINVRNO.mp4
+#EXTINF:-1 tvg-logo="" group-title="ÚLTIMOS ADICIONADOS",Super Monstros Salvam o Natal (2019)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/SPRMSNTSLVMONTL.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/19/07/16/11/34/0918003.jpg" group-title="ÚLTIMOS ADICIONADOS",Angry Birds 2: O Filme (2019)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ANGRYBRDS2FLM.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/19/10/16/16/42/1752240.jpg" group-title="ÚLTIMOS ADICIONADOS",A Dama e o Vagabundo Legendado (2019)
@@ -272,6 +278,8 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/ABELEAFRA1991.mp4
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ALDN.mp4
 #EXTINF:-1 tvg-logo="https://heypeppers.com.br/blog/wp-content/uploads/2015/12/reileao.png" group-title="Disney",O REI LEÃO (1994)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/REILAO01.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/12/01/22/28/022743.jpg" group-title="Disney",Aladdin: O Retorno de Jafar (1994)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ALDN2ORTNDJFR.mp4
 #EXTINF:-1 tvg-logo="https://www.planocritico.com/wp-content/uploads/2018/07/POCAHONTAS-PC-600x400.jpg" group-title="Disney",POCAHONTAS (1995)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/PCOHNTSOENTRDISMDO.mp4
 #EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/photos/2016/03/pateta-o-filme_t8126.jpg" group-title="Disney",Pateta: O Filme (1995)
@@ -290,10 +298,14 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/MULAN01.mp4
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/ABLAEAFRONTLENCTDO.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.tfxbrasil.com/wp-content/uploads/2015/11/tfx-nostalgia-o-rei-leao-trilogia_img5.jpg" group-title="Disney",O REI LEÃO 2: O REINO DE SIMBA (1998)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/REILAO02.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/24/97/19903792.jpg" group-title="Disney",Tarzan (1999)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/TRZN.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lmOgi3fM7gw/maxresdefault.jpg" group-title="Disney",A PEQUENA SEREIA II O RETORNO PARA O MAR (2000)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/APQNSRAFILME02.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DGGV88NCL.jpg" group-title="Disney",FANTASIA 2000 (2000)
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/FNTSIA2000.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/12/01/12/44/381467.jpg" group-title="Disney",Tarzan & Jane (2001)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/TRZNEJNE.mp4
 #EXTINF:-1 tvg-logo="https://oespectadorrabugentoblog.files.wordpress.com/2018/12/sc8xyijj96roetmsqb47nefjkfx.jpg" group-title="Disney",O CORCUNDA DE NOTRE DAME 2 (2002)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OCRCNDDNTRDM2.mp4
 #EXTINF:-1 tvg-logo="https://ssdvds.loja2.com.br/img/722b2173c79049fc9e98f622beadcd7a.jpg" group-title="Disney",MOGLI: O MENINO LOBO 2 (2002)
@@ -314,6 +326,8 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/STCHOFLM.mp4
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/MULAN02.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/92/75/25/20215604.jpg" group-title="Disney",O REI LEÃO 3: HAKUNA MATATA (2004)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/REILAO03.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/210/468/21046818_20131004140133911.jpg" group-title="Disney",Tarzan 2 (2005)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/TRZN2.mp4
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/painel-decorativo-festa-2x15m-lilo-stitch-mod3-D_NQ_NP_117801-MLB20415350844_092015-F.jpg" group-title="Disney",Lilo & Stitch 2: Stitch Deu Defeito (2005)
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/LILOESTCH2.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_fDjoQXD5TE/maxresdefault.jpg" group-title="Disney",Bambi 2: O Grande Príncipe da Floresta (2006)
@@ -400,6 +414,8 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/OSINCRVS2.mp4
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OCMNHPRELDORDO.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/l-SJcwSFA4M/maxresdefault.jpg" group-title="Dreamworks",SHREK (2001)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/SHREK01.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/87/28/19974661.jpg" group-title="Dreamworks",Spirit: O Corcel Indomável (2002)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/SPRTOCRCLINDMVL.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51JW8NK56YL.jpg" group-title="Dreamworks",SHREK 2 (2004)
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/SHREK02.mp4
 #EXTINF:-1 tvg-logo="https://images.impresa.pt/sic/2017-08-09-MADAGASCAR.jpg" group-title="Dreamworks",MADAGASCAR (2005)
@@ -467,8 +483,10 @@ http://cdnfe2.azureedge.net/RCFServer3/ondemand/SNGQCSME.mp4
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/22/58/19901613.jpg" group-title="Sony",Tá Dando Onda (2007)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/TDNDOND.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/01/19/09/33/593950.jpg" group-title="Sony",Tá Dando Onda 2 (2017)
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/TDNDOND2.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/89/63/19962658.jpg" group-title="Sony",TÁ CHOVENDO HAMBURGER (2009)
 http://cdnfe3.azureedge.net/RCFServer4/ondemand/TACHVNDHMBRGR.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2xm0KVi.jpg" group-title="Sony",OS SMURFS (2011)
