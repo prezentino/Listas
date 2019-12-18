@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/92/55/19985112.jpg" group-title="ÚLTIMAS ANIMAÇÕES",O Ursinho Pooh (2011)
 http://origa8081.azureedge.net/RCFServer3/ondemand/OURSNHPOH.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/09/02/14/28/419673.jpg" group-title="ÚLTIMAS ANIMAÇÕES",A Lenda de Oz (2014)
@@ -908,6 +907,76 @@ http://origa8081.azureedge.net/RCServer09/ondemand/ALDNEP86.mp4
 
 
 
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E01
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/01.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E02
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/02.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E03
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/03.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E04
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/04.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E05
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/05.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E06
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/06.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E07
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/07.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E08
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/08.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E09
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/09.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E10
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/10.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E11
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/11.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E12
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/12.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E13
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/13.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E14
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/14.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E15
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/15.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E16
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/16.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E17
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/17.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E18
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/18.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E19
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/19.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E20
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/20.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E21
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/21.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E22
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/22.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E23
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/23.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E24
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/24.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E25
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/25.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E26
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/26.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E27
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/27.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E28
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/28.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E29
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/29.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E30
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/30.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E31
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/31.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E32
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/32.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/LErtBwRAVKR_4-v8NVQZleiJieI=/fit-in/290x478/smart/media/movies/covers/2016/09/32BBvgq.jpg" group-title="101 Dalmatas",E33
+http://cdn01.fluehost.com/c/101-dalmatas-coletanea/sd/33.mp4
+
+
+
+
 #EXTINF:-1 tvg-logo="https://img.elo7.com.br/product/zoom/16B55D9/painel-a-guarda-do-leao-1-20x0-70m-simba.jpg" group-title="A Guarda do Leão",S01E01
 http://origa8080.azureedge.net/RCServer05/ondemand/AGRDOLEOT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://img.elo7.com.br/product/zoom/16B55D9/painel-a-guarda-do-leao-1-20x0-70m-simba.jpg" group-title="A Guarda do Leão",S01E02
@@ -1445,6 +1514,86 @@ http://media-br-am.crackle.com/1/f/r6/yevlf_480p.mp4
 http://media-br-am.crackle.com/1/f/r6/wevlf_480p.mp4
 
 
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E01
+http://cdn01.fluehost.com/c/animaniacs/sd/01.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E02
+http://cdn01.fluehost.com/c/animaniacs/sd/02.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E03
+http://cdn01.fluehost.com/c/animaniacs/sd/03.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E04
+http://cdn01.fluehost.com/c/animaniacs/sd/04.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E05
+http://cdn01.fluehost.com/c/animaniacs/sd/05.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E06
+http://cdn01.fluehost.com/c/animaniacs/sd/06.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E07
+http://cdn01.fluehost.com/c/animaniacs/sd/07.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E08
+http://cdn01.fluehost.com/c/animaniacs/sd/08.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E09
+http://cdn01.fluehost.com/c/animaniacs/sd/09.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E10
+http://cdn01.fluehost.com/c/animaniacs/sd/10.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E11
+http://cdn01.fluehost.com/c/animaniacs/sd/11.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E12
+http://cdn01.fluehost.com/c/animaniacs/sd/12.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E13
+http://cdn01.fluehost.com/c/animaniacs/sd/13.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E14
+http://cdn01.fluehost.com/c/animaniacs/sd/14.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E15
+http://cdn01.fluehost.com/c/animaniacs/sd/15.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E16
+http://cdn01.fluehost.com/c/animaniacs/sd/16.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E17
+http://cdn01.fluehost.com/c/animaniacs/sd/17.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E18
+http://cdn01.fluehost.com/c/animaniacs/sd/18.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E19
+http://cdn01.fluehost.com/c/animaniacs/sd/19.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E20
+http://cdn01.fluehost.com/c/animaniacs/sd/20.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E21
+http://cdn01.fluehost.com/c/animaniacs/sd/21.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E22
+http://cdn01.fluehost.com/c/animaniacs/sd/22.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E23
+http://cdn01.fluehost.com/c/animaniacs/sd/23.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E24
+http://cdn01.fluehost.com/c/animaniacs/sd/24.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E25
+http://cdn01.fluehost.com/c/animaniacs/sd/25.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E26
+http://cdn01.fluehost.com/c/animaniacs/sd/26.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E27
+http://cdn01.fluehost.com/c/animaniacs/sd/27.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E28
+http://cdn01.fluehost.com/c/animaniacs/sd/28.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E29
+http://cdn01.fluehost.com/c/animaniacs/sd/29.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E30
+http://cdn01.fluehost.com/c/animaniacs/sd/30.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E31
+http://cdn01.fluehost.com/c/animaniacs/sd/31.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E32
+http://cdn01.fluehost.com/c/animaniacs/sd/32.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E33
+http://cdn01.fluehost.com/c/animaniacs/sd/33.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E34
+http://cdn01.fluehost.com/c/animaniacs/sd/34.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E35
+http://cdn01.fluehost.com/c/animaniacs/sd/35.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E36
+http://cdn01.fluehost.com/c/animaniacs/sd/36.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E37
+http://cdn01.fluehost.com/c/animaniacs/sd/37.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E38
+http://cdn01.fluehost.com/c/animaniacs/sd/38.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E39
+http://cdn01.fluehost.com/c/animaniacs/sd/39.mp4
+#EXTINF:-1 tvg-logo="http://www.pausaparanerdices.com/wp-content/uploads/2017/05/Animaniacs-novos-episodios1.jpg" group-title="Animaniacs",E40
+http://cdn01.fluehost.com/c/animaniacs/sd/40.mp4
 
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Vaca%20e%20o%20Frango1.jpg" group-title="A Vaca e O Frango",A Vaca e O Frango S01E00
