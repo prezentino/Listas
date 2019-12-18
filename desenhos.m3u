@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/92/55/19985112.jpg" group-title="ÚLTIMAS ANIMAÇÕES",O Ursinho Pooh (2011)
 http://origa8081.azureedge.net/RCFServer3/ondemand/OURSNHPOH.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/09/02/14/28/419673.jpg" group-title="ÚLTIMAS ANIMAÇÕES",A Lenda de Oz (2014)
@@ -5375,65 +5376,4 @@ http://origa8081.azureedge.net/RCServer09/ondemand/SCBDMISAEP41.mp4
 http://origa8081.azureedge.net/RCServer09/ondemand/SCBDMISAEP42.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-A9en8yFW0oc/WV0Uiy3DGBI/AAAAAAAAFcQ/SfTgVARoOK4eI97CulSqTHzQQvwH4jgsACLcBGAs/s1600/SDMSA%2B3.jpg" group-title="Scooby-Doo Mistério S/A",Scooby-Doo Mistério S/A S01E43
 http://origa8081.azureedge.net/RCServer09/ondemand/SCBDMISAEP43.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-A9en8yFW0oc/WV0Uiy3DGBI/AAAAAAAAFcQ/SfTgVARoOK4eI97CulSqTHzQQvwH4jgsACLcBGAs/s1600/SDMSA%2B3.jpg" group-title="Scooby-Doo Mistério S/A",Scooby-Doo Mistério S/A S01E44
-http://origa8081.azureedge.net/RCServer09/ondemand/SCBDMISAEP44.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-A9en8yFW0oc/WV0Uiy3DGBI/AAAAAAAAFcQ/SfTgVARoOK4eI97CulSqTHzQQvwH4jgsACLcBGAs/s1600/SDMSA%2B3.jpg" group-title="Scooby-Doo Mistério S/A",Scooby-Doo Mistério S/A S01E45
-http://origa8081.azureedge.net/RCServer09/ondemand/SCBDMISAEP45.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-A9en8yFW0oc/WV0Uiy3DGBI/AAAAAAAAFcQ/SfTgVARoOK4eI97CulSqTHzQQvwH4jgsACLcBGAs/s1600/SDMSA%2B3.jpg" group-title="Scooby-Doo Mistério S/A",Scooby-Doo Mistério S/A S01E46
-http://origa8081.azureedge.net/RCServer09/ondemand/SCBDMISAEP46.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-A9en8yFW0oc/WV0Uiy3DGBI/AAAAAAAAFcQ/SfTgVARoOK4eI97CulSqTHzQQvwH4jgsACLcBGAs/s1600/SDMSA%2B3.jpg" group-title="Scooby-Doo Mistério S/A",Scooby-Doo Mistério S/A S01E47
-http://origa8081.azureedge.net/RCServer09/ondemand/SCBDMISAEP47.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-A9en8yFW0oc/WV0Uiy3DGBI/AAAAAAAAFcQ/SfTgVARoOK4eI97CulSqTHzQQvwH4jgsACLcBGAs/s1600/SDMSA%2B3.jpg" group-title="Scooby-Doo Mistério S/A",Scooby-Doo Mistério S/A S01E48
-http://origa8081.azureedge.net/RCServer09/ondemand/SCBDMISAEP48.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-A9en8yFW0oc/WV0Uiy3DGBI/AAAAAAAAFcQ/SfTgVARoOK4eI97CulSqTHzQQvwH4jgsACLcBGAs/s1600/SDMSA%2B3.jpg" group-title="Scooby-Doo Mistério S/A",Scooby-Doo Mistério S/A S01E49
-http://origa8081.azureedge.net/RCServer09/ondemand/SCBDMISAEP49.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-A9en8yFW0oc/WV0Uiy3DGBI/AAAAAAAAFcQ/SfTgVARoOK4eI97CulSqTHzQQvwH4jgsACLcBGAs/s1600/SDMSA%2B3.jpg" group-title="Scooby-Doo Mistério S/A",Scooby-Doo Mistério S/A S01E50
-http://origa8081.azureedge.net/RCServer09/ondemand/SCBDMISAEP50.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-A9en8yFW0oc/WV0Uiy3DGBI/AAAAAAAAFcQ/SfTgVARoOK4eI97CulSqTHzQQvwH4jgsACLcBGAs/s1600/SDMSA%2B3.jpg" group-title="Scooby-Doo Mistério S/A",Scooby-Doo Mistério S/A S01E51
-http://origa8081.azureedge.net/RCServer09/ondemand/SCBDMISAEP51.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-A9en8yFW0oc/WV0Uiy3DGBI/AAAAAAAAFcQ/SfTgVARoOK4eI97CulSqTHzQQvwH4jgsACLcBGAs/s1600/SDMSA%2B3.jpg" group-title="Scooby-Doo Mistério S/A",Scooby-Doo Mistério S/A S01E52
-http://origa8081.azureedge.net/RCServer09/ondemand/SCBDMISAEP52.mp4
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E01
-http://origa8081.azureedge.net/RCServer10/ondemand/QLGLSCBDT01EP01.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E02
-http://origa8081.azureedge.net/RCServer10/ondemand/QLGLSCBDT01EP02.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E03
-http://origa8081.azureedge.net/RCServer10/ondemand/QLGLSCBDT01EP03.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E04
-http://origa8081.azureedge.net/RCServer10/ondemand/QLGLSCBDT01EP04.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E05
-http://origa8081.azureedge.net/RCServer10/ondemand/QLGLSCBDT01EP05.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E06
-http://origa8081.azureedge.net/RCServer10/ondemand/QLGLSCBDT01EP06.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E07
-http://origa8081.azureedge.net/RCServer10/ondemand/QLGLSCBDT01EP07.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E08
-http://origa8081.azureedge.net/RCServer10/ondemand/QLGLSCBDT01EP08.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E09
-http://origa8081.azureedge.net/RCServer10/ondemand/QLGLSCBDT01EP09.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E10
-http://origa8081.azureedge.net/RCServer10/ondemand/QLGLSCBDT01EP10.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E11
-http://origa8081.azureedge.net/RCServer11/ondemand/QLGLSCBDT01EP11.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E12
-http://origa8081.azureedge.net/RCServer11/ondemand/QLGLSCBDT01EP12.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E13
-http://origa8081.azureedge.net/RCServer11/ondemand/QLGLSCBDT01EP13.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E14
-http://origa8081.azureedge.net/RCServer11/ondemand/QLGLSCBDT01EP14.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E15
-http://origa8080.azureedge.net/RCServer13/ondemand/QLGLSCBDT01EP15.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E16
-http://origa8081.azureedge.net/RCServer11/ondemand/QLGLSCBDT01EP16.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E17
-http://origa8081.azureedge.net/RCServer11/ondemand/QLGLSCBDT01EP17.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E18
-http://origa8081.azureedge.net/RCServer11/ondemand/QLGLSCBDT01EP18.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E19
-http://origa8081.azureedge.net/RCServer11/ondemand/QLGLSCBDT01EP19.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E20
-http://origa8081.azureedge.net/RCServer11/ondemand/QLGLSCBDT01EP20.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/y4YEhHKDd5r2-fRJGx4QiN4cnZE=/640x480/smart/media/movies/photos/2016/08/que-legal-scooby-doo-1a-tempor_t108197.jpg" group-title="Que Legal, Scooby-Doo!",Que Legal, Scooby-Doo! S01E21
-http://origa8080.azureedge.net/RCServer13/ondemand/QLGLSCBDT01EP21.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-A9en8yFW0oc/WV0Uiy3DGBI/AAAAAAAAFcQ/SfTgVARoOK4eI97CulSqTHzQQvwH4jgsACLcBGAs/s1600/SDMSA%2B3.jpg" group-title="S
