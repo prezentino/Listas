@@ -212,8 +212,6 @@ http://origa8080.azureedge.net/RCServer06/ondemand/ALFOETMSOT04EP25.mp4
 http://origa8080.azureedge.net/RCServer06/ondemand/ALFOETMSOT04EP26.mp4
 
 
-
-
 #EXTINF:-1 tvg-logo="http://metropolitanafm.uol.com.br/wp-content/uploads/2017/03/7.-Gary-Coleman.jpg" group-title="Arnold",S01E01
 http://origa8080.azureedge.net/RCServer12/ondemand/ARNLDT01EP01.mp4
 #EXTINF:-1 tvg-logo="http://metropolitanafm.uol.com.br/wp-content/uploads/2017/03/7.-Gary-Coleman.jpg" group-title="Arnold",S01E02
@@ -364,7 +362,6 @@ http://origa8081.azureedge.net/RCServer08/ondemand/ARNLDT02EP24.mp4
 http://origa8080.azureedge.net/RCServer13/ondemand/ARNLDT02EP25.mp4
 #EXTINF:-1 tvg-logo="http://metropolitanafm.uol.com.br/wp-content/uploads/2017/03/7.-Gary-Coleman.jpg" group-title="Arnold",S02E26
 http://origa8080.azureedge.net/RCServer13/ondemand/ARNLDT02EP26.mp4
-
 
 
 #EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/American%20Gods1.jpg" group-title="AMERICAN GODS",AMERICAN GODS S01E01
@@ -4585,38 +4582,72 @@ http://origa8080.azureedge.net/RCServer03/ondemand/MAUAOPRMGNTET01EP02.mp4
 
 
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S01E01
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S01E01
 http://origa8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP01.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S01E02
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S01E02
 http://origa8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP02.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S01E03
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S01E03
 http://origa8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP03.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S01E04
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S01E04
 http://origa8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP04.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S01E05
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S01E05
 http://origa8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP05.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S01E06
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S01E06
 http://origa8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP06.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S01E07
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S01E07
 http://origa8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP07.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S01E08
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S01E08
 http://origa8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP08.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S02E01
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S02E01
 http://origa8080.azureedge.net/RCServer13/ondemand/MCHDBRNT02EP01.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S02E02
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S02E02
 http://origa8080.azureedge.net/RCServer13/ondemand/MCHDBRNT02EP02.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S02E03
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S02E03
 http://origa8080.azureedge.net/RCServer13/ondemand/MCHDBRNT02EP03.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S02E04
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S02E04
 http://origa8080.azureedge.net/RCServer13/ondemand/MCHDBRNT02EP04.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S02E05
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S02E05
 http://origa8080.azureedge.net/RCServer13/ondemand/MCHDBRNT02EP05.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S02E06
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S02E06
 http://origa8080.azureedge.net/RCServer13/ondemand/MCHDBRNT02EP06.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S02E07
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S02E07
 http://origa8080.azureedge.net/RCServer13/ondemand/MCHDBRNT02EP07.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",ME CHAMA DE BRUNA S02E08
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S02E08
 http://origa8080.azureedge.net/RCServer13/ondemand/MCHDBRNT02EP08.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S03E01
+http://origa8081.azureedge.net/RCServer08/ondemand/MCHDBRNT03EP01.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S03E02
+http://origa8081.azureedge.net/RCServer08/ondemand/MCHDBRNT03EP02.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S03E03
+http://origa8080.azureedge.net/RCServer06/ondemand/MCHDBRNT03EP03.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S03E04
+http://origa8080.azureedge.net/RCServer06/ondemand/MCHDBRNT03EP04.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S03E05
+http://origa8080.azureedge.net/RCServer06/ondemand/MCHDBRNT03EP05.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S03E06
+http://origa8080.azureedge.net/RCServer06/ondemand/MCHDBRNT03EP06.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S03E07
+http://origa8080.azureedge.net/RCServer06/ondemand/MCHDBRNT03EP07.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S03E08
+http://origa8080.azureedge.net/RCServer06/ondemand/MCHDBRNT03EP08.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S04E01
+http://origa8081.azureedge.net/RCServer08/ondemand/MCHDBRNT04EP01.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S04E02
+http://origa8081.azureedge.net/RCServer08/ondemand/MCHDBRNT04EP02.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S04E03
+http://origa8081.azureedge.net/RCServer08/ondemand/MCHDBRNT04EP03.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S04E04
+http://origa8081.azureedge.net/RCServer08/ondemand/MCHDBRNT04EP04.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S04E05
+http://origa8081.azureedge.net/RCServer08/ondemand/MCHDBRNT04EP05.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S04E06
+http://origa8081.azureedge.net/RCServer08/ondemand/MCHDBRNT04EP06.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_160_214/pictures/16/11/09/20/07/259148.jpg" group-title="ME CHAMA DE BRUNA",S04E07
+http://origa8081.azureedge.net/RCServer08/ondemand/MCHDBRNT04EP07.mp4
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PHlJQCyqiaI/maxresdefault.jpg" group-title="Mindhunter",S01E01
