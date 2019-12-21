@@ -1,819 +1,265 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Abertos",TV Cultura
+#EXTINF:0 group-title="Abertos",TV Cultura
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Abertos",TV Cultura
-http://stream.tvitarare.com.br/hls/site/site_hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Abertos",TV Cultura
+#EXTINF:0 group-title="Abertos",TV Cultura
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="Abertos",TVE
+#EXTINF:0 group-title="Abertos",TV Brasil
+http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/manifest.m3u8
+#EXTINF:0 group-title="Abertos",UFG TV
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
+#EXTINF:0 group-title="Abertos",TVE
 http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Abertos",SBT
-https://cdnfe1.azureedge.net/hls1/sbt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE5IDEyOjI0OjA5IEFNJmhhc2hfdmFsdWU9dE1LZDZsNU9VeCtheWVoaEJlQnM3dz09JnZhbGlkbWludXRlcz02MCZpZD01
-#EXTINF:-1 tvg-logo="" group-title="Abertos",Globo SP
-https://cdnfe1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDEyOjMxOjI4IEFNJmhhc2hfdmFsdWU9T0ppR2NhWEsvYXNYOEs1M2xwenE4UT09JnZhbGlkbWludXRlcz02MCZpZD01
-#EXTINF:-1 tvg-logo="" group-title="Abertos",Globo
-https://cdnfe1.azureedge.net/hls1/boborj.m3u8?wmsAuthSign=c2VydmVyX3RpbWUh9Ny8xMi8yMDE5IDE6MDk6MzMgQU0maGFzaF92YWx1ZT1iVDRCNFJZcWJHS0c2YjFSdWh5OHFnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Abertos",Globo Nordeste
-https://cdnfe1.azureedge.net/hls1/bobonordeste.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTA6MDUgQU0maGFzaF92YWx1ZT1yQVFyUmk1MjVyYWd2RERodExqaXdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Abertos",BAND
-https://cdnfe1.azureedge.net/hls1/band.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE5IDEyOjI1OjE4IEFNJmhhc2hfdmFsdWU9TGlqMUpET3U2ZEZtTld2SHBnR3RlZz09JnZhbGlkbWludXRlcz02MCZpZD01
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="Abertos",TV Gazeta
-http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m3u8
+#EXTINF:0 group-title="Abertos",Futura
+https://globolive.akamaized.net/d/c/x2800/s/hls-futura24ha/hls-futura24ha_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:0 group-title="Abertos",Rede Minas
+http://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 group-title="Abertos",Sesc TV
+http://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Abertos",Rede Tv!
+#EXTINF:0 group-title="Abertos",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+#EXTINF:0 group-title="Abertos",SBT
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+
+
+#EXTINF:0 group-title="Abertos",GLOBO
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:0 group-title="Abertos",GLOBO
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:0 group-title="Abertos",Record HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:0 group-title="Abertos",BAND
+http://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer3.m3u8
+#EXTINF:0 group-title="Abertos",TV Gazeta
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:0 group-title="Abertos",RedeTv!
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Abertos",Futura
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="Abertos",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Infantil",Boomerang
-https://cdnfe1.azureedge.net/hls1/boomerang.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDg6MjQgUE0maGFzaF92YWx1ZT1WOG1VenpqK3N0S1R6TXN6M2Y4d2tBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Infantil",Tooncast
-https://cdnfe1.azureedge.net/hls1/tooncast.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDc6MDMgUE0maGFzaF92YWx1ZT1ESWp3OUVtcVpJbTFrZ2J6NWdmVTRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Infantil",Cartoon Network
-https://cdnfe1.azureedge.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDE6MzQgUE0maGFzaF92YWx1ZT1IbkRZeDV6SURyRE1oYnhrbCtJT3FBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Infantil",Discovery Kids
-https://cdnfe1.azureedge.net/hls1/discoverykids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDQ6NTUgUE0maGFzaF92YWx1ZT1pbnVrZTg1WmRER0FlaUtQd2Q2TklRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Infantil",Disney Channel
+#EXTINF:0 group-title="Infantis",Baby TV
+/123456/6909.ts
+#EXTINF:0 group-title="Infantis",Cartoon Network
+/123456/6932.ts
+#EXTINF:0 group-title="Infantis",Disney Channel
 http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyChannelBRA/master_Layer2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infantil",Disney Junior
+#EXTINF:0 tvg-logo="" group-title="Infantis",Disney Junior
 http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infantil",Disney XD
+#EXTINF:0 tvg-logo="" group-title="Infantis",Disney XD
 http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infantil",Nick
-https://cdnfe1.azureedge.net/hls1/nick.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDM6NDAgUE0maGFzaF92YWx1ZT0yR1Rmc3hhbTY0VFFyeEgwVVIzRUh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Infantil",Nick Jr
-https://cdnfe1.azureedge.net/hls1/nickjr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDY6MTcgUE0maGFzaF92YWx1ZT1CYnNBWTNnb05pTkxyd09RZ2xMSDJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Infantil",Gloob
+#EXTINF:0 group-title="Infantis",Discovery Kids
+/123456/6951.ts
+#EXTINF:0 group-title="Infantis",Nickelodeon
+/123456/7083.ts
+#EXTINF:0 group-title="Infantis",Nick Jr
+/123456/7081.ts
+#EXTINF:0 group-title="Infantis",Tooncast
+/123456/7186.ts
+#EXTINF:0 group-title="Infantis",Boomerang
+/123456/6925.ts
+#EXTINF:0 group-title="Infantis",Gloob
 https://globolive.akamaized.net/d/c/x2800/s/hls-gloob24ha/hls-gloob24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="" group-title="Infantil",Gloobinho
+#EXTINF:0 group-title="Infantis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GloobinhoLogo.png/250px-GloobinhoLogo.png",GLOOBINHO
 https://globolive.akamaized.net/d/c/x2800/s/hls-gloobinho24ha/hls-gloobinho24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="" group-title="Infantil",Zoomoo
-https://cdnfe1.azureedge.net/hls1/zoomoo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MTA6MTcgUE0maGFzaF92YWx1ZT0yRUJuT2x0VTh2MXBSVTVjQjlYWTBBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Infantil",NatGeo Kids
-https://cdnfe1.azureedge.net/hls1/natgeokids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MTQ6MjggUE0maGFzaF92YWx1ZT1uc1EzaEh0TzZNSzVOck1abVJuWnpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:0 tvg-group="Infantil" tvg-logo="https://sdn.pkds.it/prod/lp-us/1.42/images/train_mobile.png" group-title="Infantil", Playkids
-https://cdnfe1.azureedge.net/hls1/playkids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMTkgMTI6MDQ6MzEgQU0maGFzaF92YWx1ZT1BU0Q4S01tdHA0eHNuTHJqUi9TZE9nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PY0n9bX.jpg" group-title="Infantil",Gospel Cartoon
-http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:0 group-title="Infantis",NatGeo Kids
+/123456/7076.ts
+#EXTINF:0 group-title="Infantis",TV Rá-Tim-Bum
+/123456/7193.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Esportes",ESPN Brasil
+
+
+#EXTINF:0 group-title="Documentários",History Channel
+http://topclientehd.ddns.net:8080/marlcelotv/123456/401
+#EXTINF:0 group-title="Documentários",H2 HD
+http://topclientehd.ddns.net:8080/marlcelotv/123456/407
+#EXTINF:0 group-title="Documentários",H2
+http://topclientehd.ddns.net:8080/marlcelotv/123456/402
+#EXTINF:0  group-title="Documentários",NatGeo
+/123456/7074.ts
+
+#EXTINF:0  group-title="Documentários",Discovery Channel
+/123456/6944.ts
+#EXTINF:0 group-title="Documentários",Discovery Civilization
+/123456/6946.ts
+#EXTINF:0 group-title="Documentários",Discovery Science
+/123456/6953.ts
+
+#EXTINF:0 group-title="Notícias",GloboNews HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-gnews24ha/hls-gnews24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+
+#EXTINF:0  group-title="Notícias",Record News
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8
+
+#EXTINF:0 group-title="Arte" ,Arte 1
+/123456/6905.ts
+#EXTINF:0 group-title="Arte",Curta!
+/123456/6942.ts
+#EXTINF:0 group-title="Arte",Canal Brasil
+https://globolive.akamaized.net/d/c/x2800/s/hls-bra24ha/hls-bra24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:0 tvg-logo="" group-title="Comédia",Multishow
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:0 tvg-logo="" group-title="Comédia",Comedy Central
+/123456/6940.ts
+
+#EXTINF:0 group-title="HBO",HBO HD
+http://topclientehd.ddns.net:8080/marlcelotv/123456/279
+#EXTINF:0 group-title="HBO",HBO
+http://topclientehd.ddns.net:8080/marlcelotv/123456/274
+#EXTINF:0 group-title="HBO",HBO 2 HD
+http://topclientehd.ddns.net:8080/marlcelotv/123456/277
+#EXTINF:0 group-title="HBO",HBO 2
+http://topclientehd.ddns.net:8080/marlcelotv/123456/272
+#EXTINF:0 group-title="HBO",HBO Family HD
+http://topclientehd.ddns.net:8080/marlcelotv/123456/278
+#EXTINF:0 group-title="HBO",HBO Family
+http://topclientehd.ddns.net:8080/marlcelotv/123456/273
+#EXTINF:0 group-title="HBO",HBO Signature
+http://topclientehd.ddns.net:8080/marlcelotv/123456/276
+#EXTINF:0 group-title="HBO",HBO Plus
+/123456/7052.ts
+
+
+
+#EXTINF:0 group-title="HBO",Cinemax
+/123456/6935.ts
+#EXTINF:0 group-title="HBO",Max UP
+/123456/7064.ts
+#EXTINF:0 group-title="HBO",Max Prime
+/123456/7062.ts
+#EXTINF:0 group-title="HBO",Max
+/123456/7060.ts
+
+
+#EXTINF:0 group-title="Telecine",Telecine Premium
+/123456/7172.ts
+#EXTINF:0 group-title="Telecine",Telecine Action
+/123456/7162.ts
+#EXTINF:0 group-title="Telecine",Telecine Pipoca
+/123456/7169.ts
+#EXTINF:0 group-title="Telecine",Telecine Cult
+/123456/7165.ts
+#EXTINF:0 group-title="Telecine",Telecine Touch
+/123456/7175.ts
+#EXTINF:0 group-title="Telecine",Telecine Fun
+/123456/7167.ts
+
+#EXTINF:0 group-title="Filmes e Series",Warner Channel HD
+http://fonteangelusiptv.com:25461/21990317358EMANOEL/sa75sv87/291
+#EXTINF:0 group-title="Filmes e Series",Warner Channel
+http://topclientehd.ddns.net:8080/marlcelotv/123456/360
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Fox
+/123456/6981.ts
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FX
+/123456/6995.ts
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Fox Premium 1
+/123456/6985.ts
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Fox Premium 2
+/123456/6986.ts
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Sony
+/123456/6929.ts
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",TNT
+/123456/7182.ts
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",TNT Series
+/123456/7185.ts
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Megapix
+https://tinyurl.com/wgswpuj
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Syfy
+https://tinyurl.com/unpfo9o
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Space
+/123456/7144.ts
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",AXN
+/123456/6907.ts
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",AMC
+/123456/6900.ts
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",TCM
+/123456/7160.ts
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Paramount Channel
+/123456/7088.ts
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Universal Channel
+https://tinyurl.com/ul9ff6m
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Studio Universal
+/123456/7155.ts
+#EXTINF:0 group-title="Filmes e Series",A&E
+/123456/6897.ts
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Lifetime
+/123456/7058.ts
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Fox Life
+/123456/6984.ts
+#EXTINF:0 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="Filmes e Series",Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/ClaFSFI.png" group-title="Filmes e Series",Cine+
+https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="Filmes e Series",Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",ESPN Brasil
 http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Esportes",ESPN
+#EXTINF:0 tvg-logo="" group-title="Esportes",ESPN
 http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN/master_Layer1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Esportes",ESPN 2
+#EXTINF:0 tvg-logo="" group-title="Esportes",ESPN 2
 http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN2/master_Layer1.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="Esportes",ESPN Extra
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="Esportes",ESPN Extra
 http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv
+#EXTINF:0 group-title="Esportes",Fox Sports
+/123456/6988.ts
+#EXTINF:0 group-title="Esportes",Fox Sports 2
+/123456/6991.ts
+#EXTINF:0 tvg-logo="" group-title="Esportes",Sportv
 https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv 2
+#EXTINF:0 tvg-logo="" group-title="Esportes",Sportv 2
 https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv 3
+#EXTINF:0 tvg-logo="" group-title="Esportes",Sportv 3
 https://globolive.akamaized.net/d/c/x2800/s/hls-spo324ha/hls-spo324ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Fox Sports
-https://cdnfe1.azureedge.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo0NzoyMCBQTSZoYXNoX3ZhbHVlPVhMWWxMWVVhOTRyL3c3dms0dlRqWUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Fox Sports 2
-https://cdnfe1.azureedge.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTM6NDAgUE0maGFzaF92YWx1ZT1zVUUxamdMWG9JcFZvbUQ5a2xOZTRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Band Sports
-https://cdnfe1.azureedge.net/hls1/bandsports.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDU6NTk6MjUgUE0maGFzaF92YWx1ZT1VR0FhMGVRZ0x6STZNZ0tWejJIcGNnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Combate
-https://cdnfe1.azureedge.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDEwOjEyOjA1IFBNJmhhc2hfdmFsdWU9a2haa2xjc3FCT2lxMDV5NU82d2Vudz09JnZhbGlkbWludXRlcz02MCZpZD01
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Discovery Turbo
-https://cdnfe1.azureedge.net/hls1/discoveryturbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDQ6NTg6NTYgQU0maGFzaF92YWx1ZT0wU1l0ajVhbWxNTzljZjA5VTByZWRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere
-https://cdnfe1.azureedge.net/hls1/premiereclubes.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDU6NTg6MDUgUE0maGFzaF92YWx1ZT0vRjAxYmVRTHZRQUJWSWRMWXpRYzZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 2
-https://cdnfe1.azureedge.net/hls1/premiere2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDM6MzIgUE0maGFzaF92YWx1ZT02Wkszbk1wWjNOTG5qeEJmMzdNNXp3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 3
-https://cdnfe1.azureedge.net/hls1/premiere3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDQ6NDcgUE0maGFzaF92YWx1ZT13UENoL244SFFRbmZjMG9CcnlSQUR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 4
-https://cdnfe1.azureedge.net/hls1/premiere4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDU6NDAgUE0maGFzaF92YWx1ZT1Ic1llbi9scDBjam4zVGpwNTJaNHZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 5
-https://cdnfe1.azureedge.net/hls1/premiere5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDU6NTkgUE0maGFzaF92YWx1ZT1YemFHOXJBMFRNK2RpbkZDMlFOZnFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 6
-https://cdnfe1.azureedge.net/hls1/premiere6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDY6MTYgUE0maGFzaF92YWx1ZT0yRHpGcHVEQ3BzczNkb2RzQUt6MlZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Premiere 7
-https://cdnfe1.azureedge.net/hls1/premiere7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6NDY6MzUgUE0maGFzaF92YWx1ZT0zU0dmYUl5czhQOWpUbm1vbDlHQzJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HozFynS.png" group-title="Esportes",All Sports
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:0 group-title="Esportes",Combate
+https://globolive.akamaized.net/d/c/x2800/s/hls-cbt24ha/hls-cbt24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:0 group-title="Esportes",Premiere Clubes
+https://globolive.akamaized.net/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:0 tvg-logo="" group-title="Esportes",Canal Off
+https://globolive.akamaized.net/d/c/x2800/s/hls-off24ha/hls-off24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Esportes",Real Madrid TV
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/HozFynS.png" group-title="Esportes",All Sports
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Esportes",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Documentários",History
-https://cdnfe1.azureedge.net/hls1/history.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaW
-#EXTINF:-1 tvg-logo="" group-title="Documentários",H2
-https://cdnfe1.azureedge.net/hls1/history2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTo1ODowOCBBTSZoYXNoX3ZhbHVlPUg3cWZuRzBnOERKZnpTM3orTlZWblE9PSZ2YWxpZG1pbnV0ZXM9NjAmaW
-#EXTINF:-1 tvg-logo="" group-title="Documentários",NatGeo
-https://cdnfe1.azureedge.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MjU6NDggUE0maGFzaF92YWx1ZT11OGowTlUzdGtDemdNM1hLdWZnYnBRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Documentários",NatGeo Wild
-https://cdnfe1.azureedge.net/hls1/natgeowild.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjExOjE4IEFNJmhhc2hfdmFsdWU9citFWk1sQUlKREFxeE5Ud2g2SDRoQT09JnZhbGlkbWludXRlcz02MCZpZD01
-#EXTINF:-1 tvg-logo="" group-title="Documentários",Discovery Channel
-https://cdnfe1.azureedge.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MjM6MTAgUE0maGFzaF92YWx1ZT1oWlJ5K3ZoYlpVWWs1V3E1QWk3UnB3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Documentários",Discovery Science
-https://cdnfe1.azureedge.net/hls1/discoverysience.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzU6MjQgUE0maGFzaF92YWx1ZT1MbjhSNVpnQTBreXlvb2I1K296WWNnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Documentários",Discovery Civilization
-https://cdnfe1.azureedge.net/hls1/discoverycivilization.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzY6NDggUE0maGFzaF92YWx1ZT0vaXJYWCtGSFoxaGFmVmxZelVncnpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Documentários",Discovery Theater
-https://cdnfe1.azureedge.net/hls1/discoverytheater.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjMxOjA5IEFNJmhhc2hfdmFsdWU9SnYrY29jOHNoYnhRb21GcldsNm5lUT09JnZhbGlkbWludXRlcz02MCZpZD01
-#EXTINF:-1 tvg-logo="" group-title="Documentários",Animal Planet
-https://cdnfe1.azureedge.net/hls1/animalplanet.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDE5IDExOjIzOjU5IFBNJmhhc2hfdmFsdWU9VDVlNzRvQ0N5Q0wxUmw1ditWR1NqUT09JnZhbGlkbWludXRlcz02MCZpZD01
-
-#EXTINF:-1 tvg-logo="" group-title="Notícias",Globo News
-https://globolive.akamaized.net/d/c/x2800/s/hls-gnews24ha/hls-gnews24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="" group-title="Notícias",Band News
-https://cdnfe1.azureedge.net/hls1/bandnews.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTA6MzkgQU0maGFzaF92YWx1ZT1VYUxkYVVIc3Q2T3k5Q3hDem0yZERBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Notícias",Record News
-https://cdnfe1.azureedge.net/hls1/recordnews.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MDc6NTggQU0maGFzaF92YWx1ZT1HTHlDZmVLeDUyYmJjSHR5NGhTbmtBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News
+#EXTINF:0 group-title="Documentários",Investigation Discovery
+/123456/7056.ts
+#EXTINF:0  group-title="Documentários",Animal Planet
+/123456/6903.ts
+#EXTINF:0  group-title="Documentários",NatGeo Wild
+/123456/7078.ts
+#EXTINF:0 group-title="Variedades",Discovery Home & Health
+/123456/6949.ts
+#EXTINF:0 group-title="Variedades",TLC
+/123456/7180.ts
 
 
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b832512.m3u8
+#EXTINF:0 group-title="Variedades",Discovery Theater
+/123456/6955.ts
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News HD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",HBO
-https://cdnfe1.azureedge.net/hls1/hbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDU6MDE6NDAgQU0maGFzaF92YWx1ZT1za29nMjczYmZxelFWY01ab3RuRGtBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",HBO 2
-https://cdnfe1.azureedge.net/hls1/hbo2.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MTE6NTEgQU0maGFzaF92YWx1ZT03U1F1NXRnOXZBWmpCUER4dW9nMTNRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",HBO Signature
-https://cdnfe1.azureedge.net/hls1/hbosignature.m3u8?c2VydmVyX3RpbWU9NS8xOS8yMDE5IDI6MTI6NTggQU0maGFzaF92YWx1ZT1STU5HaWRIN0Jpb2J6bE16YzdOb0lnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",HBO Plus
-https://cdnfe1.azureedge.net/hls1/hboplus.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMTkgNToxOToyNiBBTSZoYXNoX3ZhbHVlPWJaTnVGTEN3ZmI0V1orVFFzVjhYZWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",HBO Family
-https://cdnfe1.azureedge.net/hls1/hbofamily.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTk6MTEgUE0maGFzaF92YWx1ZT1WbDlpbTNweEhVaU55Vkx1a3lRYkh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Telecine Premium
-https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1Mjo0NCBQTSZoYXNoX3ZhbHVlPXhtWXRqUjgycjlGOWNuUDFTb0l0R2c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Telecine Action
-https://cdnfe1.azureedge.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTE6NTkgUE0maGFzaF92YWx1ZT1KWFRWVExnUytWWjJRWmVHeURhK0N3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Telecine Cult
-https://cdnfe1.azureedge.net/hls1/telecinecult.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6Mzg6MDAgUE0maGFzaF92YWx1ZT1uK2FMeHF0UVdwQ1VVNjVzQ3pYNThBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Telecine Touch
-https://cdnfe1.azureedge.net/hls1/telecinetouch.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTE6MjQgUE0maGFzaF92YWx1ZT1iTnhIZ3NXdWN4QTNNWjYzN0FxYlpRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Telecine Fun
-https://cdnfe1.azureedge.net/hls1/telecinefun.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTA6NTMgUE0maGFzaF92YWx1ZT1KRmdjVVB1TE82bFpNVVptUVYrVzd3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Telecine Pipoca
-https://cdnfe1.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTA6MjEgUE0maGFzaF92YWx1ZT0zRmdOajc3QmhrZEFMQUc0ZXRMN2R3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cinemax
-https://cdnfe1.azureedge.net/hls1/cinemax.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTQ6MzAgUE0maGFzaF92YWx1ZT1mMHptRWxLcG1JKzdlTktuS1J5RWZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Max
-https://cdnfe1.azureedge.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDc6MDAgUE0maGFzaF92YWx1ZT1PSWNaQjJ0cUFvUUdCZ1Y5WmkrVTJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Max Up
-https://cdnfe1.azureedge.net/hls1/maxup.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDM6MzcgUE0maGFzaF92YWx1ZT1Fb3hPTUdFVHFzL2xsaWFTenJLcUVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Max Prime
-https://cdnfe1.azureedge.net/hls1/maxprime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDY6MTQgUE0maGFzaF92YWx1ZT0wYUx5Q3RJWjk5MDdVVTF2Yzg3SXhnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Fox
-https://cdnfe1.azureedge.net/hls1/fox.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1NTowMSBQTSZoYXNoX3ZhbHVlPTRtQ3lQSk1iMWNsM2grRVJnT2h4UVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",FX
-https://cdnfe1.azureedge.net/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzM6MjkgUE0maGFzaF92YWx1ZT1NeEdGcklvTVNoNnJwTnB1clhMNUxRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Fox Premium 1
-https://cdnfe1.azureedge.net/hls1/foxpremium1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTY6MTggUE0maGFzaF92YWx1ZT1MQWdlUlNRbVU5aXE0djB0YitEZ0lnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Fox Premium 2
-https://cdnfe1.azureedge.net/hls1/foxpremium2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTU6MTkgUE0maGFzaF92YWx1ZT1JbGxyNlVZTlIrTXB4aVZUbm1va0RBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Warner
-https://cdnfe1.azureedge.net/hls1/warner.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Sony
-https://cdnfe1.azureedge.net/hls1/sony.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOTo1ODoxNyBQTSZoYXNoX3ZhbHVlPUg0bHZFQ3FodUdBN2FqOE1ydElDRVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TNT
-https://cdnfe1.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MDA6MDMgUE0maGFzaF92YWx1ZT0xdTFxUHp2SUk3cURUd0NFREJGbFpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TNT Series
-https://cdnfe1.azureedge.net/hls1/tntseries.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDEwOjEzOjM0IFBNJmhhc2hfdmFsdWU9d1d5QVJWU3ZSYU00cDZGa21xOExYUT09JnZhbGlkbWludXRlcz02MCZpZD01
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Megapix
-https://globolive.akamaized.net/d/c/x2800/s/hls-mpix24ha/hls-mpix24ha_2547/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Syfy
-https://globolive.akamaized.net/d/c/x2800/s/hls-syfy24ha/hls-syfy24ha_2547/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Space HD
-http://painel.smartlista.org:8880/u7ms3t5qge/f159xg24tn/13718
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",AXN
-https://cdnfe1.azureedge.net/hls1/axn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTk6NTggUE0maGFzaF92YWx1ZT0xcFFrQlp1OEIzUVlRWnNKWko1Ny9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",AMC
-https://cdnfe1.azureedge.net/hls1/amc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDI6MDggUE0maGFzaF92YWx1ZT1lZ2luS2pkQU5QV2lESHZvM1JhSG93PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TCM
-https://cdnfe1.azureedge.net/hls1/tcm.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTY6MjggUE0maGFzaF92YWx1ZT1pOU5kTTB2VDZldUdyZHNIZmwrZitnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Paramount Channel
-https://cdnfe1.azureedge.net/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6MzE6NTcgUE0maGFzaF92YWx1ZT1SU2xjMDk2TXAvQ2RtdC9zM2FUdEhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Universal Channel
-https://globolive.akamaized.net/d/c/x2800/s/hls-univ24ha/hls-univ24ha_2547/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Studio Universal
-https://globolive.akamaized.net/d/c/x2800/s/hls-stduniv24ha/hls-stduniv24ha_2547/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="Filmes e Séries",Cine Sky
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ClaFSFI.png" group-title="Filmes e Séries",Cine+
-https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="Filmes e Séries",Classique TV
-http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Curta!
-https://cdnfe1.azureedge.net/hls1/curta.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOToxODozNiBQTSZoYXNoX3ZhbHVlPUx4dlJCSFhTYS9hUzZxTXhpYjhPYVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Arte 1
-https://cdnfe1.azureedge.net/hls1/arte1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgOToyMjo0OSBQTSZoYXNoX3ZhbHVlPVdxakNMTkc2TEJ0S1Q3VndWSkk0UUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Canal Brasil
-https://globolive.akamaized.net/d/c/x2800/s/hls-bra24ha/hls-bra24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Multishow
-https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Comedy Central
-https://cdnfe1.azureedge.net/hls1/comedycentral.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTI6MDQgUE0maGFzaF92YWx1ZT1KdVZvcmIwVXU3cHZMcjQ5UTZjT2NRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Discovery Home & Health
-https://cdnfe1.azureedge.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="" group-title="Variedades",TLC
-https://cdnfe1.azureedge.net/hls1/tlc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MTY6MDIgUE0maGFzaF92YWx1ZT1jRW96dDFuNmhRR0hCRnhwU0IrRGFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Viva
-https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="" group-title="Variedades",A&E
-https://cdnfe1.azureedge.net/hls1/aie.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDE6NDAgUE0maGFzaF92YWx1ZT1PZkRFQXpKdlphY2FQcGwvbldUSUZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Lifetime
-https://cdnfe1.azureedge.net/hls1/lifetime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTE6MDk6NDUgUE0maGFzaF92YWx1ZT1KN2dMWklCUlpCRVdnL1FmaXJzZUt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Fox Life
-https://cdnfe1.azureedge.net/hls1/foxlife.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTkgMTA6NTc6NDggUE0maGFzaF92YWx1ZT1HWjNXeHo2VW1tQ1FZbFJMaTlRQ0pnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Investigação Discovery
-https://cdnfe1.azureedge.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMTkgMTE6NTk6NTAgUE0maGFzaF92YWx1ZT1aWEVIRVhWdFRXTDJVeWVSazVHeGtnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Discovery World
-https://cdnfe1.azureedge.net/hls1/discoveryworld.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="" group-title="Variedades",GNT
+#EXTINF:0 tvg-logo="" group-title="Variedades",GNT
 https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Mais Globosat
+#EXTINF:0 tvg-logo="" group-title="Variedades",Viva
+https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:0 tvg-logo="" group-title="Variedades",Mais Globosat
 https://globolive.akamaized.net/d/c/x2800/s/hls-maisgsat24ha/hls-maisgsat24ha_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="" group-title="Variedades",MTV
-https://cdnfe1.azureedge.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDY6Mjk6MjQgUE0maGFzaF92YWx1ZT1oOEFLK0JQMUdRMXE1Tm5KVWRtTVZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Bis
-https://cdnfe1.azureedge.net/hls1/bis.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTI6NDEgQU0maGFzaF92YWx1ZT03Z2ZWVU1EY0t2ODEyWEZ2aHdWMHlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Variedades",E!
-https://cdnfe1.azureedge.net/hls1/canale.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDE5IDE6MTM6MzQgQU0maGFzaF92YWx1ZT13cm9DTUhCbTMyWWlqYmlNNzNuZThBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Canal Off
-https://cdnfe1.azureedge.net/hls1/off.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDE5IDU6NTQ6MzYgUE0maGFzaF92YWx1ZT1vNTVPcVBwS2JEY05lei8yL1NaTXVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Food Network
-https://cdnfe1.azureedge.net/hls1/foodnetwork.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE5IDQ6MDQ6MjYgQU0maGFzaF92YWx1ZT15Zm5HbkhOa3h0blhzL09Sa0s0TDlBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Fish TV
-https://cdnfe1.azureedge.net/hls1/fishtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE5IDEyOjA0OjAyIEFNJmhhc2hfdmFsdWU9dzhaeE5yeDEwVVFYem01d1N3bFBwQT09JnZhbGlkbWludXRlcz02MCZpZD01
 
 
-#EXTINF:-1 group-title="Temporarios",A&E HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/3
-#EXTINF:-1 group-title="Temporarios",A&E
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/4
-#EXTINF:-1 group-title="Temporarios",AMC HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/5
-#EXTINF:-1 group-title="Temporarios",AMC
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/6
-#EXTINF:-1 group-title="Temporarios",ANIMAL PLANET HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/7
-#EXTINF:-1 group-title="Temporarios",ANIMAL PLANET
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/8
-#EXTINF:-1 group-title="Temporarios",ARTE 1 HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/9
-#EXTINF:-1 group-title="Temporarios",ARTE 1
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/10
-#EXTINF:-1 group-title="Temporarios",AXN HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/11
-#EXTINF:-1 group-title="Temporarios",AXN
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/12
-#EXTINF:-1 group-title="Temporarios",BABY TV HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/13
-#EXTINF:-1 group-title="Temporarios",BABY TV
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/14
+#EXTINF:0 tvg-logo="" group-title="Variedades",Bis
+https://globolive.akamaized.net/d/c/x2800/s/hls-bis24ha/hls-bis24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:0 tvg-logo="" group-title="Variedades",MTV
+/123456/7069.ts
 
-#EXTINF:-1 group-title="Temporarios",BAND NEWS HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/16
-#EXTINF:-1 group-title="Temporarios",BAND NEWS
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/17
+#EXTINF:0 tvg-logo="" group-title="Variedades",E!
+http://topclientehd.ddns.net:8080/marlcelotv/123456/546
 
-#EXTINF:-1 group-title="Temporarios",BAND SPORTS HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/21
-#EXTINF:-1 group-title="Temporarios",BAND SPORTS
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/22
-#EXTINF:-1 group-title="Temporarios",BIS HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/23
-#EXTINF:-1 group-title="Temporarios",BIS
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/24
-#EXTINF:-1 group-title="Temporarios",BOOMERANG HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/25
-#EXTINF:-1 group-title="Temporarios",BOOMERANG
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/26
-#EXTINF:-1 group-title="Temporarios",CANAL BRASIL
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/27
-#EXTINF:-1 group-title="Temporarios",CARTOON NETWORK HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/28
-#EXTINF:-1 group-title="Temporarios",CARTOON NETWORK
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/29
-#EXTINF:-1 group-title="Temporarios",CINEMAX HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/30
-#EXTINF:-1 group-title="Temporarios",CINEMAX
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/31
-#EXTINF:-1 group-title="Temporarios",CNT
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/32
-#EXTINF:-1 group-title="Temporarios",COMBATE HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/33
-#EXTINF:-1 group-title="Temporarios",COMBATE
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/34
-#EXTINF:-1 group-title="Temporarios",COMEDY CENTRAL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/35
-#EXTINF:-1 group-title="Temporarios",COMEDY CENTRAL
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/36
-#EXTINF:-1 group-title="Temporarios",CULTURA HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/37
-#EXTINF:-1 group-title="Temporarios",CULTURA
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/38
-#EXTINF:-1 group-title="Temporarios",CURTA! HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/39
-#EXTINF:-1 group-title="Temporarios",CURTA!
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/40
-#EXTINF:-1 group-title="Temporarios",DAZN BRASIL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/41
-#EXTINF:-1 group-title="Temporarios",DISCOVERY CHANNEL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/42
-#EXTINF:-1 group-title="Temporarios",DISCOVERY CHANNEL
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/43
-#EXTINF:-1 group-title="Temporarios",DISCOVERY CIVILIZATION HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/44
-#EXTINF:-1 group-title="Temporarios",DISCOVERY CIVILIZATION
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/45
-#EXTINF:-1 group-title="Temporarios",DISCOVERY HOME & HEALTH HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/46
-#EXTINF:-1 group-title="Temporarios",DISCOVERY HOME & HEALTH
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/47
-#EXTINF:-1 group-title="Temporarios",DISCOVERY KIDS HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/48
-#EXTINF:-1 group-title="Temporarios",DISCOVERY KIDS
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/49
-#EXTINF:-1 group-title="Temporarios",DISCOVERY SCIENCE HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/50
-#EXTINF:-1 group-title="Temporarios",DISCOVERY SCIENCE
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/51
-#EXTINF:-1 group-title="Temporarios",DISCOVERY THEATER HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/52
-#EXTINF:-1 group-title="Temporarios",DISCOVERY THEATER
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/53
-#EXTINF:-1 group-title="Temporarios",DISCOVERY TLC HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/54
-#EXTINF:-1 group-title="Temporarios",DISCOVERY TLC
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/55
-#EXTINF:-1 group-title="Temporarios",DISCOVERY TURBO HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/56
-#EXTINF:-1 group-title="Temporarios",DISCOVERY TURBO
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/57
-#EXTINF:-1 group-title="Temporarios",DISCOVERY WORLD HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/58
-#EXTINF:-1 group-title="Temporarios",DISCOVERY WORLD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/59
-#EXTINF:-1 group-title="Temporarios",DISNEY CHANNEL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/60
-#EXTINF:-1 group-title="Temporarios",DISNEY CHANNEL
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/61
-#EXTINF:-1 group-title="Temporarios",DISNEY JR HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/62
-#EXTINF:-1 group-title="Temporarios",DISNEY JR
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/63
-#EXTINF:-1 group-title="Temporarios",DISNEY XD HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/64
-#EXTINF:-1 group-title="Temporarios",DISNEY XD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/65
-#EXTINF:-1 group-title="Temporarios",E! HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/66
-#EXTINF:-1 group-title="Temporarios",E!
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/67
-#EXTINF:-1 group-title="Temporarios",EI PLUS
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/68
-#EXTINF:-1 group-title="Temporarios",ESPN  HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/69
-#EXTINF:-1 group-title="Temporarios",ESPN 
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/70
-#EXTINF:-1 group-title="Temporarios",ESPN BRASIL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/71
-#EXTINF:-1 group-title="Temporarios",ESPN BRASIL
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/72
-#EXTINF:-1 group-title="Temporarios",ESPN HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/73
-#EXTINF:-1 group-title="Temporarios",ESPN
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/74
-#EXTINF:-1 group-title="Temporarios",FISH TV HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/75
-#EXTINF:-1 group-title="Temporarios",FISH TV
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/76
-#EXTINF:-1 group-title="Temporarios",FOOD NETWORK HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/77
-#EXTINF:-1 group-title="Temporarios",FOOD NETWORK
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/78
-#EXTINF:-1 group-title="Temporarios",FOX HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/79
-#EXTINF:-1 group-title="Temporarios",FOX LIFE HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/80
-#EXTINF:-1 group-title="Temporarios",FOX LIFE
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/81
-#EXTINF:-1 group-title="Temporarios",FOX PREMIUM 1 HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/82
-#EXTINF:-1 group-title="Temporarios",FOX PREMIUM 1
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/83
-#EXTINF:-1 group-title="Temporarios",FOX PREMIUM 2 HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/84
-#EXTINF:-1 group-title="Temporarios",FOX PREMIUM 2
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/85
-#EXTINF:-1 group-title="Temporarios",FOX
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/86
-#EXTINF:-1 group-title="Temporarios",FOX SPORTS 2 HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/87
-#EXTINF:-1 group-title="Temporarios",FOX SPORTS 2
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/88
-#EXTINF:-1 group-title="Temporarios",FOX SPORTS HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/89
-#EXTINF:-1 group-title="Temporarios",FOX SPORTS
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/90
-#EXTINF:-1 group-title="Temporarios",FUTURA HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/91
-#EXTINF:-1 group-title="Temporarios",FUTURA
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/92
-#EXTINF:-1 group-title="Temporarios",FX HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/93
-#EXTINF:-1 group-title="Temporarios",FX
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/94
-
-
-#EXTINF:-1 group-title="Temporarios",SONY HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/222
-#EXTINF:-1 group-title="Temporarios",SONY
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/223
-#EXTINF:-1 group-title="Temporarios",SPACE HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/224
-#EXTINF:-1 group-title="Temporarios",SPACE
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/225
-#EXTINF:-1 group-title="Temporarios",SPORTV 2 HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/226
-#EXTINF:-1 group-title="Temporarios",SPORTV 2
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/227
-#EXTINF:-1 group-title="Temporarios",SPORTV 3 HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/228
-#EXTINF:-1 group-title="Temporarios",SPORTV 3
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/229
-#EXTINF:-1 group-title="Temporarios",SPORTV HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/230
-#EXTINF:-1 group-title="Temporarios",SPORTV
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/231
-#EXTINF:-1 group-title="Temporarios",STUDIO UNIVERSAL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/232
-#EXTINF:-1 group-title="Temporarios",STUDIO UNIVERSAL
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/233
-#EXTINF:-1 group-title="Temporarios",SYFY HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/234
-#EXTINF:-1 group-title="Temporarios",SYFY
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/235
-#EXTINF:-1 group-title="Temporarios",TBS
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/236
-#EXTINF:-1 group-title="Temporarios",TCM
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/237
-#EXTINF:-1 group-title="Temporarios",TELECINE ACTION HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/238
-#EXTINF:-1 group-title="Temporarios",TELECINE ACTION
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/239
-#EXTINF:-1 group-title="Temporarios",TELECINE CULT HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/240
-#EXTINF:-1 group-title="Temporarios",TELECINE CULT
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/241
-#EXTINF:-1 group-title="Temporarios",TELECINE FUN HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/242
-#EXTINF:-1 group-title="Temporarios",TELECINE FUN
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/243
-#EXTINF:-1 group-title="Temporarios",TELECINE PIPOCA HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/244
-#EXTINF:-1 group-title="Temporarios",TELECINE PIPOCA
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/245
-#EXTINF:-1 group-title="Temporarios",TELECINE PREMIUM HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/246
-#EXTINF:-1 group-title="Temporarios",TELECINE PREMIUM
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/247
-#EXTINF:-1 group-title="Temporarios",TELECINE TOUCH HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/248
-#EXTINF:-1 group-title="Temporarios",TELECINE TOUCH
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/249
-#EXTINF:-1 group-title="Temporarios",TNT HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/250
-#EXTINF:-1 group-title="Temporarios",TNT SERIES
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/251
-#EXTINF:-1 group-title="Temporarios",TNT
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/252
-#EXTINF:-1 group-title="Temporarios",TNT SERIES HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/253
-#EXTINF:-1 group-title="Temporarios",TOONCAST HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/254
-#EXTINF:-1 group-title="Temporarios",TOONCAST
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/255
-#EXTINF:-1 group-title="Temporarios",TV GAZETA
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/256
-#EXTINF:-1 group-title="Temporarios",UNIVERSAL CHANNEL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/257
-#EXTINF:-1 group-title="Temporarios",UNIVERSAL CHANNEL
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/258
-#EXTINF:-1 group-title="Temporarios",VH1 HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/260
-#EXTINF:-1 group-title="Temporarios",VH1
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/261
-#EXTINF:-1 group-title="Temporarios",VIVA HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/262
-#EXTINF:-1 group-title="Temporarios",VIVA
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/263
-#EXTINF:-1 group-title="Temporarios",WARNER CHANNEL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/264
-#EXTINF:-1 group-title="Temporarios",WARNER CHANNEL
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/265
-#EXTINF:-1 group-title="Temporarios",WOOHOO HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/266
-#EXTINF:-1 group-title="Temporarios",WOOHOO
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/267
-#EXTINF:-1 group-title="Temporarios",ZOOMOO HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/268
-#EXTINF:-1 group-title="Temporarios",ZOOMOO
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/269
-#EXTINF:-1 group-title="Temporarios",ANIMAL PLANET FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/270
-#EXTINF:-1 group-title="Temporarios",AXN  FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/271
-#EXTINF:-1 group-title="Temporarios",BAND  FULL HD RP
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/272
-#EXTINF:-1 group-title="Temporarios",CULTURA FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/273
-#EXTINF:-1 group-title="Temporarios",DISCORVERY  TURBO FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/274
-#EXTINF:-1 group-title="Temporarios",DISCORVERY CHANNEL FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/275
-#EXTINF:-1 group-title="Temporarios",DISCORVERY CIVILIZATION FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/276
-#EXTINF:-1 group-title="Temporarios",DISCORVERY THEATER FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/277
-#EXTINF:-1 group-title="Temporarios",DISCOVERY KIDIS FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/278
-#EXTINF:-1 group-title="Temporarios",DISNEY CHANEL FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/279
-#EXTINF:-1 group-title="Temporarios",Eptv Ribeirao FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/280
-#EXTINF:-1 group-title="Temporarios",ESPN BRASIL FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/281
-#EXTINF:-1 group-title="Temporarios",FOX ESPORTES 2 FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/282
-#EXTINF:-1 group-title="Temporarios",FOX ESPORTES FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/283
-#EXTINF:-1 group-title="Temporarios",GLOOB FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/284
-#EXTINF:-1 group-title="Temporarios",HBO 2 FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/285
-#EXTINF:-1 group-title="Temporarios",HBO FAMILY  FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/286
-#EXTINF:-1 group-title="Temporarios",HBO FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/287
-#EXTINF:-1 group-title="Temporarios",HBO PLUS FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/288
-#EXTINF:-1 group-title="Temporarios",MAX UP FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/289
-#EXTINF:-1 group-title="Temporarios",MULTSHOW FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/290
-#EXTINF:-1 group-title="Temporarios",NATIONAL GEOGRAPHIC FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/291
-#EXTINF:-1 group-title="Temporarios",NICK JR  FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/292
-#EXTINF:-1 group-title="Temporarios",NICKELOAD FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/293
-#EXTINF:-1 group-title="Temporarios",PREMIERE 2 FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/294
-#EXTINF:-1 group-title="Temporarios",PREMIERE 3 FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/295
-#EXTINF:-1 group-title="Temporarios",PREMIERE 4 FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/296
-#EXTINF:-1 group-title="Temporarios",PREMIERE CLUBES FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/297
-#EXTINF:-1 group-title="Temporarios",RECORD NEWS FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/298
-#EXTINF:-1 group-title="Temporarios",RECORD TV INTERIOR RIBEIRAO FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/299
-#EXTINF:-1 group-title="Temporarios",SBT FULL HD RIBEIRAO
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/300
-#EXTINF:-1 group-title="Temporarios",SPORT  2 FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/301
-#EXTINF:-1 group-title="Temporarios",GLOBO INTERNACIONAL
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/102
-#EXTINF:-1 group-title="Temporarios",GLOBO INTERTV CABUGI RN
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/103
-#EXTINF:-1 group-title="Temporarios",GLOBO MINAS HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/104
-#EXTINF:-1 group-title="Temporarios",GLOBO MINAS
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/105
-#EXTINF:-1 group-title="Temporarios",GLOBO NEWS HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/106
-#EXTINF:-1 group-title="Temporarios",GLOBO NEWS
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/107
-#EXTINF:-1 group-title="Temporarios",GLOBO NORDESTE HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/108
-#EXTINF:-1 group-title="Temporarios",GLOBO NORDESTE
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/109
-#EXTINF:-1 group-title="Temporarios",GLOBO RBS PORTO ALEGRE
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/110
-#EXTINF:-1 group-title="Temporarios",GLOBO RIBEIR
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/111
-#EXTINF:-1 group-title="Temporarios",GLOBO RIO GRANDE DO NORTE
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/112
-#EXTINF:-1 group-title="Temporarios",GLOBO RJ HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/113
-#EXTINF:-1 group-title="Temporarios",GLOBO RJ
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/114
-#EXTINF:-1 group-title="Temporarios",GLOBO RPC TV HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/115
-#EXTINF:-1 group-title="Temporarios",GLOBO RPC TV
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/116
-#EXTINF:-1 group-title="Temporarios",GLOBO SP HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/117
-#EXTINF:-1 group-title="Temporarios",GLOBO SP
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/118
-#EXTINF:-1 group-title="Temporarios",GLOBO TV BAHIA
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/119
-#EXTINF:-1 group-title="Temporarios",GLOBO TV BELEM
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/120
-#EXTINF:-1 group-title="Temporarios",GLOBO TV TEM BAURU
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/121
-#EXTINF:-1 group-title="Temporarios",GLOBO TV TEM S?O JOS? DO RIO PRETO
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/122
-#EXTINF:-1 group-title="Temporarios",GLOBO TV TEM SOROCABA
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/123
-#EXTINF:-1 group-title="Temporarios",GLOBO TV TRIBUNA SANTOS
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/124
-#EXTINF:-1 group-title="Temporarios",GLOBO TV VANGUARDA S.J DOS CAMPOS
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/125
-#EXTINF:-1 group-title="Temporarios",GLOBO TV VERDES MARES FORTALEZA
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/126
-#EXTINF:-1 group-title="Temporarios",GLOBOSAT HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/127
-#EXTINF:-1 group-title="Temporarios",GLOBOSAT
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/128
-#EXTINF:-1 group-title="Temporarios",GLOOB HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/129
-#EXTINF:-1 group-title="Temporarios",GLOOB
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/130
-#EXTINF:-1 group-title="Temporarios",GNT HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/131
-#EXTINF:-1 group-title="Temporarios",GNT
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/132
-#EXTINF:-1 group-title="Temporarios",H2 HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/133
-#EXTINF:-1 group-title="Temporarios",H2
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/134
-#EXTINF:-1 group-title="Temporarios",HBO 2 HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/135
-#EXTINF:-1 group-title="Temporarios",HBO 2
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/136
-#EXTINF:-1 group-title="Temporarios",HBO FAMILY HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/137
-#EXTINF:-1 group-title="Temporarios",HBO FAMILY
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/138
-#EXTINF:-1 group-title="Temporarios",HBO HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/139
-#EXTINF:-1 group-title="Temporarios",HBO PLUS HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/140
-#EXTINF:-1 group-title="Temporarios",HBO PLUS
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/141
-#EXTINF:-1 group-title="Temporarios",HBO PLUS*E HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/142
-#EXTINF:-1 group-title="Temporarios",HBO PLUS*E
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/143
-#EXTINF:-1 group-title="Temporarios",HBO
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/144
-#EXTINF:-1 group-title="Temporarios",HBO SIGNATURE HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/145
-#EXTINF:-1 group-title="Temporarios",HBO SIGNATURE
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/146
-#EXTINF:-1 group-title="Temporarios",HISTORY CHANNEL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/147
-#EXTINF:-1 group-title="Temporarios",HISTORY CHANNEL
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/148
-#EXTINF:-1 group-title="Temporarios",ID - INVESTIGA??O DISCOVERY
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/149
-#EXTINF:-1 group-title="Temporarios",ID - INVESTIGA
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/150
-#EXTINF:-1 group-title="Temporarios",LIFETIME HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/151
-#EXTINF:-1 group-title="Temporarios",LIFETIME
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/152
-#EXTINF:-1 group-title="Temporarios",MAX HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/153
-#EXTINF:-1 group-title="Temporarios",MAX PRIME HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/154
-#EXTINF:-1 group-title="Temporarios",MAX PRIME
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/155
-#EXTINF:-1 group-title="Temporarios",MAX PRIME*E HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/156
-#EXTINF:-1 group-title="Temporarios",MAX PRIME*E
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/157
-#EXTINF:-1 group-title="Temporarios",MAX
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/158
-#EXTINF:-1 group-title="Temporarios",MAX UP HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/159
-#EXTINF:-1 group-title="Temporarios",MAX UP
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/160
-#EXTINF:-1 group-title="Temporarios",MEGAPIX HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/161
-#EXTINF:-1 group-title="Temporarios",MEGAPIX
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/162
-#EXTINF:-1 group-title="Temporarios",MTV HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/163
-#EXTINF:-1 group-title="Temporarios",MTV LIVE HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/164
-#EXTINF:-1 group-title="Temporarios",MTV
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/165
-#EXTINF:-1 group-title="Temporarios",MULTISHOW HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/166
-#EXTINF:-1 group-title="Temporarios",MULTISHOW
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/167
-#EXTINF:-1 group-title="Temporarios",MUSIC BOX BRAZIL
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/168
-#EXTINF:-1 group-title="Temporarios",NATGEO KIDS HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/169
-#EXTINF:-1 group-title="Temporarios",NATGEO KIDS
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/170
-#EXTINF:-1 group-title="Temporarios",NATGEO WILD HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/171
-#EXTINF:-1 group-title="Temporarios",NATGEO WILD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/172
-#EXTINF:-1 group-title="Temporarios",NATIONAL GEOGRAPHIC HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/173
-#EXTINF:-1 group-title="Temporarios",NATIONAL GEOGRAPHIC
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/174
-#EXTINF:-1 group-title="Temporarios",NICK JR HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/175
-#EXTINF:-1 group-title="Temporarios",NICK JR
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/176
-#EXTINF:-1 group-title="Temporarios",NICKELODEON HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/177
-#EXTINF:-1 group-title="Temporarios",NICKELODEON
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/178
-
-#EXTINF:-1 group-title="Temporarios",OFF HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/180
-#EXTINF:-1 group-title="Temporarios",OFF
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/181
-#EXTINF:-1 group-title="Temporarios",PARAMOUNT CHANNEL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/182
-#EXTINF:-1 group-title="Temporarios",PARAMOUNT CHANNEL
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/183
-#EXTINF:-1 group-title="Temporarios",PLAY TV
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/184
-#EXTINF:-1 group-title="Temporarios",PREMIERE 1
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/186
-#EXTINF:-1 group-title="Temporarios",PREMIERE 2 HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/187
-#EXTINF:-1 group-title="Temporarios",PREMIERE 2
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/188
-#EXTINF:-1 group-title="Temporarios",PREMIERE 3 HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/189
-#EXTINF:-1 group-title="Temporarios",PREMIERE 3
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/190
-#EXTINF:-1 group-title="Temporarios",PREMIERE 4 HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/191
-#EXTINF:-1 group-title="Temporarios",PREMIERE 4
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/192
-#EXTINF:-1 group-title="Temporarios",PREMIERE 5 HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/193
-#EXTINF:-1 group-title="Temporarios",PREMIERE 5
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/194
-#EXTINF:-1 group-title="Temporarios",PREMIERE 6
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/195
-#EXTINF:-1 group-title="Temporarios",PREMIERE 7
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/196
-#EXTINF:-1 group-title="Temporarios",PREMIERE 8
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/197
-#EXTINF:-1 group-title="Temporarios",PREMIERE CLUBES HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/198
-#EXTINF:-1 group-title="Temporarios",PREMIERE CLUBES
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/199
-
-
-#EXTINF:-1 group-title="Temporarios",SPORT TV 3 FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/302
-#EXTINF:-1 group-title="Temporarios",SPORTV FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/303
-#EXTINF:-1 group-title="Temporarios",TELECINE ACTION FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/304
-#EXTINF:-1 group-title="Temporarios",TELECINE FUN FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/305
-#EXTINF:-1 group-title="Temporarios",TELECINE PIPOCA FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/306
-#EXTINF:-1 group-title="Temporarios",TELECINE PREMIUM FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/307
-#EXTINF:-1 group-title="Temporarios",TELECINE TOUCH FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/308
-#EXTINF:-1 group-title="Temporarios",THE HISTORY CHANNEL FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/309
-#EXTINF:-1 group-title="Temporarios",TNT FULL HD
-http://tvnanet.xyz:25461/palmeiras2020/verdao2021/310
+#EXTINF:0 tvg-logo="" group-title="Variedades",Food Network
+/123456/6979.ts
+#EXTINF:0 tvg-logo="" group-title="Variedades",Fish TV
+/123456/6977.ts
