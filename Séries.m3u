@@ -837,6 +837,23 @@ https://d27vdgs2gpon8g.cloudfront.net/RCServer13/ondemand/ARQVXT11EP09.mp4
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Arquivo%20X11.jpg" group-title="ARQUIVO X",ARQUIVO X S11E10
 https://d27vdgs2gpon8g.cloudfront.net/RCServer13/ondemand/ARQVXT11EP10.mp4
 
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/19/06/17/23/37/3389903.jpg" group-title="Arrow",S08E01
+https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/ARROWT08EP01.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/19/06/17/23/37/3389903.jpg" group-title="Arrow",S08E02
+https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/ARROWT08EP02.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/19/06/17/23/37/3389903.jpg" group-title="Arrow",S08E03
+https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/ARROWT08EP03.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/19/06/17/23/37/3389903.jpg" group-title="Arrow",S08E04
+https://d27vdgs2gpon8g.cloudfront.net/RCServer13/ondemand/ARROWT08EP04.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/19/06/17/23/37/3389903.jpg" group-title="Arrow",S08E05
+https://d3ehk1pdca4xg7.cloudfront.net/RCServer08/ondemand/ARROWT08EP05.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/19/06/17/23/37/3389903.jpg" group-title="Arrow",S08E06
+https://d3ehk1pdca4xg7.cloudfront.net/RCServer08/ondemand/ARROWT08EP06.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/19/06/17/23/37/3389903.jpg" group-title="Arrow",S08E07
+https://d3ehk1pdca4xg7.cloudfront.net/RCServer08/ondemand/ARROWT08EP07.mp4
+
+
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E01
 https://d3ehk1pdca4xg7.cloudfront.net/RCServer02/ondemand/BANOBRTHEP01.mp4
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E02
@@ -6863,17 +6880,11 @@ https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/SPRGIRLT05EP03.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/newsv7/19/09/11/17/39/5417646.jpg" group-title="Super Girl",S05E04
 https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/SPRGIRLT05EP04.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/newsv7/19/09/11/17/39/5417646.jpg" group-title="Super Girl",S05E05
-https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/SPRGIRLT05EP05.mp4
+https://d27vdgs2gpon8g.cloudfront.net/RCServer13/ondemand/SPRGIRLT05EP05.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/newsv7/19/09/11/17/39/5417646.jpg" group-title="Super Girl",S05E06
-https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/SPRGIRLT05EP06.mp4
+https://d27vdgs2gpon8g.cloudfront.net/RCServer13/ondemand/SPRGIRLT05EP06.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/newsv7/19/09/11/17/39/5417646.jpg" group-title="Super Girl",S05E07
-https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/SPRGIRLT05EP07.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/newsv7/19/09/11/17/39/5417646.jpg" group-title="Super Girl",S05E08
-https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/SPRGIRLT05EP08.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/newsv7/19/09/11/17/39/5417646.jpg" group-title="Super Girl",S05E09
-https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/SPRGIRLT05EP09.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/newsv7/19/09/11/17/39/5417646.jpg" group-title="Super Girl",S05E10
-https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/SPRGIRLT05EP10.mp4
+https://d3ehk1pdca4xg7.cloudfront.net/RCServer08/ondemand/SPRGIRLT05EP07.mp4
 
 
 
@@ -7475,15 +7486,13 @@ https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/THEFLSHT06EP03.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/19/10/03/22/32/1736398.jpg" group-title="The Flash",S06E04
 https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/THEFLSHT06EP04.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/19/10/03/22/32/1736398.jpg" group-title="The Flash",S06E05
-https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/THEFLSHT06EP05.mp4
+https://d27vdgs2gpon8g.cloudfront.net/RCServer13/ondemand/THEFLSHT06EP05.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/19/10/03/22/32/1736398.jpg" group-title="The Flash",S06E06
-https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/THEFLSHT06EP06.mp4
+https://d3ehk1pdca4xg7.cloudfront.net/RCServer08/ondemand/THEFLSHT06EP06.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/19/10/03/22/32/1736398.jpg" group-title="The Flash",S06E07
-https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/THEFLSHT06EP07.mp4
+https://d3ehk1pdca4xg7.cloudfront.net/RCServer08/ondemand/THEFLSHT06EP07.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/19/10/03/22/32/1736398.jpg" group-title="The Flash",S06E08
-https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/THEFLSHT06EP08.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/videothumbnails/19/10/03/22/32/1736398.jpg" group-title="The Flash",S06E09
-https://d27vdgs2gpon8g.cloudfront.net/RCServer12/ondemand/THEFLSHT06EP09.mp4
+https://d3ehk1pdca4xg7.cloudfront.net/RCServer08/ondemand/THEFLSHT06EP08.mp4
 
 
 
