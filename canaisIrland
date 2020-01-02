@@ -68,24 +68,12 @@ http://lb.kstream.org/aovivo/HD_RA_TIM_BUM/video.m3u8?token=d40dbc9b081b7745b3b6
 
 
 
-#EXTINF:0 group-title="Documentarios",History Channel
-http://lb.kstream.org/aovivo/HD_HISTORY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:0 group-title="Documentarios",H2
-http://lb.kstream.org/aovivo/HD_H2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:0  group-title="Documentarios",NatGeo
-http://lb.kstream.org/aovivo/HD_NAT_GEO/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
-#EXTINF:0  group-title="Documentarios",Discovery Channel
-http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:0 group-title="Documentarios",Discovery Civilization
-http://lb.kstream.org/aovivo/HD_DISCOVERY_CIVILIZATION/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:0 group-title="Documentarios",Discovery Science
-http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+
 
 #EXTINF:0 group-title="Noticias",GloboNews HD
 https://globolive.akamaized.net/d/c/x2800/s/hls-gnews24ha/hls-gnews24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-
-
 #EXTINF:0  group-title="Noticias",Record News
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8
 #EXTINF:0  group-title="Noticias",Band News
@@ -140,18 +128,20 @@ http://lb.kstream.org/aovivo/HD_TC_TOUCH/video.m3u8?token=d40dbc9b081b7745b3b616
 #EXTINF:0 group-title="Telecine",Telecine Fun
 http://lb.kstream.org/aovivo/HD_TC_FUN/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
-#EXTINF:0 group-title="Filmes e Series",Warner Channel
-http://lb.kstream.org/aovivo/HD_WARNER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:0 tvg-logo="" group-title="Fox",Fox
+http://lb.kstream.org/aovivo/HD_FOX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:0 tvg-logo="" group-title="Fox",FX
+http://lb.kstream.org/aovivo/HD_FX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:0 tvg-logo="" group-title="Fox",Fox Premium 1
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:0 tvg-logo="" group-title="Fox",Fox Premium 2
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Fox Life
+http://lb.kstream.org/aovivo/HD_FOX_LIFE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+
 #EXTINF:0 group-title="Filmes e Series",Warner Channel
 http://lb.kstream.org/aovivo/HD_WARNER_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Fox
-http://lb.kstream.org/aovivo/HD_FOX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FX
-http://lb.kstream.org/aovivo/HD_FX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Fox Premium 1
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Fox Premium 2
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0 tvg-logo="" group-title="Filmes e Series",Sony
 http://lb.kstream.org/aovivo/HD_SONY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0 tvg-logo="" group-title="Filmes e Series",TNT
@@ -180,14 +170,12 @@ http://lb.kstream.org/aovivo/HD_STUDIO_UNIVERSAL/video.m3u8?token=d40dbc9b081b77
 http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0 tvg-logo="" group-title="Filmes e Series",Lifetime
 http://lb.kstream.org/aovivo/HD_LIFETIME/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Fox Life
-http://lb.kstream.org/aovivo/HD_FOX_LIFE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
 #EXTINF:0 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="Filmes e Series",Cine Sky
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/ClaFSFI.png" group-title="Filmes e Series",Cine+
 https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="Filmes e Series",Classique TV
-http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
+
 
 
 #EXTINF:0 tvg-logo="" group-title="Esportes",Espn Brasil
@@ -230,30 +218,41 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 
-
-#EXTINF:0 group-title="Documentarios",Investigation Discovery
-http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0  group-title="Documentarios",Animal Planet
 http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:0 group-title="Documentarios",History Channel
+http://lb.kstream.org/aovivo/HD_HISTORY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:0 group-title="Documentarios",H2
+http://lb.kstream.org/aovivo/HD_H2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:0  group-title="Documentarios",NatGeo
+http://lb.kstream.org/aovivo/HD_NAT_GEO/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0  group-title="Documentarios",NatGeo Wild
 http://lb.kstream.org/aovivo/HD_NAT_GEO_WILD/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:0 group-title="Variedades",Discovery Home & Health
+
+
+#EXTINF:0  group-title="Discovery",Discovery Channel
+http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:0 group-title="Discovery",Discovery Civilization
+http://lb.kstream.org/aovivo/HD_DISCOVERY_CIVILIZATION/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:0 group-title="Discovery",Discovery Science
+http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:0 group-title="Discovery",Investigation Discovery
+http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:0 group-title="Discovery",Discovery Home & Health
 http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:0 group-title="Variedades",TLC
-http://lb.kstream.org/aovivo/HD_TLC/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-
-
-#EXTINF:0 group-title="Variedades",Discovery Theater
+#EXTINF:0 group-title="Discovery",Discovery Theater
 http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
+
+
+#EXTINF:0 group-title="Variedades",TLC
+http://lb.kstream.org/aovivo/HD_TLC/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0 tvg-logo="" group-title="Variedades",GNT
 https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:0 tvg-logo="" group-title="Variedades",Viva
 https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:0 tvg-logo="" group-title="Variedades",Mais Globosat
 https://globolive.akamaized.net/d/c/x2800/s/hls-maisgsat24ha/hls-maisgsat24ha_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-
-
 #EXTINF:0 tvg-logo="" group-title="Variedades",Bis
 https://globolive.akamaized.net/d/c/x2800/s/hls-bis24ha/hls-bis24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:0 tvg-logo="" group-title="Variedades",MTV
@@ -268,4 +267,3 @@ http://lb.kstream.org/aovivo/HD_E/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9
 http://lb.kstream.org/aovivo/HD_FOOD_NETWORK/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0 tvg-logo="" group-title="Variedades",Fish TV
 http://lb.kstream.org/aovivo/HD_FISH_TV/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-
