@@ -136,7 +136,7 @@ http://lb.kstream.org/aovivo/HD_FX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d
 http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0 tvg-logo="" group-title="Fox",Fox Premium 2
 http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Fox Life
+#EXTINF:0 tvg-logo="" group-title="Fox",Fox Life
 http://lb.kstream.org/aovivo/HD_FOX_LIFE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 
