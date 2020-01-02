@@ -88,6 +88,8 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-gnews24ha/hls-gnews24ha_2126/pla
 
 #EXTINF:0  group-title="Noticias",Record News
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8
+#EXTINF:0  group-title="Noticias",Band News
+http://lb.kstream.org/aovivo/HD_BAND_NEWS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:0 group-title="Arte" ,Arte 1
 http://lb.kstream.org/aovivo/HD_ARTE1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
@@ -138,7 +140,8 @@ http://lb.kstream.org/aovivo/HD_TC_TOUCH/video.m3u8?token=d40dbc9b081b7745b3b616
 #EXTINF:0 group-title="Telecine",Telecine Fun
 http://lb.kstream.org/aovivo/HD_TC_FUN/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
-
+#EXTINF:0 group-title="Filmes e Series",Warner Channel
+http://lb.kstream.org/aovivo/HD_WARNER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0 group-title="Filmes e Series",Warner Channel
 http://lb.kstream.org/aovivo/HD_WARNER_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0 tvg-logo="" group-title="Filmes e Series",Fox
@@ -189,21 +192,12 @@ http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Esportes",Espn Brasil
 http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer1.m3u8
-#EXTINF:0 tvg-logo="" group-title="Esportes",Espn Brasil
-http://lb.kstream.org/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0 tvg-logo="" group-title="Esportes",ESPN
 http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN/master_Layer1.m3u8
-#EXTINF:0 tvg-logo="" group-title="Esportes",ESPN
-http://lb.kstream.org/aovivo/HD_ESPN/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0 tvg-logo="" group-title="Esportes",ESPN 2
 http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN2/master_Layer1.m3u8
-#EXTINF:0 tvg-logo="" group-title="Esportes",ESPN 2
-http://lb.kstream.org/aovivo/HD_ESPN_2_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="Esportes",ESPN Extra
 http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer1.m3u8
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="Esportes",ESPN Extra
-http://lb.kstream.org/aovivo/HD_ESPN_EXTRA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-
 #EXTINF:0 group-title="Esportes",Fox Sports
 http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0 group-title="Esportes",Fox Sports 2
@@ -274,3 +268,4 @@ http://lb.kstream.org/aovivo/HD_E/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9
 http://lb.kstream.org/aovivo/HD_FOOD_NETWORK/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:0 tvg-logo="" group-title="Variedades",Fish TV
 http://lb.kstream.org/aovivo/HD_FISH_TV/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
